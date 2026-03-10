@@ -1,15 +1,15 @@
-import { allBuckets, getOffset } from "./state.js";
+import { allBuckets } from "./state.js";
 import { renderBuckets } from "./renderBuckets.js";
 import { Rating } from "./rating.js";
+import { shuffleArray } from "./domHelpers.js";
 
 export function sortBuckets(event) {
   const rating = new Rating();
   const visibleBuckets = document.querySelectorAll(".bucket:not(.hidden)");
-  let bucketList = allBuckets.filter((bucket) => {
-    return Array.from(visibleBuckets).some((visibleBucket) => {
-      return visibleBucket.dataset.bucketId === bucket.id;
-    });
-  });
+  const visibleIds = new Set(
+    Array.from(visibleBuckets).map((el) => el.dataset.bucketId)
+  );
+  let bucketList = allBuckets.filter((bucket) => visibleIds.has(bucket.id));
 
   switch (event.target.value) {
     case "name-asc":
@@ -61,12 +61,13 @@ export function sortBuckets(event) {
       sortByRating(bucketList, rating.getAllRatings());
       break;
     default: // Random
+      shuffleArray(bucketList);
       break;
   }
   const list = document.getElementById("buckets-list");
   list.innerHTML = "";
 
-  const chunkSize = 27; //getOffset();
+  const chunkSize = 27;
   for (let i = 0; i < bucketList.length; i += chunkSize) {
     const chunk = bucketList.slice(i, i + chunkSize);
     renderBuckets(chunk);
@@ -100,6 +101,12 @@ let compareBudgetMinAscOrder = function (a, b) {
 let compareBudgetMaxAscOrder = function (a, b) {
   return a.maxGoal - b.maxGoal;
 };
+function moveToStart(arr, from) {
+  if (from < 0) return;
+  const item = arr.splice(from, 1)[0];
+  arr.unshift(item);
+}
+
 let sortByRating = function (allDreams, ratings, ascOrder = false) {
   // Loop through the ratings 1-5 and add them to the start of the array
   // magically dreams with rating 5 will be added lastly to the start (making them first)
@@ -107,7 +114,8 @@ let sortByRating = function (allDreams, ratings, ascOrder = false) {
   let findDreamsAndMove = function (allDreams, currentRatingValue) {
     let dreams = ratings.filter((r) => r.rating === currentRatingValue);
     for (let i = 0; i < dreams.length; i++) {
-      allDreams.moveToStart(
+      moveToStart(
+        allDreams,
         allDreams.findIndex((d) => d.id === dreams[i].bucketId)
       );
     }
@@ -130,10 +138,4 @@ let sortByRating = function (allDreams, ratings, ascOrder = false) {
       findDreamsAndMove(allDreams, currentRatingValue);
     }
   }
-};
-
-Array.prototype.moveToStart = function (from) {
-  let itemToMove = this.splice(from, 1)[0];
-  this.unshift(itemToMove);
-  return this;
 };

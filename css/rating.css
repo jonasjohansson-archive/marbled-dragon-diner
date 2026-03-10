@@ -12,10 +12,6 @@ body.rating-unrated .bucket[data-rating="0"] {
   display: block;
 }
 
-/* Show all buckets when no filters are checked */
-.filter-rating:not(:checked):checked ~ #buckets-list .bucket {
-  display: block;
-}
 
 .rating {
   --symbol-size: 14px;

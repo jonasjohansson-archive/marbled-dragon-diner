@@ -1,5 +1,5 @@
 // import { handleSearch } from "./handleSearch.js";
-import { removeEmojis, cleanCustomFieldValue } from "./domHelpers.js";
+import { removeEmojis, cleanCustomFieldValue, escapeHtml } from "./domHelpers.js";
 import { Rating } from "./rating.js";
 import { DREAMS_URL } from "./config.js";
 
@@ -45,7 +45,7 @@ export function renderBuckets(bucketsToRender) {
       )
       .join("");
 
-    const coverImage = images[0]?.small || "";
+    const coverImage = images?.[0]?.small || "";
     const imagesHTML =
       images.length > 1
         ? images
@@ -57,8 +57,8 @@ export function renderBuckets(bucketsToRender) {
             .join("")
         : "";
 
-    const cleanTitle = removeEmojis(title || "");
-    const cleanSummary = removeEmojis(summary || "");
+    const cleanTitle = escapeHtml(removeEmojis(title || ""));
+    const cleanSummary = escapeHtml(removeEmojis(summary || ""));
 
     div.innerHTML = `
       <header>
@@ -92,7 +92,7 @@ export function renderBuckets(bucketsToRender) {
           </div>
       </header>
       <main>
-        <img class="cover" src="${coverImage}">
+        ${coverImage ? `<img class="cover" src="${coverImage}" alt="${cleanTitle}">` : ''}
         <details>
           <summary>
             ${cleanSummary || "N/A"}

@@ -25,18 +25,24 @@ export function removeEmojis(str = "") {
 }
 
 export function cleanCustomFieldValue(value) {
-  //if (typeof value === "string" && value.trim().startsWith("<")) {
-    //  return marked.parse(value); // using marked lib
-    //}
-    value = value
-    .replace(/\r\n|\r|\n/gim, '<br>') // linebreaks
+  // Process headings before replacing linebreaks (^ needs real newlines)
+  value = value
     .replace(/^### (.*$)/gim, '<h3>$1</h3>') // h3 tag
     .replace(/^## (.*$)/gim, '<h2>$1</h2>') // h2 tag
     .replace(/^# (.*$)/gim, '<h1>$1</h1>') // h1 tag
+    .replace(/\r\n|\r|\n/gim, '<br>') // linebreaks (after headings)
     .replace(/\*\*(.*?)\*\*/gim, '<strong>$1</strong>') // bold text
-    .replace(/\*(.*)\*/gim, '<i>$1</i>') // italic text
+    .replace(/\*(.*?)\*/gim, '<i>$1</i>') // italic text (non-greedy)
     .replace(/\[([^\[]+)\](\(([^)]*))\)/gim, '<a href="$3">$1</a>'); // anchor tags
-    
 
-    return value;
+  return value;
+}
+
+export function escapeHtml(str) {
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
 }
