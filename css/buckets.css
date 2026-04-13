@@ -42,7 +42,7 @@
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  font-size: 11px;
+  font-size: 12px;
   min-width: 0;
   flex: 1;
 }
@@ -56,7 +56,7 @@
 .bucket-meta {
   white-space: nowrap;
   color: #888;
-  font-size: 9px;
+  font-size: 10px;
 }
 
 .rating {
