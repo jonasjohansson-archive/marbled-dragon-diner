@@ -72,7 +72,7 @@ export function renderBuckets(bucketsToRender) {
           <sl-tooltip content="${cleanTitle}">
             <h2><a href="${urlBase}/${bucketId}" target="_blank">${cleanTitle}</a></h2>
           </sl-tooltip>
-            <sl-rating class="rating" label="Rating" value="${ratingValue}"></sl-rating>
+            <sl-rating class="rating" label="Rating" max="3" value="${ratingValue}"></sl-rating>
           </div>
           <div class="info-row">
             ${isFundable ? `

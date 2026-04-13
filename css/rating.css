@@ -6,8 +6,6 @@
 body.rating-1 .bucket[data-rating="1"],
 body.rating-2 .bucket[data-rating="2"],
 body.rating-3 .bucket[data-rating="3"],
-body.rating-4 .bucket[data-rating="4"],
-body.rating-5 .bucket[data-rating="5"],
 body.rating-unrated .bucket[data-rating="0"] {
   display: block;
 }

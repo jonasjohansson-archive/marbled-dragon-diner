@@ -1,4 +1,3 @@
-import { bucketsData } from "./bucketsData.js";
 import { renderBuckets } from "./renderBuckets.js";
 import { getIsLoading, setLoading, setAllLoaded, allBuckets } from "./state.js";
 import { setLoadingMessage, hideLoading, shuffleArray } from "./domHelpers.js";
@@ -8,7 +7,9 @@ export async function fetchDreams(chunkSize = 27, delay = 500) {
   setLoading(true);
 
   try {
-    // 🌀 Shuffle buckets before rendering
+    const response = await fetch("js/bucketsData.json");
+    const bucketsData = await response.json();
+
     const buckets = shuffleArray([...bucketsData.buckets]);
     allBuckets.push(...buckets);
 
@@ -18,12 +19,9 @@ export async function fetchDreams(chunkSize = 27, delay = 500) {
       return;
     }
 
-    // Staggered rendering
     for (let i = 0; i < buckets.length; i += chunkSize) {
       const chunk = buckets.slice(i, i + chunkSize);
       renderBuckets(chunk);
-
-      // Wait a bit before rendering the next chunk
       await new Promise((resolve) => setTimeout(resolve, delay));
     }
 

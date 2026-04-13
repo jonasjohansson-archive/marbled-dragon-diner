@@ -108,8 +108,7 @@ function moveToStart(arr, from) {
 }
 
 let sortByRating = function (allDreams, ratings, ascOrder = false) {
-  // Loop through the ratings 1-5 and add them to the start of the array
-  // magically dreams with rating 5 will be added lastly to the start (making them first)
+  // Loop through the ratings 1-3 and add them to the start of the array
 
   let findDreamsAndMove = function (allDreams, currentRatingValue) {
     let dreams = ratings.filter((r) => r.rating === currentRatingValue);
@@ -123,7 +122,7 @@ let sortByRating = function (allDreams, ratings, ascOrder = false) {
 
   if (ascOrder) {
     for (
-      let currentRatingValue = 5;
+      let currentRatingValue = 3;
       currentRatingValue > 0;
       currentRatingValue--
     ) {
@@ -132,7 +131,7 @@ let sortByRating = function (allDreams, ratings, ascOrder = false) {
   } else {
     for (
       let currentRatingValue = 1;
-      currentRatingValue < 6;
+      currentRatingValue < 4;
       currentRatingValue++
     ) {
       findDreamsAndMove(allDreams, currentRatingValue);
