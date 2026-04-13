@@ -1,10 +1,18 @@
 import { removeEmojis, escapeHtml } from "./domHelpers.js";
 import { Rating } from "./rating.js";
 
-// Use Cloudinary auto-format/quality and resize for card thumbnails
 function thumbUrl(url) {
   if (!url) return "";
   return url.replace("/upload/", "/upload/f_auto,q_auto,w_400,c_fill/");
+}
+
+function starHTML(ratingValue, max = 3) {
+  let html = '<span class="star-rating">';
+  for (let i = 1; i <= max; i++) {
+    html += `<button data-value="${i}" class="${i <= ratingValue ? "filled" : ""}">&#9733;</button>`;
+  }
+  html += "</span>";
+  return html;
 }
 
 let renderedCount = 0;
@@ -20,7 +28,6 @@ export function renderBuckets(bucketsToRender) {
     const ratingValue = rating.get(bucketId);
     const cleanTitle = escapeHtml(removeEmojis(title || ""));
     const coverImage = thumbUrl(images?.[0]?.small || "");
-    // First 20 cards are eager (above the fold), rest are lazy
     const loading = renderedCount < 20 ? "eager" : "lazy";
     renderedCount++;
 
@@ -35,19 +42,26 @@ export function renderBuckets(bucketsToRender) {
       <div class="bucket-row">
         <div class="bucket-row-top">
           <h2>${cleanTitle}</h2>
-          <sl-rating class="rating" label="Rating" max="3" value="${ratingValue}"></sl-rating>
+          ${starHTML(ratingValue)}
         </div>
         <div class="bucket-meta-row">
-          <span class="bucket-meta">${minGoal}–${maxGoal}</span>
-          <span class="bucket-meta">💬${noOfComments}</span>
+          <span>${minGoal}&ndash;${maxGoal}</span>
+          <span>&#x1F4AC;${noOfComments}</span>
         </div>
       </div>
     `;
 
-    div.querySelector(".rating").addEventListener("sl-change", (e) => {
-      const newRating = e.target.value;
+    div.querySelector(".star-rating").addEventListener("click", (e) => {
+      const btn = e.target.closest("button");
+      if (!btn) return;
+      e.stopPropagation();
+      let newRating = parseInt(btn.dataset.value);
+      if (newRating === ratingValue) newRating = 0; // toggle off
       rating.set(newRating, bucketId);
       div.dataset.rating = newRating;
+      div.querySelectorAll(".star-rating button").forEach((b, i) => {
+        b.classList.toggle("filled", i < newRating);
+      });
     });
 
     fragment.appendChild(div);

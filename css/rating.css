@@ -9,8 +9,3 @@ body.rating-3 .bucket[data-rating="3"],
 body.rating-unrated .bucket[data-rating="0"] {
   display: block;
 }
-
-
-.rating {
-  --symbol-size: 14px;
-}

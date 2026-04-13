@@ -1,5 +1,5 @@
 @media (max-width: 768px) {
-  #main-content {
+  main {
     flex-direction: column;
     height: auto;
   }
@@ -9,6 +9,10 @@
   }
 
   #detail-panel {
+    width: 100%;
     min-height: 50vh;
   }
+
+  nav input[type="search"] { width: 60%; }
+  nav select { width: 35%; }
 }

@@ -6,106 +6,58 @@
     <meta name="description" content="Browse and rate Borderland Dreams 2026 — community art projects and experiences" />
     <title>Marbled Dragon Dinner</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐉</text></svg>" />
-    <!-- Preconnect to external origins -->
     <link rel="preconnect" href="https://res.cloudinary.com" />
-    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <!-- Font (non-render-blocking) -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@300;400;700&display=swap" media="print" onload="this.media='all'" />
-    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@300;400;700&display=swap" /></noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@400;700&display=swap" />
     <link rel="stylesheet" href="css/style.css" />
     <script type="module" src="js/script.js"></script>
-    <!-- Shoelace UI components (async to avoid render-blocking) -->
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/themes/light.css"
-      media="print"
-      onload="this.media='all'"
-    />
-    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/themes/light.css" /></noscript>
-    <script
-      type="module"
-      src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/shoelace-autoloader.js"
-    ></script>
   </head>
 
   <body class="rating-unrated rating-1 rating-2 rating-3">
-    <h1>Marbled Dragon Dinner</h1>
-    <p class="subtitle"><a href="https://dreams.theborderland.se/borderland/dreams-2026" target="_blank">Borderland Dreams 2026</a> — <span id="dream-count"></span></p>
-    <div class="filters">
-      <div class="filter-input">
-        <sl-input
-          type="text"
-          id="search-bar"
-          placeholder="Search dreams..."
-        ></sl-input>
-        <sl-select id="sort-buckets" placeholder="Sort by">
-          <sl-option value="random">Random</sl-option>
-          <sl-option value="rating-asc">Rating 1-3</sl-option>
-          <sl-option value="rating-desc">Rating 3-1</sl-option>
-          <sl-option value="name-asc">Dream name A-Z</sl-option>
-          <sl-option value="name-desc">Dream name Z-A</sl-option>
-          <sl-option value="fund-percent-asc">Least funded %</sl-option>
-          <sl-option value="fund-percent-desc">Most funded %</sl-option>
-          <sl-option value="fund-asc">Least funded SEK</sl-option>
-          <sl-option value="fund-desc">Most funded SEK</sl-option>
-          <sl-option value="funders-asc">Least funders</sl-option>
-          <sl-option value="funders-desc">Most funders</sl-option>
-          <sl-option value="comments-asc">Least comments</sl-option>
-          <sl-option value="comments-desc">Most comments</sl-option>
-          <sl-option value="budget-min-asc">Smallest (min) budget</sl-option>
-          <sl-option value="budget-min-desc">Biggest (min) budget</sl-option>
-          <sl-option value="budget-max-asc">Smallest (max) budget</sl-option>
-          <sl-option value="budget-max-desc">Biggest (max) budget</sl-option>
-        </sl-select>
-      </div>
-      <div class="rating-filter" style="padding: 1rem; text-align: center">
-        <label>
-          <input
-            type="checkbox"
-            checked
-            class="rating-checkbox"
-            data-rating="unrated"
-          />
-          Unrated
-        </label>
-        <label>
-          <input
-            type="checkbox"
-            checked
-            class="rating-checkbox"
-            data-rating="1"
-          />
-          1★
-        </label>
-        <label>
-          <input
-            type="checkbox"
-            checked
-            class="rating-checkbox"
-            data-rating="2"
-          />
-          2★
-        </label>
-        <label>
-          <input
-            type="checkbox"
-            checked
-            class="rating-checkbox"
-            data-rating="3"
-          />
-          3★
-        </label>
-      </div>
+    <header>
+      <h1>Marbled Dragon Dinner</h1>
+      <p><a href="https://dreams.theborderland.se/borderland/dreams-2026" target="_blank">Borderland Dreams 2026</a> &mdash; <span id="dream-count"></span></p>
+    </header>
+
+    <nav>
+      <input type="search" id="search-bar" placeholder="Search dreams..." />
+      <select id="sort-buckets">
+        <option value="random">Random</option>
+        <option value="rating-asc">Rating 1-3</option>
+        <option value="rating-desc">Rating 3-1</option>
+        <option value="name-asc">Name A-Z</option>
+        <option value="name-desc">Name Z-A</option>
+        <option value="fund-percent-asc">Least funded %</option>
+        <option value="fund-percent-desc">Most funded %</option>
+        <option value="fund-asc">Least funded SEK</option>
+        <option value="fund-desc">Most funded SEK</option>
+        <option value="funders-asc">Least funders</option>
+        <option value="funders-desc">Most funders</option>
+        <option value="comments-asc">Least comments</option>
+        <option value="comments-desc">Most comments</option>
+        <option value="budget-min-asc">Smallest budget</option>
+        <option value="budget-min-desc">Biggest budget</option>
+      </select>
+
+      <fieldset class="rating-filter">
+        <legend>Filter by rating</legend>
+        <label><input type="checkbox" checked class="rating-checkbox" data-rating="unrated" /> Unrated</label>
+        <label><input type="checkbox" checked class="rating-checkbox" data-rating="1" /> 1&#9733;</label>
+        <label><input type="checkbox" checked class="rating-checkbox" data-rating="2" /> 2&#9733;</label>
+        <label><input type="checkbox" checked class="rating-checkbox" data-rating="3" /> 3&#9733;</label>
+      </fieldset>
+
       <div id="tag-filter" class="tag-cloud"></div>
-    </div>
-    <p class="loading"><sl-spinner></sl-spinner> Loading...</p>
-    <div id="main-content">
-      <div id="buckets-list"></div>
-      <div id="detail-panel">
+    </nav>
+
+    <p class="loading">Loading...</p>
+
+    <main>
+      <section id="buckets-list"></section>
+      <aside id="detail-panel">
         <p class="detail-placeholder">Select a dream to read more</p>
-      </div>
-    </div>
+      </aside>
+    </main>
   </body>
 </html>
