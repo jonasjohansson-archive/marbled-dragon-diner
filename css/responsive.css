@@ -1,18 +1,29 @@
 @media (max-width: 768px) {
+  body {
+    overflow: auto;
+  }
+
   main {
     flex-direction: column;
     height: auto;
   }
 
   #buckets-list {
-    max-height: 40vh;
+    max-height: 35vh;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
   }
 
   #detail-panel {
     width: 100%;
-    min-height: 50vh;
+    max-height: none;
+    overflow-y: visible;
   }
 
-  nav input[type="search"] { width: 60%; }
-  nav select { width: 35%; }
+  nav input[type="search"] { width: 55%; }
+  nav select { width: 40%; }
+
+  .tag-cloud {
+    max-height: 60px;
+    overflow-y: auto;
+  }
 }
