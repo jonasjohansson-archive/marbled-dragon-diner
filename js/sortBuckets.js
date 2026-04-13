@@ -66,12 +66,7 @@ export function sortBuckets(event) {
   }
   const list = document.getElementById("buckets-list");
   list.innerHTML = "";
-
-  const chunkSize = 27;
-  for (let i = 0; i < bucketList.length; i += chunkSize) {
-    const chunk = bucketList.slice(i, i + chunkSize);
-    renderBuckets(chunk);
-  }
+  renderBuckets(bucketList);
 }
 
 let compareStringsAscOrder = function (a, b) {

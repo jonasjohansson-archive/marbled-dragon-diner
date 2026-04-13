@@ -2,7 +2,7 @@ import { renderBuckets } from "./renderBuckets.js";
 import { getIsLoading, setLoading, setAllLoaded, allBuckets } from "./state.js";
 import { setLoadingMessage, hideLoading, shuffleArray } from "./domHelpers.js";
 
-export async function fetchDreams(chunkSize = 27, delay = 500) {
+export async function fetchDreams() {
   if (getIsLoading()) return;
   setLoading(true);
 
@@ -19,12 +19,7 @@ export async function fetchDreams(chunkSize = 27, delay = 500) {
       return;
     }
 
-    for (let i = 0; i < buckets.length; i += chunkSize) {
-      const chunk = buckets.slice(i, i + chunkSize);
-      renderBuckets(chunk);
-      await new Promise((resolve) => setTimeout(resolve, delay));
-    }
-
+    renderBuckets(buckets);
     setAllLoaded(true);
     hideLoading();
 
