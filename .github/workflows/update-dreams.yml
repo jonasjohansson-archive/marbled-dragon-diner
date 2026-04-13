@@ -1,0 +1,32 @@
+name: Update Dreams Data
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # Daily at 06:00 UTC
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        working-directory: js
+        run: npm install --omit=dev
+
+      - name: Fetch latest dreams
+        working-directory: js
+        run: node saveBuckets.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add js/bucketsData.json
+          git diff --staged --quiet || git commit -m "Update dreams data $(date -u +%Y-%m-%d)"
+          git push
