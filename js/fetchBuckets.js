@@ -19,6 +19,7 @@ export async function fetchBuckets(offset, tag = "", limit = DEFAULT_LIMIT) {
               id title summary status noOfFunders noOfComments percentageFunded minGoal maxGoal income
               images { small } customFields { value customField { name } }
               tags { value }
+              budgetItems { description min max type }
             }
           }
         }

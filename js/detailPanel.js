@@ -21,6 +21,37 @@ function starHTML(value, max = 3) {
   return html;
 }
 
+function formatSEK(value) {
+  return value.toLocaleString("sv-SE");
+}
+
+function buildBudgetItemsHTML(items) {
+  if (!items.length) return "";
+
+  const income = items.filter((i) => i.type === "INCOME");
+  const expenses = items.filter((i) => i.type === "EXPENSE");
+
+  const rowHTML = (item) => {
+    const amount =
+      item.max != null
+        ? `${formatSEK(item.min)}&ndash;${formatSEK(item.max)}`
+        : formatSEK(item.min);
+    return `<tr><td>${escapeHtml(item.description)}</td><td>${amount}</td></tr>`;
+  };
+
+  let html = '<div class="budget-items">';
+
+  if (income.length) {
+    html += `<table><thead><tr><th colspan="2">Income</th></tr></thead><tbody>${income.map(rowHTML).join("")}</tbody></table>`;
+  }
+  if (expenses.length) {
+    html += `<table><thead><tr><th colspan="2">Expenses</th></tr></thead><tbody>${expenses.map(rowHTML).join("")}</tbody></table>`;
+  }
+
+  html += "</div>";
+  return html;
+}
+
 export function initDetailPanel() {
   document.getElementById("buckets-list").addEventListener("click", (e) => {
     if (e.target.closest(".star-rating")) return;
@@ -76,6 +107,8 @@ function renderDetail(bucket) {
     .map((img) => `<img src="${img.small}" alt="${cleanTitle}" loading="lazy" />`)
     .join("");
 
+  const budgetItemsHTML = buildBudgetItemsHTML(bucket.budgetItems || []);
+
   const fieldsHTML = bucket.customFields
     .filter(({ value }) => value && value.trim())
     .map(
@@ -103,6 +136,7 @@ function renderDetail(bucket) {
       ${starHTML(ratingValue)}
     </div>
     ${tagsHTML}
+    ${budgetItemsHTML}
     <p>${cleanSummary}</p>
     ${imagesHTML ? `<div class="detail-images">${imagesHTML}</div>` : ""}
     ${fieldsHTML}

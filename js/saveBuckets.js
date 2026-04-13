@@ -10,6 +10,12 @@ function enhanceBucket(bucket) {
   const funded = income;
   const percentageFundedTrue = minGoal > 0 ? ((income / minGoal) * 100).toFixed(2) : "0.00";
 
+  const budgetItems = (bucket.budgetItems || []).map((item) => ({
+    ...item,
+    min: item.min / 100,
+    max: item.max != null ? item.max / 100 : null,
+  }));
+
   return {
     ...bucket,
     minGoal,
@@ -17,6 +23,7 @@ function enhanceBucket(bucket) {
     income,
     funded,
     percentageFundedTrue: parseFloat(percentageFundedTrue),
+    budgetItems,
   };
 }
 

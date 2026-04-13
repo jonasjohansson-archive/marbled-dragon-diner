@@ -116,6 +116,37 @@
   font-size: var(--font-xs);
 }
 
+#detail-panel .budget-items {
+  margin-bottom: var(--pad-lg);
+}
+
+#detail-panel .budget-items table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--font-sm);
+  margin-bottom: var(--pad);
+}
+
+#detail-panel .budget-items th {
+  text-align: left;
+  font-size: var(--font-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-muted);
+  padding: 4px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+#detail-panel .budget-items td {
+  padding: 3px 0;
+  border-bottom: 1px solid #eee;
+}
+
+#detail-panel .budget-items td:last-child {
+  text-align: right;
+  white-space: nowrap;
+}
+
 #detail-panel .detail-link {
   display: inline-block;
   margin-top: var(--pad-lg);
