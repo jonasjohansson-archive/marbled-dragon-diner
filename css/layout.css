@@ -1,9 +1,45 @@
-/* Layout-specific rules */
-#buckets-list {
+/* Master-detail layout */
+#main-content {
   display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  justify-content: flex-start;
+  gap: 1rem;
+  padding: 1rem;
+  height: calc(100vh - 200px);
+  min-height: 400px;
+}
+
+#buckets-list {
+  flex: 1;
+  overflow-y: auto;
+  scrollbar-width: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+#buckets-list::-webkit-scrollbar {
+  display: none;
+}
+
+#detail-panel {
+  flex: 1;
+  overflow-y: auto;
+  scrollbar-width: none;
+  background: white;
+  border: 1px solid #ddd;
+  padding: 1.5rem;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+#detail-panel::-webkit-scrollbar {
+  display: none;
+}
+
+.detail-placeholder {
+  color: #999;
+  text-align: center;
+  margin-top: 2rem;
 }
 
 .loading {

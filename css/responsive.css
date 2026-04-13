@@ -1,5 +1,14 @@
-#buckets-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  gap: 1rem;
+@media (max-width: 768px) {
+  #main-content {
+    flex-direction: column;
+    height: auto;
+  }
+
+  #buckets-list {
+    max-height: 40vh;
+  }
+
+  #detail-panel {
+    min-height: 50vh;
+  }
 }

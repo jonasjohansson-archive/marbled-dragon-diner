@@ -28,6 +28,9 @@ export function cleanCustomFieldValue(value) {
   // Escape HTML first to prevent XSS from user-submitted content
   value = escapeHtml(value);
 
+  // Strip bold wrapping if the entire value is wrapped in **...**
+  value = value.replace(/^\*\*([\s\S]*)\*\*$/gm, '$1');
+
   // Process headings before replacing linebreaks (^ needs real newlines)
   value = value
     .replace(/^### (.*$)/gim, '<h3>$1</h3>') // h3 tag
