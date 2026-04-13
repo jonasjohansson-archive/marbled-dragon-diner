@@ -14,7 +14,7 @@ export function initTagFilter() {
     });
   });
 
-  const sorted = Object.entries(tagCounts).sort((a, b) => b[1] - a[1]);
+  const sorted = Object.entries(tagCounts).sort((a, b) => a[0].localeCompare(b[0]));
 
   sorted.forEach(([tag, count]) => {
     const pill = document.createElement("button");
