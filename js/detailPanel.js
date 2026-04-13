@@ -5,6 +5,13 @@ import { Rating } from "./rating.js";
 
 const rating = new Rating();
 
+function slugify(str) {
+  return str
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
+}
+
 function starHTML(value, max = 3) {
   let html = '<span class="star-rating">';
   for (let i = 1; i <= max; i++) {
@@ -24,10 +31,38 @@ export function initDetailPanel() {
     const bucket = allBuckets.find((b) => b.id === bucketId);
     if (!bucket) return;
 
-    document.querySelectorAll(".bucket.selected").forEach((el) => el.classList.remove("selected"));
-    bucketEl.classList.add("selected");
-    renderDetail(bucket);
+    selectDream(bucket, bucketEl);
   });
+
+  // Open dream from URL hash on load
+  openFromHash();
+  window.addEventListener("hashchange", openFromHash);
+}
+
+function openFromHash() {
+  const hash = decodeURIComponent(location.hash.slice(1));
+  if (!hash) return;
+
+  // Match by id or slug
+  const bucket = allBuckets.find(
+    (b) => b.id === hash || slugify(removeEmojis(b.title || "")) === hash
+  );
+  if (!bucket) return;
+
+  const bucketEl = document.querySelector(`.bucket[data-bucket-id="${bucket.id}"]`);
+  selectDream(bucket, bucketEl);
+  if (bucketEl) bucketEl.scrollIntoView({ block: "nearest" });
+}
+
+function selectDream(bucket, bucketEl) {
+  document.querySelectorAll(".bucket.selected").forEach((el) => el.classList.remove("selected"));
+  if (bucketEl) bucketEl.classList.add("selected");
+
+  // Update URL hash with slug
+  const slug = slugify(removeEmojis(bucket.title || ""));
+  history.replaceState(null, "", "#" + slug);
+
+  renderDetail(bucket);
 }
 
 function renderDetail(bucket) {
