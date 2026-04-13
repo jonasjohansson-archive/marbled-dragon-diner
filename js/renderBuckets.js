@@ -1,5 +1,6 @@
 import { removeEmojis, escapeHtml } from "./domHelpers.js";
 import { Rating } from "./rating.js";
+import { DREAMS_URL } from "./config.js";
 
 function thumbUrl(url) {
   if (!url) return "";
@@ -46,7 +47,7 @@ export function renderBuckets(bucketsToRender) {
         </div>
         <div class="bucket-meta-row">
           <span>${minGoal}&ndash;${maxGoal}</span>
-          <span>&#x1F4AC;${noOfComments}</span>
+          <a href="${DREAMS_URL}/${bucketId}?tab=comments" target="_blank" class="comment-link">&#x1F4AC;${noOfComments}</a>
         </div>
       </div>
     `;

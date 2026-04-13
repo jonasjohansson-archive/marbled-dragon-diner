@@ -50,6 +50,15 @@
   margin-top: 2px;
 }
 
+.comment-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.comment-link:hover {
+  text-decoration: underline;
+}
+
 /* Detail panel */
 .detail-placeholder {
   color: var(--text-muted);
