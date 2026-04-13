@@ -43,6 +43,17 @@ h1 {
   font-size: revert;
 }
 
+.subtitle {
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.subtitle a {
+  text-decoration: underline;
+}
+
 strong {
   font-weight: bold;
 }

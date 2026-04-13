@@ -29,6 +29,12 @@ export async function fetchDreams(chunkSize = 27, delay = 500) {
 
     setAllLoaded(true);
     hideLoading();
+
+    const countEl = document.getElementById("dream-count");
+    if (countEl) {
+      const updated = new Date(bucketsData.updatedAt);
+      countEl.textContent = `${buckets.length} dreams (updated ${updated.toLocaleDateString()})`;
+    }
   } catch (error) {
     console.error("Error loading dreams:", error);
     setLoadingMessage("Failed to load dreams.");

@@ -25,6 +25,9 @@ export function removeEmojis(str = "") {
 }
 
 export function cleanCustomFieldValue(value) {
+  // Escape HTML first to prevent XSS from user-submitted content
+  value = escapeHtml(value);
+
   // Process headings before replacing linebreaks (^ needs real newlines)
   value = value
     .replace(/^### (.*$)/gim, '<h3>$1</h3>') // h3 tag
@@ -33,7 +36,7 @@ export function cleanCustomFieldValue(value) {
     .replace(/\r\n|\r|\n/gim, '<br>') // linebreaks (after headings)
     .replace(/\*\*(.*?)\*\*/gim, '<strong>$1</strong>') // bold text
     .replace(/\*(.*?)\*/gim, '<i>$1</i>') // italic text (non-greedy)
-    .replace(/\[([^\[]+)\](\(([^)]*))\)/gim, '<a href="$3">$1</a>'); // anchor tags
+    .replace(/\[([^\[]+)\]\(((https?:\/\/)[^)]*)\)/gim, '<a href="$2">$1</a>'); // anchor tags (only http/https)
 
   return value;
 }

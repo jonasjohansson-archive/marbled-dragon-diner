@@ -7,14 +7,9 @@ function enhanceBucket(bucket) {
   const minGoal = bucket.minGoal / 100;
   const maxGoal = bucket.maxGoal / 100;
 
-  // Calculate the expected income based on percentageFunded alone
-  const estimatedTotalFunding = (bucket.percentageFunded / 100) * minGoal;
-
-  // Calculate how much more funding is needed (remaining to fully reach the current estimated goal)
-  const funded = Math.round(estimatedTotalFunding - income);
-
   // Calculate how much of the goal has actually been funded
-  const percentageFundedTrue = ((funded / minGoal) * 100).toFixed(2);
+  const funded = income;
+  const percentageFundedTrue = minGoal > 0 ? ((income / minGoal) * 100).toFixed(2) : "0.00";
 
   return {
     ...bucket,

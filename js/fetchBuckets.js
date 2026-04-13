@@ -16,7 +16,7 @@ export async function fetchBuckets(offset, tag = "", limit = DEFAULT_LIMIT) {
           bucketsPage(groupSlug: $groupSlug, roundSlug: $roundSlug, offset: $offset, limit: $limit, tag: $tag, status: $status) {
             moreExist
             buckets {
-              id title summary noOfFunders noOfComments percentageFunded minGoal maxGoal income
+              id title summary status noOfFunders noOfComments percentageFunded minGoal maxGoal income
               images { small } customFields { value customField { name } }
             }
           }

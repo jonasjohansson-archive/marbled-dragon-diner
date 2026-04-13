@@ -14,6 +14,7 @@ export function renderBuckets(bucketsToRender) {
       id: bucketId,
       title,
       summary,
+      status,
       noOfFunders,
       noOfComments,
       percentageFunded,
@@ -25,6 +26,8 @@ export function renderBuckets(bucketsToRender) {
       images,
       customFields,
     } = bucket;
+
+    const isFundable = status !== "IDEA" && status !== "PENDING_APPROVAL";
 
     const ratingValue = rating.get(bucketId);
 
@@ -69,6 +72,7 @@ export function renderBuckets(bucketsToRender) {
             <sl-rating class="rating" label="Rating" value="${ratingValue}"></sl-rating>
           </div>
           <div class="info-row">
+            ${isFundable ? `
             <div class="goals">
               <span><strong>Goal:</strong> ${minGoal}–${maxGoal}</span>
             </div>
@@ -82,13 +86,19 @@ export function renderBuckets(bucketsToRender) {
             <p class="funders-comments">
               <span class="icon funder-icon">💰</span>
               <span>${noOfFunders}</span>
-              <sl-tooltip content="View comments">
-                <a href="${urlBase}/${bucketId}?tab=comments" class="comment-link">
-                  <span class="icon comment-icon">💬</span>
-                  <span>${noOfComments}</span>
-                </a>
-              </sl-tooltip>
             </p>
+            ` : `
+            <div class="goals">
+              <span><strong>Goal:</strong> ${minGoal}–${maxGoal}</span>
+            </div>
+            <sl-badge variant="neutral">${status.replace(/_/g, ' ').toLowerCase()}</sl-badge>
+            `}
+            <sl-tooltip content="View comments">
+              <a href="${urlBase}/${bucketId}?tab=comments" class="comment-link">
+                <span class="icon comment-icon">💬</span>
+                <span>${noOfComments}</span>
+              </a>
+            </sl-tooltip>
           </div>
       </header>
       <main>
