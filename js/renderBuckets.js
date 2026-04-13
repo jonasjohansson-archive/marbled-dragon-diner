@@ -47,7 +47,7 @@ export function renderBuckets(bucketsToRender) {
         </div>
         <div class="bucket-meta-row">
           <span>${minGoal}&ndash;${maxGoal}</span>
-          <a href="${DREAMS_URL}/${bucketId}?tab=comments" target="_blank" class="comment-link">&#x1F4AC;${noOfComments}</a>
+          ${noOfComments ? `<a href="${DREAMS_URL}/${bucketId}?tab=comments" target="_blank" class="comment-link">&#x1F4AC;${noOfComments}</a>` : ""}
         </div>
       </div>
     `;
