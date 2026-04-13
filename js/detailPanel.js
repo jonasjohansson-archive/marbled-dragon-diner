@@ -106,14 +106,14 @@ function renderDetail(bucket) {
     <p>${cleanSummary}</p>
     ${imagesHTML ? `<div class="detail-images">${imagesHTML}</div>` : ""}
     ${fieldsHTML}
-    <a class="detail-link" href="${DREAMS_URL}/${bucket.id}?tab=comments" target="_blank">Comments &rarr;</a>
   `;
 
   panel.querySelector(".star-rating").addEventListener("click", (e) => {
     const btn = e.target.closest("button");
     if (!btn) return;
     let newRating = parseInt(btn.dataset.value);
-    if (newRating === ratingValue) newRating = 0;
+    const currentRating = rating.get(bucket.id);
+    if (newRating === currentRating) newRating = 0;
     rating.set(newRating, bucket.id);
 
     panel.querySelectorAll(".star-rating button").forEach((b, i) => {

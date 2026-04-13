@@ -57,7 +57,8 @@ export function renderBuckets(bucketsToRender) {
       if (!btn) return;
       e.stopPropagation();
       let newRating = parseInt(btn.dataset.value);
-      if (newRating === ratingValue) newRating = 0; // toggle off
+      const currentRating = parseInt(div.dataset.rating) || 0;
+      if (newRating === currentRating) newRating = 0;
       rating.set(newRating, bucketId);
       div.dataset.rating = newRating;
       div.querySelectorAll(".star-rating button").forEach((b, i) => {
