@@ -38,8 +38,12 @@ export function cleanCustomFieldValue(value) {
     .replace(/^# (.*$)/gim, '<h1>$1</h1>') // h1 tag
     .replace(/\r\n|\r|\n/gim, '<br>') // linebreaks (after headings)
     .replace(/\*\*(.*?)\*\*/gim, '<strong>$1</strong>') // bold text
-    .replace(/\*(.*?)\*/gim, '<i>$1</i>') // italic text (non-greedy)
-    .replace(/\[([^\[]+)\]\(((https?:\/\/)[^)]*)\)/gim, '<a href="$2">$1</a>'); // anchor tags (only http/https)
+    .replace(/__(.*?)__/gim, '<strong>$1</strong>') // bold text (underscores)
+    .replace(/\*(.*?)\*/gim, '<i>$1</i>') // italic text (asterisks)
+    .replace(/\b_(.*?)_\b/gim, '<i>$1</i>') // italic text (underscores)
+    .replace(/\[([^\[]+)\]\(((https?:\/\/)[^)]*)\)/gim, (_, text, url) =>
+      `<a href="${url.replace(/&amp;/g, '&')}" target="_blank">${text}</a>`) // anchor tags (only http/https)
+    .replace(/\[Image #\d+\]/gi, ''); // remove image placeholders
 
   return value;
 }

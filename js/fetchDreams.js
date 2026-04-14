@@ -28,6 +28,33 @@ export async function fetchDreams() {
       const updated = new Date(bucketsData.updatedAt);
       countEl.textContent = `${buckets.length} dreams (updated ${updated.toLocaleDateString()})`;
     }
+
+    const statsEl = document.getElementById("dream-stats");
+    if (statsEl) {
+      const fmt = (n) => Math.round(n).toLocaleString("sv-SE");
+      let selfFunded = 0;
+      let expMin = 0;
+      let expMax = 0;
+
+      buckets.forEach((b) => {
+        (b.budgetItems || []).forEach((i) => {
+          if (i.type === "INCOME") selfFunded += i.min || 0;
+          if (i.type === "EXPENSE") {
+            expMin += i.min || 0;
+            expMax += i.max || i.min || 0;
+          }
+        });
+      });
+
+      const totalMin = selfFunded + expMin;
+      const totalMax = selfFunded + expMax;
+
+      statsEl.innerHTML = [
+        `Total budget: ${fmt(totalMin)}&ndash;${fmt(totalMax)} kr`,
+        `Self-funded: ${fmt(selfFunded)} kr`,
+        `Requested: ${fmt(expMin)}&ndash;${fmt(expMax)} kr`,
+      ].join(" &middot; ");
+    }
   } catch (error) {
     console.error("Error loading dreams:", error);
     setLoadingMessage("Failed to load dreams.");
