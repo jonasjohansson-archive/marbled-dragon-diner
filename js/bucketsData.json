@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1778226101852,
+  "updatedAt": 1778313382963,
   "buckets": [
     {
       "id": "cmnw2hs2h002bppska9t9ultv",
@@ -14662,7 +14662,7 @@
       "summary": "Geometric mirror structures that transform space into surrealistic, shifting realities.\nHard shapes merge into the organic nature of Borderland",
       "status": "PARTIAL_FUNDING",
       "noOfFunders": 51,
-      "noOfComments": 18,
+      "noOfComments": 19,
       "percentageFunded": 48.63,
       "minGoal": 25000,
       "maxGoal": 47000,
@@ -35254,7 +35254,7 @@
       "summary": "Chill out zone ★ ★ ★ \nThe frontiers of consciousness built a Forest-Temple-Lab. Drop in!  Observe the observer 👁️\n",
       "status": "PARTIAL_FUNDING",
       "noOfFunders": 64,
-      "noOfComments": 3,
+      "noOfComments": 4,
       "percentageFunded": 165.61,
       "minGoal": 10000,
       "maxGoal": 30800,
@@ -36917,68 +36917,209 @@
       "percentageFundedTrue": 309.68
     },
     {
-      "id": "cmnwalwcl000698u58p4y64z4",
-      "title": "Juggling Workshop",
-      "summary": "Beginner juggling workshop: learn the basic patterns to juggle three balls in a fun and accessible way. Perfect for anyone curious to get started.",
+      "id": "cmnwauf3d000et1wcju4uwfka",
+      "title": "The Gaia Spirit Tree of Life",
+      "summary": "A sensory-based experience of Nature, enhanced by modern human technology, for you to connect your somatic experience to emotional and spiritual introspection.",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 9,
-      "noOfComments": 5,
-      "percentageFunded": 160,
-      "minGoal": 750,
-      "maxGoal": 1500,
-      "income": 0,
+      "noOfFunders": 68,
+      "noOfComments": 3,
+      "percentageFunded": 608.38,
+      "minGoal": 3100,
+      "maxGoal": 19875,
+      "income": 14500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776031067/dreams/axckp8wo6upsgjrojsxb.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776030775/dreams/pgoqetqysfyufi20yfvj.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474409/dreams/ksimatvjtj59iy3lglzq.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474421/dreams/v8uxio43eccx5sb68s9a.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474440/dreams/pvctodwdfrj1tgfxjyno.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474559/dreams/wkqmb88zcwpnls4s2qyw.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474606/dreams/zezwpnnyssf3wtqzmuav.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474621/dreams/r1elxqsobtqo1brn2tzz.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474644/dreams/p5hxqfvkdoml9uythhjs.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474661/dreams/k8wfqhcvxj6dttwyi3af.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474677/dreams/tsajhopapbrcacashq10.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474784/dreams/jo3qpmj6uuvybvvjqfdw.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "The workshop uses only juggling balls, which makes cleanup simple and efficient. After the session, I will collect all equipment and ensure that no materials are left behind. Participants will also be encouraged to help gather the balls as part of closing the workshop. Since there is no waste or disposable materials involved, the area can be quickly restored to its original condition. Maintaining a clean space is a priority, and I will make sure the workshop leaves no trace.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "The workshop is aimed entirely at beginners and focuses on teaching the classic juggling patterns step by step. I guide participants through the process of learning how to juggle with three balls, breaking it down into simple and approachable stages.\n\nI have never applied for funding for this workshop and have instead used tennis balls as a budget solution. While that has made the workshop possible, tennis balls are not at all the same as proper juggling balls.\n\nThat is why I am now applying for funding to purchase real juggling balls for my annual workshop. With the right equipment, the workshop will be more fun, more accessible, and much better suited for teaching beginners successfully.\n\nI set the budget to allow at least five participants to practice with three balls each. If the funding reaches the full amount of 1,500 SEK, I will be able to provide ten participants with three juggling balls each.\n\nWorkshop attendance is usually between 10 and 20 people, so I will also bring some tennis balls to ensure that as many participants as possible can take part.\n\nIn addition, the juggling balls will be available throughout the week for anyone who wants to drop by and practice.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Very safe",
+          "value": "Fire extinguisher, and any other relevant equipment.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Max Hultman [maxhultman@hotmail.com](mailto:maxhultman@hotmail.com)",
+          "value": "To be specified",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Hit us! We're open to expansion!",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Yes. Power for a medium sound and light system.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Strike will be led by Dream Lead, and be executed on Sunday July 26th. LNT and MOOP as usual.\n\nGaia will be kept safe till next year - perhaps rooting somewhere else meanwhile, or hybernating and retaining her life force to blossom anew and expand further next season.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Medium/low, chill.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Placement in connection to similar dreams or art installations, where it doesn't disturb wild animals.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Ylva aka \"Wolverina\" aka \"Duracelle\" Nicolae Santesson",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Explorers",
+          "value": "The Gaia Spirit Tree stands as an ancient yet ever-evolving symbol of unity, creation, and interconnectedness. This tree has long represented the bridge between Earth and Sky, past and future, self and the infinite.\n\nWithin our vibrant world of Borderland, Gaia rises anew - a luminous beacon of wisdom and transformation, a fusion of nature, technology, and human potential. From her core, light pulses like heartbeats, flowing through her branches like neural pathways - a living representation of the energy networks that connect us all, a universal life force. This is a **space where divine science and innovation meet consciousness, exploring how modern technology can enhance our sensory experience and deepen our connection to the world around us.** It’s where physics meets the metaphysical, where the unseen forces of the universe align with the psychic potential within us all.\n\nGaia invites you to step into a multi-sensory realm, engaging your body, mind, soul, and spirit. Come. Breathe. Observe. Listen. Awaken. Connect. Expand. Illuminate. Let her roots ground you, her branching light inspire and ignite you, and her presence remind you that we are all part of a vast, intelligent, and evolving system, far greater than ourselves.",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Description"
           }
         }
       ],
       "tags": [
         {
-          "value": "Workshop"
+          "value": "Art installation"
+        },
+        {
+          "value": "Art walk apropriate"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Healing"
+        },
+        {
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Kids-friendly"
+        },
+        {
+          "value": "Light"
+        },
+        {
+          "value": "Looking for space"
+        },
+        {
+          "value": "Meditation"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Weird shit"
         }
       ],
       "budgetItems": [
         {
-          "description": "15 to 30 juggling balls",
-          "min": 750,
+          "description": "Dream budget funded components and other materials 2025 and 2024",
+          "min": 14500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fibre optics in bulk, DIY",
+          "min": 800,
+          "max": 5000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Sensors (sound, motion, haptics), DIY",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "LED strips, light boxes, DIY",
+          "min": 600,
+          "max": 1800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "LED strings",
+          "min": 0,
           "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "AC/DC adapter, terminal block, cable",
+          "min": 400,
+          "max": 1600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Electrical extension cords and branch outlets",
+          "min": 500,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Camouflagenet and jute ropes",
+          "min": 300,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Other building materials and tools",
+          "min": 500,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport costs (max 20% of total budget)",
+          "min": 0,
+          "max": 3975,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 14500,
+      "percentageFundedTrue": 467.74
     },
     {
       "id": "cmmqfemi00008148qh9gvjoua",
@@ -45957,209 +46098,166 @@
       "percentageFundedTrue": 447.15
     },
     {
-      "id": "cmnwauf3d000et1wcju4uwfka",
-      "title": "The Gaia Spirit Tree of Life",
-      "summary": "A sensory-based experience of Nature, enhanced by modern human technology, for you to connect your somatic experience to emotional and spiritual introspection.",
+      "id": "cmnwa9kf4000appwo2h21kwuh",
+      "title": "Pump Zone 2026 – The Temple of Iron Returns! 💪🔥",
+      "summary": null,
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 68,
+      "noOfFunders": 54,
       "noOfComments": 3,
-      "percentageFunded": 608.38,
-      "minGoal": 3100,
-      "maxGoal": 19875,
-      "income": 14500,
+      "percentageFunded": 123.21,
+      "minGoal": 11500,
+      "maxGoal": 12500,
+      "income": 8900,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776030775/dreams/pgoqetqysfyufi20yfvj.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474409/dreams/ksimatvjtj59iy3lglzq.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474421/dreams/v8uxio43eccx5sb68s9a.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474440/dreams/pvctodwdfrj1tgfxjyno.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474559/dreams/wkqmb88zcwpnls4s2qyw.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474606/dreams/zezwpnnyssf3wtqzmuav.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474621/dreams/r1elxqsobtqo1brn2tzz.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474644/dreams/p5hxqfvkdoml9uythhjs.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474661/dreams/k8wfqhcvxj6dttwyi3af.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474677/dreams/tsajhopapbrcacashq10.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776474784/dreams/jo3qpmj6uuvybvvjqfdw.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776029800/dreams/jjykpxl7vqpj8ntchgb1.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Fire extinguisher, and any other relevant equipment.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "To be specified",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Hit us! We're open to expansion!",
+          "value": "Yes! We welcome co-creators to help with setup, workouts, guiding sessions, and especially artists for the Poseidon-themed stretch goal. All bodies and ideas are welcome! 💪🎨",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Yes. Power for a medium sound and light system.",
+          "value": "**TL;DR:**  \nPump Zone is back! A place to lift, sweat, and upgrade reality with iron-weighted workouts. During all the mental variance and adventure of Borderland, this is a space to reconnect with the body and experience physical warmth. A welcoming, safe space for anyone’s body to find security, joy, and strength—irrespective of whatever else may happen at your burn. 🏋️‍♀️✨ Join us and enhance the Borderland Buffet Balance!\n\n**The Return of the Pump**\n\nWho needs deep conversations when the bench press gives the most honest feedback? Why escape into fairy tales when weighted chin-ups let you rewrite your own? 🏋️‍♂️✨\n\nAs bro-scientific borderlings, we know the value of starting or pausing intense Borderland days with a proper iron ritual. The Temple of Iron stands ready to enhance the Borderland Buffet Balance once more. In a place where the mind can rest as the body finds its rhythm, reconnecting with the body and feeling the physical warmth of those around you. This is a welcoming space for anybody's body at Borderland—creating joy and security in your body and physical tribe, no matter what else happens at your burn. 🤝💪\n\nPump Zone is an interactive workout space, blending strength, endurance, and mythological inspiration.",
           "customField": {
-            "name": "Electricity"
+            "name": "Description"
           }
         },
         {
-          "value": "Strike will be led by Dream Lead, and be executed on Sunday July 26th. LNT and MOOP as usual.\n\nGaia will be kept safe till next year - perhaps rooting somewhere else meanwhile, or hybernating and retaining her life force to blossom anew and expand further next season.",
+          "value": "With the significant additional investment in new equipment, comes the responsibility to store it for future Borderland events. That's why we've included storage costs in the budget. Not only will we lift, sweat, and transform the Pump Zone, but we'll ensure everything is carefully stored and ready for the next chapter. We are committed to leaving the space better than we found it—no stray equipment, no mess—just a well-maintained gym for all future gatherings. 💪✨",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Medium/low, chill.",
+          "value": "The gym will be used in the daytime, possibly with a limited sound system.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Placement in connection to similar dreams or art installations, where it doesn't disturb wild animals.",
+          "value": "The gym will only be open in during the daytime, to prevent to avoid intoxicated borderlings injuring themselves.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Co-existence at “the Hill” went smoothly in 2025, and Pump Zone aims to return to the same location. The goal is to encourage multiple forms of movement and foster co-creation with neighboring camps. We hope the space can serve as both a physical anchor and a collaborative hub, enhancing the vibe for everyone nearby. 🏋️‍♀️🧘‍♂️🤝",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Ylva aka \"Wolverina\" aka \"Duracelle\" Nicolae Santesson",
+          "value": "No external power needed.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "The Gaia Spirit Tree stands as an ancient yet ever-evolving symbol of unity, creation, and interconnectedness. This tree has long represented the bridge between Earth and Sky, past and future, self and the infinite.\n\nWithin our vibrant world of Borderland, Gaia rises anew - a luminous beacon of wisdom and transformation, a fusion of nature, technology, and human potential. From her core, light pulses like heartbeats, flowing through her branches like neural pathways - a living representation of the energy networks that connect us all, a universal life force. This is a **space where divine science and innovation meet consciousness, exploring how modern technology can enhance our sensory experience and deepen our connection to the world around us.** It’s where physics meets the metaphysical, where the unseen forces of the universe align with the psychic potential within us all.\n\nGaia invites you to step into a multi-sensory realm, engaging your body, mind, soul, and spirit. Come. Breathe. Observe. Listen. Awaken. Connect. Expand. Illuminate. Let her roots ground you, her branching light inspire and ignite you, and her presence remind you that we are all part of a vast, intelligent, and evolving system, far greater than ourselves.",
-          "customField": {
-            "name": "Description"
+            "name": "Electricity"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Art installation"
-        },
-        {
-          "value": "Art walk apropriate"
-        },
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Healing"
-        },
-        {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Kids-friendly"
-        },
-        {
-          "value": "Light"
-        },
-        {
-          "value": "Looking for space"
-        },
-        {
-          "value": "Meditation"
-        },
-        {
-          "value": "Music"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Weird shit"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Dream budget funded components and other materials 2025 and 2024",
-          "min": 14500,
+          "description": "EZ-barbell, 10 kg",
+          "min": 500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Fibre optics in bulk, DIY",
-          "min": 800,
-          "max": 5000,
+          "description": "Pull-up & dips rack",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Puzzle mats",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Back extension bench",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "110 kg of weight plates",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Adjustable dumbbells (up to 20 kg per side)",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Tent",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Barbell weight rack",
+          "min": 700,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Storage",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Battle ropes ",
+          "min": 1200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Barbell",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Storage",
+          "min": 2000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Sensors (sound, motion, haptics), DIY",
-          "min": 0,
+          "description": "Maintenance & repair",
+          "min": 2000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "More weight plates",
+          "min": 2500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Additional barbell",
+          "min": 1000,
           "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "LED strips, light boxes, DIY",
-          "min": 600,
-          "max": 1800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "LED strings",
-          "min": 0,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "AC/DC adapter, terminal block, cable",
-          "min": 400,
-          "max": 1600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Electrical extension cords and branch outlets",
-          "min": 500,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Camouflagenet and jute ropes",
-          "min": 300,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Other building materials and tools",
-          "min": 500,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transport costs (max 20% of total budget)",
-          "min": 0,
-          "max": 3975,
+          "description": "Power rack",
+          "min": 4000,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 14500,
-      "percentageFundedTrue": 467.74
+      "funded": 8900,
+      "percentageFundedTrue": 77.39
     },
     {
       "id": "cmnw2usfj000vpnkz2hxv4bf0",
@@ -47463,80 +47561,77 @@
       "percentageFundedTrue": 42.86
     },
     {
-      "id": "cmnvwg3en005112nednnrv7uz",
-      "title": "Burner Inspection",
-      "summary": "We'll check your chassis, tune up your engine, and make sure you're roadworthy for whatever adventures lie ahead!",
+      "id": "cmnvucatu002cgxam3bh4ng52",
+      "title": "Boothy call",
+      "summary": "We’re bringing back the analog thrill of the phone call. Two phone booths, a whimsical  fever dream, a high-stakes social roulette for the brave and and bored. ",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 13,
+      "noOfFunders": 51,
       "noOfComments": 0,
-      "percentageFunded": 21.11,
-      "minGoal": 5090,
-      "maxGoal": 5090,
-      "income": 0,
+      "percentageFunded": 208.89,
+      "minGoal": 6500,
+      "maxGoal": 9500,
+      "income": 7500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776006758/dreams/pcui5j09jcajmqkj6mlf.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003099/dreams/booubdszpi2r3mdn0r12.png"
         }
       ],
       "customFields": [
         {
-          "value": "Nothing Suspicious Here",
+          "value": "Phony Operators",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "We will collect any garbage we generate as we go, but this dream is low in waste in general.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Just enough to pimp this activity with some music. We will use the electricity from the camp of dream members.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Want to make sure you a cruising through Borderland in a safe human vessle? Search no more! At our Burner Inspection we’ve got seasoned professionals ready to do your yearly inspection and make sure you don’t run into any unexpected breakdowns.\n\n**  \nFAQ**\n\n**What if I fail the inspection?**\n\nDon’t worry! Our on-site repair shop is fully equipped to get you back in top gear. Whether you need a realignment of your axles, an oil change, or a top-up of your hydraulic fluids — we’ve got you covered.   \n\n**Will I get a certificate?** \n\nOf course! You’ll receive a certificate confirming that you’re roadworthy, signed and stamped by our certified mechanics. Flash it with pride — it’s valid with all authorities on the premises.   \n\n**What do you check?**\n\nOur thorough burner inspection includes:\n\n*   Headlights – Are you still sparkling, or do you need some glitter?\n    \n*   Tires – Are you well-balanced and going where you want to?\n    \n*   Oil levels – Feeling dry? No problem — we’ve got plenty of oil!\n    \n*   Brakes – Are you stopping when you want to?\n    \n*   Horn – Can you still blow your own trumpet?\n    \n*   Fluid levels – Do you need a top-up?\n    \n*   Paint and rust – Getting old? We’ll give you a paint job to look brand new.",
+          "value": "We’re bringing back the analog thrill of the phone call, but we’ve totally lost the plot. _Make a Boothy Call_ features two phone booths decked out in a whimsical, 'teenage-core' fever dream—think stickers, pink, and pure nostalgia.\n\nThese aren't just phones; they're a direct line to the unknown. Hidden somewhere else in Borderland is the second booth, and the only rule is: Pick up when it rings. It’s high-stakes social roulette for the brave and the bored. You might find yourself on a spontaneous blind date with a stranger across the playa, getting grilled by a ”reporter” from Smålandstidningen, or debating a conspiracy theorist about why horses aren't real. No DMs, no ghosting, back to the real deal. Your boothy call is waiting.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Not noisy! We'll have some music on in the back ground, like in any auto shop.",
+          "value": "Sandra Bergström",
           "customField": {
-            "name": "Sound levels"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Very safe! Will even improve safety.",
+          "value": "Low risk.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "We will organize it within the camp. Let us know if you feel eager to help.",
+          "value": "Will be taken down and transported away by strike day.",
           "customField": {
-            "name": "Co-creation"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "Will affect neighbors positively! Decreases risk of collisions, traffic hold ups, pollution etc.",
+          "value": "minimal, for lights.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Takes up little space. will not be placed too close to camping.",
           "customField": {
             "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Evelina Andersson\n\n[evelina.andersson8@gmail.com](mailto:evelina.andersson8@gmail.com)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
       "tags": [
         {
-          "value": "Pimping station"
+          "value": "Art installation"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Game"
+        },
+        {
+          "value": "Hippie trap"
         },
         {
           "value": "Playful"
@@ -47547,44 +47642,50 @@
       ],
       "budgetItems": [
         {
-          "description": "Body oil",
-          "min": 600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Glitter",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Non-alcoholic drinks",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Paper / printing certificates",
-          "min": 100,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Posca pens",
+          "description": "Deco, fabrics and props",
           "min": 3000,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Paint",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Stringlights",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Building material",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Technical setup: Phones, speaker, batteries, lights and ringing device",
+          "min": 3000,
+          "max": 5000,
           "type": "EXPENSE"
         },
         {
-          "description": "Fairy lights (for the burners with malfunctioning lights)",
-          "min": 390,
+          "description": "Building materials for booth (wood, board, screws)",
+          "min": 2500,
           "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Deco/props",
+          "min": 1000,
+          "max": 2000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 7500,
+      "percentageFundedTrue": 115.38
     },
     {
       "id": "cmnvxtlt7007cjdaodnwtoh3m",
@@ -55215,7 +55316,7 @@
       "id": "cmnsuzm7f0012j75u04x7su79",
       "title": "The Clinic",
       "summary": " Hospital checkup and sound camp\nCompletely unqualified medical facility offering free checkups to all.",
-      "status": "PARTIAL_FUNDING",
+      "status": "COMPLETED",
       "noOfFunders": 38,
       "noOfComments": 4,
       "percentageFunded": 157.09,
@@ -57663,106 +57764,128 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnvx57vo006s12ne52k3pyiy",
-      "title": "Fairytale Garden Spread",
-      "summary": "A magical table spread for fairytale creatures with a spell giving special restrictions: No talking and no putting food in your own mouth.",
+      "id": "cmnvwg3en005112nednnrv7uz",
+      "title": "Burner Inspection",
+      "summary": "We'll check your chassis, tune up your engine, and make sure you're roadworthy for whatever adventures lie ahead!",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 22,
+      "noOfFunders": 13,
       "noOfComments": 0,
-      "percentageFunded": 166.05,
-      "minGoal": 1900,
-      "maxGoal": 3700,
-      "income": 800,
+      "percentageFunded": 21.11,
+      "minGoal": 5090,
+      "maxGoal": 5090,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776008028/dreams/mld65i0lndvohcrtxosk.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776006758/dreams/pcui5j09jcajmqkj6mlf.png"
         }
       ],
       "customFields": [
         {
-          "value": "Martin Nielsen",
+          "value": "Nothing Suspicious Here",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "A tiny bit for the chockolate fountain. Probably nothing that needs particular planning other than power supplied to the Gazebo anyway.",
+          "value": "We will collect any garbage we generate as we go, but this dream is low in waste in general.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Just enough to pimp this activity with some music. We will use the electricity from the camp of dream members.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "We will provide hand sanitizer to everyone who joins :)",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "A table spread with fresh fruit, running chockolate from a fountain and other delicacies, to be shared among magical creatures in the Secret Garden. But there is a catch: A spell means you cannot talk, and you cannot put food in your own mouth, so you will have to engage with the others creatures to get fed, and communicate only non-verbally.\n\nWhile we know many of our guests already dress very fariy-tale like, you are invited to borrow one of our masks to get even more in the mood.",
+          "value": "Want to make sure you a cruising through Borderland in a safe human vessle? Search no more! At our Burner Inspection we’ve got seasoned professionals ready to do your yearly inspection and make sure you don’t run into any unexpected breakdowns.\n\n**  \nFAQ**\n\n**What if I fail the inspection?**\n\nDon’t worry! Our on-site repair shop is fully equipped to get you back in top gear. Whether you need a realignment of your axles, an oil change, or a top-up of your hydraulic fluids — we’ve got you covered.   \n\n**Will I get a certificate?** \n\nOf course! You’ll receive a certificate confirming that you’re roadworthy, signed and stamped by our certified mechanics. Flash it with pride — it’s valid with all authorities on the premises.   \n\n**What do you check?**\n\nOur thorough burner inspection includes:\n\n*   Headlights – Are you still sparkling, or do you need some glitter?\n    \n*   Tires – Are you well-balanced and going where you want to?\n    \n*   Oil levels – Feeling dry? No problem — we’ve got plenty of oil!\n    \n*   Brakes – Are you stopping when you want to?\n    \n*   Horn – Can you still blow your own trumpet?\n    \n*   Fluid levels – Do you need a top-up?\n    \n*   Paint and rust – Getting old? We’ll give you a paint job to look brand new.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Secret Garden",
+          "value": "Not noisy! We'll have some music on in the back ground, like in any auto shop.",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Very safe! Will even improve safety.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We will organize it within the camp. Let us know if you feel eager to help.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Will affect neighbors positively! Decreases risk of collisions, traffic hold ups, pollution etc.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Evelina Andersson\n\n[evelina.andersson8@gmail.com](mailto:evelina.andersson8@gmail.com)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Pimping station"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Weird shit"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Decoration",
-          "min": 300,
+          "description": "Body oil",
+          "min": 600,
           "max": null,
-          "type": "INCOME"
+          "type": "EXPENSE"
         },
         {
-          "description": "Masks",
+          "description": "Glitter",
           "min": 500,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Chockolate fountain",
-          "min": 400,
-          "max": 700,
           "type": "EXPENSE"
         },
         {
-          "description": "Masks",
-          "min": 400,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Decoration",
-          "min": 300,
+          "description": "Non-alcoholic drinks",
+          "min": 500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Fruit",
-          "min": 300,
-          "max": 800,
+          "description": "Paper / printing certificates",
+          "min": 100,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Chockolate",
-          "min": 200,
-          "max": 500,
+          "description": "Posca pens",
+          "min": 3000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Cheese",
-          "min": 300,
-          "max": 800,
+          "description": "Fairy lights (for the burners with malfunctioning lights)",
+          "min": 390,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 800,
-      "percentageFundedTrue": 42.11
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmn3c37ea0005ltdg7tbiyfi0",
@@ -57770,7 +57893,7 @@
       "summary": "Have you heard the tales of Iris, the Forest Guardian of Alversjö? ",
       "status": "PARTIAL_FUNDING",
       "noOfFunders": 38,
-      "noOfComments": 0,
+      "noOfComments": 1,
       "percentageFunded": 84.18,
       "minGoal": 9950,
       "maxGoal": 17500,
@@ -60007,166 +60130,118 @@
       "percentageFundedTrue": 208.7
     },
     {
-      "id": "cmnwa9kf4000appwo2h21kwuh",
-      "title": "Pump Zone 2026 – The Temple of Iron Returns! 💪🔥",
-      "summary": null,
+      "id": "cmnwaura2000pk7i919e9r1hm",
+      "title": "Heartbeat Rave and Brainwave Art",
+      "summary": "Merge with others through interactive audiovisual heart and brain biofeedback stimulation.",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 54,
-      "noOfComments": 3,
-      "percentageFunded": 123.21,
-      "minGoal": 11500,
-      "maxGoal": 12500,
-      "income": 8900,
+      "noOfFunders": 38,
+      "noOfComments": 0,
+      "percentageFunded": 164.23,
+      "minGoal": 5500,
+      "maxGoal": 8000,
+      "income": 3000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776029800/dreams/jjykpxl7vqpj8ntchgb1.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776578201/dreams/u0nmy5udzjes7w1gohly.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Yes! We welcome co-creators to help with setup, workouts, guiding sessions, and especially artists for the Poseidon-themed stretch goal. All bodies and ideas are welcome! 💪🎨",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "**TL;DR:**  \nPump Zone is back! A place to lift, sweat, and upgrade reality with iron-weighted workouts. During all the mental variance and adventure of Borderland, this is a space to reconnect with the body and experience physical warmth. A welcoming, safe space for anyone’s body to find security, joy, and strength—irrespective of whatever else may happen at your burn. 🏋️‍♀️✨ Join us and enhance the Borderland Buffet Balance!\n\n**The Return of the Pump**\n\nWho needs deep conversations when the bench press gives the most honest feedback? Why escape into fairy tales when weighted chin-ups let you rewrite your own? 🏋️‍♂️✨\n\nAs bro-scientific borderlings, we know the value of starting or pausing intense Borderland days with a proper iron ritual. The Temple of Iron stands ready to enhance the Borderland Buffet Balance once more. In a place where the mind can rest as the body finds its rhythm, reconnecting with the body and feeling the physical warmth of those around you. This is a welcoming space for anybody's body at Borderland—creating joy and security in your body and physical tribe, no matter what else happens at your burn. 🤝💪\n\nPump Zone is an interactive workout space, blending strength, endurance, and mythological inspiration.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "With the significant additional investment in new equipment, comes the responsibility to store it for future Borderland events. That's why we've included storage costs in the budget. Not only will we lift, sweat, and transform the Pump Zone, but we'll ensure everything is carefully stored and ready for the next chapter. We are committed to leaving the space better than we found it—no stray equipment, no mess—just a well-maintained gym for all future gatherings. 💪✨",
+          "value": "Once the dream process is over, only deep insights and new levels of intimacy will remain.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "The gym will be used in the daytime, possibly with a limited sound system.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The gym will only be open in during the daytime, to prevent to avoid intoxicated borderlings injuring themselves.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Co-existence at “the Hill” went smoothly in 2025, and Pump Zone aims to return to the same location. The goal is to encourage multiple forms of movement and foster co-creation with neighboring camps. We hope the space can serve as both a physical anchor and a collaborative hub, enhancing the vibe for everyone nearby. 🏋️‍♀️🧘‍♂️🤝",
+          "value": "We are currently working on \n\nOur highly scientific process will only enhance conscientiousness, harmony, and good vibes. Freak psychological aberrations causing lasting anti-social behavior happen with less than 1/1000 probability.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "No external power needed.",
+          "value": "We require both warm hearts and electrically conductive brain tissue. Human souls are both theoretical and optional but highly appreciated. \n\n  \n\nFor the sake of science, a variety of activities (e.g. meditation, song, dance, telepathy) are encouraged. Please bring the diversity of your un-observed humanity!",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Sounds may unsettle, but will be moderated and contained.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "WARNING! While this dream presents no physical risks, there is a high chance you will lose your sense of individual identity, and permanently change your relationship to other sentient minds.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We will need electricity to charge the EEG devices, power the raspberry pi controller, the speakers, and the projector.",
           "customField": {
             "name": "Electricity"
+          }
+        },
+        {
+          "value": "@weasleneune is our Dr. Bill-Bull, and is easiest found on the Discord!",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "The Observatory",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Through the power of SCIENCE we can now overcome the feeble limitations of individuated flesh-bodies and directly connect you with the hearts and minds of your beloved fellow humans. Trained experts will:\n\n1.  Connect your heart and brain to The Network\n    \n2.  Convert your heartbeat and EEG brain signals to pure authentic vibes\n    \n3.  Stream these vibes directly back to you in the form of sound and sight sensations, fully merging you with The Mind. \n    \n\n  \n\nListen to the sounds of the collective heartbeat. Think your thoughts distributed across a dual-organism substrate. Reinvent your understanding of both togetherness and self.",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "EZ-barbell, 10 kg",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Pull-up & dips rack",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Puzzle mats",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Back extension bench",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "110 kg of weight plates",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Adjustable dumbbells (up to 20 kg per side)",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tent",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Barbell weight rack",
-          "min": 700,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Storage",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Battle ropes ",
-          "min": 1200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Barbell",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Storage",
-          "min": 2000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Maintenance & repair",
-          "min": 2000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "More weight plates",
+          "description": "First EEG (BrainLink Pro)",
           "min": 2500,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Additional barbell",
-          "min": 1000,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Power rack",
-          "min": 4000,
+          "description": "Small technical components ",
+          "min": 500,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "10 Heart rate monitors",
+          "min": 4500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Raspberry pi for integration",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Projector",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Second EEG (BrainLink Pro)",
+          "min": 0,
+          "max": 2500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 8900,
-      "percentageFundedTrue": 77.39
+      "funded": 3000,
+      "percentageFundedTrue": 54.55
     },
     {
       "id": "cmnrekesd000tj4klpv2tetf8",
@@ -60495,139 +60570,100 @@
       "percentageFundedTrue": 92.44
     },
     {
-      "id": "cmnwae15t0002uvw3ay8tksqu",
-      "title": "Astral Veil",
-      "summary": "Lie beneath a living sky of light and sound. Astral Veil is a place to stop moving, stop thinking, and just be somewhere else for a while.",
+      "id": "cmnwa90uq000epy0k8datmp6b",
+      "title": "The Leadership Appreciation Lounge",
+      "summary": "Help us show some love to our Community's biggest contributors. The Borderland wouldn't exist without them! \n",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 40,
-      "noOfComments": 0,
-      "percentageFunded": 215.71,
-      "minGoal": 7730,
-      "maxGoal": 10730,
-      "income": 11500,
+      "noOfFunders": 21,
+      "noOfComments": 2,
+      "percentageFunded": 100.11,
+      "minGoal": 3500,
+      "maxGoal": 7500,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776516235/dreams/gqzlbnd2cphcsjfjv5oz.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776515915/dreams/gpnxu9m3jbczbgxiwwty.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776516282/dreams/oz4jyp5gk1hst83y8jga.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776516974/dreams/y1wzxwfqkpbdfidvoyl4.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776029810/dreams/kt8jy5j5yyocglxukai3.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Crawl inside, lie down, and look up. Above you, a living sky breathes in slow waves of color and light. A low hum pulls you deeper. You are somewhere else now. Somewhere vast and quiet. Further away, and deeper within you. A place to dissolve into somethingness for a while.\n\nFunds will mainly be used to build a wooden structure creating a dark space for the art.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Estimated total usage is around 30 kWh for the week",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Anton Ullenius",
+          "value": "[petronela.kjoelsen@yahoo.dk](mailto:petronela.kjoelsen@yahoo.dk)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Plan to strike on Sunday and Monday.",
+          "value": "If you want, you can also donate snacks, drinks and such to serve our esteemed guests.",
           "customField": {
-            "name": "Strike plan"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "Will be using a small speaker",
+          "value": "It's a pretty quiet chill place, so not much effect on surroundings. Other than the possibility to run into a Borderland Leader, which is nice :)",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "This might be the safest dream out there, and all necessary precautions has been taken.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Help us celebrate the souls who make The Borderland possible! We’re creating a lounge for all those amazing Borderlings who have worked their hearts out year after year - a space for rest, luxury, and recharging in a beautifully decorated setting.\n\nEveryone who contributes: leads, founders, epic camp members, artists, and maybe even YOU! The Borderland is magic because of all of us, and we want to make sure no one burns out working for its glory.\n\nSign up via the form below to get your VIP leadership pass to the lounge:  \n[https://docs.google.com/forms/d/e/1FAIpQLSfP7FcvSZkMRtIcPl5Ze5\\_FUKWCERqef7oQHqxzgLwDsoGDRg/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSfP7FcvSZkMRtIcPl5Ze5_FUKWCERqef7oQHqxzgLwDsoGDRg/viewform?usp=publish-editor)\n\nConsider this a gift to the community (and yourself)—because without our leads, the dream stops! 🤭",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Personal dream",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Mostly low and cosy, no high effect soundsystem",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "The structure is solid and all electrical components are safely installed and weather-protected.",
+          "value": "Strike on sunday, everything will easily be removed respecting LNT",
           "customField": {
-            "name": "Safety"
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Just a little for ambient lights when needed",
+          "customField": {
+            "name": "Electricity"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "Speakers",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Projector, cables etc. ",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Strings & net",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Matresses, pillows, blankets",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Textiles",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Wood for structure (framing & panels)",
-          "min": 5610,
+          "description": "tent rental",
+          "min": 2500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Metal parts",
-          "min": 720,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Paint",
-          "min": 900,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Waterproofing",
+          "description": "deco",
           "min": 500,
-          "max": null,
+          "max": 2500,
           "type": "EXPENSE"
         },
         {
-          "description": "Second hand portable AC",
-          "min": 0,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Matresses, pillows, blankets",
-          "min": 0,
-          "max": 1500,
+          "description": "furniture",
+          "min": 500,
+          "max": 2500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 11500,
-      "percentageFundedTrue": 148.77
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnvyvy0m006071wl1q1gz4xh",
@@ -68346,95 +68382,63 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnwa90uq000epy0k8datmp6b",
-      "title": "The Leadership Appreciation Lounge",
-      "summary": "Help us show some love to our Community's biggest contributors. The Borderland wouldn't exist without them! \n",
+      "id": "cmnwalwcl000698u58p4y64z4",
+      "title": "Juggling Workshop",
+      "summary": "Beginner juggling workshop: learn the basic patterns to juggle three balls in a fun and accessible way. Perfect for anyone curious to get started.",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 21,
-      "noOfComments": 2,
-      "percentageFunded": 100.11,
-      "minGoal": 3500,
-      "maxGoal": 7500,
+      "noOfFunders": 9,
+      "noOfComments": 5,
+      "percentageFunded": 160,
+      "minGoal": 750,
+      "maxGoal": 1500,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776029810/dreams/kt8jy5j5yyocglxukai3.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776031067/dreams/axckp8wo6upsgjrojsxb.png"
         }
       ],
       "customFields": [
         {
-          "value": "[petronela.kjoelsen@yahoo.dk](mailto:petronela.kjoelsen@yahoo.dk)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "If you want, you can also donate snacks, drinks and such to serve our esteemed guests.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "It's a pretty quiet chill place, so not much effect on surroundings. Other than the possibility to run into a Borderland Leader, which is nice :)",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "This might be the safest dream out there, and all necessary precautions has been taken.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Help us celebrate the souls who make The Borderland possible! We’re creating a lounge for all those amazing Borderlings who have worked their hearts out year after year - a space for rest, luxury, and recharging in a beautifully decorated setting.\n\nEveryone who contributes: leads, founders, epic camp members, artists, and maybe even YOU! The Borderland is magic because of all of us, and we want to make sure no one burns out working for its glory.\n\nSign up via the form below to get your VIP leadership pass to the lounge:  \n[https://docs.google.com/forms/d/e/1FAIpQLSfP7FcvSZkMRtIcPl5Ze5\\_FUKWCERqef7oQHqxzgLwDsoGDRg/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSfP7FcvSZkMRtIcPl5Ze5_FUKWCERqef7oQHqxzgLwDsoGDRg/viewform?usp=publish-editor)\n\nConsider this a gift to the community (and yourself)—because without our leads, the dream stops! 🤭",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Personal dream",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Mostly low and cosy, no high effect soundsystem",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Strike on sunday, everything will easily be removed respecting LNT",
+          "value": "The workshop uses only juggling balls, which makes cleanup simple and efficient. After the session, I will collect all equipment and ensure that no materials are left behind. Participants will also be encouraged to help gather the balls as part of closing the workshop. Since there is no waste or disposable materials involved, the area can be quickly restored to its original condition. Maintaining a clean space is a priority, and I will make sure the workshop leaves no trace.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Just a little for ambient lights when needed",
+          "value": "The workshop is aimed entirely at beginners and focuses on teaching the classic juggling patterns step by step. I guide participants through the process of learning how to juggle with three balls, breaking it down into simple and approachable stages.\n\nI have never applied for funding for this workshop and have instead used tennis balls as a budget solution. While that has made the workshop possible, tennis balls are not at all the same as proper juggling balls.\n\nThat is why I am now applying for funding to purchase real juggling balls for my annual workshop. With the right equipment, the workshop will be more fun, more accessible, and much better suited for teaching beginners successfully.\n\nI set the budget to allow at least five participants to practice with three balls each. If the funding reaches the full amount of 1,500 SEK, I will be able to provide ten participants with three juggling balls each.\n\nWorkshop attendance is usually between 10 and 20 people, so I will also bring some tennis balls to ensure that as many participants as possible can take part.\n\nIn addition, the juggling balls will be available throughout the week for anyone who wants to drop by and practice.",
           "customField": {
-            "name": "Electricity"
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Very safe",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Max Hultman [maxhultman@hotmail.com](mailto:maxhultman@hotmail.com)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Explorers",
+          "customField": {
+            "name": "This dream belongs to camp:"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Workshop"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "tent rental",
-          "min": 2500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "deco",
-          "min": 500,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "furniture",
-          "min": 500,
-          "max": 2500,
+          "description": "15 to 30 juggling balls",
+          "min": 750,
+          "max": 1500,
           "type": "EXPENSE"
         }
       ],
@@ -69360,118 +69364,124 @@
       "percentageFundedTrue": 142.86
     },
     {
-      "id": "cmnwaura2000pk7i919e9r1hm",
-      "title": "Heartbeat Rave and Brainwave Art",
-      "summary": "Merge with others through interactive audiovisual heart and brain biofeedback stimulation.",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 38,
+      "id": "cmnw9w19s0010db4wd8z3dkln",
+      "title": "The imaginarium",
+      "summary": "The Imaginarium is the space for you to come, sit and draw/paint whatever is in your mind.",
+      "status": "FUNDED",
+      "noOfFunders": 17,
       "noOfComments": 0,
-      "percentageFunded": 164.23,
-      "minGoal": 5500,
-      "maxGoal": 8000,
-      "income": 3000,
+      "percentageFunded": 128.2,
+      "minGoal": 1755,
+      "maxGoal": 2666,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776578201/dreams/u0nmy5udzjes7w1gohly.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776031521/dreams/bunzrwebiu3poqnjmctu.svg"
         }
       ],
       "customFields": [
         {
-          "value": "Once the dream process is over, only deep insights and new levels of intimacy will remain.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "We are currently working on \n\nOur highly scientific process will only enhance conscientiousness, harmony, and good vibes. Freak psychological aberrations causing lasting anti-social behavior happen with less than 1/1000 probability.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We require both warm hearts and electrically conductive brain tissue. Human souls are both theoretical and optional but highly appreciated. \n\n  \n\nFor the sake of science, a variety of activities (e.g. meditation, song, dance, telepathy) are encouraged. Please bring the diversity of your un-observed humanity!",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Sounds may unsettle, but will be moderated and contained.",
+          "value": "Minimum to zero. Perhaps a small ambient/instrumental sound.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "WARNING! While this dream presents no physical risks, there is a high chance you will lose your sense of individual identity, and permanently change your relationship to other sentient minds.",
+          "value": "The dream will be removed after 3 days. The paintings left within The Imaginarium will be taken with me. Only using biodegradable painting.",
           "customField": {
-            "name": "Safety"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "We will need electricity to charge the EEG devices, power the raspberry pi controller, the speakers, and the projector.",
+          "value": "It is a quiet space where people sit and focus on their own painting. Very easy to co-exist with others.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "The dream would benefit from having electricity to allow painting at night. However, it is not necessary; the dream can be done without electricity.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "@weasleneune is our Dr. Bill-Bull, and is easiest found on the Discord!",
+          "value": "malachuse :)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "The Observatory",
+          "value": "The borderland is a fantastic place that can bring up a variety of colourful emotions. Sometimes, a quiet place to just sit with yourself and let your imagination flow is needed. That is the Imaginarium.\n\nIs there something you want to draw? Or maybe just want to quietly sit down and colour an elephant? Or perhaps you want to let out some emotions? The imaginarium is the space for it! Draw or paint whatever is in your mind, add to a collaborative painting or draw a card to guide you. Just let your imagination flow.\n\nThere are no classes, no expectations and no spectators.\n\nParticipants can:\n\n*   Sit and sketch\n    \n*   Paint on their own surface (canvas, cloth, paper) or contribute to a shared painting\n    \n*   Leave something behind or take your new creation with you.\n    \n\nThe only rule is to keep the space clean for others to use.\n\nCome as you are and leave a line, a colour or a feeling.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Me for now",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Through the power of SCIENCE we can now overcome the feeble limitations of individuated flesh-bodies and directly connect you with the hearts and minds of your beloved fellow humans. Trained experts will:\n\n1.  Connect your heart and brain to The Network\n    \n2.  Convert your heartbeat and EEG brain signals to pure authentic vibes\n    \n3.  Stream these vibes directly back to you in the form of sound and sight sensations, fully merging you with The Mind. \n    \n\n  \n\nListen to the sounds of the collective heartbeat. Think your thoughts distributed across a dual-organism substrate. Reinvent your understanding of both togetherness and self.",
+          "value": "The only unsafety part is that you get overwhelmed by what to draw/paint but you can take a guiding card for that :)",
           "customField": {
-            "name": "Description"
+            "name": "Safety"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "First EEG (BrainLink Pro)",
-          "min": 2500,
-          "max": null,
-          "type": "INCOME"
+          "description": "Canvases",
+          "min": 187,
+          "max": 340,
+          "type": "EXPENSE"
         },
         {
-          "description": "Small technical components ",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
+          "description": "Cloths",
+          "min": 187,
+          "max": 340,
+          "type": "EXPENSE"
         },
         {
-          "description": "10 Heart rate monitors",
-          "min": 4500,
+          "description": "Paint",
+          "min": 200,
+          "max": 340,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Pencil colours",
+          "min": 370,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Raspberry pi for integration",
-          "min": 500,
-          "max": null,
+          "description": "Charcoal",
+          "min": 187,
+          "max": 340,
           "type": "EXPENSE"
         },
         {
-          "description": "Projector",
-          "min": 500,
-          "max": null,
+          "description": "Cleaning, waste water, water buckets",
+          "min": 187,
+          "max": 343,
           "type": "EXPENSE"
         },
         {
-          "description": "Second EEG (BrainLink Pro)",
-          "min": 0,
-          "max": 2500,
+          "description": "Markers",
+          "min": 187,
+          "max": 343,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Weather safe structure (tarp)",
+          "min": 250,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 3000,
-      "percentageFundedTrue": 54.55
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnvz6cdw000jguzgskj5bujb",
@@ -70047,66 +70057,63 @@
       "percentageFundedTrue": 100.11
     },
     {
-      "id": "cmnw9w19s0010db4wd8z3dkln",
-      "title": "The imaginarium",
-      "summary": "The Imaginarium is the space for you to come, sit and draw/paint whatever is in your mind.",
+      "id": "cmnwae15t0002uvw3ay8tksqu",
+      "title": "Astral Veil",
+      "summary": "Lie beneath a living sky of light and sound. Astral Veil is a place to stop moving, stop thinking, and just be somewhere else for a while.",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 17,
+      "noOfFunders": 40,
       "noOfComments": 0,
-      "percentageFunded": 128.2,
-      "minGoal": 1755,
-      "maxGoal": 2666,
-      "income": 0,
+      "percentageFunded": 215.71,
+      "minGoal": 7730,
+      "maxGoal": 10730,
+      "income": 11500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776031521/dreams/bunzrwebiu3poqnjmctu.svg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776516235/dreams/gqzlbnd2cphcsjfjv5oz.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776515915/dreams/gpnxu9m3jbczbgxiwwty.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776516282/dreams/oz4jyp5gk1hst83y8jga.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776516974/dreams/y1wzxwfqkpbdfidvoyl4.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Minimum to zero. Perhaps a small ambient/instrumental sound.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The dream will be removed after 3 days. The paintings left within The Imaginarium will be taken with me. Only using biodegradable painting.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "It is a quiet space where people sit and focus on their own painting. Very easy to co-exist with others.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "The dream would benefit from having electricity to allow painting at night. However, it is not necessary; the dream can be done without electricity.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "malachuse :)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "The borderland is a fantastic place that can bring up a variety of colourful emotions. Sometimes, a quiet place to just sit with yourself and let your imagination flow is needed. That is the Imaginarium.\n\nIs there something you want to draw? Or maybe just want to quietly sit down and colour an elephant? Or perhaps you want to let out some emotions? The imaginarium is the space for it! Draw or paint whatever is in your mind, add to a collaborative painting or draw a card to guide you. Just let your imagination flow.\n\nThere are no classes, no expectations and no spectators.\n\nParticipants can:\n\n*   Sit and sketch\n    \n*   Paint on their own surface (canvas, cloth, paper) or contribute to a shared painting\n    \n*   Leave something behind or take your new creation with you.\n    \n\nThe only rule is to keep the space clean for others to use.\n\nCome as you are and leave a line, a colour or a feeling.",
+          "value": "Crawl inside, lie down, and look up. Above you, a living sky breathes in slow waves of color and light. A low hum pulls you deeper. You are somewhere else now. Somewhere vast and quiet. Further away, and deeper within you. A place to dissolve into somethingness for a while.\n\nFunds will mainly be used to build a wooden structure creating a dark space for the art.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Me for now",
+          "value": "Estimated total usage is around 30 kWh for the week",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Electricity"
           }
         },
         {
-          "value": "The only unsafety part is that you get overwhelmed by what to draw/paint but you can take a guiding card for that :)",
+          "value": "Anton Ullenius",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Plan to strike on Sunday and Monday.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Will be using a small speaker",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "The structure is solid and all electrical components are safely installed and weather-protected.",
           "customField": {
             "name": "Safety"
           }
@@ -70115,56 +70122,74 @@
       "tags": [],
       "budgetItems": [
         {
-          "description": "Canvases",
-          "min": 187,
-          "max": 340,
+          "description": "Speakers",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Projector, cables etc. ",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Strings & net",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Matresses, pillows, blankets",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Textiles",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Wood for structure (framing & panels)",
+          "min": 5610,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Cloths",
-          "min": 187,
-          "max": 340,
+          "description": "Metal parts",
+          "min": 720,
+          "max": null,
           "type": "EXPENSE"
         },
         {
           "description": "Paint",
-          "min": 200,
-          "max": 340,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Pencil colours",
-          "min": 370,
+          "min": 900,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Charcoal",
-          "min": 187,
-          "max": 340,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cleaning, waste water, water buckets",
-          "min": 187,
-          "max": 343,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Markers",
-          "min": 187,
-          "max": 343,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Weather safe structure (tarp)",
-          "min": 250,
+          "description": "Waterproofing",
+          "min": 500,
           "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Second hand portable AC",
+          "min": 0,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Matresses, pillows, blankets",
+          "min": 0,
+          "max": 1500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 11500,
+      "percentageFundedTrue": 148.77
     },
     {
       "id": "cmnw5od9g007qapl9u2c5pl93",
@@ -77072,131 +77097,106 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnvucatu002cgxam3bh4ng52",
-      "title": "Boothy call",
-      "summary": "We’re bringing back the analog thrill of the phone call. Two phone booths, a whimsical  fever dream, a high-stakes social roulette for the brave and and bored. ",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 51,
+      "id": "cmnvx57vo006s12ne52k3pyiy",
+      "title": "Fairytale Garden Spread",
+      "summary": "A magical table spread for fairytale creatures with a spell giving special restrictions: No talking and no putting food in your own mouth.",
+      "status": "FUNDED",
+      "noOfFunders": 22,
       "noOfComments": 0,
-      "percentageFunded": 208.89,
-      "minGoal": 6500,
-      "maxGoal": 9500,
-      "income": 7500,
+      "percentageFunded": 166.05,
+      "minGoal": 1900,
+      "maxGoal": 3700,
+      "income": 800,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003099/dreams/booubdszpi2r3mdn0r12.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776008028/dreams/mld65i0lndvohcrtxosk.png"
         }
       ],
       "customFields": [
         {
-          "value": "Phony Operators",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "We’re bringing back the analog thrill of the phone call, but we’ve totally lost the plot. _Make a Boothy Call_ features two phone booths decked out in a whimsical, 'teenage-core' fever dream—think stickers, pink, and pure nostalgia.\n\nThese aren't just phones; they're a direct line to the unknown. Hidden somewhere else in Borderland is the second booth, and the only rule is: Pick up when it rings. It’s high-stakes social roulette for the brave and the bored. You might find yourself on a spontaneous blind date with a stranger across the playa, getting grilled by a ”reporter” from Smålandstidningen, or debating a conspiracy theorist about why horses aren't real. No DMs, no ghosting, back to the real deal. Your boothy call is waiting.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Sandra Bergström",
+          "value": "Martin Nielsen",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Low risk.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Will be taken down and transported away by strike day.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "minimal, for lights.",
+          "value": "A tiny bit for the chockolate fountain. Probably nothing that needs particular planning other than power supplied to the Gazebo anyway.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Takes up little space. will not be placed too close to camping.",
+          "value": "We will provide hand sanitizer to everyone who joins :)",
           "customField": {
-            "name": "Co-existence"
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "A table spread with fresh fruit, running chockolate from a fountain and other delicacies, to be shared among magical creatures in the Secret Garden. But there is a catch: A spell means you cannot talk, and you cannot put food in your own mouth, so you will have to engage with the others creatures to get fed, and communicate only non-verbally.\n\nWhile we know many of our guests already dress very fariy-tale like, you are invited to borrow one of our masks to get even more in the mood.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Secret Garden",
+          "customField": {
+            "name": "This dream belongs to camp:"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Art installation"
-        },
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Game"
-        },
-        {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Weird shit"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Deco, fabrics and props",
-          "min": 3000,
+          "description": "Decoration",
+          "min": 300,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Paint",
-          "min": 1500,
+          "description": "Masks",
+          "min": 500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Stringlights",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Building material",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Technical setup: Phones, speaker, batteries, lights and ringing device",
-          "min": 3000,
-          "max": 5000,
+          "description": "Chockolate fountain",
+          "min": 400,
+          "max": 700,
           "type": "EXPENSE"
         },
         {
-          "description": "Building materials for booth (wood, board, screws)",
-          "min": 2500,
+          "description": "Masks",
+          "min": 400,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Decoration",
+          "min": 300,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Deco/props",
-          "min": 1000,
-          "max": 2000,
+          "description": "Fruit",
+          "min": 300,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Chockolate",
+          "min": 200,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cheese",
+          "min": 300,
+          "max": 800,
           "type": "EXPENSE"
         }
       ],
-      "funded": 7500,
-      "percentageFundedTrue": 115.38
+      "funded": 800,
+      "percentageFundedTrue": 42.11
     },
     {
       "id": "cmmo4ot1t0001fy6csyp1icd1",
