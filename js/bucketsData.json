@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1778400463672,
+  "updatedAt": 1778492347487,
   "buckets": [
     {
       "id": "cmnp2gjtc000co1pjbl8p2vq2",
@@ -3262,7 +3262,7 @@
       "summary": "Ceramic alchemy at the Borderland. A sanctuary of clay and a ritual of fire. Transform raw earth into rainbow or structural glaze art through the magic of Raku.",
       "status": "PARTIAL_FUNDING",
       "noOfFunders": 106,
-      "noOfComments": 7,
+      "noOfComments": 8,
       "percentageFunded": 127.9,
       "minGoal": 25566,
       "maxGoal": 29420,
@@ -7704,7 +7704,7 @@
       "id": "cmnw3yo3w001g69epvhw4i34q",
       "title": "Pimp Our Clown Ride",
       "summary": "This is not just a golf cart.\nThis is an opportunity to transform something simple into one of the festival’s most beloved and needed little helper. ",
-      "status": "PARTIAL_FUNDING",
+      "status": "FUNDED",
       "noOfFunders": 15,
       "noOfComments": 1,
       "percentageFunded": 114.45,
@@ -17959,7 +17959,7 @@
       "id": "cmnvtkcvn001waowoz3u1x6t1",
       "title": "The crazy crocheted camera covers",
       "summary": "Help us cover the Alversjö security cameras in a funny way",
-      "status": "PARTIAL_FUNDING",
+      "status": "FUNDED",
       "noOfFunders": 7,
       "noOfComments": 0,
       "percentageFunded": 300,
@@ -24039,118 +24039,209 @@
       "percentageFundedTrue": 177.78
     },
     {
-      "id": "cmnlupwpa0007nnus8mufmmia",
-      "title": "Water slides to the people!",
-      "summary": "Wanna get wet? Wanna be fast? Wanna revenge some childhood grudges?  This year you can slide your way down the hills",
+      "id": "cmnoh6d1e000a4infhcdklvx1",
+      "title": "SALT ROCK CITY 🧂",
+      "summary": "We are addicts. To be precise: Salt addicts. Borderland’s first ever salt bar is coming back! Because an extra pinch of salt makes life worth living! 🧂",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 50,
-      "noOfComments": 3,
-      "percentageFunded": 268.98,
-      "minGoal": 2470,
-      "maxGoal": 6745,
-      "income": 2000,
+      "noOfFunders": 78,
+      "noOfComments": 0,
+      "percentageFunded": 412.04,
+      "minGoal": 16300,
+      "maxGoal": 16300,
+      "income": 52500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775399058/dreams/lvkmszcp8cdzwtcwo3p1.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775557853/dreams/w3ddnsc7ymygssls7puk.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Espen Ravlo",
+          "value": "The Goslings. We brought SALT ROCK CITY last year, and you showed us THE LOVE! We want to bring and gift so much more love, again, and in the currency of, well, SALT, obviously! (what did you expect??..)\n\nWe are the same addicts who brought you **COFFEE ADDICTS ANONYMOUS** ☕️ over the past few years!",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "nope",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "slide along",
+          "value": "We are a small-ish camp that plans this dream. We will cater to everyone, and invite you to our establishment during the BL, whether you are a salt addict or not.\n\n### **We will have Emergency salt packets for all your explorations of Alversjo’s deep playa!**\n\nSRC will address Salt addicts’ Fear Of Running Out (of salt), or FORO. It is a scary world out there, and food gifted anywhere on the playa, near or far, is more likely to have insufficient amount of salt!\n\nWe will help you regain control of your life, and salt levels, by handing out much needed, LNT appropriate salt packets to all of our salt addicts comrades and their baffled friends. For times of emergency, or just to quieten your FORO anxiety by a mere pinch or so.\n\n### **_And voila! Now your food is worth eating!_**",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "The speed will not be unsafe. The ground will be cleaned for potential objects prior to installment",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Removed and cleaned after use. Only super friendly ecological soap will be used. Users have to rinse off if they want to swim afterwards",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "There will be casual fun sliding, but also a day of competition and betting! Hopefully placed on Sunny Hills. Come there to slide, watch or get rich of knowing who is the fastest!\n\ntwo-four of these babies: [https://www.amazon.com/dp/B0DP3754VY/ref=sspa\\_dk\\_hqp\\_detail\\_aax\\_0?sp\\_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&th=1](https://www.amazon.com/dp/B0DP3754VY/ref=sspa_dk_hqp_detail_aax_0?sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&th=1)",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Some music from a small portable speaker on race day. Around 80 db.",
+          "value": "Just a soundbox to play not so loud tunes at times. We could really do with a small speaker, but in reality, we have a soundbox 🤷🏻‍♀️",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Two camp cooperation.",
+          "value": "We are known for our superior LNT skills! We will leave our little territory unmarked and looking better than we found it. Because meow!",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Each Borderlings is responsible for their own health at Salt Rock City. To help with that, we will provide blood pressure tests for our guests!\n\nNo safety issues or hazards otherwise.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Yes, max consumption of 2000w",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Denya Blas",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We’re a bunch of friendly neighbourhood salt + coffee addicts, and dream of a neighbourhood with projects that will complement ours. \n\nWe are participating in the pre-placement process, and currently in conversation with other camps and projects to create a plaza that gathers dreams and camps with similar vibes!",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "## Following last year's success, SALT ROCK CITY (SRC) is coming back to the Borderland! We learnt plenty about the common Borderling's salty needs, and following last year’s emergency salt supply and tasting provided by yours truly, and consumed by the lot of ya, we will provide for all your increased consumption of such , that left you begging for MORE.\n\nWe will make sure there’s plenty of salt for everyone to survive the Borderland and that no one gets dehydrated, but also medical personnel to check your blood pressure levels.\n\n### **What's on the menu?**\n\n🔮 We will help you understand just how much of a salt addict you are with a specialized questionnaire and some experimental snacking.\n\n🍡 Here you will experience SRC’s unique salt tasting journey, complete with a salt reading to pinpoint what type of salt you are, and a special salt ceremony to address whatever voodoo your salty soul needs on that singular savory occasion.\n\n🍹 We will serve our now-famous fancy electrolyte based drinks and home(playa)-made heavenly delights and snacks to replenish all the salts and minerals you danced off last night. \n\n### **As always, We will make sure you get enough emergency salt packets for your explorations of Alversjo’s deep playa!**",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Bar"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Food"
+        },
+        {
+          "value": "Pre-placement"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Small portable speaker ",
+          "description": "SALT, electrolytes and other dry ingredients (with very long shelf-life) that we have from last year (stored carefully and responsibly!)",
           "min": 2000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Two water slides, see link in description",
+          "description": "Sign making: Access to makers space and laser cutter machine time cost",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Plenty of decor we have acquired over the years and used in many burns - pillows, fabrics, carpets, tables etc. (we store our stuff really well and bring them to all the burns!)",
+          "min": 15000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "A bar we built (served us since the BL 2018!)",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Lots of existing cooking and serving equipment",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "A huge bell tent",
+          "min": 13000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "benches and table for salt connoisseur guests",
+          "min": 3500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "A creative storage solution: space in a barn granted to us, in exchange for helping the farm it belongs to",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Alcohol (through camp fee) and home-fermented drinks ",
+          "min": 4000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "a professional face painting set up (tools+materials) wil be brought by our make-up artist camp member",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": " SALT! More and different types of salts for tasting and activities",
+          "min": 1200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Edibles: *non-alcoholic* ingredients for our famous minerals enriched heavenly delights and fabulous drinks and electro-cocktails (",
+          "min": 1200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": " Table and benches for our visitors  (Last year we had to use our camp’s equipment for the project. It made us realise that it is essential for the dream this year)",
+          "min": 3700,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Awning for the bell tent (for additional sheltered outside space for guests)",
+          "min": 2200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": " Salt props, accessories and cooking tools (serving bowls for specialty snacks, salt and other surprises)",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": " Sign making materials: plywood for a laser cut/engraved sign",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": " Transport - Van rental, gas and tolls (Norway, you know) (sharing transport costs with another project)",
+          "min": 4000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "special decor to reflect a salt bar",
           "min": 1500,
-          "max": 3000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Eco soap: https://csoaps.com/products/oppvasksape?variant=48008945369365",
+          "description": "special face painting materials for the Salt+minerals theme",
           "min": 500,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Outfit bookmaker for bets",
-          "min": 0,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cheer megaphone",
-          "min": 110,
-          "max": 162,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Super soaker",
-          "min": 260,
-          "max": 733,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Deco",
-          "min": 100,
-          "max": 350,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 2000,
-      "percentageFundedTrue": 80.97
+      "funded": 52500,
+      "percentageFundedTrue": 322.09
     },
     {
       "id": "cmnuvc228001lazj886h3yakf",
@@ -29890,7 +29981,7 @@
       "summary": "The \"living room\" of Borderland—a place that feels warm and analog.",
       "status": "PARTIAL_FUNDING",
       "noOfFunders": 42,
-      "noOfComments": 15,
+      "noOfComments": 14,
       "percentageFunded": 20122,
       "minGoal": 100,
       "maxGoal": 39500,
@@ -44111,136 +44202,179 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnm1h2u70000106e0ddftjvr",
-      "title": "Crystal Trees of Life: Magic Maker's Moment",
-      "summary": "Grow a tiny tree of life from wire and gemstones. Wear it, hang it, or gift it to someone you love. No experience needed, just your hands and a little wonder.",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 21,
+      "id": "cmno9hsk20001ijcxlggt3bj3",
+      "title": "Alba's Wagon of devotion x rosewatercult universe",
+      "summary": "Is it a bird? Is it a plane? Is it a DJ booth or a garden cart? Nobody knows. But there's free offerings and the bass is getting louder.",
+      "status": "FUNDED",
+      "noOfFunders": 44,
       "noOfComments": 0,
-      "percentageFunded": 103.96,
-      "minGoal": 1792,
-      "maxGoal": 3586,
-      "income": 75,
+      "percentageFunded": 809.93,
+      "minGoal": 5900,
+      "maxGoal": 21800,
+      "income": 32700,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775410485/dreams/szpigyydzo2bvugerfpk.avif"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775909484/dreams/cg9hmgiwrtfznsrbwaqm.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775410655/dreams/pmwiunjd6hyjhxy2i4wm.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775909494/dreams/kfdyu80b2nrdiu153sei.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775410666/dreams/kglmfgvdqbgfbgumjz9l.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775909500/dreams/u2vyl3kulf8x2vufdsls.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775909621/dreams/prgbxrjbbwlgblx2k5d2.png"
         }
       ],
       "customFields": [
         {
-          "value": "Jousting Jesters",
+          "value": "Disciples of Alba",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Quiet. Conversation-level or low gentle music at most.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "In the middle of all this beautiful chaos, come sit down and make something with your hands.\n\nYou'll twist your own tree of life from gold-toned wire and colourful crystal beads: shaping a trunk, fanning out branches, and decorating crystals until something alive-looking emerges. It's tactile, meditative, and quietly magical.\n\nYou choose what form it takes: a hanging dreamcatcher with crystals swaying below, a pendant on a necklace chain, or a pair of earrings. All tools and materials are provided. No experience or skill required, just curiosity and a willingness to get your fingers a little tangled.\n\nThe session is drop-in friendly and take roughly 2 hours. Come alone, drag your campmates, or stumble in mid-adventure.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "You bring the intention, we bring the materials. You co-create by attending. These will be like a maker's space rather than a very structured workshop.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "A calm, seated craft space with no loud music or flashing lights. Just some tools, and good company. We welcome neighbours, wanderers, and anyone who needs a quiet moment to make something beautiful.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Discord handle: amalief",
+          "value": "[schnei38@gmail.com](mailto:schnei38@gmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "All tools (wire cutters, pliers) will be handled with care. All MOOP will be discarded after the event.",
+          "value": "Gear strapped down, wheels locked, cables taped, tarp ready for rain, and if a camp says \"not now\" we move on. The Wagon is fun, not reckless. Mostly.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "No need.",
+          "value": "High, but will be moving within sound camp areas",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "*   Borderlings feets, hands and booties to move.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "A wagon. Speakers. No schedule. No location. No warning.  \n  \nWe roll up out of nowhere, blast music, place a mysterious offering in your hands, throw a party, and vanish. By the time you say \"was that a DJ on a cart giving me things?\" we're three camps away doing it again. A flash mob that never rehearsed, powered by blind faith and questionable decisions. Simultaneously a shrine, a nightclub, and a vehicle. We refuse to choose.  \n  \nWe don't just throw parties, we bring them TO YOU. Open for collabs. Roll into your camp, link up with your sound, merge dance floors, or turn your Tuesday into something unexplainable. Let's talk!  \n  \nAt some point, the Disciples of Alba x Rosewater Cult Universe collide for The Rosewater Cult Boom Party. An unholy ceremony of bass, rosewater, and devotion. Details are sacred. Attendance is mandatory. Robes optional, but encouraged  \n  \nTIME: Unknown. PLACE: Unknown. OFFERINGS: Guaranteed.  \n  \nWhat we have: Boomboxes. A DJ table. Lights. Enthusiasm. What we need: Your vote to build the wagon and haunt Borderland like a holy ghost on wheels. What will you receive? No one knows. Not even us. But the Wagon provides.  \n  \nYou can't find us. You can only be found.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "No, but we have an extremely handsome electrician…",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "All tools, leftover materials, and equipment are packed. Any wire scraps or crystal beads will be collected and disposed of.",
+          "value": "The Wagon arrives without warning and disappears the same way. On the final day, the Disciples will perform one last sacred ritual: cleaning up. Every cable, every cup, every suspicious piece of glitter will be hunted down and removed with the same energy we bring to the dance floor.\n\nBut if a rogue sequin escapes, we have a designated MOOP Disciple whose sole purpose is to crawl the ground and restore it to its pre-Wagon state. They volunteered. Sort of.\n\nThe wagon itself gets dismantled, loaded up, and driven home. The only thing we leave behind is the faint memory of a party you're not entirely sure happened.",
           "customField": {
             "name": "Strike plan"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Art vehicle"
+        },
+        {
+          "value": "Game"
+        },
+        {
+          "value": "Playful"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Crystal beads (~600 pieces)",
-          "min": 75,
+          "description": "DJ Table",
+          "min": 7000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Crystal beads",
-          "min": 348,
-          "max": 696,
+          "description": "2x SoundBoks",
+          "min": 20000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Coffee brewer",
+          "min": 600,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Decoration",
+          "min": 600,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Cable management",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Disco Lights",
+          "min": 4000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "1 - 2x Garden Wagons",
+          "min": 2000,
+          "max": 5000,
           "type": "EXPENSE"
         },
         {
-          "description": "Rings (different sizes, from dreamcatcher to jewellery-size)",
-          "min": 374,
-          "max": 748,
+          "description": "1 - 2x Plywood + Brackets (DJ Platform)",
+          "min": 1000,
+          "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "Earring hooks",
-          "min": 87,
-          "max": 174,
+          "description": "1- 2x LED Strips",
+          "min": 250,
+          "max": 1400,
           "type": "EXPENSE"
         },
         {
-          "description": "Jewellery tongs",
-          "min": 249,
-          "max": 498,
+          "description": "min 10x coffee",
+          "min": 1200,
+          "max": 3400,
           "type": "EXPENSE"
         },
         {
-          "description": "Wire (different diameters)",
-          "min": 436,
-          "max": 873,
+          "description": "min 10x oatmilk",
+          "min": 200,
+          "max": 800,
           "type": "EXPENSE"
         },
         {
-          "description": "Jewellery chain roll",
-          "min": 99,
-          "max": 198,
+          "description": "Decoration (Paint, Stickers, Wraps)",
+          "min": 400,
+          "max": 2200,
           "type": "EXPENSE"
         },
         {
-          "description": "Larger (fake) gemstones",
-          "min": 199,
-          "max": 399,
+          "description": "Serving (Thermos, dispencers, coolbox)",
+          "min": 350,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport of the Wagon (truck rental)",
+          "min": 500,
+          "max": 4000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 75,
-      "percentageFundedTrue": 4.19
+      "funded": 32700,
+      "percentageFundedTrue": 554.24
     },
     {
       "id": "cmnu0hl8g000334i9629q6ys6",
@@ -50063,7 +50197,7 @@
       "summary": "The first ever sapphic meeting point at Borderland! The Pond invokes all lesbians, bi, curious and pansexual women to emerge from the waters 💦 ",
       "status": "PARTIAL_FUNDING",
       "noOfFunders": 65,
-      "noOfComments": 3,
+      "noOfComments": 5,
       "percentageFunded": 115.06,
       "minGoal": 11111,
       "maxGoal": 33333,
@@ -51282,179 +51416,118 @@
       "percentageFundedTrue": 292.4
     },
     {
-      "id": "cmno9hsk20001ijcxlggt3bj3",
-      "title": "Alba's Wagon of devotion x rosewatercult universe",
-      "summary": "Is it a bird? Is it a plane? Is it a DJ booth or a garden cart? Nobody knows. But there's free offerings and the bass is getting louder.",
+      "id": "cmnlupwpa0007nnus8mufmmia",
+      "title": "Water slides to the people!",
+      "summary": "Wanna get wet? Wanna be fast? Wanna revenge some childhood grudges?  This year you can slide your way down the hills",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 44,
-      "noOfComments": 0,
-      "percentageFunded": 809.93,
-      "minGoal": 5900,
-      "maxGoal": 21800,
-      "income": 32700,
+      "noOfFunders": 50,
+      "noOfComments": 3,
+      "percentageFunded": 268.98,
+      "minGoal": 2470,
+      "maxGoal": 6745,
+      "income": 2000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775909484/dreams/cg9hmgiwrtfznsrbwaqm.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775909494/dreams/kfdyu80b2nrdiu153sei.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775909500/dreams/u2vyl3kulf8x2vufdsls.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775909621/dreams/prgbxrjbbwlgblx2k5d2.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775399058/dreams/lvkmszcp8cdzwtcwo3p1.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Disciples of Alba",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "[schnei38@gmail.com](mailto:schnei38@gmail.com)",
+          "value": "Espen Ravlo",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Gear strapped down, wheels locked, cables taped, tarp ready for rain, and if a camp says \"not now\" we move on. The Wagon is fun, not reckless. Mostly.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "High, but will be moving within sound camp areas",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "*   Borderlings feets, hands and booties to move.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "A wagon. Speakers. No schedule. No location. No warning.  \n  \nWe roll up out of nowhere, blast music, place a mysterious offering in your hands, throw a party, and vanish. By the time you say \"was that a DJ on a cart giving me things?\" we're three camps away doing it again. A flash mob that never rehearsed, powered by blind faith and questionable decisions. Simultaneously a shrine, a nightclub, and a vehicle. We refuse to choose.  \n  \nWe don't just throw parties, we bring them TO YOU. Open for collabs. Roll into your camp, link up with your sound, merge dance floors, or turn your Tuesday into something unexplainable. Let's talk!  \n  \nAt some point, the Disciples of Alba x Rosewater Cult Universe collide for The Rosewater Cult Boom Party. An unholy ceremony of bass, rosewater, and devotion. Details are sacred. Attendance is mandatory. Robes optional, but encouraged  \n  \nTIME: Unknown. PLACE: Unknown. OFFERINGS: Guaranteed.  \n  \nWhat we have: Boomboxes. A DJ table. Lights. Enthusiasm. What we need: Your vote to build the wagon and haunt Borderland like a holy ghost on wheels. What will you receive? No one knows. Not even us. But the Wagon provides.  \n  \nYou can't find us. You can only be found.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "No, but we have an extremely handsome electrician…",
+          "value": "nope",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "The Wagon arrives without warning and disappears the same way. On the final day, the Disciples will perform one last sacred ritual: cleaning up. Every cable, every cup, every suspicious piece of glitter will be hunted down and removed with the same energy we bring to the dance floor.\n\nBut if a rogue sequin escapes, we have a designated MOOP Disciple whose sole purpose is to crawl the ground and restore it to its pre-Wagon state. They volunteered. Sort of.\n\nThe wagon itself gets dismantled, loaded up, and driven home. The only thing we leave behind is the faint memory of a party you're not entirely sure happened.",
+          "value": "slide along",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "The speed will not be unsafe. The ground will be cleaned for potential objects prior to installment",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Removed and cleaned after use. Only super friendly ecological soap will be used. Users have to rinse off if they want to swim afterwards",
           "customField": {
             "name": "Strike plan"
           }
-        }
-      ],
-      "tags": [
-        {
-          "value": "Art vehicle"
         },
         {
-          "value": "Game"
+          "value": "There will be casual fun sliding, but also a day of competition and betting! Hopefully placed on Sunny Hills. Come there to slide, watch or get rich of knowing who is the fastest!\n\ntwo-four of these babies: [https://www.amazon.com/dp/B0DP3754VY/ref=sspa\\_dk\\_hqp\\_detail\\_aax\\_0?sp\\_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&th=1](https://www.amazon.com/dp/B0DP3754VY/ref=sspa_dk_hqp_detail_aax_0?sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk&th=1)",
+          "customField": {
+            "name": "Description"
+          }
         },
         {
-          "value": "Playful"
+          "value": "Some music from a small portable speaker on race day. Around 80 db.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Two camp cooperation.",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "DJ Table",
-          "min": 7000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "2x SoundBoks",
-          "min": 20000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Coffee brewer",
-          "min": 600,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Decoration",
-          "min": 600,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Cable management",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Disco Lights",
-          "min": 4000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "1 - 2x Garden Wagons",
+          "description": "Small portable speaker ",
           "min": 2000,
-          "max": 5000,
-          "type": "EXPENSE"
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "1 - 2x Plywood + Brackets (DJ Platform)",
-          "min": 1000,
+          "description": "Two water slides, see link in description",
+          "min": 1500,
           "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "1- 2x LED Strips",
-          "min": 250,
-          "max": 1400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "min 10x coffee",
-          "min": 1200,
-          "max": 3400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "min 10x oatmilk",
-          "min": 200,
-          "max": 800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Decoration (Paint, Stickers, Wraps)",
-          "min": 400,
-          "max": 2200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Serving (Thermos, dispencers, coolbox)",
-          "min": 350,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transport of the Wagon (truck rental)",
+          "description": "Eco soap: https://csoaps.com/products/oppvasksape?variant=48008945369365",
           "min": 500,
-          "max": 4000,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Outfit bookmaker for bets",
+          "min": 0,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cheer megaphone",
+          "min": 110,
+          "max": 162,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Super soaker",
+          "min": 260,
+          "max": 733,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Deco",
+          "min": 100,
+          "max": 350,
           "type": "EXPENSE"
         }
       ],
-      "funded": 32700,
-      "percentageFundedTrue": 554.24
+      "funded": 2000,
+      "percentageFundedTrue": 80.97
     },
     {
       "id": "cmnht66kb000011bbx4qcfmm3",
@@ -52670,7 +52743,7 @@
       "summary": "Enhance your playa experience with an on-the-spot-created poem about YOU!\nOr as a gift for your Borderland crush because you need help being romantic.",
       "status": "PARTIAL_FUNDING",
       "noOfFunders": 21,
-      "noOfComments": 8,
+      "noOfComments": 9,
       "percentageFunded": 114.52,
       "minGoal": 2760,
       "maxGoal": 5958,
@@ -59251,7 +59324,7 @@
       "summary": "This ball of matter grows throughout the week; anyone adds to it; everyone is loudly invited to be part of building it. It accumulates. Then it burns. ",
       "status": "FUNDED",
       "noOfFunders": 36,
-      "noOfComments": 9,
+      "noOfComments": 10,
       "percentageFunded": 125.71,
       "minGoal": 4667,
       "maxGoal": 4667,
@@ -73002,209 +73075,136 @@
       "percentageFundedTrue": 6.5
     },
     {
-      "id": "cmnoh6d1e000a4infhcdklvx1",
-      "title": "SALT ROCK CITY 🧂",
-      "summary": "We are addicts. To be precise: Salt addicts. Borderland’s first ever salt bar is coming back! Because an extra pinch of salt makes life worth living! 🧂",
+      "id": "cmnm1h2u70000106e0ddftjvr",
+      "title": "Crystal Trees of Life: Magic Maker's Moment",
+      "summary": "Grow a tiny tree of life from wire and gemstones. Wear it, hang it, or gift it to someone you love. No experience needed, just your hands and a little wonder.",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 78,
+      "noOfFunders": 21,
       "noOfComments": 0,
-      "percentageFunded": 412.04,
-      "minGoal": 16300,
-      "maxGoal": 16300,
-      "income": 52500,
+      "percentageFunded": 103.96,
+      "minGoal": 1792,
+      "maxGoal": 3586,
+      "income": 75,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775557853/dreams/w3ddnsc7ymygssls7puk.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775410485/dreams/szpigyydzo2bvugerfpk.avif"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775410655/dreams/pmwiunjd6hyjhxy2i4wm.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775410666/dreams/kglmfgvdqbgfbgumjz9l.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "The Goslings. We brought SALT ROCK CITY last year, and you showed us THE LOVE! We want to bring and gift so much more love, again, and in the currency of, well, SALT, obviously! (what did you expect??..)\n\nWe are the same addicts who brought you **COFFEE ADDICTS ANONYMOUS** ☕️ over the past few years!",
+          "value": "Jousting Jesters",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "We are a small-ish camp that plans this dream. We will cater to everyone, and invite you to our establishment during the BL, whether you are a salt addict or not.\n\n### **We will have Emergency salt packets for all your explorations of Alversjo’s deep playa!**\n\nSRC will address Salt addicts’ Fear Of Running Out (of salt), or FORO. It is a scary world out there, and food gifted anywhere on the playa, near or far, is more likely to have insufficient amount of salt!\n\nWe will help you regain control of your life, and salt levels, by handing out much needed, LNT appropriate salt packets to all of our salt addicts comrades and their baffled friends. For times of emergency, or just to quieten your FORO anxiety by a mere pinch or so.\n\n### **_And voila! Now your food is worth eating!_**",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Just a soundbox to play not so loud tunes at times. We could really do with a small speaker, but in reality, we have a soundbox 🤷🏻‍♀️",
+          "value": "Quiet. Conversation-level or low gentle music at most.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We are known for our superior LNT skills! We will leave our little territory unmarked and looking better than we found it. Because meow!",
+          "value": "In the middle of all this beautiful chaos, come sit down and make something with your hands.\n\nYou'll twist your own tree of life from gold-toned wire and colourful crystal beads: shaping a trunk, fanning out branches, and decorating crystals until something alive-looking emerges. It's tactile, meditative, and quietly magical.\n\nYou choose what form it takes: a hanging dreamcatcher with crystals swaying below, a pendant on a necklace chain, or a pair of earrings. All tools and materials are provided. No experience or skill required, just curiosity and a willingness to get your fingers a little tangled.\n\nThe session is drop-in friendly and take roughly 2 hours. Come alone, drag your campmates, or stumble in mid-adventure.",
           "customField": {
-            "name": "Strike plan"
+            "name": "Description"
           }
         },
         {
-          "value": "Each Borderlings is responsible for their own health at Salt Rock City. To help with that, we will provide blood pressure tests for our guests!\n\nNo safety issues or hazards otherwise.",
+          "value": "You bring the intention, we bring the materials. You co-create by attending. These will be like a maker's space rather than a very structured workshop.",
           "customField": {
-            "name": "Safety"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "Yes, max consumption of 2000w",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Denya Blas",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "We’re a bunch of friendly neighbourhood salt + coffee addicts, and dream of a neighbourhood with projects that will complement ours. \n\nWe are participating in the pre-placement process, and currently in conversation with other camps and projects to create a plaza that gathers dreams and camps with similar vibes!",
+          "value": "A calm, seated craft space with no loud music or flashing lights. Just some tools, and good company. We welcome neighbours, wanderers, and anyone who needs a quiet moment to make something beautiful.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "## Following last year's success, SALT ROCK CITY (SRC) is coming back to the Borderland! We learnt plenty about the common Borderling's salty needs, and following last year’s emergency salt supply and tasting provided by yours truly, and consumed by the lot of ya, we will provide for all your increased consumption of such , that left you begging for MORE.\n\nWe will make sure there’s plenty of salt for everyone to survive the Borderland and that no one gets dehydrated, but also medical personnel to check your blood pressure levels.\n\n### **What's on the menu?**\n\n🔮 We will help you understand just how much of a salt addict you are with a specialized questionnaire and some experimental snacking.\n\n🍡 Here you will experience SRC’s unique salt tasting journey, complete with a salt reading to pinpoint what type of salt you are, and a special salt ceremony to address whatever voodoo your salty soul needs on that singular savory occasion.\n\n🍹 We will serve our now-famous fancy electrolyte based drinks and home(playa)-made heavenly delights and snacks to replenish all the salts and minerals you danced off last night. \n\n### **As always, We will make sure you get enough emergency salt packets for your explorations of Alversjo’s deep playa!**",
+          "value": "Discord handle: amalief",
           "customField": {
-            "name": "Description"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "All tools (wire cutters, pliers) will be handled with care. All MOOP will be discarded after the event.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "No need.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "All tools, leftover materials, and equipment are packed. Any wire scraps or crystal beads will be collected and disposed of.",
+          "customField": {
+            "name": "Strike plan"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Bar"
-        },
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Food"
-        },
-        {
-          "value": "Pre-placement"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "SALT, electrolytes and other dry ingredients (with very long shelf-life) that we have from last year (stored carefully and responsibly!)",
-          "min": 2000,
+          "description": "Crystal beads (~600 pieces)",
+          "min": 75,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Sign making: Access to makers space and laser cutter machine time cost",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Plenty of decor we have acquired over the years and used in many burns - pillows, fabrics, carpets, tables etc. (we store our stuff really well and bring them to all the burns!)",
-          "min": 15000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "A bar we built (served us since the BL 2018!)",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lots of existing cooking and serving equipment",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "A huge bell tent",
-          "min": 13000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "benches and table for salt connoisseur guests",
-          "min": 3500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "A creative storage solution: space in a barn granted to us, in exchange for helping the farm it belongs to",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Alcohol (through camp fee) and home-fermented drinks ",
-          "min": 4000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "a professional face painting set up (tools+materials) wil be brought by our make-up artist camp member",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": " SALT! More and different types of salts for tasting and activities",
-          "min": 1200,
-          "max": null,
+          "description": "Crystal beads",
+          "min": 348,
+          "max": 696,
           "type": "EXPENSE"
         },
         {
-          "description": "Edibles: *non-alcoholic* ingredients for our famous minerals enriched heavenly delights and fabulous drinks and electro-cocktails (",
-          "min": 1200,
-          "max": null,
+          "description": "Rings (different sizes, from dreamcatcher to jewellery-size)",
+          "min": 374,
+          "max": 748,
           "type": "EXPENSE"
         },
         {
-          "description": " Table and benches for our visitors  (Last year we had to use our camp’s equipment for the project. It made us realise that it is essential for the dream this year)",
-          "min": 3700,
-          "max": null,
+          "description": "Earring hooks",
+          "min": 87,
+          "max": 174,
           "type": "EXPENSE"
         },
         {
-          "description": "Awning for the bell tent (for additional sheltered outside space for guests)",
-          "min": 2200,
-          "max": null,
+          "description": "Jewellery tongs",
+          "min": 249,
+          "max": 498,
           "type": "EXPENSE"
         },
         {
-          "description": " Salt props, accessories and cooking tools (serving bowls for specialty snacks, salt and other surprises)",
-          "min": 1000,
-          "max": null,
+          "description": "Wire (different diameters)",
+          "min": 436,
+          "max": 873,
           "type": "EXPENSE"
         },
         {
-          "description": " Sign making materials: plywood for a laser cut/engraved sign",
-          "min": 1000,
-          "max": null,
+          "description": "Jewellery chain roll",
+          "min": 99,
+          "max": 198,
           "type": "EXPENSE"
         },
         {
-          "description": " Transport - Van rental, gas and tolls (Norway, you know) (sharing transport costs with another project)",
-          "min": 4000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "special decor to reflect a salt bar",
-          "min": 1500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "special face painting materials for the Salt+minerals theme",
-          "min": 500,
-          "max": null,
+          "description": "Larger (fake) gemstones",
+          "min": 199,
+          "max": 399,
           "type": "EXPENSE"
         }
       ],
-      "funded": 52500,
-      "percentageFundedTrue": 322.09
+      "funded": 75,
+      "percentageFundedTrue": 4.19
     },
     {
       "id": "cmnqcct2w000z10u8f6om9z20",
@@ -73799,7 +73799,7 @@
       "summary": "Somewhere in the forest your singing will light the way ",
       "status": "PARTIAL_FUNDING",
       "noOfFunders": 30,
-      "noOfComments": 0,
+      "noOfComments": 1,
       "percentageFunded": 157.55,
       "minGoal": 900,
       "maxGoal": 2140,
