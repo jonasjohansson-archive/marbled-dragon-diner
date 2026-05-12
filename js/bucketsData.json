@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1778492347487,
+  "updatedAt": 1778575175193,
   "buckets": [
     {
       "id": "cmnp2gjtc000co1pjbl8p2vq2",
@@ -3262,7 +3262,7 @@
       "summary": "Ceramic alchemy at the Borderland. A sanctuary of clay and a ritual of fire. Transform raw earth into rainbow or structural glaze art through the magic of Raku.",
       "status": "PARTIAL_FUNDING",
       "noOfFunders": 106,
-      "noOfComments": 8,
+      "noOfComments": 9,
       "percentageFunded": 127.9,
       "minGoal": 25566,
       "maxGoal": 29420,
@@ -7616,89 +7616,83 @@
       "percentageFundedTrue": 80
     },
     {
-      "id": "cmnls78pt0000dbm9a8eki07m",
-      "title": "Piano in the forest is back!",
-      "summary": "Last years piano on the path to Muumimaa was appreciated by many. Borderland has unsurprisingly many piano players! ",
-      "status": "FUNDED",
-      "noOfFunders": 26,
+      "id": "cmnoe59520000whknff5c3c68",
+      "title": "PORTal's camera lens stickers 📸",
+      "summary": "Less lens, more sense.",
+      "status": "PARTIAL_FUNDING",
+      "noOfFunders": 31,
       "noOfComments": 1,
-      "percentageFunded": 1108.5,
-      "minGoal": 800,
-      "maxGoal": 2500,
-      "income": 7500,
+      "percentageFunded": 104.4,
+      "minGoal": 2500,
+      "maxGoal": 3500,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775398684/dreams/kpo3zg04fr7mik4uuv80.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775665599/dreams/ssdzd0rsyv8xzdtscgks.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Espen Ravlo",
+          "value": "Everyone is welcome to join the PORTal, contact us at discord!",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "Space in forest is cleaned up and piano is stored in barn as previous years",
+          "value": "The reality PORT",
           "customField": {
-            "name": "Strike plan"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Piano is secured to trees with ratchet straps",
+          "value": "We’re designing and producing stickers that cover phone camera lenses.\n\nNot to block your view, just to shift it 😜\n\nBy reducing photography, we create space for presence. Fewer cameras make it easier to relax, connect, and play without the feeling of being documented.\n\nEach participant will receive a sticker when entering the Borderland bubble through the PORTal 🫧",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "This dream has minimal impact on its surroundings. Stickers will be distributed freely on a roll at the PORTal. No noise, no structure, no special placement needed. We don't anticipate any negative effects on neighbors.\n\nSince stickers come on a roll at the gate, the greeters tear off the sticker on the spot and the participant puts it on the camera lens. This means any backing paper is handled right there at the entry point, where we will have a dedicated container for disposal.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "As safe as it gets — non-toxic, no structures, no installation. We'll source eco-friendly materials and verify that the adhesive won't damage surfaces like camera lenses.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Low and not amplified",
+          "value": "Stickers are distributed at the portal and taken away by participants. We will have a clearly marked bin for backing paper at the distribution point throughout the event. At strike, we pack up the roll(s), bin, and any remaining materials — nothing stays on the land. We'll also do a MOOP sweep of the surrounding area before leaving.",
           "customField": {
-            "name": "Sound levels"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "The piano is in storage, but it might need repair. The professional piano tuner is recruited as a member :)",
+          "value": "Sara Aras, contact on discord saraaras or by email: saraarasandersson@gmail.com",
           "customField": {
-            "name": "Description"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
       "tags": [
         {
-          "value": "Experience"
+          "value": "Healing"
         },
         {
-          "value": "Music"
+          "value": "Reality-as-a-Dream"
         }
       ],
       "budgetItems": [
         {
-          "description": "Piano, parasol, ratchet straps and trolley",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Professional tuner, now turned member:)",
+          "description": "6000 Stickers on roll inc. shipping",
           "min": 2500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Possible repair from winter etc",
-          "min": 500,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Lights and batteries",
-          "min": 300,
-          "max": 500,
+          "max": 3500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 7500,
-      "percentageFundedTrue": 937.5
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnw3yo3w001g69epvhw4i34q",
@@ -10391,202 +10385,281 @@
       "percentageFundedTrue": 17.14
     },
     {
-      "id": "cmmqdojzq0004aj9khm0pibvj",
-      "title": "A secret but very sparkling forest",
-      "summary": "The sparkling Forest is back. With some small additions but mostly we need maintainance and transport funds",
+      "id": "cmmqecrq2000hcwrrtdq7srmp",
+      "title": "The temple of digital oblivion",
+      "summary": "In physical temples we place letters, thoughts, pictures and let them burn, dissolve or just wither. But what about our digital memory? Our phone's photo album?",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 103,
-      "noOfComments": 4,
-      "percentageFunded": 807.74,
-      "minGoal": 10350,
-      "maxGoal": 10350,
-      "income": 75000,
+      "noOfFunders": 39,
+      "noOfComments": 0,
+      "percentageFunded": 84.26,
+      "minGoal": 26682,
+      "maxGoal": 26682,
+      "income": 11763,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773496036/dreams/pf96xm6wq6cp9olybf4y.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775685318/dreams/y1kyru1mvsjtirbduxcr.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "People singing. Nothing to be worried about.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The highest risk is a lamp falling down. They weigh under 200g and this usually doesn't happen.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Striking takes 30 seconds per lamp. A team of 5 can strike the entire thing in under an hour. Timed and tested.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Runs on batteries. I might want to charge those in the barn.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "@hdsjulian on discord.",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "There's a bunch of Borderlanders who have helped in the past. There's a few people who will donate an hour or two of their time to build and strike, but mainly it's me (Julian) doing the stuff.  \nIf there's collaborators willing to work on code improvements i'm very very glad to hear suggestions tho. There's still a bunch of ideas that could be realized!",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "I need about 30x30 meter of Forest. I have an idea where and will talk to placement about it.",
+          "value": "There should be no effect towards the surroundings.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "You walk through the forest down a hidden path. You end up in a little valley and encounter a microphone, a keyboard. You clear your throat and start to sing, and the entire forest lights up. Someone plays the piano, and you make the shadows dance with your music.\n\nThe sparkling forest is going to be back. With over two years of development time and more than 75000 SEK in development costs, partially paid for by the borderland.  \nWe theoretically have everything we need but the sparkling forest ist constantly improving. New casings have to be printed, some electronics exchanged, a midi controller added to make it easier for musicians to tweak the system to their needs. We need a hand cart to transport stuff back and forth and a light weight ladder to hang up the protective tarp (and to climb up a tree in an emergency).  \nTransport is also a larger item because we're bringing more than a cubic meter of stuff from Germany.",
+          "value": "It is the safest dream out there",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "@hdsjulian on discord",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We are a group from Hamburg who is building the tech, but are avidly seeking out helping hands by motivated people who can assist with the actual physical installation such as the sculptural casing of the fog screen/altar (both before BL and during build) so please reach out if that’s you!",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "We're building it so we can disassemble it all within an hour or so.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Almost completely quiet except for a quiet compressor, water pump, etc.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Shouldn't be more than 2kW. Still dependent on the overall tech that is used",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "The Temple of Digital Oblivion is a place to let go of your digital memories. You discover a shrine in the forest. You choose a picture and upload it to the installation (thanks to an app that you can pre-download or get on site via wifi). The picture is projected onto a wall of mist and once it dissolves, the photo gets deleted on your phone\n\n**Notes**:\n\n*   For the installation we are creating a fog/mist screen. We are aiming to use a fog machine or hazer for that purpose. However our first self-funded tests weren't satisfying enough, so we will likely switch to a water based solution which is more expensive, so we chose to have that reflected in the budget and if we find a cheaper solution, we'll use less budget\n    \n*   We understand that not everyone wants to bring their phone on the playa and are working on some alternatives to the App to include non-phone-participants\n    \n*   We are aware that there are potential privacy and safety concerns which is why the entire code will be published before the event. We're open to any kind of scrutiny regarding code and server setup and will guarantee that these pictures will not be saved anywhere, neither will the app delete anything from peoples' phones without their explicit consent",
           "customField": {
             "name": "Description"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Art installation"
+        },
+        {
+          "value": "Art walk apropriate"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Custom Bulit PCBs",
-          "min": 35000,
+          "description": "Computer fans",
+          "min": 3789,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Printer Filament",
-          "min": 3000,
+          "description": "Aluminium profiles",
+          "min": 2162,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Digital Piano",
-          "min": 6000,
+          "description": "Wiring and Electronics parts",
+          "min": 1081,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Control Units (Raspberry Pi and others)",
-          "min": 5000,
+          "description": "3d printed Parts",
+          "min": 1081,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Cables, Wires, etc ",
-          "min": 3000,
+          "description": "Aluminium Profile Connectors",
+          "min": 450,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Screws ",
-          "min": 2500,
+          "description": "Pipes and Tubes",
+          "min": 1200,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Microphone",
-          "min": 1000,
+          "description": "Power Supply",
+          "min": 550,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Microphone Stand and Keyboard Stand",
-          "min": 1000,
+          "description": "Computer Fan Wires, Plugs, Multipliers",
+          "min": 550,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Tools",
-          "min": 2000,
+          "description": "Used Freezer",
+          "min": 350,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Wires for hanging",
-          "min": 1500,
+          "description": "Screws",
+          "min": 550,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Telescopic Poles",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Batteries",
-          "min": 10000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Charging Infrastructure ",
-          "min": 2500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tarp",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Transport",
-          "min": 2500,
+          "description": "Compressor",
+          "min": 1100,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Filament",
-          "min": 1700,
+          "description": "Used ultra short throw projector",
+          "min": 3459,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Cables, Wires, etc",
-          "min": 1500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Midi controller",
-          "min": 1500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Tools (to fix stuff in the forest)",
-          "min": 1500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Light weight ladder",
+          "description": "Boxes for Casing",
           "min": 550,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Handcart",
+          "description": "Water Filtering Equipment",
+          "min": 430,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Piping",
+          "min": 550,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "PA Stands for Test setup",
+          "min": 513,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wood for the Shrine",
+          "min": 3300,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Screws",
+          "min": 550,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Roof Tiles",
+          "min": 3500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport",
+          "min": 2700,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cables",
+          "min": 330,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "3D printer filament ",
+          "min": 1300,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Flat Fan Venturi Nozzles",
           "min": 1100,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Aluminium Profiles",
+          "min": 800,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Aluminium Profile Connectors",
+          "min": 200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Atelier Space (2 Months",
+          "min": 3200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Solenoid Valves",
+          "min": 300,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Tubing",
+          "min": 300,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Water Pump ",
+          "min": 800,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Pneumatic Manifold",
+          "min": 100,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Collection Basin",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Water hoses",
+          "min": 800,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Water Hose connectors",
+          "min": 300,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 75000,
-      "percentageFundedTrue": 724.64
+      "funded": 11763,
+      "percentageFundedTrue": 44.09
     },
     {
       "id": "cmnvt9s4i000dgxamstaxzgpy",
@@ -15382,242 +15455,89 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnngnhwi000kfqeds4rlmhg1",
-      "title": "My little Pony Party 🌈🦄🥇🎉",
-      "summary": "Learn how to train/groom/style your (human) pony/unicorn in a whimsical workshop. \nFollowed by a Pony Show, with prizes. \nFinalizing with an epic Pony Party!",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 61,
-      "noOfComments": 4,
-      "percentageFunded": 101.05,
-      "minGoal": 6575,
-      "maxGoal": 12475,
-      "income": 0,
+      "id": "cmnls78pt0000dbm9a8eki07m",
+      "title": "Piano in the forest is back!",
+      "summary": "Last years piano on the path to Muumimaa was appreciated by many. Borderland has unsurprisingly many piano players! ",
+      "status": "FUNDED",
+      "noOfFunders": 26,
+      "noOfComments": 1,
+      "percentageFunded": 1108.5,
+      "minGoal": 800,
+      "maxGoal": 2500,
+      "income": 7500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775898010/dreams/typs24gpam56uhfxwgts.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775733429/dreams/cua9ptiuyqgmqjtq2ktf.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012734/dreams/vzmkgrxrw7y6ijn03uom.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012908/dreams/zxcsrnkddwzpt1g2rnft.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012928/dreams/rxqveymyngpbf3lanqtl.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012951/dreams/yjslmoy4fwp2kna8r8qq.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012992/dreams/flmbxlne9tbidhm6xpbg.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776013040/dreams/spzcefg4upmqrqxb6irh.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776013008/dreams/ncklnxjad9pefsk1dryy.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776468340/dreams/hfofiex7difhhku5cpmw.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775398684/dreams/kpo3zg04fr7mik4uuv80.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "End of the Rainbow",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "At the border of imagination and reality, lies the End of the Rainbow — a camp dedicated to play, transformation, and freedom of expression. Our dream is to host a fully immersive My Little Pony–inspired party, where participants step into a world of unicorns/ponies and their riders, exploring connection, trust, and playful power dynamics in a safe, creative space.\n\nThe evening begins with our signature workshop: “How to Train Your Unicorn.” This guided experience invites participants to embody unicorn or rider. We´ll provide costumes for bringing the fantasy to life. Through structured play, consent-based interaction, and humor, we explore leadership, surrender, communication, and trust.\n\nAs it unfolds, and riders/unicorns learn to move together, it all opens into a lively arena. Putting on a spectacular Pony Show (with prizes), and a playful jousting tournament. Think pool noodles, tumbling, cheering crowds, and over-the-top theatrics — it’s about spectacle and shared joy.\n\nThe night crescendos in a Unicorn/Pony Parade, where all participants roam the playa together in a celebration of connection, absurdity, and radical self-expression. It all ends at the End of the Rainbow, with an epic Pony Party, a s3x positive event (18+).",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "It will co exist fine with most, just NOT KID FRIENDLY. When we know our neighbors we will talk with them about the party etc.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We have fire extinguishers in place in emergency of fire. We also have consent angels for info and safety.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "This will be striked within our own camp strike.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "We are a sound camp and will place us in such area, and follow the sound guidelines.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Chrisaster (contact in here).",
+          "value": "Espen Ravlo",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Bring your own pony and come and co-create this absurd and playful experience with us. We are also open for other co-creations, if you feel we can help each other out. Feel free to write us down in the comments.",
+          "value": "Space in forest is cleaned up and piano is stored in barn as previous years",
           "customField": {
-            "name": "Co-creation"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "We will need eletricity for all lights, soundsystem and occasionally . Around 7000 watt (high estimate)",
+          "value": "Piano is secured to trees with ratchet straps",
           "customField": {
-            "name": "Electricity"
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Low and not amplified",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "The piano is in storage, but it might need repair. The professional piano tuner is recruited as a member :)",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [
         {
-          "value": "BurnerBox"
-        },
-        {
           "value": "Experience"
         },
         {
           "value": "Music"
-        },
-        {
-          "value": "NOT kids-friendly"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Queer"
-        },
-        {
-          "value": "Sex positive"
-        },
-        {
-          "value": "Soundcamp"
-        },
-        {
-          "value": "Venue"
-        },
-        {
-          "value": "Weird shit"
-        },
-        {
-          "value": "Workshop"
         }
       ],
       "budgetItems": [
         {
-          "description": "Unicorn Horns",
-          "min": 600,
-          "max": 800,
-          "type": "EXPENSE"
+          "description": "Piano, parasol, ratchet straps and trolley",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Pony Tails / Hair extensions",
-          "min": 450,
-          "max": 550,
-          "type": "EXPENSE"
+          "description": "Professional tuner, now turned member:)",
+          "min": 2500,
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Kneepads",
-          "min": 250,
-          "max": 350,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Riding whips",
-          "min": 400,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Saddles",
-          "min": 1000,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Pony grooming brushes",
-          "min": 200,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Leashes",
-          "min": 700,
-          "max": 900,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Knigth's helmet",
+          "description": "Possible repair from winter etc",
           "min": 500,
-          "max": 750,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Unicorn shields",
-          "min": 400,
-          "max": 800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Tutu's",
-          "min": 300,
           "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "Capes",
-          "min": 200,
-          "max": 400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cute tattoo's",
+          "description": "Lights and batteries",
           "min": 300,
           "max": 500,
           "type": "EXPENSE"
-        },
-        {
-          "description": "Glitter",
-          "min": 300,
-          "max": 400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Pool Noodles",
-          "min": 300,
-          "max": 450,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Inflatable dildo",
-          "min": 400,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Leprechaun suit",
-          "min": 275,
-          "max": null,
-          "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 7500,
+      "percentageFundedTrue": 937.5
     },
     {
       "id": "cmnokc48e0015ygaxmiua1w7v",
@@ -19640,239 +19560,242 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnlwnfek0000lfnooz5y7han",
-      "title": "The Ballroom Bliss",
-      "summary": "Disco daytime party, ice-cold drinks, great sound & lovely people!",
+      "id": "cmnngnhwi000kfqeds4rlmhg1",
+      "title": "My little Pony Party 🌈🦄🥇🎉",
+      "summary": "Learn how to train/groom/style your (human) pony/unicorn in a whimsical workshop. \nFollowed by a Pony Show, with prizes. \nFinalizing with an epic Pony Party!",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 54,
-      "noOfComments": 12,
-      "percentageFunded": 1125.55,
-      "minGoal": 8500,
-      "maxGoal": 20500,
-      "income": 91000,
+      "noOfFunders": 61,
+      "noOfComments": 4,
+      "percentageFunded": 101.05,
+      "minGoal": 6575,
+      "maxGoal": 12475,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775897149/dreams/ojmjsuu7ssrkw8eqqhlq.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775898010/dreams/typs24gpam56uhfxwgts.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775733429/dreams/cua9ptiuyqgmqjtq2ktf.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012734/dreams/vzmkgrxrw7y6ijn03uom.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012908/dreams/zxcsrnkddwzpt1g2rnft.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012928/dreams/rxqveymyngpbf3lanqtl.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012951/dreams/yjslmoy4fwp2kna8r8qq.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012992/dreams/flmbxlne9tbidhm6xpbg.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776013040/dreams/spzcefg4upmqrqxb6irh.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776013008/dreams/ncklnxjad9pefsk1dryy.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776468340/dreams/hfofiex7difhhku5cpmw.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Divanté (Discord: Divanté) Phone number: +46709-406777\n\nSimpqlicious (Discord: Simpqlicious) Phone number: +46709-241531",
+          "value": "End of the Rainbow",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "🔊 We strive for great sound so will bring good larger speakers, but will not play too loud given it’s a daytime party. **Deep bass and clear sound that will be dB-tracked by S.O.U.N.D.**",
+          "value": "At the border of imagination and reality, lies the End of the Rainbow — a camp dedicated to play, transformation, and freedom of expression. Our dream is to host a fully immersive My Little Pony–inspired party, where participants step into a world of unicorns/ponies and their riders, exploring connection, trust, and playful power dynamics in a safe, creative space.\n\nThe evening begins with our signature workshop: “How to Train Your Unicorn.” This guided experience invites participants to embody unicorn or rider. We´ll provide costumes for bringing the fantasy to life. Through structured play, consent-based interaction, and humor, we explore leadership, surrender, communication, and trust.\n\nAs it unfolds, and riders/unicorns learn to move together, it all opens into a lively arena. Putting on a spectacular Pony Show (with prizes), and a playful jousting tournament. Think pool noodles, tumbling, cheering crowds, and over-the-top theatrics — it’s about spectacle and shared joy.\n\nThe night crescendos in a Unicorn/Pony Parade, where all participants roam the playa together in a celebration of connection, absurdity, and radical self-expression. It all ends at the End of the Rainbow, with an epic Pony Party, a s3x positive event (18+).",
           "customField": {
-            "name": "Sound levels"
+            "name": "Description"
           }
         },
         {
-          "value": "We consider this a relatively safe dream with no large or heavy structures. Watch out for brain freeze from the cold drinks - don’t drink too fast!🥶",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Strike on Saturday if weather forecast allows. Careful check of **M.O.O.P** on our final day so we leave the place in great condition. Slush machine & seating etc will be cleaned and returned to BL.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "⚡️ Power will be needed to run our speaker system, DJ table, fridge, drink machines and some lights. ~4000-5000w, we would require 32A 230v.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "**🎼 As a sound-focused dream** we take care to place our little disco haven in a suitable spot where the vibe is buzzing - but still with attention to sound levels, sound direction and wishes from our neighbors. Given a shorter playtime we hope to not disturb any early/late sleepers ;)",
+          "value": "It will co exist fine with most, just NOT KID FRIENDLY. When we know our neighbors we will talk with them about the party etc.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "🍹With a touch of refreshing drinks we invite everyone to share their energy with us to the groovy tracks of our dream. **Maybe you have something tasty that will mix well with our ice-cold drinks?** We invite neighbors and everyone else to enjoy our spot, as a living room to co-exist in whatever energy state you are. Let’s make this Ballroom bliss a cozy and friendly place for connecting and to dance together.\n\n**We can either rent a dual-flavored slush machine (twice the capacity), or buy a single-flavored for 6000 SEK which then could be left at BL. Whatever the community prefers (more flavors or owning the equipment for similar cost).** The outdoor seating can be left and some decorations too.",
+          "value": "We have fire extinguishers in place in emergency of fire. We also have consent angels for info and safety.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "This will be striked within our own camp strike.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "We are a sound camp and will place us in such area, and follow the sound guidelines.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Chrisaster (contact in here).",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Bring your own pony and come and co-create this absurd and playful experience with us. We are also open for other co-creations, if you feel we can help each other out. Feel free to write us down in the comments.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Get into the groove at Ballroom Bliss with DJ Divanté and DJ Simpqlicious with friends. **Daytime parties with disco, deep house & house classics with refreshing ice-cold drinks.** A daytime session that puts the groove in your heart, smile on your face and makes your feet move while keeping you cool in the summer heat. Welcome to our glamorous & blissfull disco inferno!\n\n**Good times ahead, together as one! ♥️**\n\n**We will serve two flavors of delicious non-alcoholic ice slushies; virgin margarita & virgin strawberry daiquiri!** Enjoy your drink in the shade of our cozy tipi tent ⛺️, or out on the sunny little dancefloor☀️ Together we will create good times together in the summer warmth. **Disco is for everyone!!! Disco is life!! 🪩**\n\nLook for our disco flag raised above our tipi!\n\nWelcome to the Ballroom Bliss.\n\n**Wednesday to Friday between 12-17 somewhere in Highlands**\n\n_(budget spans from \"budget-mode\" of less decorations/glamour and a single flavor slush machine, up to the dual flavored slush machine and a generally more disco-glossy premium experience)_\n\nPs. All the text is 100% written by ourselves to try and convey our dream - no AI (although we did feel AI was helpful for the picture as we are not good at drawing)",
+          "value": "We will need eletricity for all lights, soundsystem and occasionally . Around 7000 watt (high estimate)",
           "customField": {
-            "name": "Description"
+            "name": "Electricity"
           }
         }
       ],
       "tags": [
         {
-          "value": "Light"
+          "value": "BurnerBox"
+        },
+        {
+          "value": "Experience"
         },
         {
           "value": "Music"
         },
         {
+          "value": "NOT kids-friendly"
+        },
+        {
+          "value": "Performance"
+        },
+        {
           "value": "Playful"
         },
         {
+          "value": "Queer"
+        },
+        {
+          "value": "Sex positive"
+        },
+        {
           "value": "Soundcamp"
+        },
+        {
+          "value": "Venue"
+        },
+        {
+          "value": "Weird shit"
+        },
+        {
+          "value": "Workshop"
         }
       ],
       "budgetItems": [
         {
-          "description": "Yamaha DXS12XLF x2",
-          "min": 20000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Pioneer XDJ-700 x2",
-          "min": 20000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Yamaha DXR12 x2",
-          "min": 16000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Allen Heath Xone 23",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Cables and speakers stands",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "ADJ DJ table pro and light beam",
-          "min": 8000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "ADJ spotlights for mirror balls x3",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "ADJ Fog Fury Jett x2",
-          "min": 8000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Stairville DMX Hazer AFH-600",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "DMX table for effects control",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "ADJ Bubbletron Go bubble machine",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Capri parasoll for DJ shade",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Table for slush machines",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tipi tent",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Flag pole and handmade flag ",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Mirror balls",
-          "min": 500,
-          "max": 1000,
+          "description": "Unicorn Horns",
+          "min": 600,
+          "max": 800,
           "type": "EXPENSE"
         },
         {
-          "description": "Mini mirror ball LEDs for tipi",
-          "min": 0,
+          "description": "Pony Tails / Hair extensions",
+          "min": 450,
+          "max": 550,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Kneepads",
+          "min": 250,
+          "max": 350,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Riding whips",
+          "min": 400,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Saddles",
+          "min": 1000,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Pony grooming brushes",
+          "min": 200,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Leashes",
+          "min": 700,
+          "max": 900,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Knigth's helmet",
+          "min": 500,
+          "max": 750,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Unicorn shields",
+          "min": 400,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Tutu's",
+          "min": 300,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Capes",
+          "min": 200,
+          "max": 400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cute tattoo's",
+          "min": 300,
           "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "Shiny fabrics & sheets for decoration",
-          "min": 500,
-          "max": 1500,
+          "description": "Glitter",
+          "min": 300,
+          "max": 400,
           "type": "EXPENSE"
         },
         {
-          "description": "Disco carpets for tipi tent",
-          "min": 0,
-          "max": 1000,
+          "description": "Pool Noodles",
+          "min": 300,
+          "max": 450,
           "type": "EXPENSE"
         },
         {
-          "description": "Shiny outdoor bean bags for tipi",
-          "min": 2000,
-          "max": 5000,
+          "description": "Inflatable dildo",
+          "min": 400,
+          "max": 600,
           "type": "EXPENSE"
         },
         {
-          "description": "Slush Puppie flavor base (~200 servings/day)",
-          "min": 2000,
-          "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Industrial Slush Puppie machine 2x12 liters",
-          "min": 3000,
-          "max": 6000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Water for slush machines from Alversjö (~200L)",
-          "min": 0,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Fridge for storing slush flavor base (no alcohol) (~100L, rental/borrow)",
-          "min": 0,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cleaning equipment and water tanks",
-          "min": 500,
+          "description": "Leprechaun suit",
+          "min": 275,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 91000,
-      "percentageFundedTrue": 1070.59
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnuvf86c001n125rjv05su7i",
@@ -21977,206 +21900,76 @@
       "percentageFundedTrue": 150
     },
     {
-      "id": "cmm0snxdf0000qsigurpwayly",
-      "title": "Boob Mobile ",
-      "summary": "A Mobile Boob, Sound & Workshop Installation - Dive into an experience, where you explore sound through touch.",
+      "id": "cmnohxm9p000j8tf38k2bedfx",
+      "title": "The Mystery Knight",
+      "summary": "Behold there goes a knight without a name! Is he a lord-in-exile or a commoner? Will he protect the innocent or seek fame? Why won't he speak or show his face?",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 22,
-      "noOfComments": 2,
-      "percentageFunded": 66.88,
-      "minGoal": 16456,
-      "maxGoal": 27440,
-      "income": 8490,
+      "noOfFunders": 8,
+      "noOfComments": 5,
+      "percentageFunded": 25.33,
+      "minGoal": 750,
+      "maxGoal": 2000,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1771949042/dreams/hdgq3jiy00wktwc0acli.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776590744/dreams/tc0x8kxhqgnxnuaz0ggu.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776590776/dreams/oqm9y3u4ta9w6rf7ifng.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775560614/dreams/meehwuybjwmepafjuvkm.png"
         }
       ],
       "customFields": [
         {
-          "value": "We are committed to respecting the wider event environment.\n\nBoob Mobile is mobile and does not permanently occupy space. Sound levels are moderated and adapted to location and time. The installation does not operate continuously and will respect quiet zones and neighboring camps.\n\nClear consent principles are visible and communicated. Interaction is always voluntary, respectful, and inclusive.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We would like to use the local power supply with a connection in the garage of Circus the Analog to charge the batteries.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "The sound system is designed for playful engagement, not dominance.\n\nThe intention is to have an immersive but not overwhelming sound.",
+          "value": "None",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "🎪 CIRCUS the ANALOG 🎪\n\nBoob Mobile is a collective camp project. It is carried and maintained by the team responsible for technical infrastructure, facilitation, finances, and safety. It grows through shared effort, shared care, and shared responsibility.",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Boob Mobile invites active participation.\n\nPlanned co-creation elements include:\n\n*   Build workshops (papier-mâché sculpting and surface design)\n    \n*   Sound sampling sessions where participants record and contribute sounds\n    \n*   DIY controller building for interactive triggers\n    \n*   Mini-workshops on playful interaction and consent culture\n    \n\nThe installation evolves through contributions from the community. Participants become co-creators rather than spectators.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Safety is central to the project.\n\nVehicle:\n\n*   Roadworthy and mechanically inspected Interaction.\n    \n*   Clear consent culture.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "The installation will leave no trace. It will leave the site with us.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "💕 Hop aboard the Boob Mobile — a cheeky, body-loving art adventure on wheels! This rolling wonder transforms a regular vehicle into a cozy, squishy playground. Two large, soft sculptural forms create an immersive seating and interaction area. Dive into an experience, where you explore sound through touch. Creativity, comfort, and good vibes all packed into one fabulous moving masterpiece!\n\n💕 The nipples function as interactive sound triggers connected to a custom audio system. The vehicle already includes speakers, amplifiers, and a subwoofer, creating a mobile yet contained sonic experience.\n\nDiscover “Boob Diving” … a metaphor that invites participants to dive into softness, humor, sound, and collective experience. The installation combines absurdity, warmth, and empowerment while encouraging reflection on body perception, consent, and shared play.\n\n❣️ Boob Mobile is not about sexualization — it is about reclaiming humor, intimacy, and body symbolism in a conscious and respectful way.",
+          "value": "The legendary festivities of Alversjö are visited by a mystery knight in full plate armor - his face covered and his voice unheard. Who hides behind the visor? Where did he come from? What does he want? These are questions the people would be talking about for generations.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Alenka  \nResponsible for transparent budget handling and financial coordination.",
+          "value": "The armor will be carried when it is cool outside, a short period at a time, to avoid overheating or becoming exhausted. Always followed by squire that can assist him if any need arise. (No combat)",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "The equipment will be easily brought and returned.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "None",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "The knight's camp",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Mriveraoman@gmail.com\n\n[+46722207875](tel:+46722207875)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Art vehicle"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Workshop"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Speakers, subwoofers, and amplifiers ",
-          "min": 2720,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Car frames and housings ",
-          "min": 3270,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Additional small parts for electrical connections",
-          "min": 2500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "It is transported by truck, organized by Circus the Analog - Please support our main dream",
-          "min": 0,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Recycled cardboard and newspaper",
-          "min": 0,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Differential Motor Conversion Kit 5000W Motor High Efficiency for Electric Tricycle Golf Cart",
-          "min": 5500,
-          "max": 9000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Rechargeable Lithium Ion Batteries Pack 72V 100ah - 200ah",
-          "min": 8021,
-          "max": 15000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wire netting",
+          "description": "Armor and Shield",
           "min": 750,
-          "max": 1100,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Polypro tubes cca 10m",
-          "min": 100,
-          "max": 150,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Zip ties",
-          "min": 90,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Paper adhesive tape",
-          "min": 70,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wallpaper adhesive",
-          "min": 250,
-          "max": 280,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Paint",
-          "min": 650,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Waterproof coating",
-          "min": 220,
-          "max": 260,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Other tools - paintbrushes, gloves, etc.",
-          "min": 155,
-          "max": 190,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Craft wire",
-          "min": 50,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Paper towels",
-          "min": 250,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "LED light stripes",
-          "min": 350,
-          "max": null,
+          "max": 2000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 8490,
-      "percentageFundedTrue": 51.59
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnuoqrdx00672ymllazj1a66",
@@ -26633,81 +26426,66 @@
       "percentageFundedTrue": 103.45
     },
     {
-      "id": "cmnlp3wnv0004iqiv8tu20qda",
-      "title": "Rust Vulture",
-      "summary": "Let's bring the Rust Vulture back! A fire shooting behemoth, the vulture will venture out and give burners a ride of their dream ",
+      "id": "cmnlwnfek0000lfnooz5y7han",
+      "title": "The Ballroom Bliss",
+      "summary": "Disco daytime party, ice-cold drinks, great sound & lovely people!",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 47,
-      "noOfComments": 0,
-      "percentageFunded": 342.02,
-      "minGoal": 20700,
-      "maxGoal": 31700,
-      "income": 65000,
+      "noOfFunders": 54,
+      "noOfComments": 12,
+      "percentageFunded": 1125.55,
+      "minGoal": 8500,
+      "maxGoal": 20500,
+      "income": 91000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775389718/dreams/iefqbizt1hou6uxtjxvz.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775389731/dreams/gbnqeygnuaqudqn9f1vb.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775389725/dreams/a9luw33an4jo7v2n6wcb.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775389746/dreams/diwvaecbxlvvjhjce36t.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775897149/dreams/ojmjsuu7ssrkw8eqqhlq.png"
         }
       ],
       "customFields": [
         {
-          "value": "\\[DoET\\]",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "N/A",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "N/A",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Sound levels will be adhered to according to the sound map.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "It's a car so placement is irrelevant.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Sasja Sommer, Propane Bitch, sommerprentow@gmail,.com",
+          "value": "Divanté (Discord: Divanté) Phone number: +46709-406777\n\nSimpqlicious (Discord: Simpqlicious) Phone number: +46709-241531",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Safety is of high concern. We have 2 fire extinguishers and first aid kit. Trained people will be operating it: driver + crowd management + spotter.",
+          "value": "🔊 We strive for great sound so will bring good larger speakers, but will not play too loud given it’s a daytime party. **Deep bass and clear sound that will be dB-tracked by S.O.U.N.D.**",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We consider this a relatively safe dream with no large or heavy structures. Watch out for brain freeze from the cold drinks - don’t drink too fast!🥶",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "This year we will invite people to join a team of drivers, who will be educated to handle the art car in crowds, understand it's dangers and features. This will allow for the Vulture to be used more than if we just have a single driver.\n\nA lot of people took part in creating this last year and this year I invite everyone to co create on this.",
+          "value": "Strike on Saturday if weather forecast allows. Careful check of **M.O.O.P** on our final day so we leave the place in great condition. Slush machine & seating etc will be cleaned and returned to BL.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "⚡️ Power will be needed to run our speaker system, DJ table, fridge, drink machines and some lights. ~4000-5000w, we would require 32A 230v.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "**🎼 As a sound-focused dream** we take care to place our little disco haven in a suitable spot where the vibe is buzzing - but still with attention to sound levels, sound direction and wishes from our neighbors. Given a shorter playtime we hope to not disturb any early/late sleepers ;)",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "🍹With a touch of refreshing drinks we invite everyone to share their energy with us to the groovy tracks of our dream. **Maybe you have something tasty that will mix well with our ice-cold drinks?** We invite neighbors and everyone else to enjoy our spot, as a living room to co-exist in whatever energy state you are. Let’s make this Ballroom bliss a cozy and friendly place for connecting and to dance together.\n\n**We can either rent a dual-flavored slush machine (twice the capacity), or buy a single-flavored for 6000 SEK which then could be left at BL. Whatever the community prefers (more flavors or owning the equipment for similar cost).** The outdoor seating can be left and some decorations too.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "A fireshoting muddy vehicle. It's already built and many saw it last year. It needs a few upgrades and we need transport.\n\nThis year we have been working on finding a place in Sweden for storage such that we for 2027 does not need to have transport costs.\n\nUpgrades:\n\n*   Safety upgrade to allow gas flow to be shutoff from inside the cabin.\n    \n*   New battery, so we don't need to run the engine all the time\n    \n*   More Lights!! For safety and coolness\n    \n*   Speakers",
+          "value": "Get into the groove at Ballroom Bliss with DJ Divanté and DJ Simpqlicious with friends. **Daytime parties with disco, deep house & house classics with refreshing ice-cold drinks.** A daytime session that puts the groove in your heart, smile on your face and makes your feet move while keeping you cool in the summer heat. Welcome to our glamorous & blissfull disco inferno!\n\n**Good times ahead, together as one! ♥️**\n\n**We will serve two flavors of delicious non-alcoholic ice slushies; virgin margarita & virgin strawberry daiquiri!** Enjoy your drink in the shade of our cozy tipi tent ⛺️, or out on the sunny little dancefloor☀️ Together we will create good times together in the summer warmth. **Disco is for everyone!!! Disco is life!! 🪩**\n\nLook for our disco flag raised above our tipi!\n\nWelcome to the Ballroom Bliss.\n\n**Wednesday to Friday between 12-17 somewhere in Highlands**\n\n_(budget spans from \"budget-mode\" of less decorations/glamour and a single flavor slush machine, up to the dual flavored slush machine and a generally more disco-glossy premium experience)_\n\nPs. All the text is 100% written by ourselves to try and convey our dream - no AI (although we did feel AI was helpful for the picture as we are not good at drawing)",
           "customField": {
             "name": "Description"
           }
@@ -26715,79 +26493,172 @@
       ],
       "tags": [
         {
-          "value": "Art vehicle"
+          "value": "Light"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Soundcamp"
         }
       ],
       "budgetItems": [
         {
-          "description": "Everything we got funded previously",
-          "min": 45000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "The car plus material from before",
+          "description": "Yamaha DXS12XLF x2",
           "min": 20000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Battery",
-          "min": 1200,
+          "description": "Pioneer XDJ-700 x2",
+          "min": 20000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Yamaha DXR12 x2",
+          "min": 16000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Allen Heath Xone 23",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Cables and speakers stands",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "ADJ DJ table pro and light beam",
+          "min": 8000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "ADJ spotlights for mirror balls x3",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "ADJ Fog Fury Jett x2",
+          "min": 8000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Stairville DMX Hazer AFH-600",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "DMX table for effects control",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "ADJ Bubbletron Go bubble machine",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Capri parasoll for DJ shade",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Table for slush machines",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Tipi tent",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Flag pole and handmade flag ",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Mirror balls",
+          "min": 500,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Mini mirror ball LEDs for tipi",
+          "min": 0,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Shiny fabrics & sheets for decoration",
+          "min": 500,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Disco carpets for tipi tent",
+          "min": 0,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Shiny outdoor bean bags for tipi",
+          "min": 2000,
+          "max": 5000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Slush Puppie flavor base (~200 servings/day)",
+          "min": 2000,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Industrial Slush Puppie machine 2x12 liters",
+          "min": 3000,
+          "max": 6000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Water for slush machines from Alversjö (~200L)",
+          "min": 0,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Oilfilter + oil",
+          "description": "Fridge for storing slush flavor base (no alcohol) (~100L, rental/borrow)",
+          "min": 0,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cleaning equipment and water tanks",
           "min": 500,
           "max": null,
           "type": "EXPENSE"
-        },
-        {
-          "description": "Gasoline",
-          "min": 200,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Propane",
-          "min": 1500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Lights",
-          "min": 1000,
-          "max": 5000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Safety upgrade",
-          "min": 1800,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Electrical upgrade",
-          "min": 1000,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transport",
-          "min": 13500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sound",
-          "min": 0,
-          "max": 5000,
-          "type": "EXPENSE"
         }
       ],
-      "funded": 65000,
-      "percentageFundedTrue": 314.01
+      "funded": 91000,
+      "percentageFundedTrue": 1070.59
     },
     {
       "id": "cmnwa90uq000epy0k8datmp6b",
@@ -28123,197 +27994,202 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmmqdcohs0000t3l6yv5cpj9i",
-      "title": "The Department of Mineral Affairs",
-      "summary": "The body has three needs: temporal illusion, private bathrooms, and equimolar homeostasis.",
+      "id": "cmmqdojzq0004aj9khm0pibvj",
+      "title": "A secret but very sparkling forest",
+      "summary": "The sparkling Forest is back. With some small additions but mostly we need maintainance and transport funds",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 19,
-      "noOfComments": 1,
-      "percentageFunded": 486.55,
-      "minGoal": 5519,
-      "maxGoal": 21968,
-      "income": 25400,
+      "noOfFunders": 103,
+      "noOfComments": 4,
+      "percentageFunded": 807.74,
+      "minGoal": 10350,
+      "maxGoal": 10350,
+      "income": 75000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773513674/dreams/whj1rekbrajt4erhafkp.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773496036/dreams/pf96xm6wq6cp9olybf4y.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Secret Garden",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Packs would have LNT instructions printed onto them.\n\nAltars could be so beautifully displayed that each embassy would want to take them home by the time we're all striking.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Looking to see how feasible it is to design replenishment altars at Saunas, bars, and dancefloors across the savannah.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Ever found yourself at a crossroads that you thought was a one-way street?\n\n*   Reaching deep into your trusted hip-bag at some obscure Muumimaa hour (RIP)\n    \n*   Stumbling out of your sun-blasted tent and headed towards the Blackwater Operations\n    \n*   Still building on Wednesday afternoon, but today the sun is your only companion?\n    \n*   Coming out of the sauna, wondering if you've achieved the epitome of relief?\n    \n\nThe Department of Mineral Affairs would like for you to know that **it now gets even better!**\n\n**Imagine**: balanced hydration, exactly when you need it, wherever you could think of it.\n\nWe are dreaming of establishing **The Chapel of Lost Sodium**, from which we will distribute **replenishment altars** to **electrolyte embassies** across the land.\n\nWe deliver a buffered sodium-forward formula that keeps your enamel safe, your stomach calm, your sphincter undisturbed, and your body blissfully in the middle way.\n\nWe also dream of supplying LNT appropriate stick packs for supreme self-reliance. **(stretch goal,** 1.3-2 SEK materials per pack).",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "No sound involved",
+          "value": "People singing. Nothing to be worried about.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Minerals are stored cool and airtight.\n\nThe replenishment altars should be out of rain/sunlight.\n\nLooking into most feasible designs to prevent contamination.",
+          "value": "The highest risk is a lamp falling down. They weigh under 200g and this usually doesn't happen.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "I am! Discord: terebess\n\n(It's the name of the Hungarian website on which I read Alan Watts' \"Against the Taboo of Knowing Yourself\" half a lifetime ago)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "The Replenishment Altars will be collected on Saturday/Sunday.\n\nShould an embassy like to keep them, then they shall be gifted.",
+          "value": "Striking takes 30 seconds per lamp. A team of 5 can strike the entire thing in under an hour. Timed and tested.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Potentially a good time for an electrolyte quip, but we've got plenty of transduction already.",
+          "value": "Runs on batteries. I might want to charge those in the barn.",
           "customField": {
             "name": "Electricity"
           }
-        }
-      ],
-      "tags": [
-        {
-          "value": "Food"
         },
         {
-          "value": "Wellness"
+          "value": "@hdsjulian on discord.",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "There's a bunch of Borderlanders who have helped in the past. There's a few people who will donate an hour or two of their time to build and strike, but mainly it's me (Julian) doing the stuff.  \nIf there's collaborators willing to work on code improvements i'm very very glad to hear suggestions tho. There's still a bunch of ideas that could be realized!",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "I need about 30x30 meter of Forest. I have an idea where and will talk to placement about it.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "You walk through the forest down a hidden path. You end up in a little valley and encounter a microphone, a keyboard. You clear your throat and start to sing, and the entire forest lights up. Someone plays the piano, and you make the shadows dance with your music.\n\nThe sparkling forest is going to be back. With over two years of development time and more than 75000 SEK in development costs, partially paid for by the borderland.  \nWe theoretically have everything we need but the sparkling forest ist constantly improving. New casings have to be printed, some electronics exchanged, a midi controller added to make it easier for musicians to tweak the system to their needs. We need a hand cart to transport stuff back and forth and a light weight ladder to hang up the protective tarp (and to climb up a tree in an emergency).  \nTransport is also a larger item because we're bringing more than a cubic meter of stuff from Germany.",
+          "customField": {
+            "name": "Description"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Wholesale minerals",
-          "min": 20000,
+          "description": "Custom Bulit PCBs",
+          "min": 35000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Mixing machine",
-          "min": 4000,
+          "description": "Printer Filament",
+          "min": 3000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Equipment (scales, funnels, etc)",
+          "description": "Digital Piano",
+          "min": 6000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Control Units (Raspberry Pi and others)",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Cables, Wires, etc ",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Screws ",
+          "min": 2500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Microphone",
           "min": 1000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Heat sealer",
-          "min": 400,
+          "description": "Microphone Stand and Keyboard Stand",
+          "min": 1000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "0- 5000 printed compostable laminate / cellulose film packs",
-          "min": 0,
-          "max": 12500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sodium Citrate (minimum prices for minerals listed are per kg)",
-          "min": 137,
-          "max": 2576,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sodium Chloride",
-          "min": 8,
-          "max": 36,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Potassium Citrate",
-          "min": 159,
-          "max": 558,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Magnesium Citrate Malate",
-          "min": 404,
-          "max": 1092,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Glucose",
-          "min": 30,
-          "max": 407,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Citric Acid",
-          "min": 35,
-          "max": 53,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Ascorbic Acid (Vitamin C)",
-          "min": 100,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "pH Strips",
-          "min": 146,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Replenishment Altars (some form of container + design)",
+          "description": "Tools",
           "min": 2000,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "gloves / sanitation",
-          "min": 100,
+          "description": "Wires for hanging",
+          "min": 1500,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "food-safe storage / mixing containers",
-          "min": 400,
+          "description": "Telescopic Poles",
+          "min": 1000,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
+        },
+        {
+          "description": "Batteries",
+          "min": 10000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Charging Infrastructure ",
+          "min": 2500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Tarp",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
         },
         {
           "description": "Transport",
-          "min": 1000,
+          "min": 2500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Signs, lamination(?), etcetera",
-          "min": 1000,
+          "description": "Filament",
+          "min": 1700,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cables, Wires, etc",
+          "min": 1500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Midi controller",
+          "min": 1500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Tools (to fix stuff in the forest)",
+          "min": 1500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Light weight ladder",
+          "min": 550,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Handcart",
+          "min": 1100,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 25400,
-      "percentageFundedTrue": 460.23
+      "funded": 75000,
+      "percentageFundedTrue": 724.64
     },
     {
       "id": "cmnviu1p7000jeqb4r3nziwyp",
@@ -34962,131 +34838,206 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnodj9dx0002i1b91bqj41u1",
-      "title": "Bedouin Tent as communal space",
-      "summary": "Bedouin Tent as communal space",
+      "id": "cmm0snxdf0000qsigurpwayly",
+      "title": "Boob Mobile ",
+      "summary": "A Mobile Boob, Sound & Workshop Installation - Dive into an experience, where you explore sound through touch.",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 47,
+      "noOfFunders": 22,
       "noOfComments": 2,
-      "percentageFunded": 106.97,
-      "minGoal": 9600,
-      "maxGoal": 61000,
-      "income": 0,
+      "percentageFunded": 66.88,
+      "minGoal": 16456,
+      "maxGoal": 27440,
+      "income": 8490,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776176960/dreams/s99bcoacgtenqngwiggy.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1771949042/dreams/hdgq3jiy00wktwc0acli.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775551704/dreams/rl1afaba6zifbhvgygmd.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776590744/dreams/tc0x8kxhqgnxnuaz0ggu.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564021/dreams/enfttg5zlt2kyoqqbczq.webp"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564032/dreams/hdc6ephphpvzmcaylvso.webp"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564040/dreams/ytilbux8jba780msh9fr.webp"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564068/dreams/dbeoffxtvoxnapfia4ok.webp"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776590776/dreams/oqm9y3u4ta9w6rf7ifng.png"
         }
       ],
       "customFields": [
         {
-          "value": "Cheeky Butt Chill Camp",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "We don't need any co-creation. Borderlings can just come and enjoy it. :)",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "The tent fulfills the European regulations regarding safety. (Fire, Wind, UV)",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Within the pre-placement process we will try to find a good spot for our camp and this dream. We want to keep it quiet and cozy. Maybe some soft tones below room volume.",
+          "value": "We are committed to respecting the wider event environment.\n\nBoob Mobile is mobile and does not permanently occupy space. Sound levels are moderated and adapted to location and time. The installation does not operate continuously and will respect quiet zones and neighboring camps.\n\nClear consent principles are visible and communicated. Interaction is always voluntary, respectful, and inclusive.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Below room volume.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Depending on the Budget, electricity is needed for lighting. Won't be much since we work with LED and ferry lights.",
+          "value": "We would like to use the local power supply with a connection in the garage of Circus the Analog to charge the batteries.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Striking the tent will be done in less than 2 hours on Monday. It will be organized within the Cheeky Butt Chill Camp.",
+          "value": "The sound system is designed for playful engagement, not dominance.\n\nThe intention is to have an immersive but not overwhelming sound.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "🎪 CIRCUS the ANALOG 🎪\n\nBoob Mobile is a collective camp project. It is carried and maintained by the team responsible for technical infrastructure, facilitation, finances, and safety. It grows through shared effort, shared care, and shared responsibility.",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Boob Mobile invites active participation.\n\nPlanned co-creation elements include:\n\n*   Build workshops (papier-mâché sculpting and surface design)\n    \n*   Sound sampling sessions where participants record and contribute sounds\n    \n*   DIY controller building for interactive triggers\n    \n*   Mini-workshops on playful interaction and consent culture\n    \n\nThe installation evolves through contributions from the community. Participants become co-creators rather than spectators.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Safety is central to the project.\n\nVehicle:\n\n*   Roadworthy and mechanically inspected Interaction.\n    \n*   Clear consent culture.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "The installation will leave no trace. It will leave the site with us.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Flo on discord @chefkoch9374",
+          "value": "💕 Hop aboard the Boob Mobile — a cheeky, body-loving art adventure on wheels! This rolling wonder transforms a regular vehicle into a cozy, squishy playground. Two large, soft sculptural forms create an immersive seating and interaction area. Dive into an experience, where you explore sound through touch. Creativity, comfort, and good vibes all packed into one fabulous moving masterpiece!\n\n💕 The nipples function as interactive sound triggers connected to a custom audio system. The vehicle already includes speakers, amplifiers, and a subwoofer, creating a mobile yet contained sonic experience.\n\nDiscover “Boob Diving” … a metaphor that invites participants to dive into softness, humor, sound, and collective experience. The installation combines absurdity, warmth, and empowerment while encouraging reflection on body perception, consent, and shared play.\n\n❣️ Boob Mobile is not about sexualization — it is about reclaiming humor, intimacy, and body symbolism in a conscious and respectful way.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Description"
           }
         },
         {
-          "value": "All your Cheeky Butts need a place to chill! You’ve spent the entire night shaking your bum, werkin’ and twerkin’ overtime! Maybe you’ve even been shaking that ass at the Cheeky Butt Camp’s day parties the previous years! And when daylight breaks, it’s no wonder you’re looking for the perfect place to rest those cheeks comfortably. We got you covered ;)\n\nThis year, we’ll provide that relaxing, cozy area spot to meet, chill, connect, and rest those overworked cheeks! A 10m x7.5 stretch tent that’s big enough to fill all our bums! Not to mention it’s the perfect space for any and all workshops. We have some in the makings already (like making your own wooden jewelry or handstitching up the giant hole in your trousers from dropping it too low). Or if you feel called to action, we can also host a chill workshop of your desire (think crafting, discussions, meditations, yoga, etc).\n\nBut this stretch tent has to come from a very far away land. So we’re turning to you for funding the rental and transportation costs. We must give those butts a place to relax!\n\nThe range of what we can provide depends on how much funding is awarded. We could bring only the tent orrrrrrr we can make sure there’s more.",
+          "value": "Alenka  \nResponsible for transparent budget handling and financial coordination.",
           "customField": {
-            "name": "Description"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
       "tags": [
         {
-          "value": "Chillout"
+          "value": "Art vehicle"
         },
         {
-          "value": "Hippie trap"
+          "value": "Playful"
         },
         {
-          "value": "Meditation"
+          "value": "Workshop"
         }
       ],
       "budgetItems": [
         {
-          "description": "Tent and Equipment (Rent)",
-          "min": 9000,
+          "description": "Speakers, subwoofers, and amplifiers ",
+          "min": 2720,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Car frames and housings ",
+          "min": 3270,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Additional small parts for electrical connections",
+          "min": 2500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "It is transported by truck, organized by Circus the Analog - Please support our main dream",
+          "min": 0,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Recycled cardboard and newspaper",
+          "min": 0,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Differential Motor Conversion Kit 5000W Motor High Efficiency for Electric Tricycle Golf Cart",
+          "min": 5500,
+          "max": 9000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Rechargeable Lithium Ion Batteries Pack 72V 100ah - 200ah",
+          "min": 8021,
+          "max": 15000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wire netting",
+          "min": 750,
+          "max": 1100,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Polypro tubes cca 10m",
+          "min": 100,
+          "max": 150,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Zip ties",
+          "min": 90,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Decoration",
-          "min": 100,
-          "max": 2000,
+          "description": "Paper adhesive tape",
+          "min": 70,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Wooden Floor, Lights, Carpets, etc",
-          "min": 0,
-          "max": 45000,
+          "description": "Wallpaper adhesive",
+          "min": 250,
+          "max": 280,
           "type": "EXPENSE"
         },
         {
-          "description": "Transport",
-          "min": 500,
-          "max": 5000,
+          "description": "Paint",
+          "min": 650,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Waterproof coating",
+          "min": 220,
+          "max": 260,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Other tools - paintbrushes, gloves, etc.",
+          "min": 155,
+          "max": 190,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Craft wire",
+          "min": 50,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Paper towels",
+          "min": 250,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "LED light stripes",
+          "min": 350,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 8490,
+      "percentageFundedTrue": 51.59
     },
     {
       "id": "cmnr502l40001zfd7ks8t3mp7",
@@ -35784,128 +35735,208 @@
       "percentageFundedTrue": 567.83
     },
     {
-      "id": "cmms16gza00048w7ftja862op",
-      "title": "The Pink Parasol Potion Bar",
-      "summary": "Did you try our homemade drinks in the last four years? Now we are back - this year with a mango sour beer!",
+      "id": "cmmjqdnm10008966ghjcz2ube",
+      "title": "Gate Of Alvheim",
+      "summary": "Where cosmic whispers meet the breathing forest, frequencies of earth and stars entwine.\nThe Gate opens, inviting all wanderers to join the psychedelic trance.",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 16,
+      "noOfFunders": 53,
       "noOfComments": 0,
-      "percentageFunded": 458.56,
-      "minGoal": 3043,
-      "maxGoal": 4543,
-      "income": 10499,
+      "percentageFunded": 1116.02,
+      "minGoal": 4800,
+      "maxGoal": 52944,
+      "income": 41000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775656702/dreams/gevgd8aczq0jsdlupsui.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774355974/dreams/eytpbpxzgm02ioqili3e.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773624327/dreams/booorqklrweqib9jwlj1.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773624185/dreams/tbqkhrtyimx0hjxecyyn.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774354707/dreams/quakfgybesujj60845nh.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773624387/dreams/oira96ho358y9v0zc1jj.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773624173/dreams/hq8noxr59hzzezdxjcqz.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773624294/dreams/epq2jgrhdnhkc3qovopd.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "The bar will be moveable and we will set in down somewhere where it won't disturb anyone.",
+          "value": "Gate Of Alvheim",
           "customField": {
-            "name": "Co-existence"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "We might bring a small mobile sound system, but it will not be very loud and will not disturb anyone. The bar will mainly be open at afternoon or early evening and will not ruin your sleep at all.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "@Ola is our Dr. Bill-Bull, and is easiest found on emailaola (at) gmail . com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "We think this dream is very safe. We will make sure that everything works out just fine.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "The bar will be open as long as there is sour beer left. We will take care of all MOOP we might create. And don't forget to BYOC!",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "The bar will be powered with batteries.",
+          "value": "We estimate a need of around ~10 kW and aim to be self-sufficient if needed. Power will support lighting, atmospheric elements, installations, camp.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Remember the fluffy pink parasol and our tasty homemade sour beer?\n\nThis year, we're back with a delicious **mango** sour beer!\n\nWe will be serving about 50 litres homemade mango sour beer. We might also be offering a DJ set and some delicious small bites to pair perfectly with our sour beer, depending on how much funds we get.",
+          "value": "Trinfinity/Sebastian  \nTrinfinityfrequencies@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Deep within an ancient forest, the Elves live in symbiosis with the living world, protecting a sacred ritual ground.  \nA place of transformation, death and rebirth, where we gather beneath the trees to celebrate unity, nature, and the intelligence flowing through life.\n\nBut something has disturbed the stillness.\n\nAfter a long intergalactic journey, the vessel of Kishmastle arrives at the edge of our realm, carrying travelers, symbols, and sounds from distant worlds.  \nWithin the forest, Fungal Refuge has taken root, offering rest, mycelial wisdom, and connection.\n\nThe forest asks: Can elves, star travelers, and fungal beings form one tribe?\n\nClues and knowledge are scattered throughout the land. Those who seek may follow quests and mysteries to bridge worlds.  \nThose who walk the path may be welcomed deeper, and through ritual, crowned as Elves of the Realm.\n\nGate Of Alvheim is an immersive ritual forest where art, story, psychedelic trance music, and participation merge.  \nThrough ceremonies, workshops, scenography, and tea rituals, participants step into a living mythology.\n\nNow in its second year at Borderland, Alvheim grows. With minimal funding, we realize the core and expand with more. We prioritize reuse and sustainability.",
           "customField": {
             "name": "Description"
           }
-        }
-      ],
-      "tags": [
+        },
         {
-          "value": "Bar"
+          "value": "We are co-creating with Kishmastle Space Station, Fungal Refuge and Breadcrumb Bureau. \n\nWe welcome artists, producers, ritualists, quest-makers, performers, visual artists, tea magicians, and DJs playing psychedelic sounds across psychill, psytrance, forest, darkpsy, twilight, zenon, psytech, hi-tech, and related sonic paths. \n\nWe will blast Borderland with a full day/nigth of psytrance.\n\nWe are also open to VJs, projection artists, workshop hosts, and other offerings that can enrich our takeover day and the wider story of the realm.\n\nIf you are interested in helping out, creating quests, shape ceremonies, decorate the forest, welcome newcomers into the tribe, or build bridges between the spaceship, the forest, and the refuge, we are open to hear from you.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Our own base area is not intended to be constantly loud, but our collaborative programming includes access to loud sound levels through the shared 20 kW passive sound system.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We will provide drinking water near active gathering spaces and bring first aid kits and fire extinguishers.  \nWe aim to build with care, maintain safe structures and pathways.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We will strike effectively from Sunday and leave no trace.  \nWhere possible, we will reuse, recycle, and re-pack materials into our container at Alversjö so that the dream can continue to evolve over time.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Gate of Alvheim is designed as part of a shared ecosystem with its neighboring dreams.  \nKishmastle holds the louder sonic edge of the world.  \nWhile Fungal Refuge offers a softer inner sanctuary. And Breadcrumb Bureau binds our worlds together as one.\n\n  \nGate of Alvheim moves between those two energies through ritual, story, and immersive atmosphere.  \nWe will stay in dialogue around placement, timing, and flow so that our worlds coexist in harmony and deepen one another.\n\nWe are open to for any communication to co-create a wonderful Borderland with all our neighbours.",
+          "customField": {
+            "name": "Co-existence"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Cask for storing the beer",
-          "min": 3500,
+          "description": "Furniture (tables, seating, camp infrastructure)",
+          "min": 8000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Sound system",
+          "description": "Decoration (existing forest/ritual decor)",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "String art portal (large sculptural entrance piece)",
           "min": 6000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Sack truck",
-          "min": 599,
+          "description": "Big artwork for stage design (backdrop/set pieces)",
+          "min": 6000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Miniature bar desk",
-          "min": 200,
+          "description": "LED lights, UV lights, etc. (existing lighting rig)",
+          "min": 8000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Pink parasol",
-          "min": 200,
+          "description": "Power tools (drills, saws, construction equipment)",
+          "min": 6000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Ingredients: fruit, malt, sugar, yeast (no alcohol)",
-          "min": 2009,
+          "description": "Structure for camp",
+          "min": 2000,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Build materials",
+          "min": 1000,
+          "max": 8000,
           "type": "EXPENSE"
         },
         {
-          "description": "CO2 bottle: mango needs some extra bubbles",
-          "min": 1034,
-          "max": null,
+          "description": "Art materials",
+          "min": 1000,
+          "max": 8000,
           "type": "EXPENSE"
         },
         {
-          "description": "Bar snacks",
+          "description": "Lighting",
+          "min": 1000,
+          "max": 5000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Secondhand decoration",
           "min": 0,
-          "max": 1000,
+          "max": 4000,
           "type": "EXPENSE"
         },
         {
-          "description": "Decoration: paint, light, flowers...",
+          "description": "Food gifts",
+          "min": 500,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Special tools",
+          "min": 1000,
+          "max": 3500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transportation",
           "min": 0,
-          "max": 500,
+          "max": 4444,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Extraordinaries",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Storage",
+          "min": 0,
+          "max": 8000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Elf ears",
+          "min": 300,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Collaborative infrastructure",
+          "min": 0,
+          "max": 4500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 10499,
-      "percentageFundedTrue": 345.02
+      "funded": 41000,
+      "percentageFundedTrue": 854.17
     },
     {
       "id": "cmmtb7q4x000011gqhrrv8gcn",
@@ -38798,7 +38829,7 @@
       "summary": "Chainmail-making misadventure to dress everyone and everything in the fanciest and spiciest jewelry ☆.𓋼𓍊 𓆏 𓍊𓋼𓍊.☆",
       "status": "PARTIAL_FUNDING",
       "noOfFunders": 28,
-      "noOfComments": 1,
+      "noOfComments": 2,
       "percentageFunded": 427.7,
       "minGoal": 1310,
       "maxGoal": 3350,
@@ -47045,78 +47076,126 @@
       "percentageFundedTrue": 98.4
     },
     {
-      "id": "cmnoe59520000whknff5c3c68",
-      "title": "PORTal's camera lens stickers 📸",
-      "summary": "Less lens, more sense.",
+      "id": "cmnodj9dx0002i1b91bqj41u1",
+      "title": "Bedouin Tent as communal space",
+      "summary": "Bedouin Tent as communal space",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 31,
-      "noOfComments": 1,
-      "percentageFunded": 104.4,
-      "minGoal": 2500,
-      "maxGoal": 3500,
+      "noOfFunders": 47,
+      "noOfComments": 2,
+      "percentageFunded": 106.97,
+      "minGoal": 9600,
+      "maxGoal": 61000,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775665599/dreams/ssdzd0rsyv8xzdtscgks.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776176960/dreams/s99bcoacgtenqngwiggy.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775551704/dreams/rl1afaba6zifbhvgygmd.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564021/dreams/enfttg5zlt2kyoqqbczq.webp"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564032/dreams/hdc6ephphpvzmcaylvso.webp"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564040/dreams/ytilbux8jba780msh9fr.webp"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564068/dreams/dbeoffxtvoxnapfia4ok.webp"
         }
       ],
       "customFields": [
         {
-          "value": "Everyone is welcome to join the PORTal, contact us at discord!",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "The reality PORT",
+          "value": "Cheeky Butt Chill Camp",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "We’re designing and producing stickers that cover phone camera lenses.\n\nNot to block your view, just to shift it 😜\n\nBy reducing photography, we create space for presence. Fewer cameras make it easier to relax, connect, and play without the feeling of being documented.\n\nEach participant will receive a sticker when entering the Borderland bubble through the PORTal 🫧",
+          "value": "We don't need any co-creation. Borderlings can just come and enjoy it. :)",
           "customField": {
-            "name": "Description"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "This dream has minimal impact on its surroundings. Stickers will be distributed freely on a roll at the PORTal. No noise, no structure, no special placement needed. We don't anticipate any negative effects on neighbors.\n\nSince stickers come on a roll at the gate, the greeters tear off the sticker on the spot and the participant puts it on the camera lens. This means any backing paper is handled right there at the entry point, where we will have a dedicated container for disposal.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "As safe as it gets — non-toxic, no structures, no installation. We'll source eco-friendly materials and verify that the adhesive won't damage surfaces like camera lenses.",
+          "value": "The tent fulfills the European regulations regarding safety. (Fire, Wind, UV)",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Stickers are distributed at the portal and taken away by participants. We will have a clearly marked bin for backing paper at the distribution point throughout the event. At strike, we pack up the roll(s), bin, and any remaining materials — nothing stays on the land. We'll also do a MOOP sweep of the surrounding area before leaving.",
+          "value": "Within the pre-placement process we will try to find a good spot for our camp and this dream. We want to keep it quiet and cozy. Maybe some soft tones below room volume.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Below room volume.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Depending on the Budget, electricity is needed for lighting. Won't be much since we work with LED and ferry lights.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Striking the tent will be done in less than 2 hours on Monday. It will be organized within the Cheeky Butt Chill Camp.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Sara Aras, contact on discord saraaras or by email: saraarasandersson@gmail.com",
+          "value": "Flo on discord @chefkoch9374",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "All your Cheeky Butts need a place to chill! You’ve spent the entire night shaking your bum, werkin’ and twerkin’ overtime! Maybe you’ve even been shaking that ass at the Cheeky Butt Camp’s day parties the previous years! And when daylight breaks, it’s no wonder you’re looking for the perfect place to rest those cheeks comfortably. We got you covered ;)\n\nThis year, we’ll provide that relaxing, cozy area spot to meet, chill, connect, and rest those overworked cheeks! A 10m x7.5 stretch tent that’s big enough to fill all our bums! Not to mention it’s the perfect space for any and all workshops. We have some in the makings already (like making your own wooden jewelry or handstitching up the giant hole in your trousers from dropping it too low). Or if you feel called to action, we can also host a chill workshop of your desire (think crafting, discussions, meditations, yoga, etc).\n\nBut this stretch tent has to come from a very far away land. So we’re turning to you for funding the rental and transportation costs. We must give those butts a place to relax!\n\nThe range of what we can provide depends on how much funding is awarded. We could bring only the tent orrrrrrr we can make sure there’s more.",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [
         {
-          "value": "Healing"
+          "value": "Chillout"
         },
         {
-          "value": "Reality-as-a-Dream"
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Meditation"
         }
       ],
       "budgetItems": [
         {
-          "description": "6000 Stickers on roll inc. shipping",
-          "min": 2500,
-          "max": 3500,
+          "description": "Tent and Equipment (Rent)",
+          "min": 9000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Decoration",
+          "min": 100,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wooden Floor, Lights, Carpets, etc",
+          "min": 0,
+          "max": 45000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport",
+          "min": 500,
+          "max": 5000,
           "type": "EXPENSE"
         }
       ],
@@ -56705,110 +56784,293 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnoeym8u001l10wotm92nzri",
-      "title": "Fire BunnyHorse Bar",
-      "summary": "It's the Chinese year of the Fire Horse - We will evolve the BunnyHorse bar into the Fire BunnyHorse bar.",
+      "id": "cmnnkvire0011eyfxdwgzyebp",
+      "title": "IT*S A SIGN!!!!workshop",
+      "summary": "Creating and maintaining a self-organising DIY signmaking workshop and cosy creative hangout space in the barn for all borderlings to use and enjoy ✧˖°࿐",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 76,
-      "noOfComments": 4,
-      "percentageFunded": 100,
-      "minGoal": 6500,
-      "maxGoal": 7200,
-      "income": 0,
+      "noOfFunders": 61,
+      "noOfComments": 0,
+      "percentageFunded": 78.79,
+      "minGoal": 6942,
+      "maxGoal": 17842,
+      "income": 999,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775589369/dreams/oshmbeoesjw0dqvlgp7d.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775840850/dreams/dtmo5abiyvz4bh57ueky.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775589427/dreams/pjfrv8msg1dbtxn5t7z1.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775840867/dreams/jazovkhxwnx0vhg122il.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775840882/dreams/r8noggmbnbrooo4ilg4y.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841615/dreams/zv7dgmucsdzacbdnwrec.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841628/dreams/pm2jwwd74qsvp1zaqznv.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841651/dreams/tvfpbttjw8j4b5usduie.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841665/dreams/iboizvg2aqc25vt0uzls.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841690/dreams/akxozevogvatj99vwacg.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841704/dreams/u7jzyz7a6g1u5kumjjvf.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841717/dreams/da8mhuukcuqyub6uw9gz.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841735/dreams/hag6xxabhc6jcmu1ljvx.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841749/dreams/f09fq38ffwfgunmyfpzu.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841765/dreams/mordcmqwsjdxhjg2s7b1.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841781/dreams/lojkxqjokjvkw1zla5qv.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841798/dreams/xl82kkjii3mkyh2qkn8k.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841809/dreams/b7cvj9wextjdtz26a9kv.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841828/dreams/dx2vcyuzs2ad1kdqlhaa.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841860/dreams/bw6psvi5dpsq1skm9m82.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841876/dreams/mouxygp4gfhqr2scqbup.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841891/dreams/f5trtiwf6hmoacdewenl.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "This dream is connected to the Bunny Horse bar, which is run by free campers.",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "It will attach to the roof of the bar, out of reach for anyone, and no burnable material will be close by. We already have fire extinguishers in the bar.",
+          "value": "we don't want acrylic paint in the ground water: there will be brush-washing stations with dedicated waste water boxes, kitty litter to absorb the paint water before disposal, and disposable gloves.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "It will make sounds when it spews fire, but nothing major, and it will be short. It will not be much louder than anything else in the hills.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We are well-experienced burners, and everything we bring in, we bring back out. Either placed in the horse trailer or taken to our storage containers.",
+          "value": "same as last year but better: sort all signs into reusable / repaintable / trash. collect all waste water in designated containers, soak with kitty litter, dispose properly. clean the barn space. store reusable materials for next year. leave no trace leave no trace leave no trace leave no trace",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Carina 'bubbels' Carina.refsing.nissen@gmail.com",
+          "value": "indoor work lights, speaker, tool charging. tapping from the barn power as before. multiplugs and extension cords included in the budget.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Electricity"
           }
         },
         {
-          "value": "**It’s the Year of the Fire Horse.**\n\nAnd what could be more obvious than adding fire to the horse that is already there?\n\n**The BunnyHorse Bar.**\n\nThe BunnyHorse is a well-established **no-bullshit banter bar** at **The Borderland**.  \nSee also our main dream: [LINK.](https://dreams.theborderland.se/borderland/dreams-2026/cmmolt3ko00087hhz2frj4ut5?s=bunny&f=PENDING_APPROVAL&f=IDEA)\n\nThis dream is simple: **add a fire cannon to the bar.**\n\nThe **Year of the Fire Horse** combines the Horse’s traits—independence, energy, restlessness, confidence—with the Fire element’s intensity, passion, and impulsiveness. It is said to be a time of **bold action, rapid change, and strong personalities**.\n\nHonestly, that’s mostly just an excuse.\n\nBecause when you can add a **fire cannon**,  \nyou **add a fire cannon.** 🔥🐎",
+          "value": "IT\\*S A SIGN!!!!workshop is a self-organising creative space open to all borderlings. you grab a board, grab some markers and paint, and you make something. maybe it's a sign for your camp. maybe it's one someone else ordered - they left a little sketch and now you bring it to life. maybe you're just sitting on a pillow painting something weird on cardboard at 3am because the vibe is right and someone handed you a brush :3\n\n✧˖_°࿐ .　 . • ☆ . ° .• °:._ ₊ ° . ☆\n\nlast year was the first year and it was grrreat. the barn was full of people during build already. the workshop ran day and night, strangers made signs for strangers, beautiful fae appeared to wash brushes, clean up and vanish back into the playa. the whole thing ran basically on trust and co-creation and it was one of those borderland things that makes you go \"oh right, THIS is why we do this\"  \n\nthis year we're levelling up ° . ☆・❥・  \n✧ cosy pillows to sit on while you paint. ✧ carpets that don't mind catching some paint. ✧ armchairs that have lived a life. ✧ a little tea corner where you sip something warm and watch the art happen around you. a co-creative living room / artelier in the barn",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "It already a co-op between bunnyhorse bartenders and friends. We have joined forces with missSommer. Creator of the firespewing Iron Volture artcar from BL 2025, which this year is returning as the Rust Vulture.  \nShe is going to be the main creator of the fire cannon, and the barpeople will be the users.",
+          "value": "this space runs itself but it doesn't SET itself up\n\nif you want to help me build during build week, take a shift keeping things tidy during the event, or just be one of those beautiful fae who appears and washes brushes and vanishes - you're welcome to reach out to me! i'm zoe, you can find me on discord @synesynesynes\n\nALSO if we don't make the stretch goal and you have things collecting dust:\n\n✧ a GOOD SPEAKER (quality sound, plays loud, can survive hippies) ✧ a drill or a saw ✧ pillows, carpets, a couch, armchairs - if you're driving past second hand markets and want to grab something cosy for the space PLEASE talk to me\n\nthis is a co-created space!! the more people pour their love into it the better it gets\n\nthanks to everyone who helped last year - to the magical fae who kept the space tidy, to everyone who poured love into the workshop, to everyone who showed up and contributed to the co-creative vibe. being there, alone together, crafting with random lovely borderlings in all hours of the day - that was amaaahzinggg <3 <3 <3",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Some, but we should have enough in the bar. We have 16A PDU.",
+          "value": "I'd love a good quality bluetooth speaker--------- nothing over the top, just enough to set the mood. a good one that stays at alversjö for future use chained to the table so it doesn't get \"borrowed\"",
           "customField": {
-            "name": "Electricity"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "we'll likely be in the barn again - it was the perfect spot last year, visible, accessible, people stumbling in during build already curiously walking the playa. the barn has good energy. the barn wants us there\n\n.　 . • ☆ . ° .• °:. \\*₊ ° .\n\n**what's new and what's more:**\n\n✧ a proper sign ordering system - heavy quality sketch paper where you draw your order, sturdy trays so they don't fly around, metal clips and rope so the orders hang visible for anyone to grab and make. you sketch it, someone makes it, it's cute and nobody's in charge\n\n✧ real hand-washing stations and brush-washing stations - big sturdy boxes with water so you can clean up properly without leaving paint crimes all over the land.\n\n✧ SO MANY MORE MARKERS. professional refillable markers in different sizes, plenty of black (there is never enough black), with refill ink to keep them going all week\n\n✧ proper indoor work lights so painting after dark is actually possible (fairy lights are great but kinda hard to see what you're doing indoors heh)\n\n✧ GLOVES FOR DAYS. six boxes this time - oh, AND APRONS!!\n\n✧ kitty litter for the acrylic waste water - soak it up, throw it in the trash, nothing goes into the ground. LNT for life\n\n✧ if we hit the stretch goal: power tools for cutting and assembling signs, a quality speaker that stays at alversjö (chained to the table so nobody walks off with it), outdoor floodlights for nighttime painting, and even more paint in big beautiful buckets\n\ncome paint, come order a sign, come drink tea and watch other people paint, come sit on a pillow and do nothing. all of these are valid and valuable uses of this space\n\nthis dream is a place where you can show up as you are and leave having made something. or having watched someone make something. or just having sat on a pillow drinking tea surrounded by paint-stained hippies in a barn in the swedish forest while chill tunes play in the background.\n\n**what people said about last year:**\n\n_\"This workshop and the signs made me sooo happy! thank you for Co-creating and facilitating this magic.\"_\n\n_\"my absolute favourite was the exhibition you set up in the end, soooo cute and inspiring - this was a HUGE upgrade with a positive impact for all borderlings!\"_\n\n_\"Aaaah best spot EVER - Such great execution\"_\n\n_\"I loved that this was part of BL with its impact enjoyable across the whole site\"_\n\n_\"There were really good signs this year, and it was SO appreciated to be able to go there and make some, when signs were needed! Loved that space.\"_",
+          "customField": {
+            "name": "Co-existence"
           }
         }
       ],
       "tags": [
         {
+          "value": "Art walk apropriate"
+        },
+        {
+          "value": "Chillout"
+        },
+        {
           "value": "Experience"
         },
         {
-          "value": "Fire"
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Kids-friendly"
         },
         {
           "value": "Playful"
         },
         {
-          "value": "Weird shit"
+          "value": "Pre-placement"
+        },
+        {
+          "value": "Queer"
+        },
+        {
+          "value": "Workshop"
         }
       ],
       "budgetItems": [
         {
-          "description": "Fire canon parts",
-          "min": 5000,
+          "description": "A few markers surviving from last year",
+          "min": 999,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Professional refillable markers + ink (various sizes, mostly black)",
+          "min": 2300,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Gasbottle",
-          "min": 700,
-          "max": 1400,
+          "description": "Brushes, rollers, misc painting supplies",
+          "min": 1000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "transport to BL",
-          "min": 800,
+          "description": "White acrylic paint, large bucket (base coat)",
+          "min": 500,
           "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Acrylic paint 3L buckets, multiple colors (the good stuff)",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Disposable gloves (6 boxes of 100)",
+          "min": 600,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Six aprons",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "5 large sturdy plastic boxes (hand wash + brush wash stations)",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Kitty litter for acrylic waste water disposal",
+          "min": 200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Sign ordering system: heavy sketch paper, 3 trays, metal clips, rope",
+          "min": 842,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cardboard sheets A2 + A1 (workshop signage)",
+          "min": 200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Screws ~200pcs (board-to-stake, one size)",
+          "min": 150,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Neon gaffa tape (high-vis marking tape)",
+          "min": 150,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Indoor work lights + multiplugs + extension cords",
+          "min": 0,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Electric saw (for cutting signs to shape)",
+          "min": 0,
+          "max": 1800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Electric drill (for assembling signs)",
+          "min": 0,
+          "max": 1100,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Quality bluetooth speaker (loud, good sound, stays at Alversjö)",
+          "min": 0,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Chain + padlock for the speaker (hippie-proofing)",
+          "min": 0,
+          "max": 100,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "3x waterproof outdoor LED floodlights + waterproof multiplug",
+          "min": 0,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cosy pillows from second hand markets",
+          "min": 0,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Carpets and rugs, paintable, second hand",
+          "min": 0,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Armchairs and couches, second hand",
+          "min": 0,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Tea corner: kettle, cups (second hand), tea (not second hand)",
+          "min": 0,
+          "max": 400,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 999,
+      "percentageFundedTrue": 14.39
     },
     {
       "id": "cmnu0c4ir001710x1jf4cb32b",
@@ -59319,127 +59581,110 @@
       "percentageFundedTrue": 460.91
     },
     {
-      "id": "cmnm1k0250000mah403k8wu5j",
-      "title": "BALL OF MATTER - the open build",
-      "summary": "This ball of matter grows throughout the week; anyone adds to it; everyone is loudly invited to be part of building it. It accumulates. Then it burns. ",
-      "status": "FUNDED",
-      "noOfFunders": 36,
-      "noOfComments": 10,
-      "percentageFunded": 125.71,
-      "minGoal": 4667,
-      "maxGoal": 4667,
-      "income": 1200,
+      "id": "cmnoeym8u001l10wotm92nzri",
+      "title": "Fire BunnyHorse Bar",
+      "summary": "It's the Chinese year of the Fire Horse - We will evolve the BunnyHorse bar into the Fire BunnyHorse bar.",
+      "status": "PARTIAL_FUNDING",
+      "noOfFunders": 76,
+      "noOfComments": 4,
+      "percentageFunded": 100,
+      "minGoal": 6500,
+      "maxGoal": 7200,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775767934/dreams/b8ha9ffkkikjpsyacrce.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775589369/dreams/oshmbeoesjw0dqvlgp7d.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775410682/dreams/nbngdgl2vta8q7y5nj8k.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775589427/dreams/pjfrv8msg1dbtxn5t7z1.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "placed somewhere where many people pass, so many people can add to it",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Loudly inviting for everyone to add to the ball!",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "LNT per usual",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "ideally yes for electricity from the grid for the construction lights ~100W",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "*   Non-climbable structure with anchors/support at the base to avoid it moving\n    \n*   Note for builders- natural materials ONLY\n    \n*   Will be transported to an appropriate place to be burned",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "\\-",
+          "value": "This dream is connected to the Bunny Horse bar, which is run by free campers.",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Anyone and many add to this ball of matter throughout the week. It's Everyone's build\n\nThen it burns.\n\n> Can you feel it?\n> \n> This matter, your matter, our matter.\n> \n> Heavy. Entangled. Gathered and gathering. How it accumulates. \n> \n> The knot. Your knot, my knot. All that we add, the weight of it all. \n> \n> **Add to it!** \n> \n> **Screw it!** \n> \n> **Let’s burn it!**\n\n**The co-creative process:**\n\n*   The initial ball of matter is created and placed somewhere where many people pass, ideally close to the woods.  \n    \n*   Screws, a power screwdriver is placed next to it and is available for anyone to use. People can find their own wood bits, leave some for others, use what is left.\n    \n*   **Anyone at their own free will, in any way they want, add to the ball. The ball of matter grows as people add.**\n    \n\n![](https://res.cloudinary.com/dreamswtf/image/upload/v1775768097/dreams/sxoyjmqzlsq2bubrcexe.png)\\*_images for visualisation reference only_\n\n![](https://res.cloudinary.com/dreamswtf/image/upload/v1775412106/dreams/fq0ut9yvpwbfzvrrnxd3.png)",
+          "value": "It will attach to the roof of the bar, out of reach for anyone, and no burnable material will be close by. We already have fire extinguishers in the bar.",
           "customField": {
-            "name": "Description"
+            "name": "Safety"
           }
         },
         {
-          "value": "very low - drill sound and humans",
+          "value": "It will make sounds when it spews fire, but nothing major, and it will be short. It will not be much louder than anything else in the hills.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Aura (discord: aura\\_cia)",
+          "value": "We are well-experienced burners, and everything we bring in, we bring back out. Either placed in the horse trailer or taken to our storage containers.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Carina 'bubbels' Carina.refsing.nissen@gmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
+        },
+        {
+          "value": "**It’s the Year of the Fire Horse.**\n\nAnd what could be more obvious than adding fire to the horse that is already there?\n\n**The BunnyHorse Bar.**\n\nThe BunnyHorse is a well-established **no-bullshit banter bar** at **The Borderland**.  \nSee also our main dream: [LINK.](https://dreams.theborderland.se/borderland/dreams-2026/cmmolt3ko00087hhz2frj4ut5?s=bunny&f=PENDING_APPROVAL&f=IDEA)\n\nThis dream is simple: **add a fire cannon to the bar.**\n\nThe **Year of the Fire Horse** combines the Horse’s traits—independence, energy, restlessness, confidence—with the Fire element’s intensity, passion, and impulsiveness. It is said to be a time of **bold action, rapid change, and strong personalities**.\n\nHonestly, that’s mostly just an excuse.\n\nBecause when you can add a **fire cannon**,  \nyou **add a fire cannon.** 🔥🐎",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "It already a co-op between bunnyhorse bartenders and friends. We have joined forces with missSommer. Creator of the firespewing Iron Volture artcar from BL 2025, which this year is returning as the Rust Vulture.  \nShe is going to be the main creator of the fire cannon, and the barpeople will be the users.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Some, but we should have enough in the bar. We have 16A PDU.",
+          "customField": {
+            "name": "Electricity"
+          }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Fire"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Weird shit"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "plastic boxes for keeping screwdriver dry outside",
-          "min": 0,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "burn safety needs covered by effigy team",
-          "min": 0,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "night work lights for build",
-          "min": 1200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Screw driver with battery (Dewalt - later to be donated to BL community tools)",
-          "min": 2000,
+          "description": "Fire canon parts",
+          "min": 5000,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "wood screws different lenghts",
-          "min": 878,
-          "max": null,
+          "description": "Gasbottle",
+          "min": 700,
+          "max": 1400,
           "type": "EXPENSE"
         },
         {
-          "description": "natural rope for tying to the ball",
-          "min": 162,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Lighting",
-          "min": 1627,
+          "description": "transport to BL",
+          "min": 800,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 1200,
-      "percentageFundedTrue": 25.71
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnuqdmct003w54d1b5ew86gg",
@@ -64451,66 +64696,60 @@
       "percentageFundedTrue": 20.69
     },
     {
-      "id": "cmmqecrq2000hcwrrtdq7srmp",
-      "title": "The temple of digital oblivion",
-      "summary": "In physical temples we place letters, thoughts, pictures and let them burn, dissolve or just wither. But what about our digital memory? Our phone's photo album?",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 39,
+      "id": "cmms16gza00048w7ftja862op",
+      "title": "The Pink Parasol Potion Bar",
+      "summary": "Did you try our homemade drinks in the last four years? Now we are back - this year with a mango sour beer!",
+      "status": "FUNDED",
+      "noOfFunders": 16,
       "noOfComments": 0,
-      "percentageFunded": 84.26,
-      "minGoal": 26682,
-      "maxGoal": 26682,
-      "income": 11763,
+      "percentageFunded": 458.56,
+      "minGoal": 3043,
+      "maxGoal": 4543,
+      "income": 10499,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775685318/dreams/y1kyru1mvsjtirbduxcr.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775656702/dreams/gevgd8aczq0jsdlupsui.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "There should be no effect towards the surroundings.",
+          "value": "The bar will be moveable and we will set in down somewhere where it won't disturb anyone.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "It is the safest dream out there",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "@hdsjulian on discord",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "We are a group from Hamburg who is building the tech, but are avidly seeking out helping hands by motivated people who can assist with the actual physical installation such as the sculptural casing of the fog screen/altar (both before BL and during build) so please reach out if that’s you!",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "We're building it so we can disassemble it all within an hour or so.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Almost completely quiet except for a quiet compressor, water pump, etc.",
+          "value": "We might bring a small mobile sound system, but it will not be very loud and will not disturb anyone. The bar will mainly be open at afternoon or early evening and will not ruin your sleep at all.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Shouldn't be more than 2kW. Still dependent on the overall tech that is used",
+          "value": "@Ola is our Dr. Bill-Bull, and is easiest found on emailaola (at) gmail . com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We think this dream is very safe. We will make sure that everything works out just fine.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "The bar will be open as long as there is sour beer left. We will take care of all MOOP we might create. And don't forget to BYOC!",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "The bar will be powered with batteries.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "The Temple of Digital Oblivion is a place to let go of your digital memories. You discover a shrine in the forest. You choose a picture and upload it to the installation (thanks to an app that you can pre-download or get on site via wifi). The picture is projected onto a wall of mist and once it dissolves, the photo gets deleted on your phone\n\n**Notes**:\n\n*   For the installation we are creating a fog/mist screen. We are aiming to use a fog machine or hazer for that purpose. However our first self-funded tests weren't satisfying enough, so we will likely switch to a water based solution which is more expensive, so we chose to have that reflected in the budget and if we find a cheaper solution, we'll use less budget\n    \n*   We understand that not everyone wants to bring their phone on the playa and are working on some alternatives to the App to include non-phone-participants\n    \n*   We are aware that there are potential privacy and safety concerns which is why the entire code will be published before the event. We're open to any kind of scrutiny regarding code and server setup and will guarantee that these pictures will not be saved anywhere, neither will the app delete anything from peoples' phones without their explicit consent",
+          "value": "Remember the fluffy pink parasol and our tasty homemade sour beer?\n\nThis year, we're back with a delicious **mango** sour beer!\n\nWe will be serving about 50 litres homemade mango sour beer. We might also be offering a DJ set and some delicious small bites to pair perfectly with our sour beer, depending on how much funds we get.",
           "customField": {
             "name": "Description"
           }
@@ -64518,214 +64757,67 @@
       ],
       "tags": [
         {
-          "value": "Art installation"
-        },
-        {
-          "value": "Art walk apropriate"
+          "value": "Bar"
         }
       ],
       "budgetItems": [
         {
-          "description": "Computer fans",
-          "min": 3789,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Aluminium profiles",
-          "min": 2162,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Wiring and Electronics parts",
-          "min": 1081,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "3d printed Parts",
-          "min": 1081,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Aluminium Profile Connectors",
-          "min": 450,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Pipes and Tubes",
-          "min": 1200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Power Supply",
-          "min": 550,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Computer Fan Wires, Plugs, Multipliers",
-          "min": 550,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Used Freezer",
-          "min": 350,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Screws",
-          "min": 550,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Compressor",
-          "min": 1100,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Used ultra short throw projector",
-          "min": 3459,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Boxes for Casing",
-          "min": 550,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Water Filtering Equipment",
-          "min": 430,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Piping",
-          "min": 550,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "PA Stands for Test setup",
-          "min": 513,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wood for the Shrine",
-          "min": 3300,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Screws",
-          "min": 550,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Roof Tiles",
+          "description": "Cask for storing the beer",
           "min": 3500,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Transport",
-          "min": 2700,
+          "description": "Sound system",
+          "min": 6000,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Cables",
-          "min": 330,
+          "description": "Sack truck",
+          "min": 599,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "3D printer filament ",
-          "min": 1300,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Flat Fan Venturi Nozzles",
-          "min": 1100,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Aluminium Profiles",
-          "min": 800,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Aluminium Profile Connectors",
+          "description": "Miniature bar desk",
           "min": 200,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Atelier Space (2 Months",
-          "min": 3200,
+          "description": "Pink parasol",
+          "min": 200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Ingredients: fruit, malt, sugar, yeast (no alcohol)",
+          "min": 2009,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Solenoid Valves",
-          "min": 300,
+          "description": "CO2 bottle: mango needs some extra bubbles",
+          "min": 1034,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Tubing",
-          "min": 300,
-          "max": null,
+          "description": "Bar snacks",
+          "min": 0,
+          "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Water Pump ",
-          "min": 800,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Pneumatic Manifold",
-          "min": 100,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Collection Basin",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Water hoses",
-          "min": 800,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Water Hose connectors",
-          "min": 300,
-          "max": null,
+          "description": "Decoration: paint, light, flowers...",
+          "min": 0,
+          "max": 500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 11763,
-      "percentageFundedTrue": 44.09
+      "funded": 10499,
+      "percentageFundedTrue": 345.02
     },
     {
       "id": "cmnoinuw0000xbm1lll03w4ad",
@@ -69065,293 +69157,161 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnnkvire0011eyfxdwgzyebp",
-      "title": "IT*S A SIGN!!!!workshop",
-      "summary": "Creating and maintaining a self-organising DIY signmaking workshop and cosy creative hangout space in the barn for all borderlings to use and enjoy ✧˖°࿐",
+      "id": "cmnlp3wnv0004iqiv8tu20qda",
+      "title": "Rust Vulture",
+      "summary": "Let's bring the Rust Vulture back! A fire shooting behemoth, the vulture will venture out and give burners a ride of their dream ",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 61,
+      "noOfFunders": 47,
       "noOfComments": 0,
-      "percentageFunded": 78.79,
-      "minGoal": 6942,
-      "maxGoal": 17842,
-      "income": 999,
+      "percentageFunded": 424.1,
+      "minGoal": 16694,
+      "maxGoal": 27694,
+      "income": 65000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775840850/dreams/dtmo5abiyvz4bh57ueky.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775389718/dreams/iefqbizt1hou6uxtjxvz.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775840867/dreams/jazovkhxwnx0vhg122il.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775389731/dreams/gbnqeygnuaqudqn9f1vb.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775840882/dreams/r8noggmbnbrooo4ilg4y.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775389725/dreams/a9luw33an4jo7v2n6wcb.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841615/dreams/zv7dgmucsdzacbdnwrec.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841628/dreams/pm2jwwd74qsvp1zaqznv.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841651/dreams/tvfpbttjw8j4b5usduie.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841665/dreams/iboizvg2aqc25vt0uzls.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841690/dreams/akxozevogvatj99vwacg.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841704/dreams/u7jzyz7a6g1u5kumjjvf.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841717/dreams/da8mhuukcuqyub6uw9gz.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841735/dreams/hag6xxabhc6jcmu1ljvx.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841749/dreams/f09fq38ffwfgunmyfpzu.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841765/dreams/mordcmqwsjdxhjg2s7b1.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841781/dreams/lojkxqjokjvkw1zla5qv.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841798/dreams/xl82kkjii3mkyh2qkn8k.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841809/dreams/b7cvj9wextjdtz26a9kv.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841828/dreams/dx2vcyuzs2ad1kdqlhaa.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841860/dreams/bw6psvi5dpsq1skm9m82.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841876/dreams/mouxygp4gfhqr2scqbup.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841891/dreams/f5trtiwf6hmoacdewenl.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775389746/dreams/diwvaecbxlvvjhjce36t.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "we don't want acrylic paint in the ground water: there will be brush-washing stations with dedicated waste water boxes, kitty litter to absorb the paint water before disposal, and disposable gloves.",
+          "value": "\\[DoET\\]",
           "customField": {
-            "name": "Safety"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "same as last year but better: sort all signs into reusable / repaintable / trash. collect all waste water in designated containers, soak with kitty litter, dispose properly. clean the barn space. store reusable materials for next year. leave no trace leave no trace leave no trace leave no trace",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "indoor work lights, speaker, tool charging. tapping from the barn power as before. multiplugs and extension cords included in the budget.",
+          "value": "N/A",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "IT\\*S A SIGN!!!!workshop is a self-organising creative space open to all borderlings. you grab a board, grab some markers and paint, and you make something. maybe it's a sign for your camp. maybe it's one someone else ordered - they left a little sketch and now you bring it to life. maybe you're just sitting on a pillow painting something weird on cardboard at 3am because the vibe is right and someone handed you a brush :3\n\n✧˖_°࿐ .　 . • ☆ . ° .• °:._ ₊ ° . ☆\n\nlast year was the first year and it was grrreat. the barn was full of people during build already. the workshop ran day and night, strangers made signs for strangers, beautiful fae appeared to wash brushes, clean up and vanish back into the playa. the whole thing ran basically on trust and co-creation and it was one of those borderland things that makes you go \"oh right, THIS is why we do this\"  \n\nthis year we're levelling up ° . ☆・❥・  \n✧ cosy pillows to sit on while you paint. ✧ carpets that don't mind catching some paint. ✧ armchairs that have lived a life. ✧ a little tea corner where you sip something warm and watch the art happen around you. a co-creative living room / artelier in the barn",
+          "value": "N/A",
           "customField": {
-            "name": "Description"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "this space runs itself but it doesn't SET itself up\n\nif you want to help me build during build week, take a shift keeping things tidy during the event, or just be one of those beautiful fae who appears and washes brushes and vanishes - you're welcome to reach out to me! i'm zoe, you can find me on discord @synesynesynes\n\nALSO if we don't make the stretch goal and you have things collecting dust:\n\n✧ a GOOD SPEAKER (quality sound, plays loud, can survive hippies) ✧ a drill or a saw ✧ pillows, carpets, a couch, armchairs - if you're driving past second hand markets and want to grab something cosy for the space PLEASE talk to me\n\nthis is a co-created space!! the more people pour their love into it the better it gets\n\nthanks to everyone who helped last year - to the magical fae who kept the space tidy, to everyone who poured love into the workshop, to everyone who showed up and contributed to the co-creative vibe. being there, alone together, crafting with random lovely borderlings in all hours of the day - that was amaaahzinggg <3 <3 <3",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "I'd love a good quality bluetooth speaker--------- nothing over the top, just enough to set the mood. a good one that stays at alversjö for future use chained to the table so it doesn't get \"borrowed\"",
+          "value": "Sound levels will be adhered to according to the sound map.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "we'll likely be in the barn again - it was the perfect spot last year, visible, accessible, people stumbling in during build already curiously walking the playa. the barn has good energy. the barn wants us there\n\n.　 . • ☆ . ° .• °:. \\*₊ ° .\n\n**what's new and what's more:**\n\n✧ a proper sign ordering system - heavy quality sketch paper where you draw your order, sturdy trays so they don't fly around, metal clips and rope so the orders hang visible for anyone to grab and make. you sketch it, someone makes it, it's cute and nobody's in charge\n\n✧ real hand-washing stations and brush-washing stations - big sturdy boxes with water so you can clean up properly without leaving paint crimes all over the land.\n\n✧ SO MANY MORE MARKERS. professional refillable markers in different sizes, plenty of black (there is never enough black), with refill ink to keep them going all week\n\n✧ proper indoor work lights so painting after dark is actually possible (fairy lights are great but kinda hard to see what you're doing indoors heh)\n\n✧ GLOVES FOR DAYS. six boxes this time - oh, AND APRONS!!\n\n✧ kitty litter for the acrylic waste water - soak it up, throw it in the trash, nothing goes into the ground. LNT for life\n\n✧ if we hit the stretch goal: power tools for cutting and assembling signs, a quality speaker that stays at alversjö (chained to the table so nobody walks off with it), outdoor floodlights for nighttime painting, and even more paint in big beautiful buckets\n\ncome paint, come order a sign, come drink tea and watch other people paint, come sit on a pillow and do nothing. all of these are valid and valuable uses of this space\n\nthis dream is a place where you can show up as you are and leave having made something. or having watched someone make something. or just having sat on a pillow drinking tea surrounded by paint-stained hippies in a barn in the swedish forest while chill tunes play in the background.\n\n**what people said about last year:**\n\n_\"This workshop and the signs made me sooo happy! thank you for Co-creating and facilitating this magic.\"_\n\n_\"my absolute favourite was the exhibition you set up in the end, soooo cute and inspiring - this was a HUGE upgrade with a positive impact for all borderlings!\"_\n\n_\"Aaaah best spot EVER - Such great execution\"_\n\n_\"I loved that this was part of BL with its impact enjoyable across the whole site\"_\n\n_\"There were really good signs this year, and it was SO appreciated to be able to go there and make some, when signs were needed! Loved that space.\"_",
+          "value": "It's a car so placement is irrelevant.",
           "customField": {
             "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Sasja Sommer, Propane Bitch, sommerprentow@gmail,.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Safety is of high concern. We have 2 fire extinguishers and first aid kit. Trained people will be operating it: driver + crowd management + spotter.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "This year we will invite people to join a team of drivers, who will be educated to handle the art car in crowds, understand it's dangers and features. This will allow for the Vulture to be used more than if we just have a single driver.\n\nA lot of people took part in creating this last year and this year I invite everyone to co create on this.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "A fireshoting muddy vehicle. It's already built and many saw it last year. It needs a few upgrades and we need transport.\n\nThis year we have been working on finding a place in Sweden for storage such that we for 2027 does not need to have transport costs.\n\nUpgrades:\n\n*   Safety upgrade to allow gas flow to be shutoff from inside the cabin.\n    \n*   New battery, so we don't need to run the engine all the time\n    \n*   More Lights!! For safety and coolness\n    \n*   Speakers",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [
         {
-          "value": "Art walk apropriate"
-        },
-        {
-          "value": "Chillout"
-        },
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Kids-friendly"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Pre-placement"
-        },
-        {
-          "value": "Queer"
-        },
-        {
-          "value": "Workshop"
+          "value": "Art vehicle"
         }
       ],
       "budgetItems": [
         {
-          "description": "A few markers surviving from last year",
-          "min": 999,
+          "description": "Everything we got funded previously",
+          "min": 45000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Professional refillable markers + ink (various sizes, mostly black)",
-          "min": 2300,
+          "description": "The car plus material from before",
+          "min": 20000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Battery",
+          "min": 1200,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Brushes, rollers, misc painting supplies",
+          "description": "Oilfilter + oil",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Gasoline",
+          "min": 200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Propane",
+          "min": 1500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Lights",
           "min": 1000,
+          "max": 5000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Safety upgrade",
+          "min": 1800,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "White acrylic paint, large bucket (base coat)",
-          "min": 500,
+          "description": "Electrical upgrade",
+          "min": 1000,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport",
+          "min": 9494,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Acrylic paint 3L buckets, multiple colors (the good stuff)",
+          "description": "Sound",
           "min": 0,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Disposable gloves (6 boxes of 100)",
-          "min": 600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Six aprons",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "5 large sturdy plastic boxes (hand wash + brush wash stations)",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Kitty litter for acrylic waste water disposal",
-          "min": 200,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sign ordering system: heavy sketch paper, 3 trays, metal clips, rope",
-          "min": 842,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cardboard sheets A2 + A1 (workshop signage)",
-          "min": 200,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Screws ~200pcs (board-to-stake, one size)",
-          "min": 150,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Neon gaffa tape (high-vis marking tape)",
-          "min": 150,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Indoor work lights + multiplugs + extension cords",
-          "min": 0,
-          "max": 800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Electric saw (for cutting signs to shape)",
-          "min": 0,
-          "max": 1800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Electric drill (for assembling signs)",
-          "min": 0,
-          "max": 1100,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Quality bluetooth speaker (loud, good sound, stays at Alversjö)",
-          "min": 0,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Chain + padlock for the speaker (hippie-proofing)",
-          "min": 0,
-          "max": 100,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "3x waterproof outdoor LED floodlights + waterproof multiplug",
-          "min": 0,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cosy pillows from second hand markets",
-          "min": 0,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Carpets and rugs, paintable, second hand",
-          "min": 0,
-          "max": 800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Armchairs and couches, second hand",
-          "min": 0,
-          "max": 800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Tea corner: kettle, cups (second hand), tea (not second hand)",
-          "min": 0,
-          "max": 400,
+          "max": 5000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 999,
-      "percentageFundedTrue": 14.39
+      "funded": 65000,
+      "percentageFundedTrue": 389.36
     },
     {
       "id": "cmnrekesd000tj4klpv2tetf8",
@@ -70452,60 +70412,75 @@
       "percentageFundedTrue": 62.92
     },
     {
-      "id": "cmnohxm9p000j8tf38k2bedfx",
-      "title": "The Mystery Knight",
-      "summary": "Behold there goes a knight without a name! Is he a lord-in-exile or a commoner? Will he protect the innocent or seek fame? Why won't he speak or show his face?",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 8,
-      "noOfComments": 5,
-      "percentageFunded": 25.33,
-      "minGoal": 750,
-      "maxGoal": 2000,
-      "income": 0,
+      "id": "cmnm1k0250000mah403k8wu5j",
+      "title": "BALL OF MATTER - the open build",
+      "summary": "This ball of matter grows throughout the week; anyone adds to it; everyone is loudly invited to be part of building it. It accumulates. Then it burns. ",
+      "status": "FUNDED",
+      "noOfFunders": 36,
+      "noOfComments": 10,
+      "percentageFunded": 125.71,
+      "minGoal": 4667,
+      "maxGoal": 4667,
+      "income": 1200,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775560614/dreams/meehwuybjwmepafjuvkm.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775767934/dreams/b8ha9ffkkikjpsyacrce.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775410682/dreams/nbngdgl2vta8q7y5nj8k.png"
         }
       ],
       "customFields": [
         {
-          "value": "None",
+          "value": "placed somewhere where many people pass, so many people can add to it",
           "customField": {
-            "name": "Sound levels"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "The legendary festivities of Alversjö are visited by a mystery knight in full plate armor - his face covered and his voice unheard. Who hides behind the visor? Where did he come from? What does he want? These are questions the people would be talking about for generations.",
+          "value": "Loudly inviting for everyone to add to the ball!",
           "customField": {
-            "name": "Description"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "The armor will be carried when it is cool outside, a short period at a time, to avoid overheating or becoming exhausted. Always followed by squire that can assist him if any need arise. (No combat)",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "The equipment will be easily brought and returned.",
+          "value": "LNT per usual",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "None",
+          "value": "ideally yes for electricity from the grid for the construction lights ~100W",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "The knight's camp",
+          "value": "*   Non-climbable structure with anchors/support at the base to avoid it moving\n    \n*   Note for builders- natural materials ONLY\n    \n*   Will be transported to an appropriate place to be burned",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "\\-",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Mriveraoman@gmail.com\n\n[+46722207875](tel:+46722207875)",
+          "value": "Anyone and many add to this ball of matter throughout the week. It's Everyone's build\n\nThen it burns.\n\n> Can you feel it?\n> \n> This matter, your matter, our matter.\n> \n> Heavy. Entangled. Gathered and gathering. How it accumulates. \n> \n> The knot. Your knot, my knot. All that we add, the weight of it all. \n> \n> **Add to it!** \n> \n> **Screw it!** \n> \n> **Let’s burn it!**\n\n**The co-creative process:**\n\n*   The initial ball of matter is created and placed somewhere where many people pass, ideally close to the woods.  \n    \n*   Screws, a power screwdriver is placed next to it and is available for anyone to use. People can find their own wood bits, leave some for others, use what is left.\n    \n*   **Anyone at their own free will, in any way they want, add to the ball. The ball of matter grows as people add.**\n    \n\n![](https://res.cloudinary.com/dreamswtf/image/upload/v1775768097/dreams/sxoyjmqzlsq2bubrcexe.png)\\*_images for visualisation reference only_\n\n![](https://res.cloudinary.com/dreamswtf/image/upload/v1775412106/dreams/fq0ut9yvpwbfzvrrnxd3.png)",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "very low - drill sound and humans",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Aura (discord: aura\\_cia)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
@@ -70514,14 +70489,50 @@
       "tags": [],
       "budgetItems": [
         {
-          "description": "Armor and Shield",
-          "min": 750,
-          "max": 2000,
+          "description": "plastic boxes for keeping screwdriver dry outside",
+          "min": 0,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "burn safety needs covered by effigy team",
+          "min": 0,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "night work lights for build",
+          "min": 1200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Screw driver with battery (Dewalt - later to be donated to BL community tools)",
+          "min": 2000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "wood screws different lenghts",
+          "min": 878,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "natural rope for tying to the ball",
+          "min": 162,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Lighting",
+          "min": 1627,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 1200,
+      "percentageFundedTrue": 25.71
     },
     {
       "id": "cmnvwruwh005ccwen3vg9xii7",
@@ -71924,208 +71935,197 @@
       "percentageFundedTrue": 77.09
     },
     {
-      "id": "cmmjqdnm10008966ghjcz2ube",
-      "title": "Gate Of Alvheim",
-      "summary": "Where cosmic whispers meet the breathing forest, frequencies of earth and stars entwine.\nThe Gate opens, inviting all wanderers to join the psychedelic trance.",
+      "id": "cmmqdcohs0000t3l6yv5cpj9i",
+      "title": "The Department of Mineral Affairs",
+      "summary": "The body has three needs: temporal illusion, private bathrooms, and equimolar homeostasis.",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 53,
-      "noOfComments": 0,
-      "percentageFunded": 1116.02,
-      "minGoal": 4800,
-      "maxGoal": 52944,
-      "income": 41000,
+      "noOfFunders": 19,
+      "noOfComments": 1,
+      "percentageFunded": 486.55,
+      "minGoal": 5519,
+      "maxGoal": 21968,
+      "income": 25400,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774355974/dreams/eytpbpxzgm02ioqili3e.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773624327/dreams/booorqklrweqib9jwlj1.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773624185/dreams/tbqkhrtyimx0hjxecyyn.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774354707/dreams/quakfgybesujj60845nh.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773624387/dreams/oira96ho358y9v0zc1jj.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773624173/dreams/hq8noxr59hzzezdxjcqz.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773624294/dreams/epq2jgrhdnhkc3qovopd.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1773513674/dreams/whj1rekbrajt4erhafkp.png"
         }
       ],
       "customFields": [
         {
-          "value": "Gate Of Alvheim",
+          "value": "Secret Garden",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "We estimate a need of around ~10 kW and aim to be self-sufficient if needed. Power will support lighting, atmospheric elements, installations, camp.",
+          "value": "Packs would have LNT instructions printed onto them.\n\nAltars could be so beautifully displayed that each embassy would want to take them home by the time we're all striking.",
           "customField": {
-            "name": "Electricity"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "Trinfinity/Sebastian  \nTrinfinityfrequencies@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Deep within an ancient forest, the Elves live in symbiosis with the living world, protecting a sacred ritual ground.  \nA place of transformation, death and rebirth, where we gather beneath the trees to celebrate unity, nature, and the intelligence flowing through life.\n\nBut something has disturbed the stillness.\n\nAfter a long intergalactic journey, the vessel of Kishmastle arrives at the edge of our realm, carrying travelers, symbols, and sounds from distant worlds.  \nWithin the forest, Fungal Refuge has taken root, offering rest, mycelial wisdom, and connection.\n\nThe forest asks: Can elves, star travelers, and fungal beings form one tribe?\n\nClues and knowledge are scattered throughout the land. Those who seek may follow quests and mysteries to bridge worlds.  \nThose who walk the path may be welcomed deeper, and through ritual, crowned as Elves of the Realm.\n\nGate Of Alvheim is an immersive ritual forest where art, story, psychedelic trance music, and participation merge.  \nThrough ceremonies, workshops, scenography, and tea rituals, participants step into a living mythology.\n\nNow in its second year at Borderland, Alvheim grows. With minimal funding, we realize the core and expand with more. We prioritize reuse and sustainability.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "We are co-creating with Kishmastle Space Station, Fungal Refuge and Breadcrumb Bureau. \n\nWe welcome artists, producers, ritualists, quest-makers, performers, visual artists, tea magicians, and DJs playing psychedelic sounds across psychill, psytrance, forest, darkpsy, twilight, zenon, psytech, hi-tech, and related sonic paths. \n\nWe will blast Borderland with a full day/nigth of psytrance.\n\nWe are also open to VJs, projection artists, workshop hosts, and other offerings that can enrich our takeover day and the wider story of the realm.\n\nIf you are interested in helping out, creating quests, shape ceremonies, decorate the forest, welcome newcomers into the tribe, or build bridges between the spaceship, the forest, and the refuge, we are open to hear from you.",
+          "value": "Looking to see how feasible it is to design replenishment altars at Saunas, bars, and dancefloors across the savannah.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Our own base area is not intended to be constantly loud, but our collaborative programming includes access to loud sound levels through the shared 20 kW passive sound system.",
+          "value": "Ever found yourself at a crossroads that you thought was a one-way street?\n\n*   Reaching deep into your trusted hip-bag at some obscure Muumimaa hour (RIP)\n    \n*   Stumbling out of your sun-blasted tent and headed towards the Blackwater Operations\n    \n*   Still building on Wednesday afternoon, but today the sun is your only companion?\n    \n*   Coming out of the sauna, wondering if you've achieved the epitome of relief?\n    \n\nThe Department of Mineral Affairs would like for you to know that **it now gets even better!**\n\n**Imagine**: balanced hydration, exactly when you need it, wherever you could think of it.\n\nWe are dreaming of establishing **The Chapel of Lost Sodium**, from which we will distribute **replenishment altars** to **electrolyte embassies** across the land.\n\nWe deliver a buffered sodium-forward formula that keeps your enamel safe, your stomach calm, your sphincter undisturbed, and your body blissfully in the middle way.\n\nWe also dream of supplying LNT appropriate stick packs for supreme self-reliance. **(stretch goal,** 1.3-2 SEK materials per pack).",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "No sound involved",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We will provide drinking water near active gathering spaces and bring first aid kits and fire extinguishers.  \nWe aim to build with care, maintain safe structures and pathways.",
+          "value": "Minerals are stored cool and airtight.\n\nThe replenishment altars should be out of rain/sunlight.\n\nLooking into most feasible designs to prevent contamination.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "We will strike effectively from Sunday and leave no trace.  \nWhere possible, we will reuse, recycle, and re-pack materials into our container at Alversjö so that the dream can continue to evolve over time.",
+          "value": "I am! Discord: terebess\n\n(It's the name of the Hungarian website on which I read Alan Watts' \"Against the Taboo of Knowing Yourself\" half a lifetime ago)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "The Replenishment Altars will be collected on Saturday/Sunday.\n\nShould an embassy like to keep them, then they shall be gifted.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Gate of Alvheim is designed as part of a shared ecosystem with its neighboring dreams.  \nKishmastle holds the louder sonic edge of the world.  \nWhile Fungal Refuge offers a softer inner sanctuary. And Breadcrumb Bureau binds our worlds together as one.\n\n  \nGate of Alvheim moves between those two energies through ritual, story, and immersive atmosphere.  \nWe will stay in dialogue around placement, timing, and flow so that our worlds coexist in harmony and deepen one another.\n\nWe are open to for any communication to co-create a wonderful Borderland with all our neighbours.",
+          "value": "Potentially a good time for an electrolyte quip, but we've got plenty of transduction already.",
           "customField": {
-            "name": "Co-existence"
+            "name": "Electricity"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Food"
+        },
+        {
+          "value": "Wellness"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Furniture (tables, seating, camp infrastructure)",
-          "min": 8000,
+          "description": "Wholesale minerals",
+          "min": 20000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Decoration (existing forest/ritual decor)",
-          "min": 5000,
+          "description": "Mixing machine",
+          "min": 4000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "String art portal (large sculptural entrance piece)",
-          "min": 6000,
+          "description": "Equipment (scales, funnels, etc)",
+          "min": 1000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Big artwork for stage design (backdrop/set pieces)",
-          "min": 6000,
+          "description": "Heat sealer",
+          "min": 400,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "LED lights, UV lights, etc. (existing lighting rig)",
-          "min": 8000,
-          "max": null,
-          "type": "INCOME"
+          "description": "0- 5000 printed compostable laminate / cellulose film packs",
+          "min": 0,
+          "max": 12500,
+          "type": "EXPENSE"
         },
         {
-          "description": "Power tools (drills, saws, construction equipment)",
-          "min": 6000,
-          "max": null,
-          "type": "INCOME"
+          "description": "Sodium Citrate (minimum prices for minerals listed are per kg)",
+          "min": 137,
+          "max": 2576,
+          "type": "EXPENSE"
         },
         {
-          "description": "Structure for camp",
+          "description": "Sodium Chloride",
+          "min": 8,
+          "max": 36,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Potassium Citrate",
+          "min": 159,
+          "max": 558,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Magnesium Citrate Malate",
+          "min": 404,
+          "max": 1092,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Glucose",
+          "min": 30,
+          "max": 407,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Citric Acid",
+          "min": 35,
+          "max": 53,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Ascorbic Acid (Vitamin C)",
+          "min": 100,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "pH Strips",
+          "min": 146,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Replenishment Altars (some form of container + design)",
           "min": 2000,
           "max": null,
-          "type": "INCOME"
+          "type": "EXPENSE"
         },
         {
-          "description": "Build materials",
+          "description": "gloves / sanitation",
+          "min": 100,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "food-safe storage / mixing containers",
+          "min": 400,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport",
           "min": 1000,
-          "max": 8000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Art materials",
+          "description": "Signs, lamination(?), etcetera",
           "min": 1000,
-          "max": 8000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Lighting",
-          "min": 1000,
-          "max": 5000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Secondhand decoration",
-          "min": 0,
-          "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Food gifts",
-          "min": 500,
-          "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Special tools",
-          "min": 1000,
-          "max": 3500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transportation",
-          "min": 0,
-          "max": 4444,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Extraordinaries",
-          "min": 0,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Storage",
-          "min": 0,
-          "max": 8000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Elf ears",
-          "min": 300,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Collaborative infrastructure",
-          "min": 0,
-          "max": 4500,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 41000,
-      "percentageFundedTrue": 854.17
+      "funded": 25400,
+      "percentageFundedTrue": 460.23
     },
     {
       "id": "cmnw5axv2003lfp28brzqo0d8",
