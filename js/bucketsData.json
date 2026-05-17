@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1778918644516,
+  "updatedAt": 1779006068385,
   "buckets": [
     {
       "id": "cmnoqi6s1001mbtyovxnh04lr",
@@ -1867,83 +1867,74 @@
       "percentageFundedTrue": 69.89
     },
     {
-      "id": "cmnsvg9f8001nyvy5h4l31ij2",
-      "title": "Sigil's & Tattoo's @ Alchemist Chamber",
-      "summary": "Create a personal sigil from a word or intention. Transform it into a unique symbol—and optionally tattoo it as a lasting mark of change.",
+      "id": "cmnsw20ds000liglimp1mcapy",
+      "title": "The \"Everything is Political\" Chai Stand_2.0",
+      "summary": "We are offering homemade chai recipes while intervening on the inevitable, inescapable, and sometimes inconvenient fact that everything is political",
       "status": "FUNDED",
-      "noOfFunders": 37,
-      "noOfComments": 3,
-      "percentageFunded": 248.65,
-      "minGoal": 4100,
-      "maxGoal": 12200,
-      "income": 6000,
+      "noOfFunders": 23,
+      "noOfComments": 0,
+      "percentageFunded": 277.35,
+      "minGoal": 1400,
+      "maxGoal": 3100,
+      "income": 1600,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775824694/dreams/ctdxzrltujm4arlvzrbq.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775826352/dreams/jaq457xum3aser3eodhr.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775826361/dreams/pkbled7fjwt5kqfkcowo.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776517410/dreams/sjm4hhi6vshijoczevgt.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775826860/dreams/zyozbsndfwnnvwyjugup.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Kemikal",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Just some background music.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Turn intentions into symbols.\n\nIn this workshop, you’ll create a personal sigil based on a word or phrase that represents a change, direction, or desire in your life. Using a simple letter-based method, we’ll transform language into a unique visual mark — a symbol of your own will.\n\nOnce created, you can keep your sigil as a drawing, or — if you choose — have it tattooed on your body as a lasting reminder. The act of marking the body adds weight to the intention: a moment of sensation, commitment, and transformation.\n\nCome with an idea, or find it here.",
+          "value": "Step into our chai cave where the air hums with sacred vibrations and the aroma of cardamom hangs thick enough to choke capitalism!\n\nImagine yourself floating in a cocoon of powerful mantras that vibrate your soul while you sip on chai so divine it could make a goddess weep with joy. Perfect for when you've lost your way between getting a tea at the Sanctuary or chasing your friends to Mumimaa. Our chai isn't just a beverage, it's a liquid revolution!\n\nWhen you emerge from your mantra-induced coma, join us for chai-fueled conversations about how the 11 principles are radical and political - and how great that is!\n\nWe welcome:\n\n*   People who already know everything is political\n    \n*   People who are terrified this is true, but want the opportunity to embrace this fear\n    \n*   People who want good chai and are prepared to chant for the liberation and joy of all living beings in the meantime\n    \n*   Anyone who can handle the truth that even in \"No-Borders-Land,\" power dynamics still exist\n    \n\n_P.S. And if talking about politics is not your cup of tea at Borderland.. well, sweetie, you've come to the wrong chai stand. But we'll still serve you tea, we're not monsters._",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "All tattoo equipment is single-use, including needles, gloves, and razors. After each tattoo, we apply a sterile second skin to protect the area and ensure a clean, safe process.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "None.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "All waste will be collected in designated disposal bags and safely taken off-site after the event to ensure proper handling and cleanliness.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "My plan is to hold two workshops, starting around 1300 on two days during the week. My plan is to do them at Chateau Vadeau. But if you have a matching venue and event i would be happy to co-create!",
+          "value": "We are open to co-creation to bring in more non-Western cultures into the space, we would especially love to co-create with other POC who want to share their cultures and experiences at Borderland!",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "This dream will be held att Chateu Vadeau.",
+          "value": "We will be on a move-able trolley, probably finding a spot for the day that doesn't disrupt anyone. We won't be taking up a lot of space and will be mindful that if we are to use a simple sound system that we are in the right zones for that. We think we will impact our neighbors only positively by offering them easy access to our delicious chai!",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "This event will take place in the **Alchemist Chamber**, a space that in previous years has hosted experimental workshops and installations, including projects with touch, water, and mushroom synths. The space itself has been made possible through funding from earlier editions of the camp.\n\nSome of the walls were damaged in the last round of strong weather, so one of our stretch goals is to raise enough funds to repair or replace them for future use.\n\nOne night we might open our popular Absinth bar too!",
+          "value": "We will have at most a one-speaker sound system that won't be very loud. Since we are on the move we will ensure that we don't disrupt any neighbors in the spots we choose to settle in for the day.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We will ensure their lives are not in danger by ensuring we have the right precautions and safety on all fronts!",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Our trolley will be easily dismantled in less than a few hours! Our set-up will be simple and effortless, and we will make sure to collect all of our belongings and THERE WILL BE NO MOOP!",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Alex Myerson, alex@myersons.co.uk",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "The Bureau of Justice, Joy, Bubbles, and Other Dangerous Ideas",
           "customField": {
             "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "NA",
+          "customField": {
+            "name": "Electricity"
           }
         }
       ],
@@ -1952,61 +1943,64 @@
           "value": "Experience"
         },
         {
-          "value": "Workshop"
+          "value": "Food"
+        },
+        {
+          "value": "Healing"
+        },
+        {
+          "value": "Light"
+        },
+        {
+          "value": "Meditation"
         }
       ],
       "budgetItems": [
         {
-          "description": "Tattoo equipment",
-          "min": 6000,
+          "description": "10L Thermos",
+          "min": 400,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Tattoo supplies for about 30-40 small tattoos including second skin, dissposable needles, razors etc",
-          "min": 2500,
+          "description": "Trolley ",
+          "min": 400,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Paper and pens for Sigil-design",
+          "description": "Some decoration",
+          "min": 300,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Gas and stove ",
           "min": 500,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Masala spices",
+          "min": 400,
+          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "2 yoga mats ",
-          "min": 600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Pillows and props to make tattoos more comfortable",
-          "min": 0,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "6 meter new wall",
-          "min": 0,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Bean bags for sitting (x3)",
-          "min": 0,
-          "max": 5500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wooden tablets for drawing",
+          "description": "Oat Milk",
           "min": 500,
-          "max": null,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Additional decoration (cushions, carpet, seating, table, lighting)",
+          "min": 500,
+          "max": 1800,
           "type": "EXPENSE"
         }
       ],
-      "funded": 6000,
-      "percentageFundedTrue": 146.34
+      "funded": 1600,
+      "percentageFundedTrue": 114.29
     },
     {
       "id": "cmnw9w19s0010db4wd8z3dkln",
@@ -5397,78 +5391,63 @@
       "percentageFundedTrue": 164.3
     },
     {
-      "id": "cmnsmbz540000nb4fi1fd89lw",
-      "title": "HYPERSTITION: Black Box",
-      "summary": "The Inner Chamber. Deepest Space at Borderland. Lights, sound and ambience taken to its logical end-point.",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 126,
-      "noOfComments": 6,
-      "percentageFunded": 239.35,
-      "minGoal": 81050,
-      "maxGoal": 90450,
-      "income": 154000,
+      "id": "cmnru33yf000hdkc93rvmcb70",
+      "title": "Supernova Sandwich Station",
+      "summary": "For a fleeting moment, the Keepers of LE Observable Universe manifest a celestial anomaly: the Supernova Sandwich Station.",
+      "status": "FUNDED",
+      "noOfFunders": 32,
+      "noOfComments": 0,
+      "percentageFunded": 139.78,
+      "minGoal": 2800,
+      "maxGoal": 4500,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014180/dreams/hnfg7xvrwgkk5y9ja4kh.gif"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775813883/dreams/xjw7iuujtoqt7bl92zmg.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776524693/dreams/lbeplofe7w89yx9mcszm.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776524834/dreams/erpkuyrbzgfenxmmh0cj.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775813894/dreams/hpdennqbwcfymblc5zik.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "A well executed strike is important to Hyperstition. The vast majority of our structure and it's components are reusable. The single use material we will dispose of correctly. We will ensure that we Leave A Better Trace for the future borderlings.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Our venue may see 400 visitors at peak. The Chrome Room acts as a buffer for our dance floor. We take the safety of everyone very seriously and will have responsible people on site to ensure safety.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "HYPERSTITION\n\n_2026 is the_ **_final year_** _for_ **_HYPERSTITION_** _at Borderland. We are stepping up to take on the Valley_ (**_the legendary Muumima spot)_**_, more than_ **_doubling our size, light and sound._**\n\nThe **Black Box** is part of the Hyperstition dream universe, which also include the **Chrome Room** and **Moon Dome**.",
+          "value": "the Keepers of LE Observable Universe",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "We are a sound camp. We are in close communication with S.O.U.N.D. to ensure that we are compliant with S.O.U.N.D. restrictions. >10kw, highly modular, and optimized placement design.",
+          "value": "The sound of happy humans and good vibes.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "The Black Box is the final major structure in the HYPERSTITION Moon Base. The endpoint of our Dreams, and the start of your new beginnings. It will be integrated into the Moon Dome and the Chrome Room. As a sound camp with ambitions to throw many big parties that go long this year, we are well aware of the disruptive impacts of our dreams. We are currently involved in the pre-placement process and in contact with S.O.U.N.D. to ensure suitable placement to minimize the impact of our sound on the Borderland residents and the neighbours.",
+          "value": "The event will be over seemlessly, as suddenly as it appeared. Leaving behind only smiles and full bellies.",
           "customField": {
-            "name": "Co-existence"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "The Black Box will be an incredible space for hosting parties. HYPERSTITION will host several parties during the week, but we are open to co-creation with other experienced event hosts to take on the venue for night. Please reach out on discord to @seblaarouchi with your vision and experience!  \n  \nWant to join the camp, volunteer to help out on site? register at ➡️➡️ [https://hyperstition-analytica.info/](https://hyperstition-analytica.info/) ⬅️⬅️or reach out on discord to @seblaarouchi or @sstlind with your ideas",
+          "value": "We will be using soft bread and only non sharp knives for spreading the sandwich spread.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Yes please - along the way.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "We will need around 25kw in total across all Hyperstition dreams. We will stay close to power team throughout.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "@seblaarouchi (Discord)",
+          "value": "DD Daniel +4527742209",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "**TL;DR** Hyperstition is upgrading our main dance floor to a bigger tent with much taller walls so we can safely run a full-scale laser show + massive (F1) upgrade to our sound system. Optimized for immersive sound and light. Need your support to raise the roof!\n\n**Hyperstition Black Box Upgrade**\n\nThis year we’re taking our main dance floor to the next level. We’re moving to a larger tent with 2.6-4m high walls. The extra height gives us the vertical space required to safely deploy a powerful laser show that wasn’t possible before, and integrate new types of lights without over saturating the experience held by the space.\n\nThis is the container that is dedicated to letting us safely push the limits with light and sound. We’re adding 6x F1 speakers to our current custom built system for crystal clear, high-impact audio that engages our guests down to the core.\n\nIn simple terms, The Black Box will deliver intensely immersive experiences.\n\n**Making the Black Box a Reality**\n\nWe have secured the tent through other fundraising means, now we need funds to make the rest of the technical upgrades and integrative decoration happen.\n\nIf you want to see (and feel) what a properly equipped Black Box can do, help us raise the roof!",
+          "value": "Rare interstellar occurence detected in this sector!\n\n  \nFor a fleeting moment, the Keepers of LE Observable Universe manifest a celestial anomaly: the Supernova Sandwich Station. Will your sandwich arrive on a meteor’s tail, or will you find it waiting at the universe’s core? Every bite is a cosmic revelation.\n\n  \nInteract with celestial beings, meet fellow travelers, play games that bend spacetime, and witness galactic wonders. Who knows - you might uncover the universe’s deepest secrets.  \nObserve. Taste. Explore.",
           "customField": {
             "name": "Description"
           }
@@ -5476,109 +5455,76 @@
       ],
       "tags": [
         {
-          "value": "Art installation"
+          "value": "Experience"
         },
         {
-          "value": "Hippie trap"
+          "value": "Food"
         },
         {
-          "value": "Soundcamp"
+          "value": "Game"
+        },
+        {
+          "value": "Weird shit"
         }
       ],
       "budgetItems": [
         {
-          "description": "Tent 8x12 (TBD)",
-          "min": 34000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "DJ booth",
-          "min": 6000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Pioneer CDJ's/DJM mixer",
-          "min": 75000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lights software licences",
-          "min": 10000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fabrics",
-          "min": 7000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Build material for portal",
-          "min": 9000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lights",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Projectors",
-          "min": 8000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lights (& lasers)",
-          "min": 25000,
-          "max": 28000,
+          "description": "Bread",
+          "min": 500,
+          "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Sound",
-          "min": 18000,
-          "max": 22000,
+          "description": "Vegetarian topping",
+          "min": 500,
+          "max": 700,
           "type": "EXPENSE"
         },
         {
-          "description": "Cables",
-          "min": 4000,
-          "max": 5000,
+          "description": "Vegan topping",
+          "min": 500,
+          "max": 700,
           "type": "EXPENSE"
         },
         {
-          "description": "Build material (portal entry and more)",
-          "min": 3750,
-          "max": null,
+          "description": "Cheese (and vegan too)",
+          "min": 500,
+          "max": 700,
           "type": "EXPENSE"
         },
         {
-          "description": "Incremental tent / tarp / flooding securing needs",
-          "min": 6500,
-          "max": null,
+          "description": "Grease (spreads, mayo and vegan too)",
+          "min": 250,
+          "max": 450,
           "type": "EXPENSE"
         },
         {
-          "description": "Transport (also covers Chrome Room)",
-          "min": 21000,
-          "max": null,
+          "description": "Something healthy (lettuce, tomatos and such, and vegan too)",
+          "min": 300,
+          "max": 450,
           "type": "EXPENSE"
         },
         {
-          "description": "Ventilation system",
-          "min": 2800,
-          "max": 4200,
+          "description": "Something pickled",
+          "min": 150,
+          "max": 250,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wrapping",
+          "min": 100,
+          "max": 150,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Gazolina to bring the universe",
+          "min": 0,
+          "max": 100,
           "type": "EXPENSE"
         }
       ],
-      "funded": 154000,
-      "percentageFundedTrue": 190.01
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnw8muqp0007osxzpasjlpa2",
@@ -9311,140 +9257,188 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnsw20ds000liglimp1mcapy",
-      "title": "The \"Everything is Political\" Chai Stand_2.0",
-      "summary": "We are offering homemade chai recipes while intervening on the inevitable, inescapable, and sometimes inconvenient fact that everything is political",
-      "status": "FUNDED",
-      "noOfFunders": 23,
-      "noOfComments": 0,
-      "percentageFunded": 277.35,
-      "minGoal": 1400,
-      "maxGoal": 3100,
-      "income": 1600,
+      "id": "cmnsmbz540000nb4fi1fd89lw",
+      "title": "HYPERSTITION: Black Box",
+      "summary": "The Inner Chamber. Deepest Space at Borderland. Lights, sound and ambience taken to its logical end-point.",
+      "status": "PARTIAL_FUNDING",
+      "noOfFunders": 126,
+      "noOfComments": 6,
+      "percentageFunded": 239.35,
+      "minGoal": 81050,
+      "maxGoal": 90450,
+      "income": 154000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775826860/dreams/zyozbsndfwnnvwyjugup.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014180/dreams/hnfg7xvrwgkk5y9ja4kh.gif"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776524693/dreams/lbeplofe7w89yx9mcszm.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776524834/dreams/erpkuyrbzgfenxmmh0cj.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Step into our chai cave where the air hums with sacred vibrations and the aroma of cardamom hangs thick enough to choke capitalism!\n\nImagine yourself floating in a cocoon of powerful mantras that vibrate your soul while you sip on chai so divine it could make a goddess weep with joy. Perfect for when you've lost your way between getting a tea at the Sanctuary or chasing your friends to Mumimaa. Our chai isn't just a beverage, it's a liquid revolution!\n\nWhen you emerge from your mantra-induced coma, join us for chai-fueled conversations about how the 11 principles are radical and political - and how great that is!\n\nWe welcome:\n\n*   People who already know everything is political\n    \n*   People who are terrified this is true, but want the opportunity to embrace this fear\n    \n*   People who want good chai and are prepared to chant for the liberation and joy of all living beings in the meantime\n    \n*   Anyone who can handle the truth that even in \"No-Borders-Land,\" power dynamics still exist\n    \n\n_P.S. And if talking about politics is not your cup of tea at Borderland.. well, sweetie, you've come to the wrong chai stand. But we'll still serve you tea, we're not monsters._",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "We are open to co-creation to bring in more non-Western cultures into the space, we would especially love to co-create with other POC who want to share their cultures and experiences at Borderland!",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "We will be on a move-able trolley, probably finding a spot for the day that doesn't disrupt anyone. We won't be taking up a lot of space and will be mindful that if we are to use a simple sound system that we are in the right zones for that. We think we will impact our neighbors only positively by offering them easy access to our delicious chai!",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We will have at most a one-speaker sound system that won't be very loud. Since we are on the move we will ensure that we don't disrupt any neighbors in the spots we choose to settle in for the day.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We will ensure their lives are not in danger by ensuring we have the right precautions and safety on all fronts!",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Our trolley will be easily dismantled in less than a few hours! Our set-up will be simple and effortless, and we will make sure to collect all of our belongings and THERE WILL BE NO MOOP!",
+          "value": "A well executed strike is important to Hyperstition. The vast majority of our structure and it's components are reusable. The single use material we will dispose of correctly. We will ensure that we Leave A Better Trace for the future borderlings.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Alex Myerson, alex@myersons.co.uk",
+          "value": "Our venue may see 400 visitors at peak. The Chrome Room acts as a buffer for our dance floor. We take the safety of everyone very seriously and will have responsible people on site to ensure safety.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Safety"
           }
         },
         {
-          "value": "The Bureau of Justice, Joy, Bubbles, and Other Dangerous Ideas",
+          "value": "HYPERSTITION\n\n_2026 is the_ **_final year_** _for_ **_HYPERSTITION_** _at Borderland. We are stepping up to take on the Valley_ (**_the legendary Muumima spot)_**_, more than_ **_doubling our size, light and sound._**\n\nThe **Black Box** is part of the Hyperstition dream universe, which also include the **Chrome Room** and **Moon Dome**.",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "NA",
+          "value": "We are a sound camp. We are in close communication with S.O.U.N.D. to ensure that we are compliant with S.O.U.N.D. restrictions. >10kw, highly modular, and optimized placement design.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "The Black Box is the final major structure in the HYPERSTITION Moon Base. The endpoint of our Dreams, and the start of your new beginnings. It will be integrated into the Moon Dome and the Chrome Room. As a sound camp with ambitions to throw many big parties that go long this year, we are well aware of the disruptive impacts of our dreams. We are currently involved in the pre-placement process and in contact with S.O.U.N.D. to ensure suitable placement to minimize the impact of our sound on the Borderland residents and the neighbours.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "The Black Box will be an incredible space for hosting parties. HYPERSTITION will host several parties during the week, but we are open to co-creation with other experienced event hosts to take on the venue for night. Please reach out on discord to @seblaarouchi with your vision and experience!  \n  \nWant to join the camp, volunteer to help out on site? register at ➡️➡️ [https://hyperstition-analytica.info/](https://hyperstition-analytica.info/) ⬅️⬅️or reach out on discord to @seblaarouchi or @sstlind with your ideas",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "We will need around 25kw in total across all Hyperstition dreams. We will stay close to power team throughout.",
           "customField": {
             "name": "Electricity"
+          }
+        },
+        {
+          "value": "@seblaarouchi (Discord)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "**TL;DR** Hyperstition is upgrading our main dance floor to a bigger tent with much taller walls so we can safely run a full-scale laser show + massive (F1) upgrade to our sound system. Optimized for immersive sound and light. Need your support to raise the roof!\n\n**Hyperstition Black Box Upgrade**\n\nThis year we’re taking our main dance floor to the next level. We’re moving to a larger tent with 2.6-4m high walls. The extra height gives us the vertical space required to safely deploy a powerful laser show that wasn’t possible before, and integrate new types of lights without over saturating the experience held by the space.\n\nThis is the container that is dedicated to letting us safely push the limits with light and sound. We’re adding 6x F1 speakers to our current custom built system for crystal clear, high-impact audio that engages our guests down to the core.\n\nIn simple terms, The Black Box will deliver intensely immersive experiences.\n\n**Making the Black Box a Reality**\n\nWe have secured the tent through other fundraising means, now we need funds to make the rest of the technical upgrades and integrative decoration happen.\n\nIf you want to see (and feel) what a properly equipped Black Box can do, help us raise the roof!",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [
         {
-          "value": "Experience"
+          "value": "Art installation"
         },
         {
-          "value": "Food"
+          "value": "Hippie trap"
         },
         {
-          "value": "Healing"
-        },
-        {
-          "value": "Light"
-        },
-        {
-          "value": "Meditation"
+          "value": "Soundcamp"
         }
       ],
       "budgetItems": [
         {
-          "description": "10L Thermos",
-          "min": 400,
+          "description": "Tent 8x12 (TBD)",
+          "min": 34000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Trolley ",
-          "min": 400,
+          "description": "DJ booth",
+          "min": 6000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Some decoration",
-          "min": 300,
+          "description": "Pioneer CDJ's/DJM mixer",
+          "min": 75000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Gas and stove ",
-          "min": 500,
+          "description": "Lights software licences",
+          "min": 10000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Masala spices",
-          "min": 400,
-          "max": 500,
+          "description": "Fabrics",
+          "min": 7000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Build material for portal",
+          "min": 9000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Lights",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Projectors",
+          "min": 8000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Lights (& lasers)",
+          "min": 25000,
+          "max": 28000,
           "type": "EXPENSE"
         },
         {
-          "description": "Oat Milk",
-          "min": 500,
-          "max": 800,
+          "description": "Sound",
+          "min": 18000,
+          "max": 22000,
           "type": "EXPENSE"
         },
         {
-          "description": "Additional decoration (cushions, carpet, seating, table, lighting)",
-          "min": 500,
-          "max": 1800,
+          "description": "Cables",
+          "min": 4000,
+          "max": 5000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Build material (portal entry and more)",
+          "min": 3750,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Incremental tent / tarp / flooding securing needs",
+          "min": 6500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport (also covers Chrome Room)",
+          "min": 21000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Ventilation system",
+          "min": 2800,
+          "max": 4200,
           "type": "EXPENSE"
         }
       ],
-      "funded": 1600,
-      "percentageFundedTrue": 114.29
+      "funded": 154000,
+      "percentageFundedTrue": 190.01
     },
     {
       "id": "cmnw6ev4q00065pqoifxrtnue",
@@ -69932,65 +69926,83 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnru33yf000hdkc93rvmcb70",
-      "title": "Supernova Sandwich Station",
-      "summary": "For a fleeting moment, the Keepers of LE Observable Universe manifest a celestial anomaly: the Supernova Sandwich Station.",
+      "id": "cmnsvg9f8001nyvy5h4l31ij2",
+      "title": "Sigil's & Tattoo's @ Alchemist Chamber",
+      "summary": "Create a personal sigil from a word or intention. Transform it into a unique symbol—and optionally tattoo it as a lasting mark of change.",
       "status": "FUNDED",
-      "noOfFunders": 32,
-      "noOfComments": 0,
-      "percentageFunded": 139.78,
-      "minGoal": 2800,
-      "maxGoal": 4500,
-      "income": 0,
+      "noOfFunders": 37,
+      "noOfComments": 3,
+      "percentageFunded": 248.65,
+      "minGoal": 4100,
+      "maxGoal": 12200,
+      "income": 6000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775813883/dreams/xjw7iuujtoqt7bl92zmg.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775824694/dreams/ctdxzrltujm4arlvzrbq.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775813894/dreams/hpdennqbwcfymblc5zik.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775826352/dreams/jaq457xum3aser3eodhr.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775826361/dreams/pkbled7fjwt5kqfkcowo.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776517410/dreams/sjm4hhi6vshijoczevgt.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "the Keepers of LE Observable Universe",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "The sound of happy humans and good vibes.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The event will be over seemlessly, as suddenly as it appeared. Leaving behind only smiles and full bellies.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "We will be using soft bread and only non sharp knives for spreading the sandwich spread.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Yes please - along the way.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "DD Daniel +4527742209",
+          "value": "Kemikal",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Rare interstellar occurence detected in this sector!\n\n  \nFor a fleeting moment, the Keepers of LE Observable Universe manifest a celestial anomaly: the Supernova Sandwich Station. Will your sandwich arrive on a meteor’s tail, or will you find it waiting at the universe’s core? Every bite is a cosmic revelation.\n\n  \nInteract with celestial beings, meet fellow travelers, play games that bend spacetime, and witness galactic wonders. Who knows - you might uncover the universe’s deepest secrets.  \nObserve. Taste. Explore.",
+          "value": "Just some background music.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Turn intentions into symbols.\n\nIn this workshop, you’ll create a personal sigil based on a word or phrase that represents a change, direction, or desire in your life. Using a simple letter-based method, we’ll transform language into a unique visual mark — a symbol of your own will.\n\nOnce created, you can keep your sigil as a drawing, or — if you choose — have it tattooed on your body as a lasting reminder. The act of marking the body adds weight to the intention: a moment of sensation, commitment, and transformation.\n\nCome with an idea, or find it here.",
           "customField": {
             "name": "Description"
+          }
+        },
+        {
+          "value": "All tattoo equipment is single-use, including needles, gloves, and razors. After each tattoo, we apply a sterile second skin to protect the area and ensure a clean, safe process.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "None.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "All waste will be collected in designated disposal bags and safely taken off-site after the event to ensure proper handling and cleanliness.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "My plan is to hold two workshops, starting around 1300 on two days during the week. My plan is to do them at Chateau Vadeau. But if you have a matching venue and event i would be happy to co-create!",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "This dream will be held att Chateu Vadeau.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "This event will take place in the **Alchemist Chamber**, a space that in previous years has hosted experimental workshops and installations, including projects with touch, water, and mushroom synths. The space itself has been made possible through funding from earlier editions of the camp.\n\nSome of the walls were damaged in the last round of strong weather, so one of our stretch goals is to raise enough funds to repair or replace them for future use.\n\nOne night we might open our popular Absinth bar too!",
+          "customField": {
+            "name": "This dream belongs to camp:"
           }
         }
       ],
@@ -69999,73 +70011,61 @@
           "value": "Experience"
         },
         {
-          "value": "Food"
-        },
-        {
-          "value": "Game"
-        },
-        {
-          "value": "Weird shit"
+          "value": "Workshop"
         }
       ],
       "budgetItems": [
         {
-          "description": "Bread",
+          "description": "Tattoo equipment",
+          "min": 6000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Tattoo supplies for about 30-40 small tattoos including second skin, dissposable needles, razors etc",
+          "min": 2500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Paper and pens for Sigil-design",
           "min": 500,
-          "max": 1000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Vegetarian topping",
-          "min": 500,
-          "max": 700,
+          "description": "2 yoga mats ",
+          "min": 600,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Vegan topping",
-          "min": 500,
-          "max": 700,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cheese (and vegan too)",
-          "min": 500,
-          "max": 700,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Grease (spreads, mayo and vegan too)",
-          "min": 250,
-          "max": 450,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Something healthy (lettuce, tomatos and such, and vegan too)",
-          "min": 300,
-          "max": 450,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Something pickled",
-          "min": 150,
-          "max": 250,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wrapping",
-          "min": 100,
-          "max": 150,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Gazolina to bring the universe",
+          "description": "Pillows and props to make tattoos more comfortable",
           "min": 0,
-          "max": 100,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "6 meter new wall",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Bean bags for sitting (x3)",
+          "min": 0,
+          "max": 5500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wooden tablets for drawing",
+          "min": 500,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 6000,
+      "percentageFundedTrue": 146.34
     },
     {
       "id": "cmnw32ted000covjvtsv57pf1",
