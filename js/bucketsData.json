@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1779269584557,
+  "updatedAt": 1779356387231,
   "buckets": [
     {
       "id": "cmnoqi6s1001mbtyovxnh04lr",
@@ -8886,170 +8886,107 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnrkzgn1000jee0vrrmsfz71",
-      "title": "Poe-tree",
-      "summary": "Birch Spirit rises and grows into the air as a Poet-Tree, dies into a mushroom, and leaves a hollow bark treesalis where you can step inside and become a tree.",
-      "status": "CANCELED",
-      "noOfFunders": 0,
-      "noOfComments": 0,
-      "percentageFunded": 278.04,
-      "minGoal": 13599,
-      "maxGoal": 14599,
-      "income": 36000,
+      "id": "cmnrwl2mi00084pm8zycemr0r",
+      "title": "A special shower",
+      "summary": "A once in a lifetime chance for a few willing explorers to experience the most special shower.",
+      "status": "FUNDED",
+      "noOfFunders": 9,
+      "noOfComments": 2,
+      "percentageFunded": 187365.73,
+      "minGoal": 534,
+      "maxGoal": 534,
+      "income": 999999,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775745456/dreams/bfhjuh3glhexoa05ubjl.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775745696/dreams/egbrqzvtkcxinwy669np.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775747351/dreams/ij6qqf5wbdawejgewk9o.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775747362/dreams/umi2cys8obmvfhvl1x0y.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775813580/dreams/bvb9lrv6zs0g5k2ru5yo.png"
         }
       ],
       "customFields": [
         {
-          "value": "YES - There is not enough chtracters to explain all the safety but yes. Tree will be protected, there will be riggers and helpers. and all my equipment is rigger/circus rigger approved.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Dara Morgana hellodaramorgana@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "I'd love some lighting genius to join me and make some mycelium lights as the tree grows, and if there are other flying creatures that want to join I'd love to! I'm quite open",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Lakefront camp (Official release of the camp TBA)",
+          "value": "Green Lantern",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Nope - speaker friendly and there will be an option of headphones for when it becomes and instalation.",
+          "value": "At the Hot Sauna (Sompasauna) we have been very strict with following the LNT rules for grey water. All of the grey water consisting of the ass sweat of thousands of hippies is meticulously gathered into a large greywater bucket so that none of it goes to the ground near the lake.  \nLast year when carrying the bucket and avoiding spilling this beautiful soup on myself I got filled with a sudden burst of inspiration. What a special shower this would make for a special someone! So this year instead of wasting all the precious ass sweat and grime of a thousand hippies buttholes and arm pits we will offer this holy water as a shower experience for a few willing borderlings.\n\nThis is a truely special shower that you cannot experience anywhere else. The special shower will run one time during the week. Keep your eyes out for the time on the Jomo guide!",
           "customField": {
-            "name": "Sound levels"
+            "name": "Description"
           }
         },
         {
-          "value": "The installation will be placed at the forest edge to make use of a sturdy limb for the rigging. The Tree-salis meditation area will be marked softly so that it remains a contemplative pocket of the woods, held apart from louder camps and pathways. The piece is rooted in years of aerial and embodied practice (the performer has presented related work, Poe-tree, at Synesthesia and Gathering of Tribes 2024) and is offered as a gift to the forest and to anyone who needs reminding that decay is also a form of becoming.",
+          "value": "Placement will be relatively simple and The Special Shower will only happen one time during the week with very minor impact to its surroundings.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "I will either compost it in a spontanous dramatic (the nice drama) way or take it home. Minus the harness and rope everything is made with compostable material :) nature dressing our human nature",
+          "value": "Very low sound foot print. Just some splissh splasshing from happy showering hippies.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We will advice the shower takers to avoid drinking the water but its ultimately up to them how they want to experience the shower.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Dream will be removed latest during Strike.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "I don't think i need, maybe for the electric winch?. My thoughts on electricity is that it's great and I'm glad I was born in an era where we have it.",
+          "value": "We will use battery powered shower heads. No power needed.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "The Poetree  \nAn organic performance art piece exploring the cycle of the forest, and eternity as transformation through connection.  \nThe Birch Spirit emerges from the forest floor at dusk, rooted in a mound of trailing bark and moss. She begins low to the ground, speaking a poem of ancestral growth, a spoken word piece tracing the lineage of trees, soil, and the ones who came before. As the poem reaches its climax, she is slowly hoisted up into the canopy, her birch bark body unfurling as she ascends, until she becomes a towering Poet-Tree suspended in the branches. She holds there. She speaks from above. And then she dies, descending in stillness back to the earth, where the bark shell opens and the spirit sheds her tree form to reveal a... mushroom! She becomes a mushroom on the forest floor, curled into the moss.\n\nAfter the two times I'll do this perfomance, , people will be able to put on the costume (without flying), use some available headphones and go on a TREE-SALIS meditation  \nThe costume will be made with birch bark, as it's local ( in the pictures it was eucalyptus because it was in portugal) and then composted :)  \nThe intention is to evoke a sense of wonder, enable others to be their tree and embodied belonging",
+          "value": "Eero @ Discord",
           "customField": {
-            "name": "Description"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Every borderling is invited to take part in creating the dream. You can contribute your special drop of ass sweat by just visiting the Hot Sauna during the week and your individual contribution will be added to the experience. Infact we NEED you to take part for this to happen!  \nI am also looking for the right place and time for this dream to happen. Does your camp/ritual/ceremony need exactly this? Reach out and lets collaborate!",
+          "customField": {
+            "name": "Co-creation"
           }
         }
       ],
       "tags": [
         {
-          "value": "Art installation"
-        },
-        {
-          "value": "Experience"
-        },
-        {
           "value": "Healing"
         },
         {
-          "value": "Kids-friendly"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Weird shit"
+          "value": "Wellness"
         }
       ],
       "budgetItems": [
         {
-          "description": "Electrical whinch",
-          "min": 35000,
+          "description": "Hippie ass sweat (Priceless)",
+          "min": 999999,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Aerial Harness",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Van Rental (1 week)",
-          "min": 4500,
-          "max": 5500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Gas & Road Tolls",
-          "min": 1200,
+          "description": "2 x portable showers",
+          "min": 434,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "New Static Rope",
-          "min": 1400,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "High-Grade Birch naver 4kg",
-          "min": 3600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Volume birch, 10kg raw ",
-          "min": 1100,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cambium saver ",
-          "min": 600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Safety Carabiners",
-          "min": 700,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Hemp Cord / Waxed Thread",
-          "min": 499,
+          "description": "A properly fucking big bucket (65L)",
+          "min": 100,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 36000,
-      "percentageFundedTrue": 264.73
+      "funded": 999999,
+      "percentageFundedTrue": 187265.73
     },
     {
       "id": "cmnupqh5m0006t64c8ch2k840",
@@ -17285,130 +17222,124 @@
       "percentageFundedTrue": 117.69
     },
     {
-      "id": "cmnrk0qm4000dmnvfc3qxy4qo",
-      "title": "The Water Truck™",
-      "summary": "Carrying things back and forth!!!\nThat has been the ongoing slogan of The Borderland ever since 2015. \nBut we say NO MORE!!!! Or at least no more carrying water",
-      "status": "FUNDED",
-      "noOfFunders": 44,
-      "noOfComments": 0,
-      "percentageFunded": 100,
-      "minGoal": 19600,
-      "maxGoal": 38100,
-      "income": 0,
+      "id": "cmnrfl82z000podvybj50skdo",
+      "title": "Fever Night, A Dreamy Drama by the Fuckery",
+      "summary": "Live music, sexy actors and a dark erotic story — ending where the stage dissolves and the audience becomes part of the show.\n",
+      "status": "CANCELED",
+      "noOfFunders": 0,
+      "noOfComments": 2,
+      "percentageFunded": 421.81,
+      "minGoal": 5500,
+      "maxGoal": 8000,
+      "income": 20000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775744930/dreams/chd6fdwgn7ah7zho8d7h.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776027283/dreams/p3zklm20mbvwlb2sgbsp.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775736436/dreams/g2dfera4bt2jb7yihykt.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775736461/dreams/eikedca2hsizk9m33zcp.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "This dream will be loved by everyone that drinks water.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We store all the gear in our container, ready for next year.  \nThe car will be picked up by Epton Trading.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Luciano - 123luciano@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Welcome home darling - This is where the Water Truck will be parked and maintaned.",
+          "value": "**The Fuckery**",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Only the sound of your muscles thanking you for not having to carry too much water.",
+          "value": "A perfect part of a bustling avenue in the plaza, making the night feel alive for the passers by.\n\nThe show will happen inside the main event tent of the Fuckery camp—a broader play space designed with care and consent at its core. We will clearly communicate our operating hours. We aim to harmonize with nearby camps and spaces, avoiding overlap with events that might clash in vibe or volume. We are open only during scheduled times to preserve possibilities for other events and activities within the space.",
           "customField": {
-            "name": "Sound levels"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "Yes, but it is a drop in the ocean compared to our other dreams :P",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "We will ensure that all safety standards are met. This goes for both for the car itself, the containers for water and the hoses and connectors.",
+          "value": "elatively high, except for the risk bodily fluids that might land on some too closely seated spectators…",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "\\*\\*What will we actually do?  \n\\*\\*Make sure that there is a car available.  \nEnsure that the car is running and ready for you to use.  \nCreate a system for booking and borrowing the truck.  \nEnsure that the car has a safe parking space where it can be charged.  \nFind a way to ensure the keys are not lost and the car doesn't disappear.  \nRefurbish the truck with containers, hoses and everything that is needed.  \nClean the containers throughout the week.  \nPack everything together and store it on site, until next year where it will return.  \n\\_  \nIf there is any part of that, that calls to you, then please reach out to Luciano",
+          "value": "We operate in alignment with The Fuckery's soundscape and sound levels. Music and amplified voices might be heard.",
           "customField": {
-            "name": "Co-creation"
+            "name": "Sound levels"
           }
         },
         {
-          "value": "The average burner uses, on a daily basis, way too much water_(at least when it comes to carrying it)._ And for some reason it is always the same schmucks that end up transporting the endless amounts water to the camp.  \nBut worry not my fellow schmucks and carriers of water. **The Water Truck™** is here to save your day _(and your back).  \n_**The Water Truck™** is a dream born out of Lucianos existing need, to find easier ways to do stuff. And our success from last year proves that it is a need that is shared by the masses.\n\nBy turning a regular electric golf cart into a vehicle of water and transportation, you are not only helping yourself.  \nBecause after having deposited water in your camp, you are most likely left with loads of water, which you can share with your neighbours. You will be the hero of the day, the gifter of the water and prophet of \"Not carrying things back and forth\".",
+          "value": "Will go down with the rest of The Fuckery, we build Sat-Monday July 19th-20th and are done with Strike no later than Sunday July 26th.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Lights and sound; this dream relies on electricity estimations of The Fuckery’s infrastructure, in coordination with the camp team.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "@Mirja is our Dr. Bill-Bull, and is easiest found on the Discord!",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "This is theatre. This is seduction. This is The Fuckery on stage.\n\nInspired by Arthur Schnitzler's _Dream Story_ — the same source material that gave us _Eyes Wide Shut_ — Fever Night is a melodramatic, sensual, darkly playful live performance staged on The Erotic Theatre.\n\nThe story: a shadowy secret cult. An innocent initiate. A young lover, desperate to save her from a fate worse than death. And somewhere in the candlelight — you.\n\nExpect live music. Expect dramatic text drawn from seriously classic material, retold with a modern twist. Expect beautiful, barely-dressed performers, a hint of song, a whisper of dance — and a grand finale that blurs the line between stage and audience, launching the evening into its next, real-life chapter.\n\nThe Fuckery team takes the stage. You take your seat. And by the end — we're all part of the show.",
           "customField": {
             "name": "Description"
+          }
+        },
+        {
+          "value": "Starting with the audience immersed into the world of the play, but in the safety of the spectator role. Ending with the audience invited to merge with the perfomers and start of the evenings play night.",
+          "customField": {
+            "name": "Co-creation"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "Carryall 500 rental",
-          "min": 13500,
-          "max": 27000,
+          "description": "Sound, light and music system",
+          "min": 9000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Furniture and pillows",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Mats and rugs",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Smoke machine and smoke",
+          "min": 4000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Stage element, 2x1 m ",
+          "min": 4000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Sign and deco",
-          "min": 500,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Water tanks",
+          "description": "Stage equipment (sabre and knife (fake), clothing, masks and hats",
           "min": 1500,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Connectors and hoses",
-          "min": 500,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Battery powered water pump + extra battery",
-          "min": 1500,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cleaning materials",
-          "min": 300,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Fasteners and straps",
-          "min": 300,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transport ",
-          "min": 1500,
-          "max": 3000,
+          "max": 4000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 20000,
+      "percentageFundedTrue": 363.64
     },
     {
       "id": "cmnvtkcvn001waowoz3u1x6t1",
@@ -20107,80 +20038,101 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnrq2udf0000110zdw56o5s6",
-      "title": "FLAT FRIENDS ",
-      "summary": "FLAT FRIENDS: Why settle for complicated relationships? Choose a Flat Friend: zero drama and total loyalty. It's what borderland really need. ",
+      "id": "cmnrsqr76000i10bocn8wospf",
+      "title": "We All Seek the Light",
+      "summary": "What is at the end of the tunnel, when we reach the light? What is it we really seek, and who do we become on the other side?",
       "status": "FUNDED",
-      "noOfFunders": 18,
+      "noOfFunders": 24,
       "noOfComments": 0,
-      "percentageFunded": 100,
-      "minGoal": 1800,
-      "maxGoal": 4800,
-      "income": 0,
+      "percentageFunded": 220.16,
+      "minGoal": 2950,
+      "maxGoal": 6300,
+      "income": 3500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775760021/dreams/wqk95oxz1b2cjtjwqtff.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775758761/dreams/iyfq7u3l4f8j7ix4ocnk.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775850870/dreams/e9expkiy96tv9w8krwaf.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775924834/dreams/mrh8wpjcevzi4kykpdku.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775850959/dreams/bs0xakhoggsjlulx9k7i.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "No more drama!\n\nWe're bringing six life-size cardboard cut-out friends to Borderland. People at borderland are to complicated. Flat Friends never cancel plans, take your spotlight and is always their for you. It's what borderland really needs.\n\n\\-\n\nWe carry them around the site, introduce them to people, and let them photobomb your best moments. Zero drama, total loyalty. A true friends, a friend you deserve.\n\n\\-\n\n**Stretch goal:** If we reach extra funding, we're also bringing Flat Pets. Because even your Flat Friend deserves a companion with zero opinions.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Burnes Magasin - Rainbow Edition",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Want to hang out with someone who actually listens? They won't ghost you. They won't start a drum circle. They're just happy to be included.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Flat friends are known for being very quiet types. Don't worry about them being loud.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We will make sure that our flat friends are brought back home safe after the burn! Borderland 2026 is the just the beginning of their story.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Non-toxic inks, lightweight (under 2 kg each), no fire, no chemicals. The only risk is getting too emotionally attached.",
+          "value": "Nothing heavy, no fire hazard. We will make sure to pin down cables so people don't trip.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Pål Rainbow Raven\n\n[Pal.Schakonat@gmail.com](mailto:Pal.Schakonat@gmail.com)",
+          "value": "Balint balint@kovari.cc",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "No electricity needed. Flat Friends run entirely on loyalty.",
+          "value": "Don't worry, your flour is safe.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Small creatures won't make big sound.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Sunday funday, we eat all our trash.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Low powered lights and sounds, support from a smoke machine.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Flat Friends have a very flat character and take up very little emotional space. They will never ask you to hold space for their feelings. They coexist beautifully with all humans, animals, and art cars.",
+          "value": "Deep in the forest, a delicate cocoon rests between the trees, neither shelter nor sculpture, but a real threshold. Those who dare to enter are not spectators nor participants, not yet anything at all..\n\n  \n\nGentle, foreign, shedding, warped, twisting, merging, separate, whole.         R e b ḯ̵͔̜̺͎͕̓̒̇̕ r t h. \n\n  \n\nInside the shell, the light awaits. You touch the space, the space touches back. It stretches you. Textures cling, colors migrate, your spirit is pulled through layers of separation. What lies beyond the flickering light.. Are you willing to get closer?",
           "customField": {
-            "name": "Co-existence"
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Build our nest with us or be the wind that blows it away at the end. Join the swarm that guides new caterpillars through their metamorphosis. Maybe you have a role to play? A predator or the prey.",
+          "customField": {
+            "name": "Co-creation"
           }
         }
       ],
       "tags": [
         {
+          "value": "Art installation"
+        },
+        {
+          "value": "Art walk apropriate"
+        },
+        {
           "value": "Experience"
+        },
+        {
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Kids-friendly"
+        },
+        {
+          "value": "Light"
+        },
+        {
+          "value": "Pimping station"
         },
         {
           "value": "Weird shit"
@@ -20188,20 +20140,80 @@
       ],
       "budgetItems": [
         {
-          "description": "3x (6x strecth goal) real-size cardboard cut-outs",
-          "min": 1800,
-          "max": 3600,
+          "description": "Speakers and sd cards",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fabric",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Lights",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Glitter (øko)",
+          "min": 150,
+          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "2 pet-size cardboard cut-outs of pets",
-          "min": 0,
-          "max": 1200,
+          "description": "Bodypaint",
+          "min": 150,
+          "max": 300,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fabric",
+          "min": 500,
+          "max": 1300,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Webs",
+          "min": 200,
+          "max": 400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport",
+          "min": 500,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Rope 50m",
+          "min": 300,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Lights",
+          "min": 500,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Trinkets",
+          "min": 500,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Mirror sheet",
+          "min": 150,
+          "max": 200,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 3500,
+      "percentageFundedTrue": 118.64
     },
     {
       "id": "cmnw5kfmb001uod56n1r3avhr",
@@ -29939,124 +29951,157 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnrfl82z000podvybj50skdo",
-      "title": "Fever Night, A Dreamy Drama by the Fuckery",
-      "summary": "Live music, sexy actors and a dark erotic story — ending where the stage dissolves and the audience becomes part of the show.\n",
-      "status": "CANCELED",
-      "noOfFunders": 0,
-      "noOfComments": 2,
-      "percentageFunded": 421.81,
-      "minGoal": 5500,
-      "maxGoal": 8000,
-      "income": 20000,
+      "id": "cmnskzbl50001dgknidlvlvmg",
+      "title": "Women who support women ",
+      "summary": "“Women Who Support Women” — A Dream for Borderland\nA dream about co-creating a new neighborhood at Borderland — a soft, heart-centered sanctuary.",
+      "status": "PARTIAL_FUNDING",
+      "noOfFunders": 35,
+      "noOfComments": 4,
+      "percentageFunded": 494.63,
+      "minGoal": 9910,
+      "maxGoal": 9910,
+      "income": 42780,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776027283/dreams/p3zklm20mbvwlb2sgbsp.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775806436/dreams/f6svqueonccmzqmoywsq.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775736436/dreams/g2dfera4bt2jb7yihykt.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775736461/dreams/eikedca2hsizk9m33zcp.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775806453/dreams/aj47yjkpkewalbhqtvla.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "**The Fuckery**",
+          "value": "Women who support women",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "A perfect part of a bustling avenue in the plaza, making the night feel alive for the passers by.\n\nThe show will happen inside the main event tent of the Fuckery camp—a broader play space designed with care and consent at its core. We will clearly communicate our operating hours. We aim to harmonize with nearby camps and spaces, avoiding overlap with events that might clash in vibe or volume. We are open only during scheduled times to preserve possibilities for other events and activities within the space.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "elatively high, except for the risk bodily fluids that might land on some too closely seated spectators…",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "We operate in alignment with The Fuckery's soundscape and sound levels. Music and amplified voices might be heard.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Will go down with the rest of The Fuckery, we build Sat-Monday July 19th-20th and are done with Strike no later than Sunday July 26th.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Lights and sound; this dream relies on electricity estimations of The Fuckery’s infrastructure, in coordination with the camp team.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "@Mirja is our Dr. Bill-Bull, and is easiest found on the Discord!",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "This is theatre. This is seduction. This is The Fuckery on stage.\n\nInspired by Arthur Schnitzler's _Dream Story_ — the same source material that gave us _Eyes Wide Shut_ — Fever Night is a melodramatic, sensual, darkly playful live performance staged on The Erotic Theatre.\n\nThe story: a shadowy secret cult. An innocent initiate. A young lover, desperate to save her from a fate worse than death. And somewhere in the candlelight — you.\n\nExpect live music. Expect dramatic text drawn from seriously classic material, retold with a modern twist. Expect beautiful, barely-dressed performers, a hint of song, a whisper of dance — and a grand finale that blurs the line between stage and audience, launching the evening into its next, real-life chapter.\n\nThe Fuckery team takes the stage. You take your seat. And by the end — we're all part of the show.",
+          "value": "A soft, heart-centered sanctuary rooted in connection, presence, and feminine support.\n\nAt the center of this space stands a large, open pavilion — a warm and inviting structure held by nature and intention. Beneath it: layers of soft carpets, cushions, blankets, and low seating. A space you can sink into.\n\nSurrounding the pavilion, a small village emerges — tents and shared living spaces forming a calm and cohesive neighborhood. Not a party camp, but a refuge. A place to land and be held.\n\nThis camp is designed as a gentle contrast to the intensity and stimulation of the festival. A place where the nervous system can soften.\n\nThroughout the days, the space wants to offer:\n\n*   _A cacao ceremony_\n    \n*   Intuitive dance\n    \n*   Soft music and shared stillness\n    \n*   Breathwork, meditation, and gentle yoga\n    \n*   Quiet conversations and deep listening\n    \n*   Invite men into a circle of curiosity. Where any questions are welcome to gain deeper insight into the inner world and lived experiences of women.\n    \n\nWe envision as a **neighborhood** within Borderland — a distinct zone with a shared atmosphere of calm, openness, and emotional safety.\n\nA place people know they can return to when they need softness.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Starting with the audience immersed into the world of the play, but in the safety of the spectator role. Ending with the audience invited to merge with the perfomers and start of the evenings play night.",
+          "value": "Yes — we are very open to co-creation.\n\nWe warmly invite all women who feel aligned with the intention of the camp to contribute. Co-creation can take many forms — whether it’s holding a gentle session, helping shape the space, supporting the atmosphere, or simply showing up with presence and care.\n\nWhat matters most is that you resonate with the values of the camp: softness, respect, authenticity, and a desire to support one another.\n\nAs long as you can move within this shared framework, your contribution is welcome.",
           "customField": {
             "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Women Who Support Women” is intentionally designed as a calm, grounded, and low-noise space. Rather than generating high energy or large gatherings, we aim to create a soft landing spot — a place for rest, integration, and gentle connection. In that sense, we see our presence as a positive contribution to our neighbors, especially for those who may also value quieter, more introspective environments.\n\nWe are mindful that sound, flow of people, and spatial boundaries affect those around us. Our activities (such as cacao ceremonies, breathwork, and soft music) will be held at a low volume and with clear timeframes. There will be no amplified music late at night, and we will actively maintain a respectful soundscape.\n\nOverall, our intention is to be a gentle and stabilizing presence in our surroundings — a space that not only coexists peacefully, but contributes to the diversity and balance of the festival as a whole.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Sounds from ceremonies, dance, talk - but we need our beauty sleep.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We are very safe.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We will gently and mindfully take down the camp after the festival, ensuring that everything we brought with us is either packed out, reused, or responsibly disposed of.\n\nWe see cleanup as part of the ritual — a shared and conscious closing of the space.\n\nThroughout the festival, we will already be mindful of our impact, keeping the area clean and caring for the surroundings as we go.\n\nAnd in the end, we will walk the land slowly, together, making sure nothing is left behind.\n\nWe come with softness — and we leave with care.\n\nSprinkling love to the grass everywhere we go 💛",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "**3–7 kWh for the full festival**.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Cathrine Møhl : [catmohl@live.dk](mailto:catmohl@live.dk)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "Sound, light and music system",
-          "min": 9000,
+          "description": "Gong",
+          "min": 19000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Furniture and pillows",
-          "min": 5000,
+          "description": "Drum",
+          "min": 2900,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Mats and rugs",
-          "min": 2000,
+          "description": "Tent ",
+          "min": 150,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Smoke machine and smoke",
-          "min": 4000,
+          "description": "Lights ",
+          "min": 730,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Stage element, 2x1 m ",
-          "min": 4000,
+          "description": "Handpan",
+          "min": 20000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Cacao",
+          "min": 2325,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Stage equipment (sabre and knife (fake), clothing, masks and hats",
-          "min": 1500,
-          "max": 4000,
+          "description": "Oatmilk and spices",
+          "min": 465,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Gear to make it",
+          "min": 620,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Plankets, mattresses, cushions (second hand)",
+          "min": 2000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Solar lights ",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Tent or large pavillion (second hand)",
+          "min": 2900,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "20 dresses",
+          "min": 600,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 20000,
-      "percentageFundedTrue": 363.64
+      "funded": 42780,
+      "percentageFundedTrue": 431.69
     },
     {
       "id": "cmnw915yr002bmgzbk1171v4k",
@@ -37770,72 +37815,72 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnri4vrg001ca3rohnhcjcdo",
-      "title": "Exploring touch interaction to play music",
-      "summary": "Have you ever felt curious about the inner sound of objects, water or your own touch? This interactive space can turn touch into music.",
+      "id": "cmnrk0qm4000dmnvfc3qxy4qo",
+      "title": "The Water Truck™",
+      "summary": "Carrying things back and forth!!!\nThat has been the ongoing slogan of The Borderland ever since 2015. \nBut we say NO MORE!!!! Or at least no more carrying water",
       "status": "FUNDED",
-      "noOfFunders": 10,
+      "noOfFunders": 44,
       "noOfComments": 0,
       "percentageFunded": 100,
-      "minGoal": 3000,
-      "maxGoal": 3000,
+      "minGoal": 19600,
+      "maxGoal": 38100,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775740668/dreams/ecix5jypqgvl28gs8yj9.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775746520/dreams/fafpywdzrqg4ukui77rg.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775746846/dreams/geidvyzzfn5endz1yo6z.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775744930/dreams/chd6fdwgn7ah7zho8d7h.png"
         }
       ],
       "customFields": [
         {
-          "value": "I am new to Borderland and haven’t found any camp so far.",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "The space will be filled by experimental sounds that might be annoying to neighbours nearby.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "This dream can effectively be removed after Borderland.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Myself, Manu (ramos.cacciatore@gmail.com)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "This dream is open to a co-creation and other ideas to make it more playful.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "It would be great to locate this space to explore touch and sounds within an area of Borderland that might have also a creative and co-creative character, perhaps near other installations, or the space can also be accompany by similar dreams that require the interaction of visitors.",
+          "value": "This dream will be loved by everyone that drinks water.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "To make work the tech device, anyone can conect it to their phone as long as they have batery.",
+          "value": "We store all the gear in our container, ready for next year.  \nThe car will be picked up by Epton Trading.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Luciano - 123luciano@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Welcome home darling - This is where the Water Truck will be parked and maintaned.",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Only the sound of your muscles thanking you for not having to carry too much water.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Yes, but it is a drop in the ocean compared to our other dreams :P",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "This dream comes from the need to explore human touch-based play. By using interactive technology, physical touch can be transformed into sound, creating a space for interaction where human connection becomes the source of music. (Sorry, this doesn’t sound fun at all, but in practice, it really is.)\n\nIn reality, this looks like an interactive space welcoming anyone who wants to explore sounds and melodies simply by touching other human. This is just the starting point. Once people in the interactieve space start playing, they will realise that anything they touch can produce melodies. It can also be touching water, a banana or any object they wear. It might take some time to connect the dots and cables, but once they get it, they wont get out of it.\n\nIn a nutsell, the dream is about group interaction, using contact to make music, accessible and playful for everyone.",
+          "value": "We will ensure that all safety standards are met. This goes for both for the car itself, the containers for water and the hoses and connectors.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "\\*\\*What will we actually do?  \n\\*\\*Make sure that there is a car available.  \nEnsure that the car is running and ready for you to use.  \nCreate a system for booking and borrowing the truck.  \nEnsure that the car has a safe parking space where it can be charged.  \nFind a way to ensure the keys are not lost and the car doesn't disappear.  \nRefurbish the truck with containers, hoses and everything that is needed.  \nClean the containers throughout the week.  \nPack everything together and store it on site, until next year where it will return.  \n\\_  \nIf there is any part of that, that calls to you, then please reach out to Luciano",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "The average burner uses, on a daily basis, way too much water_(at least when it comes to carrying it)._ And for some reason it is always the same schmucks that end up transporting the endless amounts water to the camp.  \nBut worry not my fellow schmucks and carriers of water. **The Water Truck™** is here to save your day _(and your back).  \n_**The Water Truck™** is a dream born out of Lucianos existing need, to find easier ways to do stuff. And our success from last year proves that it is a need that is shared by the masses.\n\nBy turning a regular electric golf cart into a vehicle of water and transportation, you are not only helping yourself.  \nBecause after having deposited water in your camp, you are most likely left with loads of water, which you can share with your neighbours. You will be the hero of the day, the gifter of the water and prophet of \"Not carrying things back and forth\".",
           "customField": {
             "name": "Description"
           }
@@ -37844,21 +37889,51 @@
       "tags": [],
       "budgetItems": [
         {
-          "description": "TouchMe device",
-          "min": 1600,
-          "max": null,
+          "description": "Carryall 500 rental",
+          "min": 13500,
+          "max": 27000,
           "type": "EXPENSE"
         },
         {
-          "description": "8 patches for skin, copper tape, 10 alligator clips and conductive tape",
-          "min": 1100,
-          "max": null,
+          "description": "Sign and deco",
+          "min": 500,
+          "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Basic instructions on paper",
+          "description": "Water tanks",
+          "min": 1500,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Connectors and hoses",
+          "min": 500,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Battery powered water pump + extra battery",
+          "min": 1500,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cleaning materials",
           "min": 300,
-          "max": null,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fasteners and straps",
+          "min": 300,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport ",
+          "min": 1500,
+          "max": 3000,
           "type": "EXPENSE"
         }
       ],
@@ -47282,107 +47357,100 @@
       "percentageFundedTrue": 354.08
     },
     {
-      "id": "cmnrwl2mi00084pm8zycemr0r",
-      "title": "A special shower",
-      "summary": "A once in a lifetime chance for a few willing explorers to experience the most special shower.",
+      "id": "cmnri4vrg001ca3rohnhcjcdo",
+      "title": "Exploring touch interaction to play music",
+      "summary": "Have you ever felt curious about the inner sound of objects, water or your own touch? This interactive space can turn touch into music.",
       "status": "FUNDED",
-      "noOfFunders": 9,
-      "noOfComments": 2,
-      "percentageFunded": 187365.73,
-      "minGoal": 534,
-      "maxGoal": 534,
-      "income": 999999,
+      "noOfFunders": 10,
+      "noOfComments": 1,
+      "percentageFunded": 98.36,
+      "minGoal": 3050,
+      "maxGoal": 3050,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775813580/dreams/bvb9lrv6zs0g5k2ru5yo.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775740668/dreams/ecix5jypqgvl28gs8yj9.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775746520/dreams/fafpywdzrqg4ukui77rg.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775746846/dreams/geidvyzzfn5endz1yo6z.png"
         }
       ],
       "customFields": [
         {
-          "value": "Green Lantern",
+          "value": "I am new to Borderland and haven’t found any camp so far.",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "At the Hot Sauna (Sompasauna) we have been very strict with following the LNT rules for grey water. All of the grey water consisting of the ass sweat of thousands of hippies is meticulously gathered into a large greywater bucket so that none of it goes to the ground near the lake.  \nLast year when carrying the bucket and avoiding spilling this beautiful soup on myself I got filled with a sudden burst of inspiration. What a special shower this would make for a special someone! So this year instead of wasting all the precious ass sweat and grime of a thousand hippies buttholes and arm pits we will offer this holy water as a shower experience for a few willing borderlings.\n\nThis is a truely special shower that you cannot experience anywhere else. The special shower will run one time during the week. Keep your eyes out for the time on the Jomo guide!",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Placement will be relatively simple and The Special Shower will only happen one time during the week with very minor impact to its surroundings.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Very low sound foot print. Just some splissh splasshing from happy showering hippies.",
+          "value": "The space will be filled by experimental sounds that might be annoying to neighbours nearby.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We will advice the shower takers to avoid drinking the water but its ultimately up to them how they want to experience the shower.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Dream will be removed latest during Strike.",
+          "value": "This dream can effectively be removed after Borderland.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "We will use battery powered shower heads. No power needed.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Eero @ Discord",
+          "value": "Myself, Manu (ramos.cacciatore@gmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Every borderling is invited to take part in creating the dream. You can contribute your special drop of ass sweat by just visiting the Hot Sauna during the week and your individual contribution will be added to the experience. Infact we NEED you to take part for this to happen!  \nI am also looking for the right place and time for this dream to happen. Does your camp/ritual/ceremony need exactly this? Reach out and lets collaborate!",
+          "value": "This dream is open to a co-creation and other ideas to make it more playful.",
           "customField": {
             "name": "Co-creation"
           }
-        }
-      ],
-      "tags": [
-        {
-          "value": "Healing"
         },
         {
-          "value": "Wellness"
+          "value": "It would be great to locate this space to explore touch and sounds within an area of Borderland that might have also a creative and co-creative character, perhaps near other installations, or the space can also be accompany by similar dreams that require the interaction of visitors.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "To make work the tech device, anyone can conect it to their phone as long as they have batery.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "This dream comes from the need to explore human touch-based play. By using interactive technology, physical touch can be transformed into sound, creating a space for interaction where human connection becomes the source of music. (Sorry, this doesn’t sound fun at all, but in practice, it really is.)\n\nIn reality, this looks like an interactive space welcoming anyone who wants to explore sounds and melodies simply by touching other human. This is just the starting point. Once people in the interactieve space start playing, they will realise that anything they touch can produce melodies. It can also be touching water, a banana or any object they wear. It might take some time to connect the dots and cables, but once they get it, they wont get out of it.\n\nIn a nutsell, the dream is about group interaction, using contact to make music, accessible and playful for everyone.",
+          "customField": {
+            "name": "Description"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Hippie ass sweat (Priceless)",
-          "min": 999999,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "2 x portable showers",
-          "min": 434,
+          "description": "TouchMe device",
+          "min": 1600,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "A properly fucking big bucket (65L)",
-          "min": 100,
+          "description": "8 patches for skin, copper tape, 10 alligator clips and conductive tape",
+          "min": 1150,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Basic instructions on paper",
+          "min": 300,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 999999,
-      "percentageFundedTrue": 187265.73
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnua3csy0011pqbcsepz7frc",
@@ -48396,77 +48464,83 @@
       "percentageFundedTrue": 31.31
     },
     {
-      "id": "cmnrsqr76000i10bocn8wospf",
-      "title": "We All Seek the Light",
-      "summary": "What is at the end of the tunnel, when we reach the light? What is it we really seek, and who do we become on the other side?",
-      "status": "FUNDED",
-      "noOfFunders": 24,
+      "id": "cmnrkzgn1000jee0vrrmsfz71",
+      "title": "Poe-tree",
+      "summary": "Birch Spirit rises and grows into the air as a Poet-Tree, dies into a mushroom, and leaves a hollow bark treesalis where you can step inside and become a tree.",
+      "status": "CANCELED",
+      "noOfFunders": 0,
       "noOfComments": 0,
-      "percentageFunded": 220.16,
-      "minGoal": 2950,
-      "maxGoal": 6300,
-      "income": 3500,
+      "percentageFunded": 278.04,
+      "minGoal": 13599,
+      "maxGoal": 14599,
+      "income": 36000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775758761/dreams/iyfq7u3l4f8j7ix4ocnk.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775745456/dreams/bfhjuh3glhexoa05ubjl.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775850870/dreams/e9expkiy96tv9w8krwaf.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775745696/dreams/egbrqzvtkcxinwy669np.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775924834/dreams/mrh8wpjcevzi4kykpdku.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775747351/dreams/ij6qqf5wbdawejgewk9o.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775850959/dreams/bs0xakhoggsjlulx9k7i.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775747362/dreams/umi2cys8obmvfhvl1x0y.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Nothing heavy, no fire hazard. We will make sure to pin down cables so people don't trip.",
+          "value": "YES - There is not enough chtracters to explain all the safety but yes. Tree will be protected, there will be riggers and helpers. and all my equipment is rigger/circus rigger approved.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Balint balint@kovari.cc",
+          "value": "Dara Morgana hellodaramorgana@gmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Don't worry, your flour is safe.",
+          "value": "I'd love some lighting genius to join me and make some mycelium lights as the tree grows, and if there are other flying creatures that want to join I'd love to! I'm quite open",
           "customField": {
-            "name": "Co-existence"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "Small creatures won't make big sound.",
+          "value": "Lakefront camp (Official release of the camp TBA)",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Nope - speaker friendly and there will be an option of headphones for when it becomes and instalation.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Sunday funday, we eat all our trash.",
+          "value": "The installation will be placed at the forest edge to make use of a sturdy limb for the rigging. The Tree-salis meditation area will be marked softly so that it remains a contemplative pocket of the woods, held apart from louder camps and pathways. The piece is rooted in years of aerial and embodied practice (the performer has presented related work, Poe-tree, at Synesthesia and Gathering of Tribes 2024) and is offered as a gift to the forest and to anyone who needs reminding that decay is also a form of becoming.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "I will either compost it in a spontanous dramatic (the nice drama) way or take it home. Minus the harness and rope everything is made with compostable material :) nature dressing our human nature",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Low powered lights and sounds, support from a smoke machine.",
+          "value": "I don't think i need, maybe for the electric winch?. My thoughts on electricity is that it's great and I'm glad I was born in an era where we have it.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Deep in the forest, a delicate cocoon rests between the trees, neither shelter nor sculpture, but a real threshold. Those who dare to enter are not spectators nor participants, not yet anything at all..\n\n  \n\nGentle, foreign, shedding, warped, twisting, merging, separate, whole.         R e b ḯ̵͔̜̺͎͕̓̒̇̕ r t h. \n\n  \n\nInside the shell, the light awaits. You touch the space, the space touches back. It stretches you. Textures cling, colors migrate, your spirit is pulled through layers of separation. What lies beyond the flickering light.. Are you willing to get closer?",
+          "value": "The Poetree  \nAn organic performance art piece exploring the cycle of the forest, and eternity as transformation through connection.  \nThe Birch Spirit emerges from the forest floor at dusk, rooted in a mound of trailing bark and moss. She begins low to the ground, speaking a poem of ancestral growth, a spoken word piece tracing the lineage of trees, soil, and the ones who came before. As the poem reaches its climax, she is slowly hoisted up into the canopy, her birch bark body unfurling as she ascends, until she becomes a towering Poet-Tree suspended in the branches. She holds there. She speaks from above. And then she dies, descending in stillness back to the earth, where the bark shell opens and the spirit sheds her tree form to reveal a... mushroom! She becomes a mushroom on the forest floor, curled into the moss.\n\nAfter the two times I'll do this perfomance, , people will be able to put on the costume (without flying), use some available headphones and go on a TREE-SALIS meditation  \nThe costume will be made with birch bark, as it's local ( in the pictures it was eucalyptus because it was in portugal) and then composted :)  \nThe intention is to evoke a sense of wonder, enable others to be their tree and embodied belonging",
           "customField": {
             "name": "Description"
-          }
-        },
-        {
-          "value": "Build our nest with us or be the wind that blows it away at the end. Join the swarm that guides new caterpillars through their metamorphosis. Maybe you have a role to play? A predator or the prey.",
-          "customField": {
-            "name": "Co-creation"
           }
         }
       ],
@@ -48475,22 +48549,16 @@
           "value": "Art installation"
         },
         {
-          "value": "Art walk apropriate"
-        },
-        {
           "value": "Experience"
         },
         {
-          "value": "Hippie trap"
+          "value": "Healing"
         },
         {
           "value": "Kids-friendly"
         },
         {
-          "value": "Light"
-        },
-        {
-          "value": "Pimping station"
+          "value": "Performance"
         },
         {
           "value": "Weird shit"
@@ -48498,80 +48566,68 @@
       ],
       "budgetItems": [
         {
-          "description": "Speakers and sd cards",
-          "min": 500,
+          "description": "Electrical whinch",
+          "min": 35000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Fabric",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lights",
+          "description": "Aerial Harness",
           "min": 1000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Glitter (øko)",
-          "min": 150,
-          "max": 500,
+          "description": "Van Rental (1 week)",
+          "min": 4500,
+          "max": 5500,
           "type": "EXPENSE"
         },
         {
-          "description": "Bodypaint",
-          "min": 150,
-          "max": 300,
+          "description": "Gas & Road Tolls",
+          "min": 1200,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Fabric",
-          "min": 500,
-          "max": 1300,
+          "description": "New Static Rope",
+          "min": 1400,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Webs",
-          "min": 200,
-          "max": 400,
+          "description": "High-Grade Birch naver 4kg",
+          "min": 3600,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Transport",
-          "min": 500,
-          "max": 1000,
+          "description": "Volume birch, 10kg raw ",
+          "min": 1100,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Rope 50m",
-          "min": 300,
-          "max": 600,
+          "description": "Cambium saver ",
+          "min": 600,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Lights",
-          "min": 500,
-          "max": 1000,
+          "description": "Safety Carabiners",
+          "min": 700,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Trinkets",
-          "min": 500,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Mirror sheet",
-          "min": 150,
-          "max": 200,
+          "description": "Hemp Cord / Waxed Thread",
+          "min": 499,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 3500,
-      "percentageFundedTrue": 118.64
+      "funded": 36000,
+      "percentageFundedTrue": 264.73
     },
     {
       "id": "cmnm06m2j000581jjzatwq0km",
@@ -54894,157 +54950,101 @@
       "percentageFundedTrue": 107.87
     },
     {
-      "id": "cmnskzbl50001dgknidlvlvmg",
-      "title": "Women who support women ",
-      "summary": "“Women Who Support Women” — A Dream for Borderland\nA dream about co-creating a new neighborhood at Borderland — a soft, heart-centered sanctuary.",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 35,
-      "noOfComments": 4,
-      "percentageFunded": 494.63,
-      "minGoal": 9910,
-      "maxGoal": 9910,
-      "income": 42780,
+      "id": "cmnrq2udf0000110zdw56o5s6",
+      "title": "FLAT FRIENDS ",
+      "summary": "FLAT FRIENDS: Why settle for complicated relationships? Choose a Flat Friend: zero drama and total loyalty. It's what borderland really need. ",
+      "status": "FUNDED",
+      "noOfFunders": 18,
+      "noOfComments": 0,
+      "percentageFunded": 100,
+      "minGoal": 1800,
+      "maxGoal": 4800,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775806436/dreams/f6svqueonccmzqmoywsq.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775806453/dreams/aj47yjkpkewalbhqtvla.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775760021/dreams/wqk95oxz1b2cjtjwqtff.png"
         }
       ],
       "customFields": [
         {
-          "value": "Women who support women",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "A soft, heart-centered sanctuary rooted in connection, presence, and feminine support.\n\nAt the center of this space stands a large, open pavilion — a warm and inviting structure held by nature and intention. Beneath it: layers of soft carpets, cushions, blankets, and low seating. A space you can sink into.\n\nSurrounding the pavilion, a small village emerges — tents and shared living spaces forming a calm and cohesive neighborhood. Not a party camp, but a refuge. A place to land and be held.\n\nThis camp is designed as a gentle contrast to the intensity and stimulation of the festival. A place where the nervous system can soften.\n\nThroughout the days, the space wants to offer:\n\n*   _A cacao ceremony_\n    \n*   Intuitive dance\n    \n*   Soft music and shared stillness\n    \n*   Breathwork, meditation, and gentle yoga\n    \n*   Quiet conversations and deep listening\n    \n*   Invite men into a circle of curiosity. Where any questions are welcome to gain deeper insight into the inner world and lived experiences of women.\n    \n\nWe envision as a **neighborhood** within Borderland — a distinct zone with a shared atmosphere of calm, openness, and emotional safety.\n\nA place people know they can return to when they need softness.",
+          "value": "No more drama!\n\nWe're bringing six life-size cardboard cut-out friends to Borderland. People at borderland are to complicated. Flat Friends never cancel plans, take your spotlight and is always their for you. It's what borderland really needs.\n\n\\-\n\nWe carry them around the site, introduce them to people, and let them photobomb your best moments. Zero drama, total loyalty. A true friends, a friend you deserve.\n\n\\-\n\n**Stretch goal:** If we reach extra funding, we're also bringing Flat Pets. Because even your Flat Friend deserves a companion with zero opinions.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Yes — we are very open to co-creation.\n\nWe warmly invite all women who feel aligned with the intention of the camp to contribute. Co-creation can take many forms — whether it’s holding a gentle session, helping shape the space, supporting the atmosphere, or simply showing up with presence and care.\n\nWhat matters most is that you resonate with the values of the camp: softness, respect, authenticity, and a desire to support one another.\n\nAs long as you can move within this shared framework, your contribution is welcome.",
+          "value": "Burnes Magasin - Rainbow Edition",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Want to hang out with someone who actually listens? They won't ghost you. They won't start a drum circle. They're just happy to be included.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Women Who Support Women” is intentionally designed as a calm, grounded, and low-noise space. Rather than generating high energy or large gatherings, we aim to create a soft landing spot — a place for rest, integration, and gentle connection. In that sense, we see our presence as a positive contribution to our neighbors, especially for those who may also value quieter, more introspective environments.\n\nWe are mindful that sound, flow of people, and spatial boundaries affect those around us. Our activities (such as cacao ceremonies, breathwork, and soft music) will be held at a low volume and with clear timeframes. There will be no amplified music late at night, and we will actively maintain a respectful soundscape.\n\nOverall, our intention is to be a gentle and stabilizing presence in our surroundings — a space that not only coexists peacefully, but contributes to the diversity and balance of the festival as a whole.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Sounds from ceremonies, dance, talk - but we need our beauty sleep.",
+          "value": "Flat friends are known for being very quiet types. Don't worry about them being loud.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We are very safe.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "We will gently and mindfully take down the camp after the festival, ensuring that everything we brought with us is either packed out, reused, or responsibly disposed of.\n\nWe see cleanup as part of the ritual — a shared and conscious closing of the space.\n\nThroughout the festival, we will already be mindful of our impact, keeping the area clean and caring for the surroundings as we go.\n\nAnd in the end, we will walk the land slowly, together, making sure nothing is left behind.\n\nWe come with softness — and we leave with care.\n\nSprinkling love to the grass everywhere we go 💛",
+          "value": "We will make sure that our flat friends are brought back home safe after the burn! Borderland 2026 is the just the beginning of their story.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "**3–7 kWh for the full festival**.",
+          "value": "Non-toxic inks, lightweight (under 2 kg each), no fire, no chemicals. The only risk is getting too emotionally attached.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Pål Rainbow Raven\n\n[Pal.Schakonat@gmail.com](mailto:Pal.Schakonat@gmail.com)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "No electricity needed. Flat Friends run entirely on loyalty.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Cathrine Møhl : [catmohl@live.dk](mailto:catmohl@live.dk)",
+          "value": "Flat Friends have a very flat character and take up very little emotional space. They will never ask you to hold space for their feelings. They coexist beautifully with all humans, animals, and art cars.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Co-existence"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Weird shit"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Gong",
-          "min": 19000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Drum",
-          "min": 2900,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tent ",
-          "min": 150,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lights ",
-          "min": 730,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Handpan",
-          "min": 20000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Cacao",
-          "min": 2325,
-          "max": null,
+          "description": "3x (6x strecth goal) real-size cardboard cut-outs",
+          "min": 1800,
+          "max": 3600,
           "type": "EXPENSE"
         },
         {
-          "description": "Oatmilk and spices",
-          "min": 465,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Gear to make it",
-          "min": 620,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Plankets, mattresses, cushions (second hand)",
-          "min": 2000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Solar lights ",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Tent or large pavillion (second hand)",
-          "min": 2900,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "20 dresses",
-          "min": 600,
-          "max": null,
+          "description": "2 pet-size cardboard cut-outs of pets",
+          "min": 0,
+          "max": 1200,
           "type": "EXPENSE"
         }
       ],
-      "funded": 42780,
-      "percentageFundedTrue": 431.69
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnv924or0000ppnkqqm54jw6",
