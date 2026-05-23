@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1779441752947,
+  "updatedAt": 1779524358352,
   "buckets": [
     {
       "id": "cmnp18llf000x134jbogjlobk",
@@ -8827,81 +8827,78 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnpqh5ha0000phxi7xru3nln",
-      "title": "Ketunkolo, The real foxhole with actual foxes",
-      "summary": "Fox themed cafe and lounge area. Place to unwind in the midst of chaos.",
-      "status": "FUNDED",
-      "noOfFunders": 35,
+      "id": "cmnp3kvsy000qz8vv3h12vtn8",
+      "title": "Foxhole Tent: help us make it ours & yours",
+      "summary": "The tent is up. It works. It's huge. It's amazing! It just isn't quite paid for yet.\nHelp us close the loop. 🎪",
+      "status": "COMPLETED",
+      "noOfFunders": 166,
       "noOfComments": 0,
-      "percentageFunded": 412.88,
-      "minGoal": 5200,
-      "maxGoal": 9200,
-      "income": 16270,
+      "percentageFunded": 248.36,
+      "minGoal": 18583,
+      "maxGoal": 18583,
+      "income": 27570,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775649059/dreams/wh8sfhregnsrr8kuhiay.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775683622/dreams/m2gvsylrbtfijjcx7ml3.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775649072/dreams/vwmpaig9qizv6jbikmuv.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775683174/dreams/bgo2u57haqtlnlgmtywx.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775986513/dreams/yqvbfojtmdcu8aahs72f.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775651907/dreams/syheazoz5egncpjlynpe.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775649083/dreams/wnnpbs6emaq2zukraryy.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775651672/dreams/u0hge8bg3onpqnxibtl6.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775683551/dreams/ghwe2x6qk2vpgu8hyyhv.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Just some background music.",
+          "value": "The Foxhole",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "_We have a sound system which is more precise than loud. You can chat in front of the speakers, so it's an OK starting point. We will coordinate with neighbours about timing, & levels._",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Miksu is the official treasurer of this dream. U can contact them on discord @monnni",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Everything should be fun and chill, offering peace and tranquility to the neighborhood. Positive effects guaranteed.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "I need electricity to power my lights, appliances and misc. stuff. Max wattage of all the things combined about 6000-7000w",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Open to co-creation in all ways! Especially if you have some fox themed art that you would like to display.\n\nContact me on discord @monnni",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Very safety yes.",
+          "value": "_We always have 3 foxes (one for each part of the Foxhole) ensuring our guests are safe and comfortable, rotating on 2-3hour shifts. We plan to really improve our fire safety this year._",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Strike by monday and clear out everything.",
+          "value": "_We are looking forward to taking part in the placement process and the sound zones /policy discussions. We want to find a neighbourhood where we can have good synergy and relations with our neighbours, like we did in the Citrus Plaza in 2025_",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "_Are you a musician and you think you fit our vibe? Come collaborate with us, we are looking for collaborations and live acts. Contact us at_ **_foxholeborderland @gmail .com_**\n\n_Also see our main_ [Foxhole dream](https://dreams.theborderland.se/borderland/dreams-2026/cmnp2gjtc000co1pjbl8p2vq2) _and_ [Bar dream](https://dreams.theborderland.se/borderland/dreams-2026/cmnp4eju80000udjo07x5rhyz)",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "_We plan to strike mainly on Sunday, last moop sweep done on Monday._",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Do you dare to crawl into the tunnel? KetunKolo (fin. fox hole) is a small and cozy nest decorated with a fox theme. Plushies, blankets, pillows and art. A place to have a cup of tea or coffee, some snacks and treats. Aroma diffuser diffusing soothing scents. An altar for all sorts of foxy rituals. A small sound system for background music. The place will also be able to accommodate small workshops.",
+          "value": "_Bababfox (see co-creators)  \nOn discord:_ **_ramy.alkadhi_**",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "_We expect to pull about 4500W power from the grid, similar to last year._",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "🎪 **In 2025, you helped us buy a tent. Half of one, anyway.**\n\nThe tent dream got 60% funded through dream grants last year, which was genuinely wonderful. For the other 40%, a generous fox stepped in and lent us the money so we could go ahead and buy it for 2025. This was approved in 2025 as a multi-year dream.\n\nThe tent went up. It held. You danced under it, lounged in it, wandered through its darker corners all week. It did its job. But right now, it isn't fully ours — there's a loan outstanding, and this dream is how we pay it back.\n\nIt's not the most dramatic pitch. We know \"the tent exists\" is a harder sell than \"we have no tent.\" But it's an honest one.\n\nThe tent is what makes everything else possible. Without a roof, there's no dancefloor, no playroom, no candlelit nooks, no bar, no velvet, no mischief. Every good thing that happens inside the Foxhole happens under that canvas. Help us make it ours: properly, finally, debt-free - so we can stop thinking about it and get on with building what's inside.\n\n🖤 We've already saved you a spot on the rug.",
           "customField": {
             "name": "Description"
           }
@@ -8909,112 +8906,46 @@
       ],
       "tags": [
         {
-          "value": "Chillout"
+          "value": "Bar"
         },
         {
-          "value": "Experience"
+          "value": "Borderland infrastructure"
         },
         {
-          "value": "Hippie trap"
+          "value": "Music"
+        },
+        {
+          "value": "Performance"
         },
         {
           "value": "Playful"
         },
         {
-          "value": "Weird shit"
+          "value": "Sex positive"
         },
         {
-          "value": "Workshop space"
+          "value": "Soundcamp"
+        },
+        {
+          "value": "Venue"
         }
       ],
       "budgetItems": [
         {
-          "description": "Tunnel",
-          "min": 1600,
+          "description": "Tent paid in 2025",
+          "min": 27570,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Plushies",
-          "min": 2000,
+          "description": "Remaining Tent Costs (of total 46153)",
+          "min": 18583,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lights",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tent",
-          "min": 7000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Blankets & Pillows",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Wool carpet",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Canvases",
-          "min": 670,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Oriental wool carpet",
-          "min": 1500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Velour canvas 15 meters",
-          "min": 1700,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Candy, tea, coffee, electrolytes",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Rigging (tape, zip ties, clamps)",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transport",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Even more fox plushies",
-          "min": 0,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Fox sculptures",
-          "min": 0,
-          "max": 2000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 16270,
-      "percentageFundedTrue": 312.88
+      "funded": 27570,
+      "percentageFundedTrue": 148.36
     },
     {
       "id": "cmmsz0k3400003oq4sl8flwy1",
@@ -20006,125 +19937,113 @@
       "percentageFundedTrue": 392.59
     },
     {
-      "id": "cmnp3kvsy000qz8vv3h12vtn8",
-      "title": "Foxhole Tent: help us make it ours & yours",
-      "summary": "The tent is up. It works. It's huge. It's amazing! It just isn't quite paid for yet.\nHelp us close the loop. 🎪",
+      "id": "cmnpsg6tp000bxtfq9b6axet8",
+      "title": "The Sauna Caravan",
+      "summary": "The Sauna Caravan returns for it's sixth Borderland! One of the playa's little hidden gems, it is open 24hrs a day, and welcomes all.",
       "status": "FUNDED",
-      "noOfFunders": 166,
+      "noOfFunders": 42,
       "noOfComments": 0,
-      "percentageFunded": 248.36,
-      "minGoal": 18583,
-      "maxGoal": 18583,
-      "income": 27570,
+      "percentageFunded": 100,
+      "minGoal": 3750,
+      "maxGoal": 3750,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775683622/dreams/m2gvsylrbtfijjcx7ml3.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775637512/dreams/bqmrplnjqeqjpq5gle8g.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775683174/dreams/bgo2u57haqtlnlgmtywx.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775683551/dreams/ghwe2x6qk2vpgu8hyyhv.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775637522/dreams/ovqkl7axmisf1lvkdwcy.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "The Foxhole",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "_We have a sound system which is more precise than loud. You can chat in front of the speakers, so it's an OK starting point. We will coordinate with neighbours about timing, & levels._",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "_We always have 3 foxes (one for each part of the Foxhole) ensuring our guests are safe and comfortable, rotating on 2-3hour shifts. We plan to really improve our fire safety this year._",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "_We are looking forward to taking part in the placement process and the sound zones /policy discussions. We want to find a neighbourhood where we can have good synergy and relations with our neighbours, like we did in the Citrus Plaza in 2025_",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "_Are you a musician and you think you fit our vibe? Come collaborate with us, we are looking for collaborations and live acts. Contact us at_ **_foxholeborderland @gmail .com_**\n\n_Also see our main_ [Foxhole dream](https://dreams.theborderland.se/borderland/dreams-2026/cmnp2gjtc000co1pjbl8p2vq2) _and_ [Bar dream](https://dreams.theborderland.se/borderland/dreams-2026/cmnp4eju80000udjo07x5rhyz)",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "_We plan to strike mainly on Sunday, last moop sweep done on Monday._",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "_Bababfox (see co-creators)  \nOn discord:_ **_ramy.alkadhi_**",
+          "value": "Me - trackbeaver(at)gmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "_We expect to pull about 4500W power from the grid, similar to last year._",
+          "value": "None",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "🎪 **In 2025, you helped us buy a tent. Half of one, anyway.**\n\nThe tent dream got 60% funded through dream grants last year, which was genuinely wonderful. For the other 40%, a generous fox stepped in and lent us the money so we could go ahead and buy it for 2025. This was approved in 2025 as a multi-year dream.\n\nThe tent went up. It held. You danced under it, lounged in it, wandered through its darker corners all week. It did its job. But right now, it isn't fully ours — there's a loan outstanding, and this dream is how we pay it back.\n\nIt's not the most dramatic pitch. We know \"the tent exists\" is a harder sell than \"we have no tent.\" But it's an honest one.\n\nThe tent is what makes everything else possible. Without a roof, there's no dancefloor, no playroom, no candlelit nooks, no bar, no velvet, no mischief. Every good thing that happens inside the Foxhole happens under that canvas. Help us make it ours: properly, finally, debt-free - so we can stop thinking about it and get on with building what's inside.\n\n🖤 We've already saved you a spot on the rug.",
+          "value": "We strike Sunday morning",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "There is a fire extinguisher on site and emergency exits out either end of the sauna (other than the door)",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Conversational",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We coexist with everyone and have found our addition to whichever neighbourhood we end up in positively received",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "The sauna is an informal affair, open as long as there is someone to put more wood in it, a place where Borderlings can get warmed up and sweat out a few toxins. As the sauna is a finished and existing entity all we seek is some funding to cover wood, cleaning equipment and essential oils (for sauna gus). It won't be marked on the placement map, but will remain one of the many things that you need to discover for yourself as you explore Borderland <3",
           "customField": {
             "name": "Description"
+          }
+        },
+        {
+          "value": "House of Glöd",
+          "customField": {
+            "name": "This dream belongs to camp:"
           }
         }
       ],
       "tags": [
         {
-          "value": "Bar"
+          "value": "Chillout"
         },
         {
-          "value": "Borderland infrastructure"
+          "value": "Kids-friendly"
         },
         {
-          "value": "Music"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Sex positive"
-        },
-        {
-          "value": "Soundcamp"
-        },
-        {
-          "value": "Venue"
+          "value": "Wellness"
         }
       ],
       "budgetItems": [
         {
-          "description": "Tent paid in 2025",
-          "min": 27570,
+          "description": "Wood",
+          "min": 2000,
           "max": null,
-          "type": "INCOME"
+          "type": "EXPENSE"
         },
         {
-          "description": "Remaining Tent Costs (of total 46153)",
-          "min": 18583,
+          "description": "Oils",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "cleaning equipment",
+          "min": 450,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "LED's",
+          "min": 300,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 27570,
-      "percentageFundedTrue": 148.36
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnngnhwi000kfqeds4rlmhg1",
@@ -31227,142 +31146,194 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnq6r99q0001d4sc8nlfv0uy",
-      "title": "Rainbow Razzle",
-      "summary": "Catch the Rainbow Razzle! A rolling rainbow carriage spreading joy across the Playa with magical rainbow drinks and vibrant cute little quests. ",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 30,
-      "noOfComments": 2,
-      "percentageFunded": 103.84,
-      "minGoal": 12100,
-      "maxGoal": 22300,
-      "income": 6500,
+      "id": "cmnpqh5ha0000phxi7xru3nln",
+      "title": "Ketunkolo, The real foxhole with actual foxes",
+      "summary": "Fox themed cafe and lounge area. Place to unwind in the midst of chaos.",
+      "status": "FUNDED",
+      "noOfFunders": 35,
+      "noOfComments": 0,
+      "percentageFunded": 412.88,
+      "minGoal": 5200,
+      "maxGoal": 9200,
+      "income": 16270,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775756826/dreams/z4shsduh0uo4hhzhnfu9.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775649059/dreams/wh8sfhregnsrr8kuhiay.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775756856/dreams/rqwcnjbsul0etqvn1wtc.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775649072/dreams/vwmpaig9qizv6jbikmuv.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775757289/dreams/nh7xniepgzgt2db9cdba.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775986513/dreams/yqvbfojtmdcu8aahs72f.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775651907/dreams/syheazoz5egncpjlynpe.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775649083/dreams/wnnpbs6emaq2zukraryy.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775651672/dreams/u0hge8bg3onpqnxibtl6.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Our carriage will be traveling at walking speed. Ask us for ingredients in our magical drinks regarding any allergies.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Everything packed and taken home. Full LNT, zero MOOP.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "We will have a portobal speaker on the smaller side. The sound level will be kept to a close radius.",
+          "value": "Just some background music.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Our vehicle might need an electrical battery that will be charged in our camp.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "We would love to co-create some quests and missions with other camps and art creators to encourage further exploration of the playa.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Our dream is mobile and will be moving around slowly, mainly during the daytime.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Rainbow Rabbit Lil' L",
+          "value": "Miksu is the official treasurer of this dream. U can contact them on discord @monnni",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Burnes Magasin - Rainbow Edition",
+          "value": "Everything should be fun and chill, offering peace and tranquility to the neighborhood. Positive effects guaranteed.",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "Catch the Rainbow Razzle! A rolling rainbow carriage spreading joy across the Playa with vibrant lemonades, magical rainbow lattes, and colorful cuisines. But we're not just about the drinks. Every visitor gets a \"love-spreader\" quest card with a playful mission to connect with someone new. Complete it, find us again, tell us the story and get a sticker, a new quest and level up. The goal? A ripple effect of kindness that reaches way further than our little vehicle ever could.\n\n## **How it works**\n\nWe ride. Slowly, joyfully, through the Borderland, stopping wherever people gather or wherever someone looks like they could use a cold drink, a smile or some love.\n\nEvery person who stops by gets a quest. These are small, playful missions designed into different categories and levels. to break the camp bubble and spark connection between strangers:\n\nWhen you complete your quest, find us again, level up, get a reward sticker and a new quest.",
+          "value": "I need electricity to power my lights, appliances and misc. stuff. Max wattage of all the things combined about 6000-7000w",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Open to co-creation in all ways! Especially if you have some fox themed art that you would like to display.\n\nContact me on discord @monnni",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Very safety yes.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Strike by monday and clear out everything.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Do you dare to crawl into the tunnel? KetunKolo (fin. fox hole) is a small and cozy nest decorated with a fox theme. Plushies, blankets, pillows and art. A place to have a cup of tea or coffee, some snacks and treats. Aroma diffuser diffusing soothing scents. An altar for all sorts of foxy rituals. A small sound system for background music. The place will also be able to accommodate small workshops.",
           "customField": {
             "name": "Description"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Chillout"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Weird shit"
+        },
+        {
+          "value": "Workshop space"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Portable JBL speaker ",
-          "min": 3500,
+          "description": "Tunnel",
+          "min": 1600,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Decorations",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Decoration / Pimp",
-          "min": 1000,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Quest materials (cards, stickers, prizes)",
-          "min": 600,
-          "max": 1300,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Drinks ingredients ",
+          "description": "Plushies",
           "min": 2000,
-          "max": 4000,
-          "type": "EXPENSE"
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Vehicle ex. Cargo bike / Golfmoped.. ",
-          "min": 6000,
-          "max": 12000,
-          "type": "EXPENSE"
+          "description": "Lights",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Transport to Borderland",
+          "description": "Tent",
+          "min": 7000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Blankets & Pillows",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Wool carpet",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Canvases",
+          "min": 670,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Oriental wool carpet",
           "min": 1500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Coolers + ice packs",
+          "description": "Velour canvas 15 meters",
+          "min": 1700,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Candy, tea, coffee, electrolytes",
           "min": 500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Serving jugs ",
+          "description": "Rigging (tape, zip ties, clamps)",
           "min": 500,
           "max": null,
           "type": "EXPENSE"
+        },
+        {
+          "description": "Transport",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Even more fox plushies",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fox sculptures",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
         }
       ],
-      "funded": 6500,
-      "percentageFundedTrue": 53.72
+      "funded": 16270,
+      "percentageFundedTrue": 312.88
     },
     {
       "id": "cmnegcxby0000r5ctithmdsx8",
@@ -45986,94 +45957,164 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnpxonni000g5rx8ll008zo8",
-      "title": "🔥 Trojan Fire Horse @ The Grateful Grogg! 🔥",
-      "summary": "We want to build some shit up, and burn some shit down. ",
+      "id": "cmnpwccmb000013awnjoe75ts",
+      "title": "The Church",
+      "summary": "Those that know – know. Those that don’t – read on",
       "status": "FUNDED",
-      "noOfFunders": 35,
-      "noOfComments": 2,
+      "noOfFunders": 288,
+      "noOfComments": 4,
       "percentageFunded": 100,
-      "minGoal": 4200,
-      "maxGoal": 4200,
+      "minGoal": 46250,
+      "maxGoal": 46250,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775647634/dreams/yokutmwzxjpsbmccijib.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775643739/dreams/fixwjocbgsvmmkb57fis.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775643773/dreams/fbcejyhfyaoqxtcixxef.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775643810/dreams/cgo2unzjkeyqihcbdnur.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775643873/dreams/nq4pvvzm5pqnwpj3hyyf.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "The Grateful Grogg",
+          "value": "The Church, The Monastary",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "For three years on the playa, the crew behind the Grateful Grogg have made yearly improvements and additions to our beloved bar. We now feel that the Grogg is complete. However, to NOT add some whimsical and time-consuming project to our already extensive build plan would be **blasphemy**.\n\nAlso, this year we want to burn some shit down.\n\nWe present:\n\n🔥**THE TROJAN FIRE HORSE @ THE GRATEFUL GROGG**!🔥\n\nCome join us for yet another rowdy ritual involving gasoline, live action stunts and superior craftmanship. **There will be grogg!**",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Rowdy",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We are in the pre-placement discussion and open about our intentions of holding space for an effigy burn, and planning for a safety perimeter around the Grogg.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "The effigy will be built of wood and burnt down. All eventual screws or non-burnt material will be accounted for.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "None",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Max Jönsson",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Acrobats, live stuntment, firespinners, fire fighters, fire demons, fireflies, fire wizards: all are welcome to join in and co-create on this solemn yet rowdy ritual. Come and ask in the bar.\n\nWe're collaborating with The Sun on fire safety and other relevant collaboration topics.",
+          "value": "Yes! We are open to workshops, daytime event collabs and for someone to take care of the basement. We're pretty flexible and accommodating, so do not hesitate to get in touch. Message Tom on Discord, almightybob\\_\n\nLocation of the Fund33 project with Mr Steiner - the Church is Not Only for Sunday's",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "We have a fire lead who is IN THIS MOMENT reading up on all relevant safety stuff. We will of course have a safety perimeter, burn volunteers, fire safety equipment. Etc. All the stuff. We got this.",
+          "value": "Yes. In communication with the sound team. As above, we will regulate our sound levels again (and take away the power to increase volume from those cheeky DJ's!).",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Based in the Brewery and with a few neighbours, our main concern is disturbing people with our sound in the wee hours. Last year, we regulated the system properly and had zero complaints. This year we shall do the same!\n\nLNT, MOOP sweeps, all that good stuff to keep the peace.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Strike on Sunday/Monday morning. Space reset and left as it was found!",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Yes, but the Brewery is (will be?) wired directly to the mains supply. Will discuss properly with Ebbe and DoET in plenty of time.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Tom Wightwick\n\ntrwightwick@gmail.com\n\nDiscord: almightybob\\_",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "No fire indoors.\n\nSex+ space - Guardian Angels when the playspace is open to ensure consensual play.\n\nClose coordination with BL consent team and Clown Police to ensure a smooth experience for all.",
           "customField": {
             "name": "Safety"
           }
+        },
+        {
+          "value": "**Chaos is order. Sin is life. Pleasure is deserved.**\n\nFollowing on from the organised(?!) chaos of last year, we intend to bring our hedonistic mix of dirty music, filthy dance floors and perverted play. Not just techno nights, but metal, DnB and outdoor parties, a chilled Friday and a bonkers Saturday. We will also host an evening ball, a naked rave and some satisfyingly weird performances.\n\nThe Church is a kinky, (mostly) dark techno club nestled in the heart of Downtown. As we broaden our scope to be more inclusive, we will have a range of daytime and night time events, a wider span of music genres and more co-creation from our neighbours.\n\n**Open decks? Excellent DJ’s? Playspace? Church.**\n\nWith our iconic Organ, a viciously sensual shadow wall and one of the best dance floors at Borderland, we create a safe, playful and naughty atmosphere for you to dance, explore and connect with like-minded souls.\n\nWe are encouraging collaboration from across the Playa, whether you dream of a pop-up bar, a BDSM dungeon, or (goddammit) Spice Girls karaoke, we want to work with you!\n\nLikely the last year of the Church in its current form.\n\n**Come. Celebrate with us, and cleanse yourselves before the altar of sin.**",
+          "customField": {
+            "name": "Description"
+          }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Light"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "NOT kids-friendly"
+        },
+        {
+          "value": "Performance"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Queer"
+        },
+        {
+          "value": "Sex positive"
+        },
+        {
+          "value": "Soundcamp"
+        },
+        {
+          "value": "Weird shit"
+        },
+        {
+          "value": "Workshop space"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Fire making equipment",
+          "description": "Sound system (4x bass, 2x top/mid, 2x booth monitors), DJ equipment (DDJ/CDJ)",
+          "min": 20000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Lights, projector, other blinky things",
+          "min": 8500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Mattresses",
           "min": 2000,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Fire safety equipment",
-          "min": 2000,
+          "description": "Fabrics for playspace",
+          "min": 2500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Ugly oversized high visibility vests (maybe)",
-          "min": 200,
+          "description": "Kinky accoutrements",
+          "min": 2500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Building material",
+          "min": 3000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport (20%)",
+          "min": 7000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Leeks",
+          "min": 750,
           "max": null,
           "type": "EXPENSE"
         }
@@ -50145,170 +50186,142 @@
       "percentageFundedTrue": 309.18
     },
     {
-      "id": "cmnpwccmb000013awnjoe75ts",
-      "title": "The Church",
-      "summary": "Those that know – know. Those that don’t – read on",
-      "status": "FUNDED",
-      "noOfFunders": 288,
-      "noOfComments": 4,
-      "percentageFunded": 100,
-      "minGoal": 46250,
-      "maxGoal": 46250,
-      "income": 0,
+      "id": "cmnq6r99q0001d4sc8nlfv0uy",
+      "title": "Rainbow Razzle",
+      "summary": "Catch the Rainbow Razzle! A rolling rainbow carriage spreading joy across the Playa with magical rainbow drinks and vibrant cute little quests. ",
+      "status": "PARTIAL_FUNDING",
+      "noOfFunders": 30,
+      "noOfComments": 2,
+      "percentageFunded": 103.84,
+      "minGoal": 12100,
+      "maxGoal": 22300,
+      "income": 6500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775643739/dreams/fixwjocbgsvmmkb57fis.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775756826/dreams/z4shsduh0uo4hhzhnfu9.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775643773/dreams/fbcejyhfyaoqxtcixxef.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775756856/dreams/rqwcnjbsul0etqvn1wtc.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775643810/dreams/cgo2unzjkeyqihcbdnur.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775643873/dreams/nq4pvvzm5pqnwpj3hyyf.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775757289/dreams/nh7xniepgzgt2db9cdba.png"
         }
       ],
       "customFields": [
         {
-          "value": "The Church, The Monastary",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Yes! We are open to workshops, daytime event collabs and for someone to take care of the basement. We're pretty flexible and accommodating, so do not hesitate to get in touch. Message Tom on Discord, almightybob\\_\n\nLocation of the Fund33 project with Mr Steiner - the Church is Not Only for Sunday's",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Yes. In communication with the sound team. As above, we will regulate our sound levels again (and take away the power to increase volume from those cheeky DJ's!).",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Based in the Brewery and with a few neighbours, our main concern is disturbing people with our sound in the wee hours. Last year, we regulated the system properly and had zero complaints. This year we shall do the same!\n\nLNT, MOOP sweeps, all that good stuff to keep the peace.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Strike on Sunday/Monday morning. Space reset and left as it was found!",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Yes, but the Brewery is (will be?) wired directly to the mains supply. Will discuss properly with Ebbe and DoET in plenty of time.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Tom Wightwick\n\ntrwightwick@gmail.com\n\nDiscord: almightybob\\_",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "No fire indoors.\n\nSex+ space - Guardian Angels when the playspace is open to ensure consensual play.\n\nClose coordination with BL consent team and Clown Police to ensure a smooth experience for all.",
+          "value": "Our carriage will be traveling at walking speed. Ask us for ingredients in our magical drinks regarding any allergies.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "**Chaos is order. Sin is life. Pleasure is deserved.**\n\nFollowing on from the organised(?!) chaos of last year, we intend to bring our hedonistic mix of dirty music, filthy dance floors and perverted play. Not just techno nights, but metal, DnB and outdoor parties, a chilled Friday and a bonkers Saturday. We will also host an evening ball, a naked rave and some satisfyingly weird performances.\n\nThe Church is a kinky, (mostly) dark techno club nestled in the heart of Downtown. As we broaden our scope to be more inclusive, we will have a range of daytime and night time events, a wider span of music genres and more co-creation from our neighbours.\n\n**Open decks? Excellent DJ’s? Playspace? Church.**\n\nWith our iconic Organ, a viciously sensual shadow wall and one of the best dance floors at Borderland, we create a safe, playful and naughty atmosphere for you to dance, explore and connect with like-minded souls.\n\nWe are encouraging collaboration from across the Playa, whether you dream of a pop-up bar, a BDSM dungeon, or (goddammit) Spice Girls karaoke, we want to work with you!\n\nLikely the last year of the Church in its current form.\n\n**Come. Celebrate with us, and cleanse yourselves before the altar of sin.**",
+          "value": "Everything packed and taken home. Full LNT, zero MOOP.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "We will have a portobal speaker on the smaller side. The sound level will be kept to a close radius.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Our vehicle might need an electrical battery that will be charged in our camp.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "We would love to co-create some quests and missions with other camps and art creators to encourage further exploration of the playa.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Our dream is mobile and will be moving around slowly, mainly during the daytime.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Rainbow Rabbit Lil' L",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Burnes Magasin - Rainbow Edition",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Catch the Rainbow Razzle! A rolling rainbow carriage spreading joy across the Playa with vibrant lemonades, magical rainbow lattes, and colorful cuisines. But we're not just about the drinks. Every visitor gets a \"love-spreader\" quest card with a playful mission to connect with someone new. Complete it, find us again, tell us the story and get a sticker, a new quest and level up. The goal? A ripple effect of kindness that reaches way further than our little vehicle ever could.\n\n## **How it works**\n\nWe ride. Slowly, joyfully, through the Borderland, stopping wherever people gather or wherever someone looks like they could use a cold drink, a smile or some love.\n\nEvery person who stops by gets a quest. These are small, playful missions designed into different categories and levels. to break the camp bubble and spark connection between strangers:\n\nWhen you complete your quest, find us again, level up, get a reward sticker and a new quest.",
           "customField": {
             "name": "Description"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Light"
-        },
-        {
-          "value": "Music"
-        },
-        {
-          "value": "NOT kids-friendly"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Queer"
-        },
-        {
-          "value": "Sex positive"
-        },
-        {
-          "value": "Soundcamp"
-        },
-        {
-          "value": "Weird shit"
-        },
-        {
-          "value": "Workshop space"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Sound system (4x bass, 2x top/mid, 2x booth monitors), DJ equipment (DDJ/CDJ)",
-          "min": 20000,
+          "description": "Portable JBL speaker ",
+          "min": 3500,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Lights, projector, other blinky things",
-          "min": 8500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Mattresses",
-          "min": 2000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Fabrics for playspace",
-          "min": 2500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Kinky accoutrements",
-          "min": 2500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Building material",
+          "description": "Decorations",
           "min": 3000,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Decoration / Pimp",
+          "min": 1000,
+          "max": 2500,
           "type": "EXPENSE"
         },
         {
-          "description": "Transport (20%)",
-          "min": 7000,
+          "description": "Quest materials (cards, stickers, prizes)",
+          "min": 600,
+          "max": 1300,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Drinks ingredients ",
+          "min": 2000,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Vehicle ex. Cargo bike / Golfmoped.. ",
+          "min": 6000,
+          "max": 12000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport to Borderland",
+          "min": 1500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Leeks",
-          "min": 750,
+          "description": "Coolers + ice packs",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Serving jugs ",
+          "min": 500,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 6500,
+      "percentageFundedTrue": 53.72
     },
     {
       "id": "cmnw5h5d7005nfp28087l7eep",
@@ -63103,29 +63116,50 @@
       "percentageFundedTrue": 447.15
     },
     {
-      "id": "cmnpsg6tp000bxtfq9b6axet8",
-      "title": "The Sauna Caravan",
-      "summary": "The Sauna Caravan returns for it's sixth Borderland! One of the playa's little hidden gems, it is open 24hrs a day, and welcomes all.",
+      "id": "cmnpxonni000g5rx8ll008zo8",
+      "title": "🔥 Trojan Fire Horse @ The Grateful Grogg! 🔥",
+      "summary": "We want to build some shit up, and burn some shit down. ",
       "status": "FUNDED",
-      "noOfFunders": 42,
-      "noOfComments": 0,
+      "noOfFunders": 35,
+      "noOfComments": 2,
       "percentageFunded": 100,
-      "minGoal": 3750,
-      "maxGoal": 3750,
+      "minGoal": 4200,
+      "maxGoal": 4200,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775637512/dreams/bqmrplnjqeqjpq5gle8g.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775637522/dreams/ovqkl7axmisf1lvkdwcy.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775647634/dreams/yokutmwzxjpsbmccijib.png"
         }
       ],
       "customFields": [
         {
-          "value": "Me - trackbeaver(at)gmail.com",
+          "value": "The Grateful Grogg",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "For three years on the playa, the crew behind the Grateful Grogg have made yearly improvements and additions to our beloved bar. We now feel that the Grogg is complete. However, to NOT add some whimsical and time-consuming project to our already extensive build plan would be **blasphemy**.\n\nAlso, this year we want to burn some shit down.\n\nWe present:\n\n🔥**THE TROJAN FIRE HORSE @ THE GRATEFUL GROGG**!🔥\n\nCome join us for yet another rowdy ritual involving gasoline, live action stunts and superior craftmanship. **There will be grogg!**",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Rowdy",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We are in the pre-placement discussion and open about our intentions of holding space for an effigy burn, and planning for a safety perimeter around the Grogg.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "The effigy will be built of wood and burnt down. All eventual screws or non-burnt material will be accounted for.",
+          "customField": {
+            "name": "Strike plan"
           }
         },
         {
@@ -63135,75 +63169,41 @@
           }
         },
         {
-          "value": "We strike Sunday morning",
+          "value": "Max Jönsson",
           "customField": {
-            "name": "Strike plan"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "There is a fire extinguisher on site and emergency exits out either end of the sauna (other than the door)",
+          "value": "Acrobats, live stuntment, firespinners, fire fighters, fire demons, fireflies, fire wizards: all are welcome to join in and co-create on this solemn yet rowdy ritual. Come and ask in the bar.\n\nWe're collaborating with The Sun on fire safety and other relevant collaboration topics.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "We have a fire lead who is IN THIS MOMENT reading up on all relevant safety stuff. We will of course have a safety perimeter, burn volunteers, fire safety equipment. Etc. All the stuff. We got this.",
           "customField": {
             "name": "Safety"
           }
-        },
-        {
-          "value": "Conversational",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We coexist with everyone and have found our addition to whichever neighbourhood we end up in positively received",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "The sauna is an informal affair, open as long as there is someone to put more wood in it, a place where Borderlings can get warmed up and sweat out a few toxins. As the sauna is a finished and existing entity all we seek is some funding to cover wood, cleaning equipment and essential oils (for sauna gus). It won't be marked on the placement map, but will remain one of the many things that you need to discover for yourself as you explore Borderland <3",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "House of Glöd",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
         }
       ],
-      "tags": [
-        {
-          "value": "Chillout"
-        },
-        {
-          "value": "Kids-friendly"
-        },
-        {
-          "value": "Wellness"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Wood",
+          "description": "Fire making equipment",
           "min": 2000,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Oils",
-          "min": 1000,
+          "description": "Fire safety equipment",
+          "min": 2000,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "cleaning equipment",
-          "min": 450,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "LED's",
-          "min": 300,
+          "description": "Ugly oversized high visibility vests (maybe)",
+          "min": 200,
           "max": null,
           "type": "EXPENSE"
         }
@@ -76085,9 +76085,6 @@
         },
         {
           "value": "Meditation"
-        },
-        {
-          "value": "Reality-as-a-Dream"
         }
       ],
       "budgetItems": [
