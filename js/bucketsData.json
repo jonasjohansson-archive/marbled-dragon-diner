@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1779524358352,
+  "updatedAt": 1779611332322,
   "buckets": [
     {
       "id": "cmnp18llf000x134jbogjlobk",
@@ -10610,256 +10610,149 @@
       "percentageFundedTrue": 15.81
     },
     {
-      "id": "cmnu2w2u800027e2j67d4yg5d",
-      "title": "Silversmith Cosmic Workshop",
-      "summary": "Create and design your own silver jewelry in a cosmic worksho. No experience needed, just curiosity and a touch of magic ✨",
+      "id": "cmnv3aq07000v11nf5853fqxa",
+      "title": "A Surreal Circus of Pleasure, Mischief and Wild Exploration.",
+      "summary": "A dreamlike adult playground of art, music, performance and pleasure… where the curious gather to explore the edges of desire, expression, and imagination.\n",
       "status": "FUNDED",
-      "noOfFunders": 70,
+      "noOfFunders": 128,
       "noOfComments": 0,
-      "percentageFunded": 310.06,
-      "minGoal": 7623,
-      "maxGoal": 8938,
-      "income": 15300,
+      "percentageFunded": 132.25,
+      "minGoal": 10000,
+      "maxGoal": 26800,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775896973/dreams/nbgrsabozir0j2p57eae.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775990715/dreams/diuqfangfd0w1bbh9eia.png"
         }
       ],
       "customFields": [
         {
-          "value": "Small bluetooth speaker for some background cosmic songs",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "All work will be done in an open, well-ventilated space, with a fire extinguisher readily available. Proper tools and precautions ensure a safe, controlled, and enjoyable workshop experience.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "José María -> jose.mar.mtez@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "The Silversmith Cosmic Workshop is designed to exist in harmony with its surroundings. The activities are small-scale, low-noise and non-invasive. We might have a small speaker just for some background music. :)",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "The workshop will take place once or twice depending on the available budget. After each session, all materials and equipment will be fully removed. No MOOP are expected, impact will be minimal, but the space will always be thoroughly cleaned to leave it in the same or better condition than before.",
+          "value": "Full responsibility for the pop up surreal night will be taken, including playspace set up and pack down, ensuring the tent is returned the following day without a trace of the night’s activities remaining.\n\nStrike will be coordinated in accordance with the hosting camp.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "We will have a electrical cord to plug in the Dremel Machine, which will be used for polishing . 600W.",
+          "value": "The surreal night will operate within the sound requirements of the hosting tent.\n\nSound will be curated with intention, respecting agreed guidelines, neighbouring camps.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Hannah Bacon (hannahbacon91@gmail.com)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Will be coordinated in accordance with the hosting camp.  \n• Sound system, Lighting, Video / projection, Workshops..",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Mystic Groove",
+          "value": "This dream is designed to exist in harmony with its surroundings, offering a contained, intentional space that invites in those who feel the pull, while remaining respectful to those who do not.\n\nHeld within a tented environment, it creates a clear energetic and physical boundary. From the outside, it appears as a mysterious, art driven circus, with deeper layers revealed only to those who consciously choose to enter.\n\nSound, lighting, and flow will be considered carefully to minimise disruption, aligning with the natural rhythm of the festival and neighbouring camps.\n\nClear entry awareness ensures participants understand the nature of the space before entering, creating consent not only within the experience, but at its threshold.\n\nThe intention is to contribute to the richness and diversity of the playa by offering a unique, sex positive immersive world, without imposing on the surrounding environment.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "The SURREAL circus curtains do not open for those who have wandered too far into intoxication.  \nWhile some lines may blur as the night unfolds…  \nconsent and respect never do.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "A hidden circus awakens after dark, where the curious gather and the rules blur at the edges.  \nA little unhinged, a little enchanted… where mischief lingers in the air and something wilder begins to stir.  \nWhat begins as wonder slowly twists into something far more… intoxicating.\n\nWander deeper.\n\nYou may find yourself drawn into strange little corners of amazement and illusion…  \nflickers of connection, rising tension,  \nthe slow, delicious tease of not knowing what comes next…  \nonly that you might want to follow it.\n\nPlayful chaos meets sensual curiosity.  \nA brush of skin, a pause held just long enough,  \nthe feeling that something is about to happen… or already is.\n\nAnd somewhere between the chaos,  \nyou may find yourself closer to your desires than expected.  \nSomewhere along the way,  \nyou realise you’re no longer just exploring the wonderland…  \nyou’ve become part of it.\n\nThe characters you meet feel familiar… yet not.  \nBecause those who step into this world are free to be their wildest selves,  \nheld in a shared understanding that what unfolds here  \nremains sealed within those who were part of it.  \nWhere innocence melts into curiosity,  \ncuriosity into desire,  \nand desire… into something beautifully SURREAL.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Surreal / Hannah Bacon",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Step into a little universe where time slows down, silver melts, and you become the jewelry designer.  \n  \nIn this silversmith workshop you’ll learn the basics of working with silver (without setting anything on fire… on purpose 😉), and create your own simple pieces: rings, earrings, pendants – or whatever your imagination dares to sketch. You’ll saw, hammer, shape and polish until your piece finally declares: “Yes, I’m fabulous.”  \n  \nNo experience needed, just curiosity.\n\n  \nYou’ll go home with the most beautiful jewel, yourself, and then whatever you have managed in the workshop ;)",
+          "value": "Seeking co-creators for a surreal circus of erotic expression.\n\nPerformances that tease, tempt, and awaken.  \nLive music that pulls bodies closer… deeper into the moment.  \nProvocative art that doesn’t just exist to be seen, but to be felt.\n\nAerial and circus artists who move above and between us…  \nbodies suspended, twisting, teasing gravity,  \ndrawing eyes upward while pulling energy deeper into the space.\n\nThis is a world where desire is explored openly,  \nwhere bodies gather, connect, and move as one living, breathing energy.\n\nIf your work is provocative, immersive, and stirs something primal…  \nif it lures people out of their minds and into their bodies…\n\nYou’re welcome to excite me with your ideas.  \n(hannahbacon91@gmail.com)",
           "customField": {
-            "name": "Description"
+            "name": "Co-creation"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "Performance"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Sex positive"
+        },
+        {
+          "value": "Workshop space"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Gas botle and professional torche",
-          "min": 3800,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Begginer torche x 2",
-          "min": 900,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Solder blocks",
+          "description": "Coconut oil - massage workshop",
           "min": 300,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Solder flux",
-          "min": 150,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Solder carrusel block",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Oxidation treatment silver",
-          "min": 450,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Saw and saw blades",
-          "min": 850,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Brushes",
-          "min": 150,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Files, sand paper and file spounges",
-          "min": 800,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Hammers, different textures and materials",
-          "min": 1800,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Mandrel 15 - 25 mm",
-          "min": 700,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fire extinguisher",
-          "min": 200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Dremmel machine with extension for jewelry",
-          "min": 2500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Dremmel bits (drilling, filing, cutting, etc)",
-          "min": 1200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Art Clay silver clay, 20 g",
-          "min": 1600,
-          "max": null,
+          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "Clay Spatulas & Tools",
-          "min": 350,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Art Clay Wooden Ring",
-          "min": 100,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Clay brushes",
-          "min": 150,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "925-silverplåt 1,0 mm 30cm x 0.5cm",
-          "min": 620,
-          "max": 998,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "925 silvertråd 1,5 mm x 30 cm",
-          "min": 215,
-          "max": 400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "925 silvertråd 2,0 mm x 30 cm",
-          "min": 390,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "925-silverplåt 0,8 mm 20 cm x 1 cm",
-          "min": 658,
-          "max": 900,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Mandrel 3 -10 mm",
-          "min": 290,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Mandrel 10 - 25 mm",
-          "min": 400,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Concave Punch Kit",
-          "min": 700,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Square Texture Punch Stamp",
-          "min": 300,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Combination mold",
-          "min": 850,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Drill set, different shapes",
-          "min": 300,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Refill gas burners",
-          "min": 200,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transport",
+          "description": "Condom & Lube ",
           "min": 500,
-          "max": null,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Baby wipes, paper towels, trash bins",
+          "min": 400,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cosy corner / cushions / carpets",
+          "min": 2000,
+          "max": 6000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Tent flooring ",
+          "min": 2000,
+          "max": 6000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fuel contribution for tent transfer ",
+          "min": 1500,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Deco for tent ",
+          "min": 300,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Play space zones ",
+          "min": 3000,
+          "max": 7000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 15300,
-      "percentageFundedTrue": 200.71
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmno9hsk20001ijcxlggt3bj3",
@@ -25360,149 +25253,130 @@
       "percentageFundedTrue": 100
     },
     {
-      "id": "cmnv3aq07000v11nf5853fqxa",
-      "title": "A Surreal Circus of Pleasure, Mischief and Wild Exploration.",
-      "summary": "A dreamlike adult playground of art, music, performance and pleasure… where the curious gather to explore the edges of desire, expression, and imagination.\n",
+      "id": "cmnv5oy7s0005op9oqbauef59",
+      "title": "Shibari Chill Web - Sound Journey",
+      "summary": "A surround sound journey at the Shibari Chill Web ",
       "status": "FUNDED",
-      "noOfFunders": 128,
+      "noOfFunders": 80,
       "noOfComments": 0,
-      "percentageFunded": 132.25,
-      "minGoal": 10000,
-      "maxGoal": 26800,
-      "income": 0,
+      "percentageFunded": 914.12,
+      "minGoal": 5500,
+      "maxGoal": 20500,
+      "income": 35500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775990715/dreams/diuqfangfd0w1bbh9eia.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003773/dreams/rvs6p5wz8ohsjnamcwf8.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Full responsibility for the pop up surreal night will be taken, including playspace set up and pack down, ensuring the tent is returned the following day without a trace of the night’s activities remaining.\n\nStrike will be coordinated in accordance with the hosting camp.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "The surreal night will operate within the sound requirements of the hosting tent.\n\nSound will be curated with intention, respecting agreed guidelines, neighbouring camps.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Hannah Bacon (hannahbacon91@gmail.com)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Will be coordinated in accordance with the hosting camp.  \n• Sound system, Lighting, Video / projection, Workshops..",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "This dream is designed to exist in harmony with its surroundings, offering a contained, intentional space that invites in those who feel the pull, while remaining respectful to those who do not.\n\nHeld within a tented environment, it creates a clear energetic and physical boundary. From the outside, it appears as a mysterious, art driven circus, with deeper layers revealed only to those who consciously choose to enter.\n\nSound, lighting, and flow will be considered carefully to minimise disruption, aligning with the natural rhythm of the festival and neighbouring camps.\n\nClear entry awareness ensures participants understand the nature of the space before entering, creating consent not only within the experience, but at its threshold.\n\nThe intention is to contribute to the richness and diversity of the playa by offering a unique, sex positive immersive world, without imposing on the surrounding environment.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "The SURREAL circus curtains do not open for those who have wandered too far into intoxication.  \nWhile some lines may blur as the night unfolds…  \nconsent and respect never do.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "A hidden circus awakens after dark, where the curious gather and the rules blur at the edges.  \nA little unhinged, a little enchanted… where mischief lingers in the air and something wilder begins to stir.  \nWhat begins as wonder slowly twists into something far more… intoxicating.\n\nWander deeper.\n\nYou may find yourself drawn into strange little corners of amazement and illusion…  \nflickers of connection, rising tension,  \nthe slow, delicious tease of not knowing what comes next…  \nonly that you might want to follow it.\n\nPlayful chaos meets sensual curiosity.  \nA brush of skin, a pause held just long enough,  \nthe feeling that something is about to happen… or already is.\n\nAnd somewhere between the chaos,  \nyou may find yourself closer to your desires than expected.  \nSomewhere along the way,  \nyou realise you’re no longer just exploring the wonderland…  \nyou’ve become part of it.\n\nThe characters you meet feel familiar… yet not.  \nBecause those who step into this world are free to be their wildest selves,  \nheld in a shared understanding that what unfolds here  \nremains sealed within those who were part of it.  \nWhere innocence melts into curiosity,  \ncuriosity into desire,  \nand desire… into something beautifully SURREAL.",
+          "value": "We are bringing the surround sound journey again to shibari chill web with new soundscapes and music to immerse you while you are moving around the SCW.\n\nWe have most of the equipment allready but some additional things are needed.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Surreal / Hannah Bacon",
+          "value": "The sound levels will vary but the placement will be far away from others so will not disturb.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Lucid State and Shibari Chill Web",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Seeking co-creators for a surreal circus of erotic expression.\n\nPerformances that tease, tempt, and awaken.  \nLive music that pulls bodies closer… deeper into the moment.  \nProvocative art that doesn’t just exist to be seen, but to be felt.\n\nAerial and circus artists who move above and between us…  \nbodies suspended, twisting, teasing gravity,  \ndrawing eyes upward while pulling energy deeper into the space.\n\nThis is a world where desire is explored openly,  \nwhere bodies gather, connect, and move as one living, breathing energy.\n\nIf your work is provocative, immersive, and stirs something primal…  \nif it lures people out of their minds and into their bodies…\n\nYou’re welcome to excite me with your ideas.  \n(hannahbacon91@gmail.com)",
+          "value": "Its only speakers, cables and some other electronics so will pack everything when SCW has their strike.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "The speakers will be hanging from the trees secured with ropes and bolts.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "It will be far away from others so will not interfer",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Johan Sjödin\n\nLucidState-Johan on Discord",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "For the sound journey we need about 400W for the PA speakers(class D amps) and depending if we get a sub we will need more, about 1000W more.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Its a co-creation already between Lucid State and Shibari Chill Web",
           "customField": {
             "name": "Co-creation"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Music"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Sex positive"
-        },
-        {
-          "value": "Workshop space"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Coconut oil - massage workshop",
-          "min": 300,
-          "max": 500,
-          "type": "EXPENSE"
+          "description": "4 PA speakers",
+          "min": 16000,
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Condom & Lube ",
-          "min": 500,
-          "max": 1000,
-          "type": "EXPENSE"
+          "description": "Electric cables",
+          "min": 2500,
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Baby wipes, paper towels, trash bins",
-          "min": 400,
-          "max": 800,
-          "type": "EXPENSE"
+          "description": "Computer and audio interface",
+          "min": 15000,
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Cosy corner / cushions / carpets",
+          "description": "Weatherproof boxes for speakers and gear",
           "min": 2000,
-          "max": 6000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "4 30m XLR cables",
+          "min": 2500,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Tent flooring ",
-          "min": 2000,
-          "max": 6000,
+          "description": "Borrow, Buy or rent a sub. Yamaha 18\" sub is for the max amount.",
+          "min": 0,
+          "max": 12000,
           "type": "EXPENSE"
         },
         {
-          "description": "Fuel contribution for tent transfer ",
-          "min": 1500,
+          "description": "Outdoor motiontracking camera to enable some secret interactive functionality.",
+          "min": 0,
           "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "Deco for tent ",
-          "min": 300,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Play space zones ",
+          "description": "Transportation, will be shared with The Popcorner dream",
           "min": 3000,
-          "max": 7000,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 35500,
+      "percentageFundedTrue": 645.45
     },
     {
       "id": "cmnqe5fyd000nl8j4s9n0qyq1",
@@ -44149,338 +44023,193 @@
       "percentageFundedTrue": 1159.09
     },
     {
-      "id": "cmnuu5927005a5qpuajmhqvts",
-      "title": "Border Buoyancy",
-      "summary": "A fire arrow ignites a hydrogen balloon anchored in the lake. A 2nd sunset > Mega Morran froztly wanders > icy vibe melts > Morran lifts > Mega Jelly is Born",
+      "id": "cmnv3g3bo001fdzdzmfmgmcb1",
+      "title": "The Sapphic Pond 🐸",
+      "summary": "The first ever sapphic meeting point at Borderland! The Pond invokes all lesbians, bi, curious and pansexual women to emerge from the waters 💦 ",
       "status": "FUNDED",
-      "noOfFunders": 62,
+      "noOfFunders": 66,
       "noOfComments": 6,
-      "percentageFunded": 337.2,
-      "minGoal": 11782,
-      "maxGoal": 26418,
-      "income": 27947,
+      "percentageFunded": 131.5,
+      "minGoal": 11111,
+      "maxGoal": 33333,
+      "income": 3500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775942670/dreams/ycuxvaflridbswuhr7bl.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776040457/dreams/rf5rtgo0awuxwemhzy7y.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776972612/dreams/yngv1jq17fa55om4za9x.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776030792/dreams/oqgykfcdc1myknl1xmgn.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776974331/dreams/bh97bvalrftk7btxzsaq.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776029814/dreams/rn0xp07qjyzg1bfnb171.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776974357/dreams/czdsbve8cahhtjcdqj2c.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776032057/dreams/zcsvrrxfkffm3qhlevjv.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776974443/dreams/ckn9gyz6rhuvxvl0zbp1.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022508/dreams/xeqgdc5euvu9hqvfdpg1.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776974498/dreams/xou6dmw8vwl7pulupitn.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776039958/dreams/fm9qqu2jeqbbqkntfjey.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "A silent pulsating presence that finds its right place. Mega Jelly syncs to any sound camp via DMX/WiFi, or pulses softly on its own. It adapts. It respects. It mirrors.\n\nThe Mega Jelly Stable, a tarp structure with top height of 6-7 metres. Built of re-purposed sails found at old beardy yacht sailors attic-hoarding for expired dreams. Maybe a small cost, mostly good stories, donated to Borderland. Budget covers bare essentials: black tarp, ropes and height, yet sailor strength structure that can be re-used or re-purposed for many years.\n\nDisclaimer: Kids under 9 kg are recommended to co-walk with a parent if they wish to lend a naked Mega for a short stroll. Co-leash for light souls.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Daniel @ Border Buoyancy, more commonly known as \"Kinden\". Second Borderland, first co-dream! Former sailor. 8 meteorological balloon launches at sea, 12 artistic installations, two hydrogen runs 2025. Linde Gas contract incl. 40% discounted rates. Professional experience from vessels, tankers and port operations, including ATEX zones and fire watchkeeping.  \n  \nFinding lift where others see weight.\n\nReach me on Discord: border\\_buoyancy",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Border Buoyancy dream and its Pregnant Mega Morran belongs to no camp. She belongs to everyone, yet lonely.\n\nThe inner offspring builds a pre-drop pressure. Is there a borderling camp that fits this dream story and offers BPM comfort and open-air birth space?",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "When the time is right and the wind is low, a hydrogen balloon burns above the lake.\n\nA fire arrow, a cello, a 3-metre spherical burn crescending up as it reflects strokes and stillness. A woof, not a bang. A second sunset.\n\nThen a week of noble buoyancy in the borders of elements, spectrums and Newton.\n\nThe Pregnant Mega Morran, a 420-centimetre dark-purple Helium-creature, floats weightless over the lands. In her deep-frozen black hand, she holds a leash with a groupie-Hattifnattar stalking her blindly. Walk around or lift the skirt and step inside. Morran's heart craves fluid. A few drips get it pumping. True chemistry, pure physics, real magic. At the peak of the night, Morran loses its weighted heart above a free open spot. The dark-purple falls.\n\nMega Jelly is born. Warm, bright, colourful. A true night owl flying high, flying low. BPM veins and DMX-sync-shine. Sun-phobic by nature, she shelters in Mega Jelly Stable by day. Pimp your outfit with Elvish-Mithril ultralights.\n\nChill, watch, create, debate or feed the Mega Jelly a bump of lift. Or a Mega Moomin makeover?",
+          "value": "I went to Borderland last year and couldn't find my people. I'm queer, I'm femme, and I spent a week surrounded by 4500 humans without meeting a single sapphic woman. We were there. But we had no way to find each other.\n\nThe Sapphic Pond is Borderland's first camp for queer women, lesbians, femmes and nonbinary people. A place to land, be seen, and find who you've been looking for.\n\n**What happens here:**\n\n🌅 Morning Moan: Sapphic Tantric Meditation (daily 11am)  \n🍵 The Lesbian Tea Ceremony (daily 12pm)  \n💫 Find Your Sapphic Soul Mate (opening night)  \n🙈 Sapphic Blindfolded Slow Dating  \n🧘 Melt Into Her: Yin Yoga for Queer Women  \n🏊 Beavers & Nymphs Go Swimming!  \n🍾 Spin the Bottle: Lesbian Edition  \n🫧 Submerge: Under the Pond (sapphic non-verbal communication space always open)  \n🔥 You Command This Lesbian Orgy  \n📌 Soul Matchmaking Board (always open)  \n🌙 The Lounge (fairy lights, open all night)\n\nFemme-loving femmes: if you don't have a camp or you got tired of yours, we adopt you. Pitch your tent around the Pond and be home for the week. Follow the glowing frog 🐸",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Hydrogen-burn:<5 m/s wind, 12-14 person team, artistic pre-announcement, sub-sonic woof, lake placement. MSBFS 2020:1. Execution plan: rehearsal, role list and safety specs and calculations on request",
+          "value": "The Sapphic Pond is a gentle neighbor. Our daily programming (tea ceremony, yoga, meditation, dating) is quiet and intimate. The lounge plays low-volume music at night but we're not a sound camp.\n\nThe one exception: **Find Your Sapphic Soul Mate** opening night and occasional evenings may get a bit louder with sapphics talking (Or moaning 😏) and a bluetooth speaker. Nothing above what one person can carry. We'll communicate with neighbors during pre-placement and keep it reasonable.\n\n**Submerge** (our silent contact room) is a non-verbal space, but other sounds can be made.\n\nWe'd love to be placed near other queer, body-positive, or connection-focused camps. We're the pond, we play well with others. If you're a neighboring camp and want to co-host something sapphic, come talk to us 🐸",
           "customField": {
-            "name": "Safety"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "240V access needed, 5-10 plugs. Lights and tools. Most systems battery-powered.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "A cellist, violinist or pianist for \"The Second Sunset\". A skilled archer. Builders and makers for Hattifnattar, Mega Morran and Mega Jelly. Moomin nerds. Stylists for the Elvish Mithril outfitting station in the Mega Jelly Stable.\n\nI'm a creative generalist with a visual soul. I'm not a time-realistic person. I seek a co-director, co-makers, a choreographer and maybe a timely master?\n\nPartial funding works. A smaller Morran floats, Jelly is born, Hattifnattar stalks.\n\nFull funding adds a Mega Jelly Stable: a black and white meta space where Mega Jelly as a sun-phobic soul struggles to fit under a black roof and between white walls. A multi-dimensional creature in a world that often insists on flat or boxed-in.\n\nThe Mega Jelly Stable is open for anyone. Always. No schedule, owner-free living room. A space for the ever-living.\n\nHydrogen Disclaimer: Fire Lead meeting held. Safety dialog with Alversjö land, Clown Police and Helm in process. Any doubt, no burn. If H2 cancelled late, costs covered by dream lead.  \n  \nMega Helium-creatures float regardless.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "The Second Sunset: a cello at the lake. Rowing. Arrow. A burn woof. The 2nd sun. Mega Morran & Jelly: elvishly mimic the sound of moon rays as they wander. Flicks of jelly-burny-threads, a few woows.",
+          "value": "No. We bring only a small portable Bluetooth speaker for gentle background music during yoga and meditation sessions, kept at low conversational volume.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Preliminary site visits for dialog and checkout placement alternatives. Mega Jelly Stable tarp set on Saturday, latest Sunday if winds would recommend other. All weather balloons and elvish material repurposed throughout the week. Full collection of all weather balloon material\\*, LED gear and structures. LNT.\n\n\\*If Second Sunset reaches a no-doubt status and is placed in water, a fixed boom of repurposed trampoline fabric or equivalent will be placed underneath with good margins to catch balloon remains and arrow after burst and burn. All items going into the water float or are repurposed to float for lake safe collection.",
+          "value": "We pack light and leave clean. All rugs, cushions, tents, and signs are carried out by our camp. Matchmaking board dismantled, pins collected, red threads saved as keepsakes. Tea station cleared, cups washed. The only trace we leave is the connections we made.",
           "customField": {
             "name": "Strike plan"
           }
+        },
+        {
+          "value": "Nyx  \nEmail: nyxrr@pm.me",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Yes, many fairy lights, and one power strip for charging phones and the tea kettle. Low consumption, max 500W.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Consent is our foundation. Traffic light system (green/yellow/red) at all activities. Blindfolds only with a buddy. Safer sex supplies available. Sober space always open.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "The Sapphic Pond",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "We have confirmed Beavers from Beaverton joining us! (Burning Man Sapphic Camp)\n\nThe Pond is nothing without its beavers, nymphs and frogs! 🦫 We're looking for:\n\n🧘 Activity leaders: Got a sapphic workshop up your sleeve? Breathwork, body painting, tarot, poetry, massage, anything that brings women closer. Pitch it, run it, it's yours.\n\n🎵 DJs & playlist curators: Set the mood for the lounge or a special night.\n\n🍵 Tea witches: Host the daily Lesbian Tea Ceremony.\n\n🫧 Submerge guardians: Hold space and welcome.\n\n💌 Soul Matchmaking caretakers: Keep the board beautiful, refresh prompts.\n\n🔨 Builders: Help us raise the Pond on build day. Fairy lights, frog lantern, flags.\n\nComment here or join our Telegram. We adopt any sapphic who shows up with love 🦭",
+          "customField": {
+            "name": "Co-creation"
+          }
         }
       ],
-      "tags": [
-        {
-          "value": "Art installation"
-        },
-        {
-          "value": "Art walk apropriate"
-        },
-        {
-          "value": "Bazaar"
-        },
-        {
-          "value": "Chillout"
-        },
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Fire"
-        },
-        {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Kids-friendly"
-        },
-        {
-          "value": "Light"
-        },
-        {
-          "value": "Looking for space"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Pimping station"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Venue"
-        },
-        {
-          "value": "Workshop space"
-        },
-        {
-          "value": "Reality-as-a-Dream"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Linde Gas contract incl. qualifying discount 40% (gas) + 15% (purchases)",
-          "min": 8801,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "High-quality LED with BPM-vein, DMX control, WiFi control, 6 ultra lightweight powerbanks",
-          "min": 4250,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tools, advanced tools & building consumption stuff (owned or lent)",
+          "description": "kettle, cutlery, cups, tea, yoga mats x3, large LGTBQ+ flag, tarot decks, safer sex supplies, decoration materials. ",
           "min": 3500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Rent/lending of cars incl. fuel, prepp, fix, shopping, borrow and return",
-          "min": 2500,
-          "max": null,
-          "type": "INCOME"
+          "description": "Canvas bell tent 5m for Submerge intimate space (rent)",
+          "min": 4500,
+          "max": 6000,
+          "type": "EXPENSE"
         },
         {
-          "description": "Hydrogen tests and safety plan (2025)",
-          "min": 1876,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fire emergency blanket",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fire extinguisher",
-          "min": 400,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "First Aid Kit / Trauma kit",
-          "min": 700,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Two work ladders",
-          "min": 800,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "H2 and He logistics (rental of cylinders, ADR transport and pre-burn storage labels)",
-          "min": 400,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Floating lightweight rope (Anchor rope for 2nd Sunset and leash Mega Morran/Mega Jelly)",
-          "min": 200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Mirror for outfitting station",
-          "min": 400,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Newton kilo-support (normal scale)",
-          "min": 200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Newton gram-support (Kitchen scale)",
-          "min": 200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "4 Silver-Elvish lightweight blankets",
-          "min": 120,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "2-3 re-purposed yacht sails for Mega Jelly Stable aesthetic tarp sides",
-          "min": 1400,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Large white tarp for as dry floor in Mega Jelly Stable",
-          "min": 600,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Experience from 8 meteorological weather balloon launches",
+          "description": "Main Gatherin space: Rent Canvas bell tent 8m or Open tarp canopy: 2 large tarps + 6 wooden poles + rope + pegs",
           "min": 0,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Experience from 12 successful helium launches at events 2010-2025",
-          "min": 0,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Cosy fluff corner for chill, buoyancy pauses, minds with huge thoughts, högt-till-tak-konversationer (carpets, pillows, blankets, low lighting, DIY-table, maybe a few mattresses)",
-          "min": 1100,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Helium 20+10L or 50L cylinder (Linde, incl. 40% discount)",
-          "min": 8487,
-          "max": 10286,
+          "max": 7300,
           "type": "EXPENSE"
         },
         {
-          "description": "Hydrogen 20L + rental of H2 regulator (2nd Sunset)",
-          "min": 0,
-          "max": 1713,
+          "description": "Submerge Mattresses + cushions + rugs (patient Blocket hunt)",
+          "min": 3800,
+          "max": 4200,
           "type": "EXPENSE"
         },
         {
-          "description": "Weather Balloons (2x200g + 1x500-800g, or 3x200g)",
-          "min": 1265,
-          "max": 2559,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Ultra Hi-Float 70 cl (bio/sugar-based)",
-          "min": 300,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Balloon Inflator (lend from Clown Police etc. or purchase)",
-          "min": 0,
-          "max": 1237,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Mega-Morran lightweight dress & icy-fog rig",
-          "min": 800,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Dry ice",
-          "min": 493,
-          "max": 986,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "6 gold/silver Elvish lightweight blankets and repurposed VHS for Jelly burny threads",
-          "min": 137,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Elvish co-creation supplies, coloured fabric, thread, strike-safe attachments",
-          "min": 0,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Seven hattifnatt stalkers for Morran",
-          "min": 300,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Extra moon-walky Hattifnatt stalkers gifted or co-created with kids+parents & Borderlings",
+          "description": " Cushions, rugs, blankets for main gathering space",
           "min": 0,
           "max": 1800,
           "type": "EXPENSE"
         },
         {
-          "description": "Mega Jelly Stable",
+          "description": "Electric heating blankets x3 for the intimate space",
           "min": 0,
-          "max": 3800,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Yoga mats for tantric meditation, yin yoga, ecstatic dance",
+          "min": 0,
+          "max": 1200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fairy lights (For Submerge space being usable at night) + LED strips for both spaces + exterior glow",
+          "min": 311,
+          "max": 1200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Extension cords + power strips x4, safely routed",
+          "min": 0,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Bluetooth speaker for daily lounge, coffee circle, activities",
+          "min": 0,
+          "max": 1200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "\"THE SAPPHIC POND\" banner printed weatherproof + flag poles x2",
+          "min": 0,
+          "max": 900,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Sapphic Soul Matchmaking Board: large corkboard, printed cards, colored markers, pins, washi tape, mini envelopes",
+          "min": 700,
+          "max": 900,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Satin blindfolds x14 + body paint x5 colors for activities",
+          "min": 0,
+          "max": 1180,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Crew pins x15 + laminated consent posters, schedule, welcome sign",
+          "min": 0,
+          "max": 553,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Van rental weekend for transport Stockholm-Borderland roundtrip + fuel (rent van OKQ8/Circle K, buy fuel)",
+          "min": 500,
+          "max": 3500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Sapphic/Lesbian Flag + pole (beachflag + spike) To be a true meeting point where ever we go, we take the flag/pole!",
+          "min": 1300,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 27947,
-      "percentageFundedTrue": 237.2
+      "funded": 3500,
+      "percentageFundedTrue": 31.5
     },
     {
       "id": "cmnvz190y0011zdlwytpsy2bw",
@@ -46739,130 +46468,154 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnv5oy7s0005op9oqbauef59",
-      "title": "Shibari Chill Web - Sound Journey",
-      "summary": "A surround sound journey at the Shibari Chill Web ",
+      "id": "cmnvfqpsx000obc13224jhb70",
+      "title": "Pretty Porter Potties",
+      "summary": "A dedicated group of 15 Berliners will add glamour to the potties, turn your sit-in into a scavenger hunt and give all of you the shit moment you deserve.",
       "status": "FUNDED",
-      "noOfFunders": 80,
-      "noOfComments": 0,
-      "percentageFunded": 914.12,
-      "minGoal": 5500,
-      "maxGoal": 20500,
-      "income": 35500,
+      "noOfFunders": 37,
+      "noOfComments": 1,
+      "percentageFunded": 221.73,
+      "minGoal": 1840,
+      "maxGoal": 2790,
+      "income": 1800,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003773/dreams/rvs6p5wz8ohsjnamcwf8.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775978673/dreams/n2okbkpty4hjjv9uoqie.png"
         }
       ],
       "customFields": [
         {
-          "value": "We are bringing the surround sound journey again to shibari chill web with new soundscapes and music to immerse you while you are moving around the SCW.\n\nWe have most of the equipment allready but some additional things are needed.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "The sound levels will vary but the placement will be far away from others so will not disturb.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Lucid State and Shibari Chill Web",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Its only speakers, cables and some other electronics so will pack everything when SCW has their strike.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "The speakers will be hanging from the trees secured with ropes and bolts.",
+          "value": "When shit hits the fan, no one is safe. But we will not solve this problem.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "It will be far away from others so will not interfer",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Johan Sjödin\n\nLucidState-Johan on Discord",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "For the sound journey we need about 400W for the PA speakers(class D amps) and depending if we get a sub we will need more, about 1000W more.",
+          "value": "No electric chairs.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Its a co-creation already between Lucid State and Shibari Chill Web",
+          "value": "gittagi can be the treasurer. I'll hold on to the receipts. Contact me @discord: #gittagi",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "It is not confined to a camp. We all camp out everywhere but we will be bonded and linked forever by the porta potty dream we share and spread. We might be found in our little potty camp somewhere together but this dream: it does not need a camp. Think of it like a grassroots guerrilla sorta movement on the potties that we find. We come in peece!",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Nothing melts more organically into a playa, festival ground, outdoor space than a long line of porter potties. We will be everywhere. We will disturb no one. We will save a lot of lives.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Oh baby. You will co-create. You will need to serve nature's call. We are all in this together.",
           "customField": {
             "name": "Co-creation"
+          }
+        },
+        {
+          "value": "We have started a competition amongst ourselves to create the best and most glamurous shit experience for burners ever. We will decorate the potties that have been banned to mere existence. We will make this a competition: who finds the most (and best) decorated porter potties and who do they belong to? We will make this into a scavenger hunt you can solve by eating and drinking and peeing and shitting as much as you possibly can to tour the grounds. We have film-themed, glitter shitter, fairy lights, poppy (poopy) seeds, animals that deserve their moment of fame toilet decorations ready to go and much more that we won't talk about (like medical ones for those that need to tend to their destroyed butts). Well. Now we DID talk about it.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Well that will be up to you all, won't it? No toilets will provide any white noise coverage for what you bring \"to the table\". So it's all up to you & your shameless bowels to provide the soundtrack.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We will clean out the decor on strike. Re-use for next time what can be re-used and recycle the rest. That's a given.",
+          "customField": {
+            "name": "Strike plan"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "4 PA speakers",
-          "min": 16000,
+          "description": "Printouts ",
+          "min": 400,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Electric cables",
-          "min": 2500,
+          "description": "labels and stickers",
+          "min": 500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Computer and audio interface",
-          "min": 15000,
+          "description": "Scavenger hunt maps printed",
+          "min": 200,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Weatherproof boxes for speakers and gear",
-          "min": 2000,
+          "description": "textiles, glitter, decor, fotos etc",
+          "min": 700,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "4 30m XLR cables",
-          "min": 2500,
-          "max": null,
+          "description": "Animals that deserve some fame ",
+          "min": 100,
+          "max": 160,
           "type": "EXPENSE"
         },
         {
-          "description": "Borrow, Buy or rent a sub. Yamaha 18\" sub is for the max amount.",
-          "min": 0,
-          "max": 12000,
+          "description": "Shitter glitter ",
+          "min": 100,
+          "max": 170,
           "type": "EXPENSE"
         },
         {
-          "description": "Outdoor motiontracking camera to enable some secret interactive functionality.",
-          "min": 0,
-          "max": 3000,
+          "description": "Fairy hairy godmother",
+          "min": 80,
+          "max": 120,
           "type": "EXPENSE"
         },
         {
-          "description": "Transportation, will be shared with The Popcorner dream",
-          "min": 3000,
-          "max": null,
+          "description": "Medical toilets",
+          "min": 100,
+          "max": 180,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "The Guilty Remnant",
+          "min": 80,
+          "max": 140,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "prints and foil and scavenger hunt maps and laminating machine ",
+          "min": 300,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "stickers, cloths, textiles, glitter, rope and sling",
+          "min": 600,
+          "max": 900,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "ceramics for ceramic bag of clay and firing cost ",
+          "min": 480,
+          "max": 520,
           "type": "EXPENSE"
         }
       ],
-      "funded": 35500,
-      "percentageFundedTrue": 645.45
+      "funded": 1800,
+      "percentageFundedTrue": 97.83
     },
     {
       "id": "cmns17u280000ajp1gmuteku0",
@@ -48751,154 +48504,338 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnvfqpsx000obc13224jhb70",
-      "title": "Pretty Porter Potties",
-      "summary": "A dedicated group of 15 Berliners will add glamour to the potties, turn your sit-in into a scavenger hunt and give all of you the shit moment you deserve.",
+      "id": "cmnuu5927005a5qpuajmhqvts",
+      "title": "Border Buoyancy",
+      "summary": "A fire arrow ignites a hydrogen balloon anchored in the lake. A 2nd sunset > Mega Morran froztly wanders > icy vibe melts > Morran lifts > Mega Jelly is Born",
       "status": "FUNDED",
-      "noOfFunders": 37,
-      "noOfComments": 1,
-      "percentageFunded": 221.73,
-      "minGoal": 1840,
-      "maxGoal": 2790,
-      "income": 1800,
+      "noOfFunders": 62,
+      "noOfComments": 6,
+      "percentageFunded": 337.2,
+      "minGoal": 11782,
+      "maxGoal": 26418,
+      "income": 27947,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775978673/dreams/n2okbkpty4hjjv9uoqie.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775942670/dreams/ycuxvaflridbswuhr7bl.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776972612/dreams/yngv1jq17fa55om4za9x.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776974331/dreams/bh97bvalrftk7btxzsaq.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776974357/dreams/czdsbve8cahhtjcdqj2c.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776974443/dreams/ckn9gyz6rhuvxvl0zbp1.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776974498/dreams/xou6dmw8vwl7pulupitn.png"
         }
       ],
       "customFields": [
         {
-          "value": "When shit hits the fan, no one is safe. But we will not solve this problem.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "No electric chairs.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "gittagi can be the treasurer. I'll hold on to the receipts. Contact me @discord: #gittagi",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "It is not confined to a camp. We all camp out everywhere but we will be bonded and linked forever by the porta potty dream we share and spread. We might be found in our little potty camp somewhere together but this dream: it does not need a camp. Think of it like a grassroots guerrilla sorta movement on the potties that we find. We come in peece!",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Nothing melts more organically into a playa, festival ground, outdoor space than a long line of porter potties. We will be everywhere. We will disturb no one. We will save a lot of lives.",
+          "value": "A silent pulsating presence that finds its right place. Mega Jelly syncs to any sound camp via DMX/WiFi, or pulses softly on its own. It adapts. It respects. It mirrors.\n\nThe Mega Jelly Stable, a tarp structure with top height of 6-7 metres. Built of re-purposed sails found at old beardy yacht sailors attic-hoarding for expired dreams. Maybe a small cost, mostly good stories, donated to Borderland. Budget covers bare essentials: black tarp, ropes and height, yet sailor strength structure that can be re-used or re-purposed for many years.\n\nDisclaimer: Kids under 9 kg are recommended to co-walk with a parent if they wish to lend a naked Mega for a short stroll. Co-leash for light souls.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Oh baby. You will co-create. You will need to serve nature's call. We are all in this together.",
+          "value": "Daniel @ Border Buoyancy, more commonly known as \"Kinden\". Second Borderland, first co-dream! Former sailor. 8 meteorological balloon launches at sea, 12 artistic installations, two hydrogen runs 2025. Linde Gas contract incl. 40% discounted rates. Professional experience from vessels, tankers and port operations, including ATEX zones and fire watchkeeping.  \n  \nFinding lift where others see weight.\n\nReach me on Discord: border\\_buoyancy",
           "customField": {
-            "name": "Co-creation"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "We have started a competition amongst ourselves to create the best and most glamurous shit experience for burners ever. We will decorate the potties that have been banned to mere existence. We will make this a competition: who finds the most (and best) decorated porter potties and who do they belong to? We will make this into a scavenger hunt you can solve by eating and drinking and peeing and shitting as much as you possibly can to tour the grounds. We have film-themed, glitter shitter, fairy lights, poppy (poopy) seeds, animals that deserve their moment of fame toilet decorations ready to go and much more that we won't talk about (like medical ones for those that need to tend to their destroyed butts). Well. Now we DID talk about it.",
+          "value": "Border Buoyancy dream and its Pregnant Mega Morran belongs to no camp. She belongs to everyone, yet lonely.\n\nThe inner offspring builds a pre-drop pressure. Is there a borderling camp that fits this dream story and offers BPM comfort and open-air birth space?",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "When the time is right and the wind is low, a hydrogen balloon burns above the lake.\n\nA fire arrow, a cello, a 3-metre spherical burn crescending up as it reflects strokes and stillness. A woof, not a bang. A second sunset.\n\nThen a week of noble buoyancy in the borders of elements, spectrums and Newton.\n\nThe Pregnant Mega Morran, a 420-centimetre dark-purple Helium-creature, floats weightless over the lands. In her deep-frozen black hand, she holds a leash with a groupie-Hattifnattar stalking her blindly. Walk around or lift the skirt and step inside. Morran's heart craves fluid. A few drips get it pumping. True chemistry, pure physics, real magic. At the peak of the night, Morran loses its weighted heart above a free open spot. The dark-purple falls.\n\nMega Jelly is born. Warm, bright, colourful. A true night owl flying high, flying low. BPM veins and DMX-sync-shine. Sun-phobic by nature, she shelters in Mega Jelly Stable by day. Pimp your outfit with Elvish-Mithril ultralights.\n\nChill, watch, create, debate or feed the Mega Jelly a bump of lift. Or a Mega Moomin makeover?",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Well that will be up to you all, won't it? No toilets will provide any white noise coverage for what you bring \"to the table\". So it's all up to you & your shameless bowels to provide the soundtrack.",
+          "value": "Hydrogen-burn:<5 m/s wind, 12-14 person team, artistic pre-announcement, sub-sonic woof, lake placement. MSBFS 2020:1. Execution plan: rehearsal, role list and safety specs and calculations on request",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "240V access needed, 5-10 plugs. Lights and tools. Most systems battery-powered.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "A cellist, violinist or pianist for \"The Second Sunset\". A skilled archer. Builders and makers for Hattifnattar, Mega Morran and Mega Jelly. Moomin nerds. Stylists for the Elvish Mithril outfitting station in the Mega Jelly Stable.\n\nI'm a creative generalist with a visual soul. I'm not a time-realistic person. I seek a co-director, co-makers, a choreographer and maybe a timely master?\n\nPartial funding works. A smaller Morran floats, Jelly is born, Hattifnattar stalks.\n\nFull funding adds a Mega Jelly Stable: a black and white meta space where Mega Jelly as a sun-phobic soul struggles to fit under a black roof and between white walls. A multi-dimensional creature in a world that often insists on flat or boxed-in.\n\nThe Mega Jelly Stable is open for anyone. Always. No schedule, owner-free living room. A space for the ever-living.\n\nHydrogen Disclaimer: Fire Lead meeting held. Safety dialog with Alversjö land, Clown Police and Helm in process. Any doubt, no burn. If H2 cancelled late, costs covered by dream lead.  \n  \nMega Helium-creatures float regardless.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "The Second Sunset: a cello at the lake. Rowing. Arrow. A burn woof. The 2nd sun. Mega Morran & Jelly: elvishly mimic the sound of moon rays as they wander. Flicks of jelly-burny-threads, a few woows.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We will clean out the decor on strike. Re-use for next time what can be re-used and recycle the rest. That's a given.",
+          "value": "Preliminary site visits for dialog and checkout placement alternatives. Mega Jelly Stable tarp set on Saturday, latest Sunday if winds would recommend other. All weather balloons and elvish material repurposed throughout the week. Full collection of all weather balloon material\\*, LED gear and structures. LNT.\n\n\\*If Second Sunset reaches a no-doubt status and is placed in water, a fixed boom of repurposed trampoline fabric or equivalent will be placed underneath with good margins to catch balloon remains and arrow after burst and burn. All items going into the water float or are repurposed to float for lake safe collection.",
           "customField": {
             "name": "Strike plan"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Art installation"
+        },
+        {
+          "value": "Art walk apropriate"
+        },
+        {
+          "value": "Bazaar"
+        },
+        {
+          "value": "Chillout"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Fire"
+        },
+        {
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Kids-friendly"
+        },
+        {
+          "value": "Light"
+        },
+        {
+          "value": "Looking for space"
+        },
+        {
+          "value": "Performance"
+        },
+        {
+          "value": "Pimping station"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Venue"
+        },
+        {
+          "value": "Workshop space"
+        },
+        {
+          "value": "Reality-as-a-Dream"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Printouts ",
-          "min": 400,
+          "description": "Linde Gas contract incl. qualifying discount 40% (gas) + 15% (purchases)",
+          "min": 8801,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "labels and stickers",
+          "description": "High-quality LED with BPM-vein, DMX control, WiFi control, 6 ultra lightweight powerbanks",
+          "min": 4250,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Tools, advanced tools & building consumption stuff (owned or lent)",
+          "min": 3500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Rent/lending of cars incl. fuel, prepp, fix, shopping, borrow and return",
+          "min": 2500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Hydrogen tests and safety plan (2025)",
+          "min": 1876,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fire emergency blanket",
           "min": 500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Scavenger hunt maps printed",
-          "min": 200,
+          "description": "Fire extinguisher",
+          "min": 400,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "textiles, glitter, decor, fotos etc",
+          "description": "First Aid Kit / Trauma kit",
           "min": 700,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Animals that deserve some fame ",
-          "min": 100,
-          "max": 160,
+          "description": "Two work ladders",
+          "min": 800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "H2 and He logistics (rental of cylinders, ADR transport and pre-burn storage labels)",
+          "min": 400,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Floating lightweight rope (Anchor rope for 2nd Sunset and leash Mega Morran/Mega Jelly)",
+          "min": 200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Mirror for outfitting station",
+          "min": 400,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Newton kilo-support (normal scale)",
+          "min": 200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Newton gram-support (Kitchen scale)",
+          "min": 200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "4 Silver-Elvish lightweight blankets",
+          "min": 120,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "2-3 re-purposed yacht sails for Mega Jelly Stable aesthetic tarp sides",
+          "min": 1400,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Large white tarp for as dry floor in Mega Jelly Stable",
+          "min": 600,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Experience from 8 meteorological weather balloon launches",
+          "min": 0,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Experience from 12 successful helium launches at events 2010-2025",
+          "min": 0,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Cosy fluff corner for chill, buoyancy pauses, minds with huge thoughts, högt-till-tak-konversationer (carpets, pillows, blankets, low lighting, DIY-table, maybe a few mattresses)",
+          "min": 1100,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Helium 20+10L or 50L cylinder (Linde, incl. 40% discount)",
+          "min": 8487,
+          "max": 10286,
           "type": "EXPENSE"
         },
         {
-          "description": "Shitter glitter ",
-          "min": 100,
-          "max": 170,
+          "description": "Hydrogen 20L + rental of H2 regulator (2nd Sunset)",
+          "min": 0,
+          "max": 1713,
           "type": "EXPENSE"
         },
         {
-          "description": "Fairy hairy godmother",
-          "min": 80,
-          "max": 120,
+          "description": "Weather Balloons (2x200g + 1x500-800g, or 3x200g)",
+          "min": 1265,
+          "max": 2559,
           "type": "EXPENSE"
         },
         {
-          "description": "Medical toilets",
-          "min": 100,
-          "max": 180,
+          "description": "Ultra Hi-Float 70 cl (bio/sugar-based)",
+          "min": 300,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "The Guilty Remnant",
-          "min": 80,
-          "max": 140,
+          "description": "Balloon Inflator (lend from Clown Police etc. or purchase)",
+          "min": 0,
+          "max": 1237,
           "type": "EXPENSE"
         },
         {
-          "description": "prints and foil and scavenger hunt maps and laminating machine ",
+          "description": "Mega-Morran lightweight dress & icy-fog rig",
+          "min": 800,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Dry ice",
+          "min": 493,
+          "max": 986,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "6 gold/silver Elvish lightweight blankets and repurposed VHS for Jelly burny threads",
+          "min": 137,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Elvish co-creation supplies, coloured fabric, thread, strike-safe attachments",
+          "min": 0,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Seven hattifnatt stalkers for Morran",
           "min": 300,
           "max": 600,
           "type": "EXPENSE"
         },
         {
-          "description": "stickers, cloths, textiles, glitter, rope and sling",
-          "min": 600,
-          "max": 900,
+          "description": "Extra moon-walky Hattifnatt stalkers gifted or co-created with kids+parents & Borderlings",
+          "min": 0,
+          "max": 1800,
           "type": "EXPENSE"
         },
         {
-          "description": "ceramics for ceramic bag of clay and firing cost ",
-          "min": 480,
-          "max": 520,
+          "description": "Mega Jelly Stable",
+          "min": 0,
+          "max": 3800,
           "type": "EXPENSE"
         }
       ],
-      "funded": 1800,
-      "percentageFundedTrue": 97.83
+      "funded": 27947,
+      "percentageFundedTrue": 237.2
     },
     {
       "id": "cmnutkbjn001qnfo5f8i812cd",
@@ -50780,193 +50717,137 @@
       "percentageFundedTrue": 177.78
     },
     {
-      "id": "cmnv3g3bo001fdzdzmfmgmcb1",
-      "title": "The Sapphic Pond 🐸",
-      "summary": "The first ever sapphic meeting point at Borderland! The Pond invokes all lesbians, bi, curious and pansexual women to emerge from the waters 💦 ",
+      "id": "cmnvf6rha001b38exl4fqs4an",
+      "title": "Polegasm - Stripped of Gravity, Teased into Ecstasy",
+      "summary": "A pole jam\nA movement sanctuary\nA place to explore, connect, and melt into the music In the neon glow of Machinehall",
       "status": "FUNDED",
-      "noOfFunders": 66,
-      "noOfComments": 6,
-      "percentageFunded": 131.5,
-      "minGoal": 11111,
-      "maxGoal": 33333,
-      "income": 3500,
+      "noOfFunders": 52,
+      "noOfComments": 0,
+      "percentageFunded": 718.17,
+      "minGoal": 5200,
+      "maxGoal": 17200,
+      "income": 31700,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776040457/dreams/rf5rtgo0awuxwemhzy7y.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776257037/dreams/gjooksxvnvv8yeihtl52.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776030792/dreams/oqgykfcdc1myknl1xmgn.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776029814/dreams/rn0xp07qjyzg1bfnb171.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776032057/dreams/zcsvrrxfkffm3qhlevjv.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022508/dreams/xeqgdc5euvu9hqvfdpg1.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776039958/dreams/fm9qqu2jeqbbqkntfjey.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776255253/dreams/h3qswlgyalydtlxhbasl.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "I went to Borderland last year and couldn't find my people. I'm queer, I'm femme, and I spent a week surrounded by 4500 humans without meeting a single sapphic woman. We were there. But we had no way to find each other.\n\nThe Sapphic Pond is Borderland's first camp for queer women, lesbians, femmes and nonbinary people. A place to land, be seen, and find who you've been looking for.\n\n**What happens here:**\n\n🌅 Morning Moan: Sapphic Tantric Meditation (daily 11am)  \n🍵 The Lesbian Tea Ceremony (daily 12pm)  \n💫 Find Your Sapphic Soul Mate (opening night)  \n🙈 Sapphic Blindfolded Slow Dating  \n🧘 Melt Into Her: Yin Yoga for Queer Women  \n🏊 Beavers & Nymphs Go Swimming!  \n🍾 Spin the Bottle: Lesbian Edition  \n🫧 Submerge: Under the Pond (sapphic non-verbal communication space always open)  \n🔥 You Command This Lesbian Orgy  \n📌 Soul Matchmaking Board (always open)  \n🌙 The Lounge (fairy lights, open all night)\n\nFemme-loving femmes: if you don't have a camp or you got tired of yours, we adopt you. Pitch your tent around the Pond and be home for the week. Follow the glowing frog 🐸",
+          "value": "After last year’s high-energy showcase, Polegasm returns in a new form: softer, more intimate, and open-ended. Instead of a scheduled show, we’re creating an ongoing pole jam: a space to explore, connect, and move freely throughout the night. No pressure, no stage,  just movement, curiosity, and connection to the beats of the Machinehall.\n\n✨ Climb. Flow. Explore. ✨\n\nA welcoming environment for improvisation, experimentation, and shared energy. Come solo and lose yourself in movement, or co-create spontaneous jams with others. Whether slow and sensual, playful and chaotic, or quietly embodied,  all expressions are welcome.\n\n🔥 What We’re Creating 🔥  \n🔹 X-pole stage static/spin pole — for all levels of pole sorcery  \n🔹 Dedicated performance zone — jams, showcases, spontaneous magic  \n🔹 Hypnotic techno soundscape — for climbs, drops, and slow burns  \n🔹 UV blacklights & immersive lighting — turning dancers into living neon  \n🔹 A movement sanctuary — where pole dancers, ravers, and curious souls collide\n\nBecause pole is power, seduction, and self-expression amplified.  \nWe’re not just dancing. We’re rewriting gravity together.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "The Sapphic Pond is a gentle neighbor. Our daily programming (tea ceremony, yoga, meditation, dating) is quiet and intimate. The lounge plays low-volume music at night but we're not a sound camp.\n\nThe one exception: **Find Your Sapphic Soul Mate** opening night and occasional evenings may get a bit louder with sapphics talking (Or moaning 😏) and a bluetooth speaker. Nothing above what one person can carry. We'll communicate with neighbors during pre-placement and keep it reasonable.\n\n**Submerge** (our silent contact room) is a non-verbal space, but other sounds can be made.\n\nWe'd love to be placed near other queer, body-positive, or connection-focused camps. We're the pond, we play well with others. If you're a neighboring camp and want to co-host something sapphic, come talk to us 🐸",
+          "value": "🔹 In collaboration with Plutonia – our home base, our tribe, our rave utopia.  \n🔹 Open to all artists, dancers, and performers – if you want to spin, tease, and defy gravity, join us.\n\nCome, climb, and lose yourself in the movement.\n\n💜🔥 Find your dancer’s position. Get ready and stand proud. 🔥💜",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Respect the space & each other – We create magic together through mutual respect, consent, and support.  \nIntegrated into the Machinehall – Our setup maximizes freedom of movement without interfering with other dreams in the space.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "No. We bring only a small portable Bluetooth speaker for gentle background music during yoga and meditation sessions, kept at low conversational volume.",
+          "value": "Isolated sound – The Machinehall is soundproofed to contain the bass where it belongs  \nEarplugs recommended",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We pack light and leave clean. All rugs, cushions, tents, and signs are carried out by our camp. Matchmaking board dismantled, pins collected, red threads saved as keepsakes. Tea station cleared, cups washed. The only trace we leave is the connections we made.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Nyx  \nEmail: nyxrr@pm.me",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Yes, many fairy lights, and one power strip for charging phones and the tea kettle. Low consumption, max 500W.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Consent is our foundation. Traffic light system (green/yellow/red) at all activities. Blindfolds only with a buddy. Safer sex supplies available. Sober space always open.",
+          "value": "We prioritize safety—for both dancers and participants. Secure equipment – Pole will be set up by pole experts",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "The Sapphic Pond",
+          "value": "We create chaos on the dancefloor, but we leave no mess behind.\n\nTeardown by Monday – The entire installation will be dismantled and removed by Monday.  \nWe respect Borderland’s principles and will leave the space as clean (or cleaner) than when we arrived.  \nCollaboration with Plutonia – We work together with the camp to efficiently clean up and restore the Machinehall.",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "We have confirmed Beavers from Beaverton joining us! (Burning Man Sapphic Camp)\n\nThe Pond is nothing without its beavers, nymphs and frogs! 🦫 We're looking for:\n\n🧘 Activity leaders: Got a sapphic workshop up your sleeve? Breathwork, body painting, tarot, poetry, massage, anything that brings women closer. Pitch it, run it, it's yours.\n\n🎵 DJs & playlist curators: Set the mood for the lounge or a special night.\n\n🍵 Tea witches: Host the daily Lesbian Tea Ceremony.\n\n🫧 Submerge guardians: Hold space and welcome.\n\n💌 Soul Matchmaking caretakers: Keep the board beautiful, refresh prompts.\n\n🔨 Builders: Help us raise the Pond on build day. Fairy lights, frog lantern, flags.\n\nComment here or join our Telegram. We adopt any sapphic who shows up with love 🦭",
+          "value": "We will share electricity with Plutonia",
           "customField": {
-            "name": "Co-creation"
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Dominika - @Daiquiri",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Performance"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Sex positive"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "kettle, cutlery, cups, tea, yoga mats x3, large LGTBQ+ flag, tarot decks, safer sex supplies, decoration materials. ",
-          "min": 3500,
+          "description": "Black light UV",
+          "min": 3000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Canvas bell tent 5m for Submerge intimate space (rent)",
-          "min": 4500,
-          "max": 6000,
-          "type": "EXPENSE"
+          "description": "Smoke machine",
+          "min": 1400,
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Main Gatherin space: Rent Canvas bell tent 8m or Open tarp canopy: 2 large tarps + 6 wooden poles + rope + pegs",
+          "description": "Smoke liquid",
+          "min": 300,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Light 8st ledtubes",
+          "min": 12000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "X-Pole",
+          "min": 15000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Stage material",
           "min": 0,
-          "max": 7300,
+          "max": 10000,
           "type": "EXPENSE"
         },
         {
-          "description": "Submerge Mattresses + cushions + rugs (patient Blocket hunt)",
-          "min": 3800,
-          "max": 4200,
+          "description": "Decor + UV paint",
+          "min": 5000,
+          "max": 7000,
           "type": "EXPENSE"
         },
         {
-          "description": " Cushions, rugs, blankets for main gathering space",
-          "min": 0,
-          "max": 1800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Electric heating blankets x3 for the intimate space",
-          "min": 0,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Yoga mats for tantric meditation, yin yoga, ecstatic dance",
-          "min": 0,
-          "max": 1200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Fairy lights (For Submerge space being usable at night) + LED strips for both spaces + exterior glow",
-          "min": 311,
-          "max": 1200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Extension cords + power strips x4, safely routed",
-          "min": 0,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Bluetooth speaker for daily lounge, coffee circle, activities",
-          "min": 0,
-          "max": 1200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "\"THE SAPPHIC POND\" banner printed weatherproof + flag poles x2",
-          "min": 0,
-          "max": 900,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sapphic Soul Matchmaking Board: large corkboard, printed cards, colored markers, pins, washi tape, mini envelopes",
-          "min": 700,
-          "max": 900,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Satin blindfolds x14 + body paint x5 colors for activities",
-          "min": 0,
-          "max": 1180,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Crew pins x15 + laminated consent posters, schedule, welcome sign",
-          "min": 0,
-          "max": 553,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Van rental weekend for transport Stockholm-Borderland roundtrip + fuel (rent van OKQ8/Circle K, buy fuel)",
-          "min": 500,
-          "max": 3500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sapphic/Lesbian Flag + pole (beachflag + spike) To be a true meeting point where ever we go, we take the flag/pole!",
-          "min": 1300,
+          "description": "Cleaning spray and cloths for the pole",
+          "min": 200,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 3500,
-      "percentageFundedTrue": 31.5
+      "funded": 31700,
+      "percentageFundedTrue": 609.62
     },
     {
       "id": "cmnutxs0s007at64ck16bninj",
@@ -52599,137 +52480,256 @@
       "percentageFundedTrue": 503.21
     },
     {
-      "id": "cmnvf6rha001b38exl4fqs4an",
-      "title": "Polegasm - Stripped of Gravity, Teased into Ecstasy",
-      "summary": "A pole jam\nA movement sanctuary\nA place to explore, connect, and melt into the music In the neon glow of Machinehall",
+      "id": "cmnu2w2u800027e2j67d4yg5d",
+      "title": "Silversmith Cosmic Workshop",
+      "summary": "Create and design your own silver jewelry in a cosmic worksho. No experience needed, just curiosity and a touch of magic ✨",
       "status": "FUNDED",
-      "noOfFunders": 52,
+      "noOfFunders": 70,
       "noOfComments": 0,
-      "percentageFunded": 718.17,
-      "minGoal": 5200,
-      "maxGoal": 17200,
-      "income": 31700,
+      "percentageFunded": 310.06,
+      "minGoal": 7623,
+      "maxGoal": 8938,
+      "income": 15300,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776257037/dreams/gjooksxvnvv8yeihtl52.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776255253/dreams/h3qswlgyalydtlxhbasl.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775896973/dreams/nbgrsabozir0j2p57eae.png"
         }
       ],
       "customFields": [
         {
-          "value": "After last year’s high-energy showcase, Polegasm returns in a new form: softer, more intimate, and open-ended. Instead of a scheduled show, we’re creating an ongoing pole jam: a space to explore, connect, and move freely throughout the night. No pressure, no stage,  just movement, curiosity, and connection to the beats of the Machinehall.\n\n✨ Climb. Flow. Explore. ✨\n\nA welcoming environment for improvisation, experimentation, and shared energy. Come solo and lose yourself in movement, or co-create spontaneous jams with others. Whether slow and sensual, playful and chaotic, or quietly embodied,  all expressions are welcome.\n\n🔥 What We’re Creating 🔥  \n🔹 X-pole stage static/spin pole — for all levels of pole sorcery  \n🔹 Dedicated performance zone — jams, showcases, spontaneous magic  \n🔹 Hypnotic techno soundscape — for climbs, drops, and slow burns  \n🔹 UV blacklights & immersive lighting — turning dancers into living neon  \n🔹 A movement sanctuary — where pole dancers, ravers, and curious souls collide\n\nBecause pole is power, seduction, and self-expression amplified.  \nWe’re not just dancing. We’re rewriting gravity together.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "🔹 In collaboration with Plutonia – our home base, our tribe, our rave utopia.  \n🔹 Open to all artists, dancers, and performers – if you want to spin, tease, and defy gravity, join us.\n\nCome, climb, and lose yourself in the movement.\n\n💜🔥 Find your dancer’s position. Get ready and stand proud. 🔥💜",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Respect the space & each other – We create magic together through mutual respect, consent, and support.  \nIntegrated into the Machinehall – Our setup maximizes freedom of movement without interfering with other dreams in the space.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Isolated sound – The Machinehall is soundproofed to contain the bass where it belongs  \nEarplugs recommended",
+          "value": "Small bluetooth speaker for some background cosmic songs",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We prioritize safety—for both dancers and participants. Secure equipment – Pole will be set up by pole experts",
+          "value": "All work will be done in an open, well-ventilated space, with a fire extinguisher readily available. Proper tools and precautions ensure a safe, controlled, and enjoyable workshop experience.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "We create chaos on the dancefloor, but we leave no mess behind.\n\nTeardown by Monday – The entire installation will be dismantled and removed by Monday.  \nWe respect Borderland’s principles and will leave the space as clean (or cleaner) than when we arrived.  \nCollaboration with Plutonia – We work together with the camp to efficiently clean up and restore the Machinehall.",
+          "value": "José María -> jose.mar.mtez@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "The Silversmith Cosmic Workshop is designed to exist in harmony with its surroundings. The activities are small-scale, low-noise and non-invasive. We might have a small speaker just for some background music. :)",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "The workshop will take place once or twice depending on the available budget. After each session, all materials and equipment will be fully removed. No MOOP are expected, impact will be minimal, but the space will always be thoroughly cleaned to leave it in the same or better condition than before.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "We will share electricity with Plutonia",
+          "value": "We will have a electrical cord to plug in the Dremel Machine, which will be used for polishing . 600W.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Dominika - @Daiquiri",
+          "value": "Mystic Groove",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Step into a little universe where time slows down, silver melts, and you become the jewelry designer.  \n  \nIn this silversmith workshop you’ll learn the basics of working with silver (without setting anything on fire… on purpose 😉), and create your own simple pieces: rings, earrings, pendants – or whatever your imagination dares to sketch. You’ll saw, hammer, shape and polish until your piece finally declares: “Yes, I’m fabulous.”  \n  \nNo experience needed, just curiosity.\n\n  \nYou’ll go home with the most beautiful jewel, yourself, and then whatever you have managed in the workshop ;)",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Sex positive"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Black light UV",
-          "min": 3000,
+          "description": "Gas botle and professional torche",
+          "min": 3800,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Smoke machine",
-          "min": 1400,
+          "description": "Begginer torche x 2",
+          "min": 900,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Smoke liquid",
+          "description": "Solder blocks",
           "min": 300,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Light 8st ledtubes",
-          "min": 12000,
+          "description": "Solder flux",
+          "min": 150,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "X-Pole",
-          "min": 15000,
+          "description": "Solder carrusel block",
+          "min": 1500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Stage material",
-          "min": 0,
-          "max": 10000,
-          "type": "EXPENSE"
+          "description": "Oxidation treatment silver",
+          "min": 450,
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Decor + UV paint",
-          "min": 5000,
-          "max": 7000,
-          "type": "EXPENSE"
+          "description": "Saw and saw blades",
+          "min": 850,
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Cleaning spray and cloths for the pole",
+          "description": "Brushes",
+          "min": 150,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Files, sand paper and file spounges",
+          "min": 800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Hammers, different textures and materials",
+          "min": 1800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Mandrel 15 - 25 mm",
+          "min": 700,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fire extinguisher",
           "min": 200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Dremmel machine with extension for jewelry",
+          "min": 2500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Dremmel bits (drilling, filing, cutting, etc)",
+          "min": 1200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Art Clay silver clay, 20 g",
+          "min": 1600,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Clay Spatulas & Tools",
+          "min": 350,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Art Clay Wooden Ring",
+          "min": 100,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Clay brushes",
+          "min": 150,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "925-silverplåt 1,0 mm 30cm x 0.5cm",
+          "min": 620,
+          "max": 998,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "925 silvertråd 1,5 mm x 30 cm",
+          "min": 215,
+          "max": 400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "925 silvertråd 2,0 mm x 30 cm",
+          "min": 390,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "925-silverplåt 0,8 mm 20 cm x 1 cm",
+          "min": 658,
+          "max": 900,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Mandrel 3 -10 mm",
+          "min": 290,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Mandrel 10 - 25 mm",
+          "min": 400,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Concave Punch Kit",
+          "min": 700,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Square Texture Punch Stamp",
+          "min": 300,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Combination mold",
+          "min": 850,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Drill set, different shapes",
+          "min": 300,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Refill gas burners",
+          "min": 200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport",
+          "min": 500,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 31700,
-      "percentageFundedTrue": 609.62
+      "funded": 15300,
+      "percentageFundedTrue": 200.71
     },
     {
       "id": "cmnv75pcj0000xf7vykhchq4z",
