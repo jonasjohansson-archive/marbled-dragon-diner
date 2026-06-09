@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1780566923147,
+  "updatedAt": 1780998141873,
   "buckets": [
     {
       "id": "cmnvtz2rn0014x5n9849mksy5",
@@ -14403,106 +14403,100 @@
       "percentageFundedTrue": 100
     },
     {
-      "id": "cmnr5wrdu000fzwg1ke8s6c93",
-      "title": "Dispatches from the Fuckery — A Walkie-Talkie Installation by the Fuckery",
-      "summary": "Live broadcasts of horny sounds from the Fuckery's playnights.",
+      "id": "cmnr91dn1001idmxe6teq1o8o",
+      "title": "The Pit",
+      "summary": "Tired of workshops filled with love & light and endless eye-gazing ?\n\nWhen was the last time you looked into the abyss?",
       "status": "FUNDED",
-      "noOfFunders": 12,
-      "noOfComments": 5,
-      "percentageFunded": 100,
-      "minGoal": 900,
-      "maxGoal": 2500,
-      "income": 0,
+      "noOfFunders": 49,
+      "noOfComments": 2,
+      "percentageFunded": 277.77,
+      "minGoal": 4500,
+      "maxGoal": 4500,
+      "income": 8000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775720660/dreams/jbxkhlty1azi18uzekro.webp"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775725415/dreams/xk1sf0dhtxqcqjneiygl.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "No electricity needed. Battery operated.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "The Fuckery",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "This dream is made happen by Discolinski and with people from the Fuckery.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "No safety risks whatsoever.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Pick up walkie-talkie. Put in bag. Done. This is the fastest strike at Borderland. It will be down no later than on the last Friday after the last playnight of the Fuckery.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Very low and only when in active receiving dispatch.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Radically easy to coexist with. It's a little station and a walkie-talkie. It takes up approximately the footprint of a medium-sized houseplant. It disturbs no one except philosophically.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "@mirja here or on Discord.",
+          "value": "Daniel Nilsson: hunternilsson@hotmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Somewhere on Borderland, there is a small station. In it, there is a walkie-talkie.\n\nYou pick it up. You press the button. And then — live, unfiltered, with the particular audio quality of a device designed for construction sites and children's birthday parties — the Fuckery comes to you.\n\nOne walkie-talkie lives inside the Fuckery tent, and can be used by horny people to broadcast horny sounds to the station. The other lives at a small, unassuming station somewhere else entirely on the Borderland grounds. The location is chosen with care. The juxtaposition is the piece.\n\nWhat you hear is entirely dependent on when you pick it up. It might be bass and laughter. It might be sounds of asscheeks being pounded. It might be something that makes you put it down immediately. It might be a very calm person giving what sounds like a instructional talk about something you didn't expect to be learning about while standing where you are. It will always be real. Never curated. The Fuckery doesn't do curation.",
+          "value": "1000W",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "This camp is easy to set up and remove. Strike will be commensed during Saturday.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "**Tired of workshops filled with love & light and endless eye-gazing ?**\n\nWhen was the last time you looked into the abyss?\n\n**Welcome to The Pit.**\n\nSomewhere deep in the forest—and deeper within yourself—we step away from the blinking lights and the blip-blop music. Here, we turn toward what’s usually avoided.\n\nThis is a space for the hidden.  \nThe forbidden.  \nThe feelings you’d rather not touch—but need to.\n\nAt its core, The Pit is about descent… and release.\n\nYou don’t come here to feel good.  \nYou come here to feel _true_.\n\nAnd maybe—only after moving through the mud, the gunk, the mess—you’ll leave lighter. Clearer. Emptier in the right way.\n\nIf you feel comfortable and at home here,  \nyou’re probably doing it wrong.\n\nSo…\n\ncome down.",
           "customField": {
             "name": "Description"
+          }
+        },
+        {
+          "value": "The Shamans",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "We do need up to 2000W for the sound and light system. Also cables that run to the place.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Radical self reliance however there are facilitators on site.",
+          "customField": {
+            "name": "Safety"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "Two walkie-talkies (more expensive = longer range)",
-          "min": 600,
-          "max": 1600,
+          "description": "Sound system",
+          "min": 7500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "limited power cables",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "black plastic stretch film",
+          "min": 1000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Small table or stand for the station w weatherproofing",
-          "min": 100,
-          "max": 200,
+          "description": "power cables",
+          "min": 2000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Potentially one powerbank for the receiving unit",
-          "min": 0,
-          "max": 200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "A neon sign",
-          "min": 200,
-          "max": 500,
+          "description": "lights",
+          "min": 1500,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 8000,
+      "percentageFundedTrue": 177.78
     },
     {
       "id": "cmnv3aq07000v11nf5853fqxa",
@@ -32428,179 +32422,149 @@
       "percentageFundedTrue": 280.23
     },
     {
-      "id": "cmmorp274000tfno8n3jmga5a",
-      "title": "Soup Kitchen",
-      "summary": "Experience papas vegan meat-a-balls & other dishes of hot, delicious food!\nWe have served food since BL 22, and would LOVE to do so again in 26 🤌",
+      "id": "cmnr5nls70009lv5a2ip9dmj7",
+      "title": "Tramsbulans",
+      "summary": "The Tramsbulans is a rolling joy machine - glitter-pimped, electric party cart spreading fun, refreshments, and spontaneous silliness wherever it goes.",
       "status": "FUNDED",
-      "noOfFunders": 161,
-      "noOfComments": 8,
-      "percentageFunded": 356.06,
-      "minGoal": 33000,
-      "maxGoal": 65500,
-      "income": 77500,
+      "noOfFunders": 71,
+      "noOfComments": 0,
+      "percentageFunded": 295.45,
+      "minGoal": 16500,
+      "maxGoal": 30300,
+      "income": 32000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775743232/dreams/hpailkguqm1616ebgmmp.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775719816/dreams/brjdtggtpsuha9cljj83.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "# The Soup Kitchen wants to serve you.\n\nYou might know of us. You have probably heard Papa shouting and offering you his famous **spaghetti and vegan meat‑a‑balls**. Or perhaps we welcomed you with our hot and steamy **Welcome Home Dahling.**\n\n### Since 2022 we’ve served more than 2500 hot, vegan meals during BL.\n\nAs always, we’ll be cooking and serving comforting food during the some of the cold nights.\n\n**The Soup Kitchen is an experience.** We care as much about service, interaction, and atmosphere as we do about the food itself.\n\nEvery service is a performance. Last year, Papa and his sleazy Italian Stallions served their signature polpette al sugo di pomodoro (non‑meat‑a‑balls) while boiling 30 kilos of spaghetti, shouting in Italian, and blasting their favourite canzones.\n\n**We have almost everything that we need to run the soup kitchen. But this year we have a few ideas that require specific equipment. What we need funding for:**\n\n*   Ingredients to serve 900 hungry burners, over the course of 3 nights.\n    \n*   Specific and secret equipment\n    \n*   Additional fridges or rental of fridge trailer\n    \n*   Additional utensils\n    \n*   Upgrades to our washing station\n    \n*   Gas\n    \n*   Transportation",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Our surroundings love us because of the food we serve. We are noisy but charming, and our choice of music is perfectly suited for whatever theme we are serving.  \nWe will be serving the food in our Camp, where there will be plenty of space for people to sit and enjoy their time.  \nAlthough if you are lucky, the soup kitchen might come to you.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Asjula on discord - [ajuullarsen@gmail.com](mailto:ajuullarsen@gmail.com) (please do not write emails to me unless it's about this dream)",
+          "value": "Jonas Johansson\n\nEmail: [jonastelefax@gmail.com](mailto:jonastelefax@gmail.com)  \nNicklas Oscarsson  \nnicklas.oscarsson@gmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Welcome Home, Darling",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "It will be loud, but not outside of the limits of wherever we are placed.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We have all the relevant courses and have a bunch of professionals as part of our camp. We follow the fire regulations",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "We will serve our food in reuseable bowls and will have a team on hand to clean them, so they can be reused for the next group. Our dream will be gone with our camp on sunday.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "We will need all the Power available to all of Borderland. Or at least some of it.",
+          "value": "The Tramsbulans runs on electricity, but we’ll keep our charging needs minimal. Just enough to keep the good vibes rolling.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "If you see yourself serving 300 people in about an hour, all whilst culturally appropriating food from other places then we would love for you to come and join us.\n\nIf you have a dream of cooking a specific meal for all the people of BL, but do not have a proper kitchen setup, then reach out and we can maybe find a time where you can do a pop-up cooking thing. Reach out to Luciano on Luciano@Foschi.dk or on Discord.",
+          "value": "The Tramsbulans is run responsibly with clear crew roles, safe driving, and respect for all. We’ll follow all guidelines for vehicles, keep things well-lit at night.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "### **🚑 TRAMS FOR LIFE – The Silly Ambulance is Coming to Save the Party! 🚑**\n\nThe Tramsbulas was a huge success last year! It was so silly and crazy that we managed to make people laugh wherever we went. This year, we want to take it to a even higher level of tramsiness. Our **mobile emergency response unit for all things silly will have even more seating, lights and sound.** We will go off-track immediately and stay that way all week.\n\n**What does the Silly Ambulance do?**\n\n*   🧃 Delivers life-saving refreshments (boozy and non-boozy) Bring your own highly questionable cup.\n    \n*   💅 Offers on-the-spot makeovers and style upgrades for all that isn't \"tramsy\" enough\n    \n*   🕺 Intervenes in low-energy zones with spontaneous dance breaks, karaoke therapy, and hugs\n    \n*   💖 Brings joy, chaos, and community where it’s needed most! Most Important are the secret surprises we cannot tell you or anyone beforehand. It has to be lived and experienced, whenever and wherever you need it. Or we think you need it.\n    \n    Help us fund and upgrade the Tramsbulans. Vote for trams. Vote for joy. Vote for the weird, wonderful, wacky mobile dream team and machine that will make every corner of the event sparkle just a little bit more.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "### **🤝 Oh yes!🚨✨**\n\nThis is not just our dream, it’s a moving, glowing, bubbling **collaborative silly-fest**, and **you** are invited to co-create the chaos.\n\nThe Tramsbulans thrives on community. You will be invited to act as our **trams nurse**, **make-up medic**, **vibe DJs**, **cup stacker**, **bubble wrangler**, and any type of **joy distributor!**\n\nBored? When you need it the most, you will be able to call us and we will show up and sort out your issue with some... you guessed it right. TRAMS! Because we are HIGH-quality, proffessionals with a proven track record. Very scientific.",
           "customField": {
             "name": "Co-creation"
+          }
+        },
+        {
+          "value": "### **🤝 A Friendly, Floating Dose of Fun 🎈**\n\nThe Tramsbulans is a joyful, respectful presence, a **wandering unit of good vibes** that never aims to disturb or interfere. We’re fully mobile and can easily relocate if needed, always staying in harmony with the flow of the event.\n\nWe exist to uplift and connect, moving gently through the space and bringing playfulness where it’s welcome.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Low-key - we're playing music where it's needed and are always able to move",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "The Tramsbulans rolls in with joy and rolls out with everything it brought. We follow a strict **leave no trace** policy: all gear, decorations, and materials will be taken home with us. The golf cart will be parked at Alversjö.\n\nThis is an approved multi-year-investment. It was bought for 45.000 SEK, funded by membership-loans from camp members. One third (i.e. 15.000 SEK) of the cost was dream-funded in 2025. We ask for the second multi-year-investment payment this year. It would be great if we're able to pay back more of the membership-loans via dream funding already this year and hence, we're asking for 15000-20000. The last payment of this multi-year-investment is planned to 2027 after which the golf cart formally will belong to Alversjö and might find another purpose.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "# **Tramsbulans camp**",
+          "customField": {
+            "name": "This dream belongs to camp:"
           }
         }
       ],
       "tags": [
         {
-          "value": "Experience"
+          "value": "Art vehicle"
         },
         {
-          "value": "Food"
+          "value": "Bar"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Weird shit"
         }
       ],
       "budgetItems": [
         {
-          "description": "Kitchen equipment + setup ",
-          "min": 40000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tents",
+          "description": "Golf cart (1st year of 3)",
           "min": 15000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Utensils",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fire safety equipment ",
+          "description": "Decoration Lights",
           "min": 2500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Container (part of kitchen)",
-          "min": 17000,
+          "description": "Fabric and equipment",
+          "min": 3500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Food for 300 ppl pr night",
-          "min": 15000,
-          "max": 25000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Secret special equipment",
-          "min": 2000,
-          "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Big ass pasta pot with built in strainer",
-          "min": 2000,
-          "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "new gas stove",
-          "min": 1000,
-          "max": 3500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Additional big fridges or fridgetrailer",
-          "min": 2000,
-          "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Gasbottle and gas",
-          "min": 1000,
+          "description": "Sound system",
+          "min": 11000,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Multi-year-investment Golf Cart",
+          "min": 15000,
+          "max": 20000,
           "type": "EXPENSE"
         },
         {
-          "description": "Upgrades to dishwashing station",
-          "min": 1000,
+          "description": "Decoration lights",
+          "min": 0,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Sound system upgrades",
+          "min": 0,
           "max": 3500,
           "type": "EXPENSE"
         },
         {
-          "description": "Utensils",
-          "min": 1000,
-          "max": 1500,
+          "description": "Emergency gear (decorations, refreshments (non-alc), costumes and body paint (gifting)",
+          "min": 0,
+          "max": 2500,
           "type": "EXPENSE"
         },
         {
-          "description": "Transport",
-          "min": 5000,
-          "max": 9000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Storage fee alversjö (split with other dreams)",
-          "min": 3000,
-          "max": 10000,
+          "description": "Maintenance of golf cart",
+          "min": 1500,
+          "max": 1800,
           "type": "EXPENSE"
         }
       ],
-      "funded": 77500,
-      "percentageFundedTrue": 234.85
+      "funded": 32000,
+      "percentageFundedTrue": 193.94
     },
     {
       "id": "cmn3c37ea0005ltdg7tbiyfi0",
@@ -42972,100 +42936,179 @@
       "percentageFundedTrue": 32.26
     },
     {
-      "id": "cmnr91dn1001idmxe6teq1o8o",
-      "title": "The Pit",
-      "summary": "Tired of workshops filled with love & light and endless eye-gazing ?\n\nWhen was the last time you looked into the abyss?",
+      "id": "cmmorp274000tfno8n3jmga5a",
+      "title": "Soup Kitchen",
+      "summary": "Experience papas vegan meat-a-balls & other dishes of hot, delicious food!\nWe have served food since BL 22, and would LOVE to do so again in 26 🤌",
       "status": "FUNDED",
-      "noOfFunders": 49,
-      "noOfComments": 2,
-      "percentageFunded": 277.77,
-      "minGoal": 4500,
-      "maxGoal": 4500,
-      "income": 8000,
+      "noOfFunders": 161,
+      "noOfComments": 8,
+      "percentageFunded": 356.06,
+      "minGoal": 33000,
+      "maxGoal": 65500,
+      "income": 77500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775725415/dreams/xk1sf0dhtxqcqjneiygl.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775743232/dreams/hpailkguqm1616ebgmmp.png"
         }
       ],
       "customFields": [
         {
-          "value": "Daniel Nilsson: hunternilsson@hotmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "1000W",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "This camp is easy to set up and remove. Strike will be commensed during Saturday.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "**Tired of workshops filled with love & light and endless eye-gazing ?**\n\nWhen was the last time you looked into the abyss?\n\n**Welcome to The Pit.**\n\nSomewhere deep in the forest—and deeper within yourself—we step away from the blinking lights and the blip-blop music. Here, we turn toward what’s usually avoided.\n\nThis is a space for the hidden.  \nThe forbidden.  \nThe feelings you’d rather not touch—but need to.\n\nAt its core, The Pit is about descent… and release.\n\nYou don’t come here to feel good.  \nYou come here to feel _true_.\n\nAnd maybe—only after moving through the mud, the gunk, the mess—you’ll leave lighter. Clearer. Emptier in the right way.\n\nIf you feel comfortable and at home here,  \nyou’re probably doing it wrong.\n\nSo…\n\ncome down.",
+          "value": "# The Soup Kitchen wants to serve you.\n\nYou might know of us. You have probably heard Papa shouting and offering you his famous **spaghetti and vegan meat‑a‑balls**. Or perhaps we welcomed you with our hot and steamy **Welcome Home Dahling.**\n\n### Since 2022 we’ve served more than 2500 hot, vegan meals during BL.\n\nAs always, we’ll be cooking and serving comforting food during the some of the cold nights.\n\n**The Soup Kitchen is an experience.** We care as much about service, interaction, and atmosphere as we do about the food itself.\n\nEvery service is a performance. Last year, Papa and his sleazy Italian Stallions served their signature polpette al sugo di pomodoro (non‑meat‑a‑balls) while boiling 30 kilos of spaghetti, shouting in Italian, and blasting their favourite canzones.\n\n**We have almost everything that we need to run the soup kitchen. But this year we have a few ideas that require specific equipment. What we need funding for:**\n\n*   Ingredients to serve 900 hungry burners, over the course of 3 nights.\n    \n*   Specific and secret equipment\n    \n*   Additional fridges or rental of fridge trailer\n    \n*   Additional utensils\n    \n*   Upgrades to our washing station\n    \n*   Gas\n    \n*   Transportation",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "The Shamans",
+          "value": "Our surroundings love us because of the food we serve. We are noisy but charming, and our choice of music is perfectly suited for whatever theme we are serving.  \nWe will be serving the food in our Camp, where there will be plenty of space for people to sit and enjoy their time.  \nAlthough if you are lucky, the soup kitchen might come to you.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Asjula on discord - [ajuullarsen@gmail.com](mailto:ajuullarsen@gmail.com) (please do not write emails to me unless it's about this dream)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Welcome Home, Darling",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "We do need up to 2000W for the sound and light system. Also cables that run to the place.",
+          "value": "It will be loud, but not outside of the limits of wherever we are placed.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We have all the relevant courses and have a bunch of professionals as part of our camp. We follow the fire regulations",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We will serve our food in reuseable bowls and will have a team on hand to clean them, so they can be reused for the next group. Our dream will be gone with our camp on sunday.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "We will need all the Power available to all of Borderland. Or at least some of it.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Radical self reliance however there are facilitators on site.",
+          "value": "If you see yourself serving 300 people in about an hour, all whilst culturally appropriating food from other places then we would love for you to come and join us.\n\nIf you have a dream of cooking a specific meal for all the people of BL, but do not have a proper kitchen setup, then reach out and we can maybe find a time where you can do a pop-up cooking thing. Reach out to Luciano on Luciano@Foschi.dk or on Discord.",
           "customField": {
-            "name": "Safety"
+            "name": "Co-creation"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Food"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Sound system",
-          "min": 7500,
+          "description": "Kitchen equipment + setup ",
+          "min": 40000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "limited power cables",
-          "min": 500,
+          "description": "Tents",
+          "min": 15000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "black plastic stretch film",
+          "description": "Utensils",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fire safety equipment ",
+          "min": 2500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Container (part of kitchen)",
+          "min": 17000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Food for 300 ppl pr night",
+          "min": 15000,
+          "max": 25000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Secret special equipment",
+          "min": 2000,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Big ass pasta pot with built in strainer",
+          "min": 2000,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "new gas stove",
+          "min": 1000,
+          "max": 3500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Additional big fridges or fridgetrailer",
+          "min": 2000,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Gasbottle and gas",
           "min": 1000,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "power cables",
-          "min": 2000,
-          "max": null,
+          "description": "Upgrades to dishwashing station",
+          "min": 1000,
+          "max": 3500,
           "type": "EXPENSE"
         },
         {
-          "description": "lights",
-          "min": 1500,
-          "max": null,
+          "description": "Utensils",
+          "min": 1000,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport",
+          "min": 5000,
+          "max": 9000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Storage fee alversjö (split with other dreams)",
+          "min": 3000,
+          "max": 10000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 8000,
-      "percentageFundedTrue": 177.78
+      "funded": 77500,
+      "percentageFundedTrue": 234.85
     },
     {
       "id": "cmnskxj74000odpoe0lvdh7yh",
@@ -73042,149 +73085,106 @@
       "percentageFundedTrue": 382.68
     },
     {
-      "id": "cmnr5nls70009lv5a2ip9dmj7",
-      "title": "Tramsbulans",
-      "summary": "The Tramsbulans is a rolling joy machine - glitter-pimped, electric party cart spreading fun, refreshments, and spontaneous silliness wherever it goes.",
+      "id": "cmnr5wrdu000fzwg1ke8s6c93",
+      "title": "Dispatches from the Fuckery — A Walkie-Talkie Installation by the Fuckery",
+      "summary": "Live broadcasts of horny sounds from the Fuckery's playnights.",
       "status": "FUNDED",
-      "noOfFunders": 71,
-      "noOfComments": 0,
-      "percentageFunded": 295.45,
-      "minGoal": 16500,
-      "maxGoal": 30300,
-      "income": 32000,
+      "noOfFunders": 12,
+      "noOfComments": 5,
+      "percentageFunded": 100,
+      "minGoal": 900,
+      "maxGoal": 2500,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775719816/dreams/brjdtggtpsuha9cljj83.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775720660/dreams/jbxkhlty1azi18uzekro.webp"
         }
       ],
       "customFields": [
         {
-          "value": "Jonas Johansson\n\nEmail: jonastelefax@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "The Tramsbulans runs on electricity, but we’ll keep our charging needs minimal. Just enough to keep the good vibes rolling.",
+          "value": "No electricity needed. Battery operated.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "The Tramsbulans is run responsibly with clear crew roles, safe driving, and respect for all. We’ll follow all guidelines for vehicles, keep things well-lit at night.",
+          "value": "The Fuckery",
           "customField": {
-            "name": "Safety"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "### **🚑 TRAMS FOR LIFE – The Silly Ambulance is Coming to Save the Party! 🚑**\n\nThe Tramsbulas was a huge success last year! It was so silly and crazy that we managed to make people laugh wherever we went. This year, we want to take it to a even higher level of tramsiness. Our **mobile emergency response unit for all things silly will have even more seating, lights and sound.** We will go off-track immediately and stay that way all week.\n\n**What does the Silly Ambulance do?**\n\n*   🧃 Delivers life-saving refreshments (boozy and non-boozy) Bring your own highly questionable cup.\n    \n*   💅 Offers on-the-spot makeovers and style upgrades for all that isn't \"tramsy\" enough\n    \n*   🕺 Intervenes in low-energy zones with spontaneous dance breaks, karaoke therapy, and hugs\n    \n*   💖 Brings joy, chaos, and community where it’s needed most! Most Important are the secret surprises we cannot tell you or anyone beforehand. It has to be lived and experienced, whenever and wherever you need it. Or we think you need it.\n    \n    Help us fund and upgrade the Tramsbulans. Vote for trams. Vote for joy. Vote for the weird, wonderful, wacky mobile dream team and machine that will make every corner of the event sparkle just a little bit more.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "### **🤝 Oh yes!🚨✨**\n\nThis is not just our dream, it’s a moving, glowing, bubbling **collaborative silly-fest**, and **you** are invited to co-create the chaos.\n\nThe Tramsbulans thrives on community. You will be invited to act as our **trams nurse**, **make-up medic**, **vibe DJs**, **cup stacker**, **bubble wrangler**, and any type of **joy distributor!**\n\nBored? When you need it the most, you will be able to call us and we will show up and sort out your issue with some... you guessed it right. TRAMS! Because we are HIGH-quality, proffessionals with a proven track record. Very scientific.",
+          "value": "This dream is made happen by Discolinski and with people from the Fuckery.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "### **🤝 A Friendly, Floating Dose of Fun 🎈**\n\nThe Tramsbulans is a joyful, respectful presence, a **wandering unit of good vibes** that never aims to disturb or interfere. We’re fully mobile and can easily relocate if needed, always staying in harmony with the flow of the event.\n\nWe exist to uplift and connect, moving gently through the space and bringing playfulness where it’s welcome.",
+          "value": "No safety risks whatsoever.",
           "customField": {
-            "name": "Co-existence"
+            "name": "Safety"
           }
         },
         {
-          "value": "Low-key - we're playing music where it's needed and are always able to move",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The Tramsbulans rolls in with joy and rolls out with everything it brought. We follow a strict **leave no trace** policy: all gear, decorations, and materials will be taken home with us. The golf cart will be parked at Alversjö.\n\nThis is an approved multi-year-investment. It was bought for 45.000 SEK, funded by membership-loans from camp members. One third (i.e. 15.000 SEK) of the cost was dream-funded in 2025. We ask for the second multi-year-investment payment this year. It would be great if we're able to pay back more of the membership-loans via dream funding already this year and hence, we're asking for 15000-20000. The last payment of this multi-year-investment is planned to 2027 after which the golf cart formally will belong to Alversjö and might find another purpose.",
+          "value": "Pick up walkie-talkie. Put in bag. Done. This is the fastest strike at Borderland. It will be down no later than on the last Friday after the last playnight of the Fuckery.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "# **Tramsbulans camp**",
+          "value": "Very low and only when in active receiving dispatch.",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Radically easy to coexist with. It's a little station and a walkie-talkie. It takes up approximately the footprint of a medium-sized houseplant. It disturbs no one except philosophically.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "@mirja here or on Discord.",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Somewhere on Borderland, there is a small station. In it, there is a walkie-talkie.\n\nYou pick it up. You press the button. And then — live, unfiltered, with the particular audio quality of a device designed for construction sites and children's birthday parties — the Fuckery comes to you.\n\nOne walkie-talkie lives inside the Fuckery tent, and can be used by horny people to broadcast horny sounds to the station. The other lives at a small, unassuming station somewhere else entirely on the Borderland grounds. The location is chosen with care. The juxtaposition is the piece.\n\nWhat you hear is entirely dependent on when you pick it up. It might be bass and laughter. It might be sounds of asscheeks being pounded. It might be something that makes you put it down immediately. It might be a very calm person giving what sounds like a instructional talk about something you didn't expect to be learning about while standing where you are. It will always be real. Never curated. The Fuckery doesn't do curation.",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Art vehicle"
-        },
-        {
-          "value": "Bar"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Weird shit"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Golf cart (1st year of 3)",
-          "min": 15000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Decoration Lights",
-          "min": 2500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fabric and equipment",
-          "min": 3500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Sound system",
-          "min": 11000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Multi-year-investment Golf Cart",
-          "min": 15000,
-          "max": 20000,
+          "description": "Two walkie-talkies (more expensive = longer range)",
+          "min": 600,
+          "max": 1600,
           "type": "EXPENSE"
         },
         {
-          "description": "Decoration lights",
+          "description": "Small table or stand for the station w weatherproofing",
+          "min": 100,
+          "max": 200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Potentially one powerbank for the receiving unit",
           "min": 0,
-          "max": 2500,
+          "max": 200,
           "type": "EXPENSE"
         },
         {
-          "description": "Sound system upgrades",
-          "min": 0,
-          "max": 3500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Emergency gear (decorations, refreshments (non-alc), costumes and body paint (gifting)",
-          "min": 0,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Maintenance of golf cart",
-          "min": 1500,
-          "max": 1800,
+          "description": "A neon sign",
+          "min": 200,
+          "max": 500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 32000,
-      "percentageFundedTrue": 193.94
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnw7rhb9004d46z8wwtuc9na",
