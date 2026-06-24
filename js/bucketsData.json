@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1781778013431,
+  "updatedAt": 1782293307678,
   "buckets": [
     {
       "id": "cmnvtz2rn0014x5n9849mksy5",
@@ -29226,132 +29226,107 @@
       "percentageFundedTrue": 55.77
     },
     {
-      "id": "cmnu0hl8g000334i9629q6ys6",
-      "title": "Gossip Gazette",
-      "summary": "Novel newspaper Gossip Gazette will keep you up-to-date with occasional deliveries of the latest news, rumours and hearsay right to your camp’s brunch table!",
+      "id": "cmnu7z165000za5hp80zzugp3",
+      "title": "The Blackwater Proxy Division, Borderland",
+      "summary": "Cultural influence through deniable agents & proxy-camps, and control of essential infrastructure",
       "status": "FUNDED",
-      "noOfFunders": 58,
-      "noOfComments": 1,
-      "percentageFunded": 100,
-      "minGoal": 9000,
-      "maxGoal": 10000,
+      "noOfFunders": 18,
+      "noOfComments": 0,
+      "percentageFunded": 114.16,
+      "minGoal": 1200,
+      "maxGoal": 7800,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775893866/dreams/brr0vnkbligoh2dh32cw.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906665/dreams/sfjro8ndi5pylj5hpvi4.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906689/dreams/bfcsvre3hlmam8nji6ij.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906697/dreams/anyplruewziry0ckkiox.webp"
         }
       ],
       "customFields": [
         {
-          "value": "the clicking sounds of quick fingers typing on a keyboard",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The printing press does not run exclusively on the sweat of our volunteers. We need some juice to operate a printer.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Printer and office supplies will be brought back with us.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Philippe. [gossipgazettebl@gmail.com](mailto:gossipgazettebl@gmail.com)",
+          "value": "The Blackwater Congressional Funding Committe",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "We´ll preferably set up our HQ somewhere in the barn. And you will of course meet our reporters in the field!",
+          "value": "The Blackwater Proxy Division will, by nature, heavily influence Borderland - but in ways that are unnoticeable.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "The Gossip Gazette is The Borderland´s very own newspaper.\n\nExpect relentless reporters revealing incendiary investigations, cunning critiques, frivolous fashion, cryptic crosswords, phony polls, false advertising and most importantly: the juiciest gossip available. High editorial standards include but are not limited to: consent, co-creation and complete confusion.",
+          "value": "0 db",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Safety will be a factor in decision making, but potential political gains will take priority.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Quietly and effectively.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Our power consumption is included in other dreams and camps.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "The BPD is a decentralized system for shaping culture at Borderland through embedded, deniable assets. Instead of direct control, it builds networks of individuals, camps, and **essential services** that appear independent but influence how Borderland functions to produce outcomes aligned with Blackwater's political and strategic goals.\n\n**Proxy Individuals** operate as participants—artists, organizers, or connectors—who naturally steer conversations, collaborations, and decisions.\n\n**Proxy Camps** act as cultural hubs. For example, a well-placed sound camp with reliable power becomes a nightly gathering point, setting music trends and social norms. A service camp offering shade, food, or workshops attracts key networks and information.\n\n**Proxy Realities** focus on infrastructure control:  \nWho gets prime placement near high traffic areas, which camps have stable power, where toilets are located, and how logistics flow. A camp with power and nearby sanitation thrives; one without quietly disappears. By shaping these conditions, the Division influences where people go, who succeeds, and what becomes culturally central.\n\nThe result is indirect but reliable control: behavior follows what is accessible, functional, and attractive.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Yes! Anyone is welcome to contribute with content, particularly even before the Borderland starts.\n\nHere´s a few suggestions: opinion pieces and critiques, dating profiles and match making, horoscopes, real or fake advertisements for workshops and happenings (where is the G-spot this year?), interviews and polls, crosswords and puzzles, comic strips, whatever you can dream up really.\n\nDo inform us in good time if you wish to co-create so we can reserve some space in the layouts. While we will of course appreciate anything that you send in, we cannot promise to include everything, particularly if it comes in very spontaneously during the week.\n\nContact your spin-doctors in chief Wanda and Philippe for collaboration: [gossipgazettebl@gmail.com](mailto:gossipgazettebl@gmail.com).",
+          "value": "\\>CLASSIFIED<",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Our high editorial standards include consent, co-creation and complete confusion. Accuracy and fact-checking 3rd.",
+          "value": "Blackwater Operations",
           "customField": {
-            "name": "Safety"
+            "name": "This dream belongs to camp:"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Looking for content"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Weird shit"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Printer + toner",
-          "min": 3500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Paper",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "pin board",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "office supplies (pens, sticky notes, highlighters, staplers etc)",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "press badges",
+          "description": "Tent rental",
           "min": 500,
-          "max": null,
+          "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "tiny camera",
+          "description": "Tables and chairs",
+          "min": 500,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Deco & accessories for undercover agents:",
           "min": 0,
-          "max": 500,
+          "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "voice recorder",
-          "min": 0,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "transport ",
-          "min": 2000,
-          "max": null,
+          "description": "Transportation ",
+          "min": 200,
+          "max": 1800,
           "type": "EXPENSE"
         }
       ],
@@ -45970,107 +45945,132 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnu7z165000za5hp80zzugp3",
-      "title": "The Blackwater Proxy Division, Borderland",
-      "summary": "Cultural influence through deniable agents & proxy-camps, and control of essential infrastructure",
+      "id": "cmnu0hl8g000334i9629q6ys6",
+      "title": "Gossip Gazette",
+      "summary": "Novel newspaper Gossip Gazette will keep you up-to-date with occasional deliveries of the latest news, rumours and hearsay right to your camp’s brunch table!",
       "status": "FUNDED",
-      "noOfFunders": 18,
-      "noOfComments": 0,
-      "percentageFunded": 114.16,
-      "minGoal": 1200,
-      "maxGoal": 7800,
+      "noOfFunders": 58,
+      "noOfComments": 1,
+      "percentageFunded": 100,
+      "minGoal": 9000,
+      "maxGoal": 10000,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906665/dreams/sfjro8ndi5pylj5hpvi4.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906689/dreams/bfcsvre3hlmam8nji6ij.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906697/dreams/anyplruewziry0ckkiox.webp"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775893866/dreams/brr0vnkbligoh2dh32cw.png"
         }
       ],
       "customFields": [
         {
-          "value": "The Blackwater Congressional Funding Committe",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "The Blackwater Proxy Division will, by nature, heavily influence Borderland - but in ways that are unnoticeable.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "0 db",
+          "value": "the clicking sounds of quick fingers typing on a keyboard",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Safety will be a factor in decision making, but potential political gains will take priority.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Quietly and effectively.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Our power consumption is included in other dreams and camps.",
+          "value": "The printing press does not run exclusively on the sweat of our volunteers. We need some juice to operate a printer.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "The BPD is a decentralized system for shaping culture at Borderland through embedded, deniable assets. Instead of direct control, it builds networks of individuals, camps, and **essential services** that appear independent but influence how Borderland functions to produce outcomes aligned with Blackwater's political and strategic goals.\n\n**Proxy Individuals** operate as participants—artists, organizers, or connectors—who naturally steer conversations, collaborations, and decisions.\n\n**Proxy Camps** act as cultural hubs. For example, a well-placed sound camp with reliable power becomes a nightly gathering point, setting music trends and social norms. A service camp offering shade, food, or workshops attracts key networks and information.\n\n**Proxy Realities** focus on infrastructure control:  \nWho gets prime placement near high traffic areas, which camps have stable power, where toilets are located, and how logistics flow. A camp with power and nearby sanitation thrives; one without quietly disappears. By shaping these conditions, the Division influences where people go, who succeeds, and what becomes culturally central.\n\nThe result is indirect but reliable control: behavior follows what is accessible, functional, and attractive.",
+          "value": "Printer and office supplies will be brought back with us.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Philippe. [gossipgazettebl@gmail.com](mailto:gossipgazettebl@gmail.com)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We´ll preferably set up our HQ somewhere in the barn. And you will of course meet our reporters in the field!",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "The Gossip Gazette is The Borderland´s very own newspaper.\n\nExpect relentless reporters revealing incendiary investigations, cunning critiques, frivolous fashion, cryptic crosswords, phony polls, false advertising and most importantly: the juiciest gossip available. High editorial standards include but are not limited to: consent, co-creation and complete confusion.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "\\>CLASSIFIED<",
+          "value": "Yes! Anyone is welcome to contribute with content, particularly even before the Borderland starts.\n\nHere´s a few suggestions: opinion pieces and critiques, dating profiles and match making, horoscopes, real or fake advertisements for workshops and happenings (where is the G-spot this year?), interviews and polls, crosswords and puzzles, comic strips, whatever you can dream up really.\n\nDo inform us in good time if you wish to co-create so we can reserve some space in the layouts. While we will of course appreciate anything that you send in, we cannot promise to include everything, particularly if it comes in very spontaneously during the week.\n\nContact your spin-doctors in chief Wanda and Philippe for collaboration: [gossipgazettebl@gmail.com](mailto:gossipgazettebl@gmail.com).",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Blackwater Operations",
+          "value": "Our high editorial standards include consent, co-creation and complete confusion. Accuracy and fact-checking 3rd.",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Safety"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Looking for content"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Weird shit"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Tent rental",
-          "min": 500,
-          "max": 1500,
+          "description": "Printer + toner",
+          "min": 3500,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Tables and chairs",
-          "min": 500,
-          "max": 1500,
+          "description": "Paper",
+          "min": 1000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Deco & accessories for undercover agents:",
+          "description": "pin board",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "office supplies (pens, sticky notes, highlighters, staplers etc)",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "press badges",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "tiny camera",
           "min": 0,
-          "max": 3000,
+          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "Transportation ",
-          "min": 200,
-          "max": 1800,
+          "description": "voice recorder",
+          "min": 0,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "transport ",
+          "min": 2000,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
