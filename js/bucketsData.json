@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782465936521,
+  "updatedAt": 1782549317496,
   "buckets": [
     {
       "id": "cmnvtz2rn0014x5n9849mksy5",
@@ -2371,167 +2371,164 @@
       "percentageFundedTrue": 645.45
     },
     {
-      "id": "cmnsuncni0018yvy554cqm7of",
-      "title": "Fancy pop-up restaurant",
-      "summary": "A culinary experience in the forest.\nCrème de la crème for the crème de la crème (who are lucky enough to be found by one of our waiters or stumble upon us).",
+      "id": "cmnsyvf5j00177o6batqgnv6d",
+      "title": "Floating swing",
+      "summary": "Might make you forget about time and gravity…",
       "status": "FUNDED",
-      "noOfFunders": 17,
+      "noOfFunders": 60,
       "noOfComments": 3,
-      "percentageFunded": 743.08,
-      "minGoal": 1200,
-      "maxGoal": 3300,
-      "income": 7197,
+      "percentageFunded": 190.99,
+      "minGoal": 10849,
+      "maxGoal": 15339,
+      "income": 9872,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775822624/dreams/x8mrxn15mlbor7gcpyom.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775836968/dreams/uxcmdgcpkwrrybcxpumg.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775836979/dreams/pcaemghqzoa5dywqnsnp.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775836995/dreams/cfnkapbdncluhzxxyfns.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Feromonia",
+          "value": "Free camp",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "burning\\_morran on Discord.",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "People might gasp and moan loudly while eating. Other than that there might be some live music, acoustic in that case.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We’ll make sure ingredients are stored in a proper manner during the burn. We will ask potential guests for allergies and food preferences before inviting them to the table.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "You're on your way somewhere, eager to miss out on whatever someone else is enjoying. And suddenly, out of nowhere, a waiter shows up. They invite you deeper into the forest where you stumble upon a neatly set table for two. Candles are lit. Perhaps there’s someone playing live music, just for you. It’s time for dinner (or, well, some amuse-bouche sized dishes for you to experience – meaning: this is for the curious, not the hungry).\n\nWe’re going to set up a fancy pop up restaurant where guests get to experience tiny flavor explosions. These little spoons will make your brain explode, and your whole body crave more of those textures and flavors making sweet, sweet love inside your mouth.\n\nVegetarian menu.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "The table, chairs and storage boxes will be removed and brought back home, at the latest, on Sunday during strike. We'll make sure to not leave a mess during the burn as well. This place will look neat even for those who happen to pass by during the week even when we're not open.",
+          "value": "Flying back! (I wish!)\n\nEverything goes back with me",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "We will cook and store at camp. I don't think it'll affect the camps usage of the grid very much since it's only a few ingredients that needs cooking.",
+          "value": "Designed by me (Anouck) and I have help from Romain to Build it\n\nContact : anouckoa@gmail.com",
           "customField": {
-            "name": "Electricity"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "We're not actively looking to co-create, but if someone has a great idea of how to co-create we'd love to hear them out. <3 Wanna play some acoustic music for a tiny audience, for example?",
+          "value": "It take some Space! … 6.2metres large, hight is 4m\n\nFor its quiet so it can co-exist with art car, barrio…\n\nIt’s my first time in borderland, so i dont know the topography of the place…\n\nIf you have an idea of the placement, please let me know! :)",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "If someone is inspired to do light display on the wings, that could be amazing!!!!\n\nHappy to have live musicien to make people travel even further!",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "We're planning on setting up the table somewhere in the woods where it doesn't interfere with other stuff, or other stuff is not interfering with the experience. We will follow the placement process and make sure we choose a spot which is okay to use, we're aware that most of the forest is a nature reserve (right now the link to the map in the about section for dreams specifically regarding where one can place dreams in the forest, isn't functioning).",
+          "value": "The base is made with heavy steal (40x40x4mm)\n\nExtra U shape ground stake\n\nIf to much wind, easy remouvale of the fabric\n\nThe wings go down at max 2,2m",
           "customField": {
-            "name": "Co-existence"
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "No sound or low sound (small speaker or open to live musicien)",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "According to the budget, LED Lightning is an option for beautiful effect at night time… could be with power or batterie",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Somewhere between a playground and a daydream, this kinetic sculpture invites you to sit, sway… and maybe forget gravity for a while.\n\nDesigned for 1 to 3 people,  the piece takes the familiar language of a swing and teaches it to grow wings.\n\nAbove, vast translucent sails—part butterfly/part underwater creatures/part cosmos dancer—stretch nearly three meters wide, catching light like a whisper of dusk. Their burgundy organza shimmers with violet reflections, as if the sky itself had decided to rest for a moment.\n\nThe structure, grounded in a black metal frame, stands steady and quiet—like a stage waiting for movement.\n\nFrom it, hangs a generous hammock, a shared nest where strangers become companions, and companions become co-pilots. Because this is not just a seat: it’s a collective flight.\n\nWith every motion of the hammock, the bamboo ribs awaken the wings. They do not flap—they breathe. Slow, wide, almost alive. The sculpture listens to the rhythm of its passengers and answers in kind, turning simple play into a choreography of air and balance.\n\nAt nearly four meters tall, it is both an object and an invitation:  \nto gather, to drift, to laugh, to relax and dream\n\nCaution: This is not just a swing, this might be a hippie trap!",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [
         {
-          "value": "Experience"
+          "value": "Art installation"
         },
         {
-          "value": "Food"
+          "value": "Chillout"
+        },
+        {
+          "value": "Hippie trap"
         }
       ],
       "budgetItems": [
         {
-          "description": "Wooden table",
-          "min": 1000,
+          "description": "Steal for structure ",
+          "min": 4665,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Odd ingredients already purchased",
-          "min": 300,
+          "description": "Special metal piece (laser cut) ",
+          "min": 2495,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Chandelier",
-          "min": 600,
+          "description": "Bamboo stick 14x3m (plus extra)",
+          "min": 2712,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Silverware for serving",
-          "min": 200,
+          "description": "Steal (for the base)",
+          "min": 2822,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Containers for storage",
-          "min": 200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Compressor cooler for storage",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Cooking equipment",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Food thermos for warmkeeping",
-          "min": 300,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Foldable chairs",
-          "min": 597,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Ingredients",
-          "min": 1200,
-          "max": 1600,
           "type": "EXPENSE"
         },
         {
-          "description": "Paper napkins",
-          "min": 0,
-          "max": 200,
+          "description": "Bolt / nut ",
+          "min": 325,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Extra food thermos for warmkeeping",
-          "min": 0,
-          "max": 500,
+          "description": "Organza (wings)",
+          "min": 1790,
+          "max": 2210,
           "type": "EXPENSE"
         },
         {
-          "description": "Lights and deco",
+          "description": "Sewing furniture",
+          "min": 100,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "U shape steel anchor stakes",
+          "min": 434,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "LED ",
           "min": 0,
-          "max": 1000,
+          "max": 3470,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport (1/3 of 11935)",
+          "min": 3978,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Heavy fabric for hammoc",
+          "min": 1400,
+          "max": 2000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 7197,
-      "percentageFundedTrue": 599.75
+      "funded": 9872,
+      "percentageFundedTrue": 90.99
     },
     {
       "id": "cmnuez2v7002nvvpmrt8q4pf1",
@@ -9837,185 +9834,118 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnsutag4000959mfyjbkhuvv",
-      "title": "Touch Divine: Rituals",
-      "summary": "A space for magic play, pleasurable experiments, sexy rehearsals, rituals, and performances. ",
+      "id": "cmnt1bzhr000rz5mgaovo1wdp",
+      "title": "Borrow and Become ",
+      "summary": "Borrow and Become: a vibrant dressing room with mirrors, styling and endless ways to become.",
       "status": "FUNDED",
-      "noOfFunders": 76,
-      "noOfComments": 0,
-      "percentageFunded": 211.88,
-      "minGoal": 14300,
-      "maxGoal": 25700,
-      "income": 16000,
+      "noOfFunders": 52,
+      "noOfComments": 5,
+      "percentageFunded": 549.36,
+      "minGoal": 6900,
+      "maxGoal": 14500,
+      "income": 30000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775992571/dreams/n8nv909dalhn7oiis7xm.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775991859/dreams/l5ttwlmtlvjsfgz89dau.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775991848/dreams/gpibcvd0gstea8bkwrrl.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775991833/dreams/bpxnykeidpnqxjlfmfmm.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775991867/dreams/dzllc8n2i0yc3sbhabpb.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775991878/dreams/xrky0afycgvcd9b4oiqr.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776267296/dreams/g4w6vsbxys07fasm2xwp.png"
         }
       ],
       "customFields": [
         {
-          "value": "Go beyond your wildest dreams!\n\nRituals, ceremonies, performances and workshops. Things you can feel, expand and flow with.\n\nTouch Divine is back with an amazing 60 m2 decorated tent with soft floor going down on you and carrying you up, my wonderful Borderling!\n\nWe loved how this venue turned out last year with morning massages, contact improvisation & live music jam, sensuous workshops and so on. Now we want to take a step further, to be bolder and more curious.\n\nThis year we introduce to you: Touch Divine: Rituals — a deeper dive into the space of interconnection and magic.\n\nHow about combining art with massage, dancing with crying, performance with resting (or wrestling!). It's gonna be co-created, so we don't know yet what will come, but we know it will be amazing. And hey, let's dance! We want to throw an opening ceremony&party at the Cuddly Cove with live music performances, cuddles and wildness.\n\nReady to start experimenting, go beyond identities and make rituals no one has ever tried before? Come and join us!\n\nWe are:\n\nAapo (performance artist, tantra instructor and artpedagog), Omi-peah (experience designer, artist and priestess), and River (nervous system coach, artist and performer).",
+          "value": "we arrive lightly and leave no trace only a little more beauty than we found.",
           "customField": {
-            "name": "Description"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "Touch Divine Camp",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Aapo Korkeaoja, [aapo.korkeaoja@gmail.com](mailto:aapo.korkeaoja@gmail.com)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "We are day-timers, night-time low sound levels, day-time also moderate.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Safety is our thing. We believe, that the more safe you are, the higher you fly. So, this is utterly important for us.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Touch Divine rituals, ceremonies, sessions and workshops will be co-created with Borderlings and Touch Divine camp.\n\nYou are also welcome to propose and create your dream ceremony, ritual or meditations with us. We have a great tent that can fit around 50 persons with a soft floor and a sound system. The program will be open to all beloveds!\n\nWant to join the camp? We invite you to be part of this magical dream and to join our small and cozy camp ([join here!](https://docs.google.com/forms/d/e/1FAIpQLSeVWgef9C0V1_YotEZuC7ih-Qstyfwz2ddMOGUqk3i0dfNzZA/viewform)).",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "We have awesome relationships with our neighbors since last year. This year we are planning to create The Cuddle Cove Plaza with our neighboring camps, so come and join us here!",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We need enough for a sound system and lights. Max. 1x16A",
+          "value": "yes for the camp but not extra for our dream",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "We will clean the area, no question about it.",
+          "value": "Borrow and Become is a living dressing room and transformation space.\n\nStep into a warm, glowing environment of mirrors, music and curated pieces. Here, you can borrow, try, play and become someone else, or more of yourself. It’s not about fashion, but about expression, identity and letting go of who you think you should be.\n\nPass something on and discover something new. Bring a piece you no longer wear, and leave with something you love. Refresh your wardrobe through a simple exchange, one piece in, one piece out.\n\nSome pieces travel and return, others continue with a new owner.\n\nThe space remains active and evolving. New pieces are continuously added, while others find new owners. The result is a shared wardrobe shaped entirely by the beautiful souls participating in it.\n\nThe space invites curiosity and connection. You might arrive as yourself and leave as something entirely different, or simply more free.\n\nSoft guidance, intuitive styling and a welcoming atmosphere make it easy to step in, explore and transform, at your own pace.",
           "customField": {
-            "name": "Strike plan"
+            "name": "Description"
+          }
+        },
+        {
+          "value": "[Futurepreben@gmail.com](mailto:Futurepreben@gmail.com)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Borrow and Become",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Anyone who wishes is welcome to contribute clothing to our wardrobe by sharing their beautiful pieces. We invite everyone to leave one piece and borrow one, a wardrobe in constant movement",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Our intention is to create ba warm, respectful and inspiring space. We believe our presence will bring a sense of beauty, creativity and connection. We are mindful to ensure our neighbours feel included, respected and ideally uplifted by what we create.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Safety is our quiet superpower, thoughtfully held, gently felt and always present.",
+          "customField": {
+            "name": "Safety"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Healing"
-        },
-        {
-          "value": "Meditation"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Sex positive"
-        },
-        {
-          "value": "Venue"
-        },
-        {
-          "value": "Workshop space"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Decorations",
-          "min": 1500,
+          "description": "What we bring  We bring a substantial part of the experience ourselves, including a large selection of our own clothing and accessories, makeup and styling tools, as well as mirrors, lighting and furniture. We also provide the sound system and core setup for the space.  This contribution forms the foundation, with the budget used to expand and elevate the shared wardrobe and atmosphere.",
+          "min": 30000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Lamps, cables",
-          "min": 4000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Sound system",
-          "min": 2500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Soft tatami floor",
-          "min": 8000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tent & tables rental",
-          "min": 1500,
-          "max": null,
+          "description": "Vintage Wardrobe (second hand) Core outfits, accessories and transformative pieces",
+          "min": 3500,
+          "max": 7000,
           "type": "EXPENSE"
         },
         {
-          "description": "Cushions and cushion covers",
-          "min": 1000,
-          "max": 2500,
+          "description": "Atmosphere & Textures (second hand) Rugs, mirrors, fabrics and soft lighting to shape the space ",
+          "min": 1500,
+          "max": 3500,
           "type": "EXPENSE"
         },
         {
-          "description": "Mattresses/ Hamami towels",
+          "description": "Furniture (borrowed/second hand) Simple seating and small tables for rest and presence ",
           "min": 800,
-          "max": 2700,
+          "max": 1800,
           "type": "EXPENSE"
         },
         {
-          "description": "Practical stuff (Tarps, tables, extension cabels, etc)",
-          "min": 300,
-          "max": 1500,
+          "description": "Tools & Fixings Hangers, styling materials and setup essentials ",
+          "min": 400,
+          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "Decorations",
-          "min": 1500,
-          "max": 2500,
+          "description": "Make up",
+          "min": 200,
+          "max": 700,
           "type": "EXPENSE"
         },
         {
-          "description": "Yoga mats",
-          "min": 7000,
-          "max": 11000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transportation",
-          "min": 2200,
-          "max": 4000,
+          "description": "Light snacks and care items",
+          "min": 500,
+          "max": 1000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 16000,
-      "percentageFundedTrue": 111.89
+      "funded": 30000,
+      "percentageFundedTrue": 434.78
     },
     {
       "id": "cmnw32ted000covjvtsv57pf1",
@@ -18895,89 +18825,186 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnoog70x000oxnzn81i1es59",
-      "title": "PORTal's Oracle cards of the principles",
-      "summary": "Which one of the 10+1 principles will be leading you through Borderland this year? hard to know beforehand but not if you have your cards read at the PORTal",
+      "id": "cmnujjaxb0000xg1my64qkzb6",
+      "title": "Sheltered Tea-Lounge connected to the Sauna- protected from rain, better seats & drinks(Magic Banya)",
+      "summary": "Last year’s tea lounge success returns to support F33 Magic Banya: a cozy space to land, rest & connect. Upgraded for safety, weather and comfort for 40 guests.",
       "status": "FUNDED",
-      "noOfFunders": 15,
-      "noOfComments": 4,
-      "percentageFunded": 100,
-      "minGoal": 1529,
-      "maxGoal": 1538,
+      "noOfFunders": 44,
+      "noOfComments": 2,
+      "percentageFunded": 109.2,
+      "minGoal": 4725,
+      "maxGoal": 49500,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776525825/dreams/dpqi7lqa8j9bep8tf583.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775945567/dreams/j2q3bncmukci8l4e1gkk.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775945557/dreams/q6a9iv9tniffosjjetfr.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775945581/dreams/gbirvwbkz2rafgjtig4i.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775945592/dreams/gmits6dtqprtqmqdtula.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591633/dreams/wbf5qtxzw73hu2yddzj1.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591513/dreams/sugwrssgn0feammdbs4a.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591522/dreams/niyoy20taffvdffdkuw1.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591533/dreams/jiqizfqybcbpjthynmbk.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591541/dreams/qyec4jczuhwutfbyvumu.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591653/dreams/wzeurcvxk7vdolqmpuna.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591749/dreams/kjnd0kyob2d2crr7uejc.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "The reality PORTal",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "We'll put them in a box and keep them for next year",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "To teach the principles and to transition into the Borderland world you will get an oportunity to have your cards read by our lovely greeters at the PORTal\n\nDo you wonder what the week ahead will teach you? Are you seeking to embody our principles fully? Draw a card and explore what the PORTacle has to tell you.\n\nListen carefully, your fate is written in the bubbles\"\n\nThe deck will contain cards inspired by the 10+1 principles and give you an opportunity to reflect and be guided to the coming week.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "If you want to create artwork for some or all cards, please contact us. If you want to be a greeter and read with the cards then please sign up for a shift as a greeter at the REA platform",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "The cards will hang out at the PORTal",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "The cards dont scream in decibles, only in truth",
+          "value": "We bring very little sound (chimes/gong) but may collaborate with calm performers.\n\nWe prefer a natural ambient sound environment. The lounge supports **nervous system regulation and integration**.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We'll make sure to have band aids if someone gets a paper cut",
+          "value": "The tea lounge is built collectively by the Magic Banya Mist Behavior people.\n\n*   Decoration and atmosphere shaped in collaboration\n    \n*   Shared responsibility for holding the space\n    \n\nJust as last year, we are connecting with other projects on added offerings in the tea lounge (electrolytes, massages, calm performances, guided meditations)",
           "customField": {
-            "name": "Safety"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "nope",
+          "value": "**Fridge for cold refreshments (>800W)**, **icemaker (>600W)**, **two large hot water kettles (appr6–12L, 2000-2500W each). Lights on batteries**",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Johanna Wahlström",
+          "value": "This year, we are in active dialogue with other sauna camps to co-create a shared neighbourhood atmosphere and are collectively trying to enhance the swimming pier area.\n\nWe coexisted well with nearby sound camps with padding last year. We explored collaboration with a massage camp, but space limitations made this not so feasible.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "## **Why the Tea Lounge Matters**\n\nThe banya does not end when guests leave the steam. People often come out overwhelmed and need to sit down, have a beverage and connect.\n\nThe tea lounge creates the bridge between intensity and rest, allowing the experience to settle in the body.\n\nWe successfully hosted a tea lounge last year, and it became a central part of the experience. However, the setup relied heavily on good weather and minimal infrastructure. We were fortunate that conditions held.\n\nThis year, we are seeking funding to **upgrade the lounge into a fully reliable and high-quality space**:\n\n*   Weatherproof and protected from rain and wind\n    \n*   Comfortable, with proper seating and leveled ground\n    \n*   Safer, with improved structures and equipment\n    \n*   Scalable, able to serve and support all **~40 participants per banya session**\n    \n\n## **Two Lounge Vision**\n\nWe aim to build **two distinct lounges**:\n\n*   A **pre-banya arrival space**,\n    \n*   A **post-banya integration space**\n    \n\nDepending on funding, these may be combined into **one larger, multi-functional lounge** without compromising the core intention.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "*   Full strike on Sunday, with the final people leaving on Monday\n    \n*   All materials removed and packed down\n    \n*   Storage plan for reuse in future years, as required by F33\n    \n*   Focus on reusable and durable materials\n    \n\nThe project is designed for **continuity and minimal waste**.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "*   Fire extinguisher\n    \n*   First aid kit\n    \n*   Adequate lighting for nighttime use\n    \n\nWe have a separate dream for improved walkways, for safety around the banya and tea lounge!",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "# **MAGIC BANYA by Mist behavior**\n\nThe banya is a Russian-style **steam sauna**, built as a handcrafted tent structure where heat, steam and ritual come together. Using a borrowed banya, the project was a great success in 2025 and this year we come back by engineering our own Borderland Banya, backed by F33!\n\nWEBSITE:[Magic Banya Camp · Borderland 2026](https://magicbanya.com/)\n\nInterested in joining us? fill out our really awesome [form](https://forms.gle/GsaqJdUU2VnWRAsX7)",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Coral Ljunggren, [ljucor@gmail.com](mailto:ljucor@gmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Chillout"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Healing"
+        },
+        {
+          "value": "Meditation"
+        },
+        {
+          "value": "Pimping station"
+        },
+        {
+          "value": "Wellness"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Cards",
-          "min": 1509,
-          "max": null,
+          "description": "Weather protection & shelter infrastructure",
+          "min": 2000,
+          "max": 9500,
           "type": "EXPENSE"
         },
         {
-          "description": "band aids",
-          "min": 20,
-          "max": 29,
+          "description": "Seating platforms & ground comfort layer",
+          "min": 0,
+          "max": 10000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fire pit & safety equipment",
+          "min": 700,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Hydration & tea gifts infrastructure",
+          "min": 0,
+          "max": 4500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Lighting and electric",
+          "min": 225,
+          "max": 3500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Food replenishment gifts",
+          "min": 400,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Textils and decoration",
+          "min": 400,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Sound & ritual environment",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transportation & Storage",
+          "min": 500,
+          "max": 6000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Construction & tools",
+          "min": 500,
+          "max": 6000,
           "type": "EXPENSE"
         }
       ],
@@ -21277,191 +21304,251 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnujjaxb0000xg1my64qkzb6",
-      "title": "Sheltered Tea-Lounge connected to the Sauna- protected from rain, better seats & drinks(Magic Banya)",
-      "summary": "Last year’s tea lounge success returns to support F33 Magic Banya: a cozy space to land, rest & connect. Upgraded for safety, weather and comfort for 40 guests.",
+      "id": "cmmyxi3qw0000fdkaxt2cd1bq",
+      "title": "The Roaming Snail 🐌",
+      "summary": "Royal Snail is on the move! Introducing...the Roaming Snail. Funky sounds, ridiculous shenanigans, slory holes, rum shots: all in a slow, snaily art carriage\n",
       "status": "FUNDED",
-      "noOfFunders": 44,
-      "noOfComments": 2,
-      "percentageFunded": 109.2,
-      "minGoal": 4725,
-      "maxGoal": 49500,
-      "income": 0,
+      "noOfFunders": 75,
+      "noOfComments": 12,
+      "percentageFunded": 482.68,
+      "minGoal": 34925,
+      "maxGoal": 57097,
+      "income": 133652,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775945567/dreams/j2q3bncmukci8l4e1gkk.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774025094/dreams/xppa7mr4goenimdotpcg.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775945557/dreams/q6a9iv9tniffosjjetfr.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774025240/dreams/aktxrtz5yv09llospbwr.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775945581/dreams/gbirvwbkz2rafgjtig4i.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774028453/dreams/zyndpyygdrzxvi31ep5u.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775945592/dreams/gmits6dtqprtqmqdtula.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776418684/dreams/r1fiyhveavtgm4ufgtse.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591633/dreams/wbf5qtxzw73hu2yddzj1.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774028539/dreams/tuju1u2nh8kzufua5msx.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591513/dreams/sugwrssgn0feammdbs4a.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591522/dreams/niyoy20taffvdffdkuw1.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591533/dreams/jiqizfqybcbpjthynmbk.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591541/dreams/qyec4jczuhwutfbyvumu.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591653/dreams/wzeurcvxk7vdolqmpuna.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776591749/dreams/kjnd0kyob2d2crr7uejc.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774028461/dreams/y6brpqxrnyxnmmkxzhwo.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "We bring very little sound (chimes/gong) but may collaborate with calm performers.\n\nWe prefer a natural ambient sound environment. The lounge supports **nervous system regulation and integration**.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The tea lounge is built collectively by the Magic Banya Mist Behavior people.\n\n*   Decoration and atmosphere shaped in collaboration\n    \n*   Shared responsibility for holding the space\n    \n\nJust as last year, we are connecting with other projects on added offerings in the tea lounge (electrolytes, massages, calm performances, guided meditations)",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "**Fridge for cold refreshments (>800W)**, **icemaker (>600W)**, **two large hot water kettles (appr6–12L, 2000-2500W each). Lights on batteries**",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "This year, we are in active dialogue with other sauna camps to co-create a shared neighbourhood atmosphere and are collectively trying to enhance the swimming pier area.\n\nWe coexisted well with nearby sound camps with padding last year. We explored collaboration with a massage camp, but space limitations made this not so feasible.",
+          "value": "Snails are curious and engaging creatures; the roaming snail will be investigating with great enthusiasm potential collaborations with other camps.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "## **Why the Tea Lounge Matters**\n\nThe banya does not end when guests leave the steam. People often come out overwhelmed and need to sit down, have a beverage and connect.\n\nThe tea lounge creates the bridge between intensity and rest, allowing the experience to settle in the body.\n\nWe successfully hosted a tea lounge last year, and it became a central part of the experience. However, the setup relied heavily on good weather and minimal infrastructure. We were fortunate that conditions held.\n\nThis year, we are seeking funding to **upgrade the lounge into a fully reliable and high-quality space**:\n\n*   Weatherproof and protected from rain and wind\n    \n*   Comfortable, with proper seating and leveled ground\n    \n*   Safer, with improved structures and equipment\n    \n*   Scalable, able to serve and support all **~40 participants per banya session**\n    \n\n## **Two Lounge Vision**\n\nWe aim to build **two distinct lounges**:\n\n*   A **pre-banya arrival space**,\n    \n*   A **post-banya integration space**\n    \n\nDepending on funding, these may be combined into **one larger, multi-functional lounge** without compromising the core intention.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "*   Full strike on Sunday, with the final people leaving on Monday\n    \n*   All materials removed and packed down\n    \n*   Storage plan for reuse in future years, as required by F33\n    \n*   Focus on reusable and durable materials\n    \n\nThe project is designed for **continuity and minimal waste**.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "*   Fire extinguisher\n    \n*   First aid kit\n    \n*   Adequate lighting for nighttime use\n    \n\nWe have a separate dream for improved walkways, for safety around the banya and tea lounge!",
+          "value": "Its all fun & games until someone gets runover. Lucky the snail will be moving very slowly. Also, all electrical do-da’s and bits 'n bobs are done properly. Also did I mention, we’re a very slow snail",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "# **MAGIC BANYA by Mist behavior**\n\nThe banya is a Russian-style **steam sauna**, built as a handcrafted tent structure where heat, steam and ritual come together. Using a borrowed banya, the project was a great success in 2025 and this year we come back by engineering our own Borderland Banya, backed by F33!\n\nWEBSITE:[Magic Banya Camp · Borderland 2026](https://magicbanya.com/)\n\nInterested in joining us? fill out our really awesome [form](https://forms.gle/GsaqJdUU2VnWRAsX7)",
+          "value": "We are indeed a loudsnail, aka soundcamp - but will make sure that when roaming, sound will be appropriate at appropriate places. We read the soundguide and Snaily Sound Sluts are on for shifts 🐌💋🔥",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "The Royal Snail 🐌👑✨",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Coral Ljunggren, [ljucor@gmail.com](mailto:ljucor@gmail.com)",
+          "value": "Legs are for losers.\n\nThink of all the things you know and love from the Royal Snail: Theatrics! Left-coiling snail love stories. Spiritual-snail-sass, mini-everything and megaphone grilling. But now, mobile!\n\nBut wait, there’s more! Because the snails love chaos, and also friends, we’ll design a coupling system so you can come and build/bring your own cart to be pulled around.\n\nIt could be a sauna (I hear we’re aiming for 1-1 ratio of sauna to borderlanders), a costume closet, a wine and cheese tasting station, a giant crown… Really, just make a thing and we’ll attempt to tow you around - silliness loves company and moving always ups the adventure (also reduces flies).\n\nWe provide the base carriage (and towing power), coupling, sound, a base design (and a weight limit). You (hopefully) provide your mystery carts to be picked up and towed around.\n\nWill we inevitably get stuck somewhere in the mud at 3am? Will we end up running out of power at inconvenient places? Will we go the wrong way at all the wrong times?\n\nYES, YES, YES!\n\nSound good? :D Let’s make this happen.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "We will slime our way away with the main carriage (and the carts we build) and join moop sweep with all sass and LNT and pick up anything we see (as always) and contribute however we can to leave cleaner, greener, more beautiful Borderland. Other borderlands who bring the tag on carriages need to sort themselves out.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Josh Jordan:  \nEmail: [joshuansjordan@gmail.com](mailto:joshuansjordan@gmail.com)  \nPhone +31614639515",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "The roaming snail will be self-powered by a large (upcycled) battery. We may, however, need electricity to charge while the snail sleeps.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "The real experiment here is to see what happens when you give a platform for everyone to join the art car with their own special creations.\n\nWant to be dragged around slowly and snailily?\n\nSend us an email joshuansjordan@gmail.com or tag on discord so we can co-lab. @thebroccolismuggler\n\nWe may need a place that we can charge the roaming snail when not sliming around.\n\nThere will also be a soundsystem on-snail. If we’re really lucky maybe other sound camps (or camps who would like more sound) will collaborate. We would also really like, if the budget allows - streeetch goal dreamssss - to have a cardioid setup for the bass and bring more rum and FIRE. This way our RUMbly bass, bar and vibes can be directed long into the week (and into hay bales and away from asmr workshops). Also we can have flaming eye stalks!",
+          "customField": {
+            "name": "Co-creation"
           }
         }
       ],
       "tags": [
         {
-          "value": "Chillout"
+          "value": "Art installation"
+        },
+        {
+          "value": "Art vehicle"
+        },
+        {
+          "value": "Art walk apropriate"
+        },
+        {
+          "value": "Bar"
         },
         {
           "value": "Experience"
         },
         {
-          "value": "Healing"
+          "value": "Hippie trap"
         },
         {
-          "value": "Meditation"
+          "value": "Kids-friendly"
         },
         {
-          "value": "Pimping station"
+          "value": "Music"
         },
         {
-          "value": "Wellness"
+          "value": "Performance"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Weird shit"
         }
       ],
       "budgetItems": [
         {
-          "description": "Weather protection & shelter infrastructure",
-          "min": 2000,
-          "max": 9500,
+          "description": "Battery (11KW 48v recycled LiPo)",
+          "min": 86428,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Audio system (3kW amp, 2x12in mains, 1x12in sub, denon prim4)",
+          "min": 37033,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Snail eye stalks (recycled hose pipes)",
+          "min": 108,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Snail themed decorations (rum bar, fabric, lights)",
+          "min": 1297,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Pnematic actuators (suspension and fun moving)",
+          "min": 4336,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Spot lights",
+          "min": 4450,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Snail power (5kw inverter, 48v wiring, 48v-24v bus and converters)",
+          "min": 9036,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Seating platforms & ground comfort layer",
+          "description": "Snail brian (microcontroller, 4g router, nvidia orin or pi, control panel) ",
+          "min": 4782,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Snail decoration (rebar, fabric materials, chanderllery, paint)",
+          "min": 3321,
+          "max": 5322,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Frame & build (Metal extrustions, fastenings, carriage connectors)",
+          "min": 3964,
+          "max": 5498,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Weather protection (ip64 electrical connectors, electronics box, waterproof sound cabling) ",
+          "min": 2455,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Drive system (VESC motor controllers x6,  750w hub motors x6, cabling, steering actuator)",
+          "min": 4764,
+          "max": 5304,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Consumables (gas, solder, cable ties, ratchets)",
+          "min": 650,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Safety (limit switches, big red stop button, (many) fuses)",
+          "min": 1273,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Lighting (adressable LED strips, spot lights, control board, cheap projector) ",
+          "min": 1160,
+          "max": 3260,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport 50% petrol & ferry from Germany",
+          "min": 2500,
+          "max": 4501,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Audio (new coda pw12 sub (if anyone has one of these let me know!), tannoy i8 monitors)",
           "min": 0,
-          "max": 10000,
+          "max": 9748,
           "type": "EXPENSE"
         },
         {
-          "description": "Fire pit & safety equipment",
-          "min": 700,
-          "max": 2000,
+          "description": "Carriage (old vintage ideally!)",
+          "min": 1020,
+          "max": 4100,
           "type": "EXPENSE"
         },
         {
-          "description": "Hydration & tea gifts infrastructure",
+          "description": "Slory hole ingredients (slimy mushrooms, carboard)",
           "min": 0,
-          "max": 4500,
+          "max": 86,
           "type": "EXPENSE"
         },
         {
-          "description": "Lighting and electric",
-          "min": 225,
-          "max": 3500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Food replenishment gifts",
-          "min": 400,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Textils and decoration",
-          "min": 400,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sound & ritual environment",
+          "description": "Rum",
           "min": 0,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transportation & Storage",
-          "min": 500,
-          "max": 6000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Construction & tools",
-          "min": 500,
-          "max": 6000,
+          "max": 1082,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 133652,
+      "percentageFundedTrue": 382.68
     },
     {
       "id": "cmnokc48e0015ygaxmiua1w7v",
@@ -22147,164 +22234,185 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnsspyf30002lg33aas7j0ca",
-      "title": "HYPERSTITION: Chrome Room",
-      "summary": "50% dance-floor extension. 50% lounge. 100% vibes. Full aesthetic and conceptual immersion.",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 137,
-      "noOfComments": 4,
-      "percentageFunded": 209.8,
-      "minGoal": 25500,
-      "maxGoal": 31500,
-      "income": 33500,
+      "id": "cmnsutag4000959mfyjbkhuvv",
+      "title": "Touch Divine: Rituals",
+      "summary": "A space for magic play, pleasurable experiments, sexy rehearsals, rituals, and performances. ",
+      "status": "FUNDED",
+      "noOfFunders": 76,
+      "noOfComments": 0,
+      "percentageFunded": 211.88,
+      "minGoal": 14300,
+      "maxGoal": 25700,
+      "income": 16000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003142/dreams/coewqu79rh75tiucijnh.gif"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775992571/dreams/n8nv909dalhn7oiis7xm.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776524269/dreams/tko56pmzayx2ndehyjgp.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775991859/dreams/l5ttwlmtlvjsfgz89dau.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776524448/dreams/crrlsv9skwquegwjbord.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775991848/dreams/gpibcvd0gstea8bkwrrl.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776525151/dreams/ci2dhkzdshjhf6utk32u.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775991833/dreams/bpxnykeidpnqxjlfmfmm.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776524923/dreams/zmpfdphw8jprcib5ddje.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775991867/dreams/dzllc8n2i0yc3sbhabpb.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775991878/dreams/xrky0afycgvcd9b4oiqr.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Want to join the camp OR volunteer to help out on site? register at [https://hyperstition-analytica.info/](https://hyperstition-analytica.info/)\n\nIf you have any reflective/ mirror/ chrome dreams we are interested! Please reach out on discord to @seblaarouchi with your ideas",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "A well executed strike is important to Hyperstition. The vast majority of our structure and it's components are reusable. The single use material we will dispose of correctly. We will ensure that we Leave A Better Trace for the future borderlings.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Our venue may see 500 visitors at peak. The Chrome Room acts as a buffer for our dance floor and a large dedicated indoor space for personal items. We take the safety of everyone very seriously.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "HYPERSTITION\n\n_2026 is the_ **_final year_** _for_ **_HYPERSTITION_** _at Borderland. We are stepping up to take on the Valley_ (**_the legendary Muumima spot)_**_, more than_ **_doubling our size, light and sound._**\n\nThe **Chrome Room** is part of the Hyperstition dream universe, which also include the **Black Box** and **Moon Dome**.",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "The Chrome Room is the middle structure in the HYPERSTITION Moon Base. It will be integrated into the Moon Dome and the Black Box. As a sound camp with ambitions to throw many big parties that go long this year, we are well aware of the disruptive impacts of our dreams. We are currently involved in the pre-placement process and in contact with S.O.U.N.D. to ensure suitable placement to minimize the impact of our sound on the Borderland residents and the neighbours.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "**TL;DR** The historic HYPERSTITION main party tent will be turned into an epic lounge COVERED in reflective chrome material. In the event of a party with 250 + attendees, the Chrome Room will open up into the Black Box to create one massive dance floor. The Chrome Room will also include a dedicated wardrobe space and a smoking area that's worth its salt.\n\n**Hyperstition Chrome Room**\n\nModular lounge/dance floor extension. The Chrome Room provides an indispensable zone for hosting, allowing HYPERSTITION to adapt the party depending on the density and intensity of what is happening. Chrome and reflective material, such as mirrors, are a recognisable feature of our identity, and now we get to indulge in creating a space completely dedicated to that aesthetic.\n\nInside the same tent we will have a dedicated wardrobe. We want to be prepared for 250+ guests dropping off and retrieving their belongings.\n\n**Making the Chrome Room a Reality**\n\nWe are repurposing our beloved party tent and furniture. We are asking for funds to totally pimp out the lounge, and for a wardrobe space that has the capacity for 250+ visitors. This will require structurally sound poles for hanging coats, shelves for vertical storage and adequate lighting.",
+          "value": "Go beyond your wildest dreams!\n\nRituals, ceremonies, performances and workshops. Things you can feel, expand and flow with.\n\nTouch Divine is back with an amazing 60 m2 decorated tent with soft floor going down on you and carrying you up, my wonderful Borderling!\n\nWe loved how this venue turned out last year with morning massages, contact improvisation & live music jam, sensuous workshops and so on. Now we want to take a step further, to be bolder and more curious.\n\nThis year we introduce to you: Touch Divine: Rituals — a deeper dive into the space of interconnection and magic.\n\nHow about combining art with massage, dancing with crying, performance with resting (or wrestling!). It's gonna be co-created, so we don't know yet what will come, but we know it will be amazing. And hey, let's dance! We want to throw an opening ceremony&party at the Cuddly Cove with live music performances, cuddles and wildness.\n\nReady to start experimenting, go beyond identities and make rituals no one has ever tried before? Come and join us!\n\nWe are:\n\nAapo (performance artist, tantra instructor and artpedagog), Omi-peah (experience designer, artist and priestess), and River (nervous system coach, artist and performer).",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "We will need around 25kw in total across all Hyperstition dreams. We will stay close to power team throughout.",
+          "value": "Touch Divine Camp",
           "customField": {
-            "name": "Electricity"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "@seblaarouchi (Discord)",
+          "value": "Aapo Korkeaoja, [aapo.korkeaoja@gmail.com](mailto:aapo.korkeaoja@gmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "We are a sound camp. We are in close communication with S.O.U.N.D. to ensure that we are compliant with S.O.U.N.D. restrictions.",
+          "value": "We are day-timers, night-time low sound levels, day-time also moderate.",
           "customField": {
             "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Safety is our thing. We believe, that the more safe you are, the higher you fly. So, this is utterly important for us.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Touch Divine rituals, ceremonies, sessions and workshops will be co-created with Borderlings and Touch Divine camp.\n\nYou are also welcome to propose and create your dream ceremony, ritual or meditations with us. We have a great tent that can fit around 50 persons with a soft floor and a sound system. The program will be open to all beloveds!\n\nWant to join the camp? We invite you to be part of this magical dream and to join our small and cozy camp ([join here!](https://docs.google.com/forms/d/e/1FAIpQLSeVWgef9C0V1_YotEZuC7ih-Qstyfwz2ddMOGUqk3i0dfNzZA/viewform)).",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "We have awesome relationships with our neighbors since last year. This year we are planning to create The Cuddle Cove Plaza with our neighboring camps, so come and join us here!",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "We need enough for a sound system and lights. Max. 1x16A",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "We will clean the area, no question about it.",
+          "customField": {
+            "name": "Strike plan"
           }
         }
       ],
       "tags": [
         {
-          "value": "Art installation"
+          "value": "Experience"
         },
         {
-          "value": "Hippie trap"
+          "value": "Healing"
         },
         {
-          "value": "Soundcamp"
+          "value": "Meditation"
+        },
+        {
+          "value": "Performance"
+        },
+        {
+          "value": "Sex positive"
+        },
+        {
+          "value": "Venue"
+        },
+        {
+          "value": "Workshop space"
         }
       ],
       "budgetItems": [
         {
-          "description": "Tent 6x12m, tarps etc",
-          "min": 15000,
+          "description": "Decorations",
+          "min": 1500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Furniture",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Misc decoration",
-          "min": 3500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Carpets",
-          "min": 10000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fabrics, faux fur, mylar blankets",
+          "description": "Lamps, cables",
           "min": 4000,
-          "max": 6000,
-          "type": "EXPENSE"
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Carpets and flooring",
-          "min": 7500,
+          "description": "Sound system",
+          "min": 2500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Soft tatami floor",
+          "min": 8000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Tent & tables rental",
+          "min": 1500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Lights",
-          "min": 5000,
-          "max": null,
+          "description": "Cushions and cushion covers",
+          "min": 1000,
+          "max": 2500,
           "type": "EXPENSE"
         },
         {
-          "description": "Smoking area decoration",
-          "min": 2000,
-          "max": 5000,
+          "description": "Mattresses/ Hamami towels",
+          "min": 800,
+          "max": 2700,
           "type": "EXPENSE"
         },
         {
-          "description": "Wardrobe",
-          "min": 2000,
-          "max": 3000,
+          "description": "Practical stuff (Tarps, tables, extension cabels, etc)",
+          "min": 300,
+          "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "Lounge furniture and decoration",
-          "min": 5000,
-          "max": null,
+          "description": "Decorations",
+          "min": 1500,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Yoga mats",
+          "min": 7000,
+          "max": 11000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transportation",
+          "min": 2200,
+          "max": 4000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 33500,
-      "percentageFundedTrue": 131.37
+      "funded": 16000,
+      "percentageFundedTrue": 111.89
     },
     {
       "id": "cmnw43t6y002e13zhkq64gggy",
@@ -28966,83 +29074,74 @@
       "percentageFundedTrue": 322.09
     },
     {
-      "id": "cmnsvg9f8001nyvy5h4l31ij2",
-      "title": "Sigil's & Tattoo's @ Alchemist Chamber",
-      "summary": "Create a personal sigil from a word or intention. Transform it into a unique symbol—and optionally tattoo it as a lasting mark of change.",
+      "id": "cmnsw20ds000liglimp1mcapy",
+      "title": "The \"Everything is Political\" Chai Stand_2.0",
+      "summary": "We are offering homemade chai recipes while intervening on the inevitable, inescapable, and sometimes inconvenient fact that everything is political",
       "status": "FUNDED",
-      "noOfFunders": 37,
-      "noOfComments": 3,
-      "percentageFunded": 248.65,
-      "minGoal": 4100,
-      "maxGoal": 12200,
-      "income": 6000,
+      "noOfFunders": 23,
+      "noOfComments": 0,
+      "percentageFunded": 277.35,
+      "minGoal": 1400,
+      "maxGoal": 3100,
+      "income": 1600,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775824694/dreams/ctdxzrltujm4arlvzrbq.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775826352/dreams/jaq457xum3aser3eodhr.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775826361/dreams/pkbled7fjwt5kqfkcowo.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776517410/dreams/sjm4hhi6vshijoczevgt.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775826860/dreams/zyozbsndfwnnvwyjugup.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Kemikal",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Just some background music.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Turn intentions into symbols.\n\nIn this workshop, you’ll create a personal sigil based on a word or phrase that represents a change, direction, or desire in your life. Using a simple letter-based method, we’ll transform language into a unique visual mark — a symbol of your own will.\n\nOnce created, you can keep your sigil as a drawing, or — if you choose — have it tattooed on your body as a lasting reminder. The act of marking the body adds weight to the intention: a moment of sensation, commitment, and transformation.\n\nCome with an idea, or find it here.",
+          "value": "Step into our chai cave where the air hums with sacred vibrations and the aroma of cardamom hangs thick enough to choke capitalism!\n\nImagine yourself floating in a cocoon of powerful mantras that vibrate your soul while you sip on chai so divine it could make a goddess weep with joy. Perfect for when you've lost your way between getting a tea at the Sanctuary or chasing your friends to Mumimaa. Our chai isn't just a beverage, it's a liquid revolution!\n\nWhen you emerge from your mantra-induced coma, join us for chai-fueled conversations about how the 11 principles are radical and political - and how great that is!\n\nWe welcome:\n\n*   People who already know everything is political\n    \n*   People who are terrified this is true, but want the opportunity to embrace this fear\n    \n*   People who want good chai and are prepared to chant for the liberation and joy of all living beings in the meantime\n    \n*   Anyone who can handle the truth that even in \"No-Borders-Land,\" power dynamics still exist\n    \n\n_P.S. And if talking about politics is not your cup of tea at Borderland.. well, sweetie, you've come to the wrong chai stand. But we'll still serve you tea, we're not monsters._",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "All tattoo equipment is single-use, including needles, gloves, and razors. After each tattoo, we apply a sterile second skin to protect the area and ensure a clean, safe process.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "None.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "All waste will be collected in designated disposal bags and safely taken off-site after the event to ensure proper handling and cleanliness.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "My plan is to hold two workshops, starting around 1300 on two days during the week. My plan is to do them at Chateau Vadeau. But if you have a matching venue and event i would be happy to co-create!",
+          "value": "We are open to co-creation to bring in more non-Western cultures into the space, we would especially love to co-create with other POC who want to share their cultures and experiences at Borderland!",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "This dream will be held att Chateu Vadeau.",
+          "value": "We will be on a move-able trolley, probably finding a spot for the day that doesn't disrupt anyone. We won't be taking up a lot of space and will be mindful that if we are to use a simple sound system that we are in the right zones for that. We think we will impact our neighbors only positively by offering them easy access to our delicious chai!",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "This event will take place in the **Alchemist Chamber**, a space that in previous years has hosted experimental workshops and installations, including projects with touch, water, and mushroom synths. The space itself has been made possible through funding from earlier editions of the camp.\n\nSome of the walls were damaged in the last round of strong weather, so one of our stretch goals is to raise enough funds to repair or replace them for future use.\n\nOne night we might open our popular Absinth bar too!",
+          "value": "We will have at most a one-speaker sound system that won't be very loud. Since we are on the move we will ensure that we don't disrupt any neighbors in the spots we choose to settle in for the day.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We will ensure their lives are not in danger by ensuring we have the right precautions and safety on all fronts!",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Our trolley will be easily dismantled in less than a few hours! Our set-up will be simple and effortless, and we will make sure to collect all of our belongings and THERE WILL BE NO MOOP!",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Alex Myerson, alex@myersons.co.uk",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "The Bureau of Justice, Joy, Bubbles, and Other Dangerous Ideas",
           "customField": {
             "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "NA",
+          "customField": {
+            "name": "Electricity"
           }
         }
       ],
@@ -29051,61 +29150,64 @@
           "value": "Experience"
         },
         {
-          "value": "Workshop"
+          "value": "Food"
+        },
+        {
+          "value": "Healing"
+        },
+        {
+          "value": "Light"
+        },
+        {
+          "value": "Meditation"
         }
       ],
       "budgetItems": [
         {
-          "description": "Tattoo equipment",
-          "min": 6000,
+          "description": "10L Thermos",
+          "min": 400,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Tattoo supplies for about 30-40 small tattoos including second skin, dissposable needles, razors etc",
-          "min": 2500,
+          "description": "Trolley ",
+          "min": 400,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Paper and pens for Sigil-design",
+          "description": "Some decoration",
+          "min": 300,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Gas and stove ",
           "min": 500,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Masala spices",
+          "min": 400,
+          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "2 yoga mats ",
-          "min": 600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Pillows and props to make tattoos more comfortable",
-          "min": 0,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "6 meter new wall",
-          "min": 0,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Bean bags for sitting (x3)",
-          "min": 0,
-          "max": 5500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wooden tablets for drawing",
+          "description": "Oat Milk",
           "min": 500,
-          "max": null,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Additional decoration (cushions, carpet, seating, table, lighting)",
+          "min": 500,
+          "max": 1800,
           "type": "EXPENSE"
         }
       ],
-      "funded": 6000,
-      "percentageFundedTrue": 146.34
+      "funded": 1600,
+      "percentageFundedTrue": 114.29
     },
     {
       "id": "cmn76utzk0000fea26973hh81",
@@ -34670,72 +34772,72 @@
       "percentageFundedTrue": 106.67
     },
     {
-      "id": "cmnslp1qs0011zu8p16mi6mla",
-      "title": "PORTal Stamps of the Principles",
-      "summary": "Get your favourite principle symbol as a stamp! Choose between 10 +1 principles.",
+      "id": "cmnsuncni0018yvy554cqm7of",
+      "title": "Fancy pop-up restaurant",
+      "summary": "A culinary experience in the forest.\nCrème de la crème for the crème de la crème (who are lucky enough to be found by one of our waiters or stumble upon us).",
       "status": "FUNDED",
       "noOfFunders": 17,
-      "noOfComments": 1,
-      "percentageFunded": 100,
-      "minGoal": 2600,
-      "maxGoal": 6800,
-      "income": 0,
+      "noOfComments": 3,
+      "percentageFunded": 743.08,
+      "minGoal": 1200,
+      "maxGoal": 3300,
+      "income": 7197,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776019716/dreams/sgic5ktccaf2nupwnsrm.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775822624/dreams/x8mrxn15mlbor7gcpyom.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "If you want to be a greeeter, please sign up in the REA-platform! youre also welcome to join the build at 1st of may and before borderland <3",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Johanna Wahlström",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Very safe",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Nope",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Put the stamps back into the pocket and go home!",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "The reality PORT",
+          "value": "Feromonia",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "No",
+          "value": "burning\\_morran on Discord.",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "People might gasp and moan loudly while eating. Other than that there might be some live music, acoustic in that case.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Arriving at Borderland you will get your wristband at the Threshold, and get greeted at the PORT.\n\nAt the PORT gate, you’ll get to choose your principle — the one that speaks to you most right now, this week, this version of you — and carry it as a stamp on your skin. Ten principles from Burning Man plus the eleventh, consent. Eleven symbols. One for you to claim as yours. It’s a tiny ritual with a bigger life: a conversation starter, an intention for the week, a way to find your people (“wait, you got Immediacy too?”), and a memory of the moment you crossed the threshold. Some people treat it like a tarot draw — not what you’d choose on a good day, but what you need right now. And if you’re new and don’t know the principles yet — perfect. That’s exactly what the PORT is for.​​​​​​​​​​​​​​​​",
+          "value": "We’ll make sure ingredients are stored in a proper manner during the burn. We will ask potential guests for allergies and food preferences before inviting them to the table.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "You're on your way somewhere, eager to miss out on whatever someone else is enjoying. And suddenly, out of nowhere, a waiter shows up. They invite you deeper into the forest where you stumble upon a neatly set table for two. Candles are lit. Perhaps there’s someone playing live music, just for you. It’s time for dinner (or, well, some amuse-bouche sized dishes for you to experience – meaning: this is for the curious, not the hungry).\n\nWe’re going to set up a fancy pop up restaurant where guests get to experience tiny flavor explosions. These little spoons will make your brain explode, and your whole body crave more of those textures and flavors making sweet, sweet love inside your mouth.\n\nVegetarian menu.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "We are currently co-creating with Threshold, hopefully we bring good vibes only ;)",
+          "value": "The table, chairs and storage boxes will be removed and brought back home, at the latest, on Sunday during strike. We'll make sure to not leave a mess during the burn as well. This place will look neat even for those who happen to pass by during the week even when we're not open.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "We will cook and store at camp. I don't think it'll affect the camps usage of the grid very much since it's only a few ingredients that needs cooking.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "We're not actively looking to co-create, but if someone has a great idea of how to co-create we'd love to hear them out. <3 Wanna play some acoustic music for a tiny audience, for example?",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "We're planning on setting up the table somewhere in the woods where it doesn't interfere with other stuff, or other stuff is not interfering with the experience. We will follow the placement process and make sure we choose a spot which is okay to use, we're aware that most of the forest is a nature reserve (right now the link to the map in the about section for dreams specifically regarding where one can place dreams in the forest, isn't functioning).",
           "customField": {
             "name": "Co-existence"
           }
@@ -34743,40 +34845,94 @@
       ],
       "tags": [
         {
-          "value": "Art walk apropriate"
+          "value": "Experience"
         },
         {
-          "value": "Borderland infrastructure"
-        },
-        {
-          "value": "Game"
-        },
-        {
-          "value": "Kids-friendly"
-        },
-        {
-          "value": "Pimping station"
-        },
-        {
-          "value": "Playful"
+          "value": "Food"
         }
       ],
       "budgetItems": [
         {
-          "description": "paint",
+          "description": "Wooden table",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Odd ingredients already purchased",
+          "min": 300,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Chandelier",
           "min": 600,
-          "max": 1800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Silverware for serving",
+          "min": 200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Containers for storage",
+          "min": 200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Compressor cooler for storage",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Cooking equipment",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Food thermos for warmkeeping",
+          "min": 300,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Foldable chairs",
+          "min": 597,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Ingredients",
+          "min": 1200,
+          "max": 1600,
           "type": "EXPENSE"
         },
         {
-          "description": "stamps",
-          "min": 2000,
-          "max": 5000,
+          "description": "Paper napkins",
+          "min": 0,
+          "max": 200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Extra food thermos for warmkeeping",
+          "min": 0,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Lights and deco",
+          "min": 0,
+          "max": 1000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 7197,
+      "percentageFundedTrue": 599.75
     },
     {
       "id": "cmnt7vle700489qhjd5zrgq6m",
@@ -34947,7 +35103,7 @@
       "summary": "A cozy mini-cinema seating 15–20 people, featuring a 135-inch projector screen. Screenings run 50–90 minutes, and Neapolitan pizza will be served.",
       "status": "FUNDED",
       "noOfFunders": 82,
-      "noOfComments": 0,
+      "noOfComments": 1,
       "percentageFunded": 530.58,
       "minGoal": 8500,
       "maxGoal": 17000,
@@ -38716,80 +38872,86 @@
       "percentageFundedTrue": 458.82
     },
     {
-      "id": "cmnsyvf5j00177o6batqgnv6d",
-      "title": "Floating swing",
-      "summary": "Might make you forget about time and gravity…",
-      "status": "FUNDED",
-      "noOfFunders": 60,
-      "noOfComments": 3,
-      "percentageFunded": 190.99,
-      "minGoal": 10849,
-      "maxGoal": 15339,
-      "income": 9872,
+      "id": "cmnsspyf30002lg33aas7j0ca",
+      "title": "HYPERSTITION: Chrome Room",
+      "summary": "50% dance-floor extension. 50% lounge. 100% vibes. Full aesthetic and conceptual immersion.",
+      "status": "PARTIAL_FUNDING",
+      "noOfFunders": 137,
+      "noOfComments": 4,
+      "percentageFunded": 209.8,
+      "minGoal": 25500,
+      "maxGoal": 31500,
+      "income": 33500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775836968/dreams/uxcmdgcpkwrrybcxpumg.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003142/dreams/coewqu79rh75tiucijnh.gif"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775836979/dreams/pcaemghqzoa5dywqnsnp.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776524269/dreams/tko56pmzayx2ndehyjgp.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775836995/dreams/cfnkapbdncluhzxxyfns.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776524448/dreams/crrlsv9skwquegwjbord.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776525151/dreams/ci2dhkzdshjhf6utk32u.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776524923/dreams/zmpfdphw8jprcib5ddje.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Free camp",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Flying back! (I wish!)\n\nEverything goes back with me",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Designed by me (Anouck) and I have help from Romain to Build it\n\nContact : anouckoa@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "It take some Space! … 6.2metres large, hight is 4m\n\nFor its quiet so it can co-exist with art car, barrio…\n\nIt’s my first time in borderland, so i dont know the topography of the place…\n\nIf you have an idea of the placement, please let me know! :)",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "If someone is inspired to do light display on the wings, that could be amazing!!!!\n\nHappy to have live musicien to make people travel even further!",
+          "value": "Want to join the camp OR volunteer to help out on site? register at [https://hyperstition-analytica.info/](https://hyperstition-analytica.info/)\n\nIf you have any reflective/ mirror/ chrome dreams we are interested! Please reach out on discord to @seblaarouchi with your ideas",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "The base is made with heavy steal (40x40x4mm)\n\nExtra U shape ground stake\n\nIf to much wind, easy remouvale of the fabric\n\nThe wings go down at max 2,2m",
+          "value": "A well executed strike is important to Hyperstition. The vast majority of our structure and it's components are reusable. The single use material we will dispose of correctly. We will ensure that we Leave A Better Trace for the future borderlings.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Our venue may see 500 visitors at peak. The Chrome Room acts as a buffer for our dance floor and a large dedicated indoor space for personal items. We take the safety of everyone very seriously.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "No sound or low sound (small speaker or open to live musicien)",
+          "value": "HYPERSTITION\n\n_2026 is the_ **_final year_** _for_ **_HYPERSTITION_** _at Borderland. We are stepping up to take on the Valley_ (**_the legendary Muumima spot)_**_, more than_ **_doubling our size, light and sound._**\n\nThe **Chrome Room** is part of the Hyperstition dream universe, which also include the **Black Box** and **Moon Dome**.",
           "customField": {
-            "name": "Sound levels"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "According to the budget, LED Lightning is an option for beautiful effect at night time… could be with power or batterie",
+          "value": "The Chrome Room is the middle structure in the HYPERSTITION Moon Base. It will be integrated into the Moon Dome and the Black Box. As a sound camp with ambitions to throw many big parties that go long this year, we are well aware of the disruptive impacts of our dreams. We are currently involved in the pre-placement process and in contact with S.O.U.N.D. to ensure suitable placement to minimize the impact of our sound on the Borderland residents and the neighbours.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "**TL;DR** The historic HYPERSTITION main party tent will be turned into an epic lounge COVERED in reflective chrome material. In the event of a party with 250 + attendees, the Chrome Room will open up into the Black Box to create one massive dance floor. The Chrome Room will also include a dedicated wardrobe space and a smoking area that's worth its salt.\n\n**Hyperstition Chrome Room**\n\nModular lounge/dance floor extension. The Chrome Room provides an indispensable zone for hosting, allowing HYPERSTITION to adapt the party depending on the density and intensity of what is happening. Chrome and reflective material, such as mirrors, are a recognisable feature of our identity, and now we get to indulge in creating a space completely dedicated to that aesthetic.\n\nInside the same tent we will have a dedicated wardrobe. We want to be prepared for 250+ guests dropping off and retrieving their belongings.\n\n**Making the Chrome Room a Reality**\n\nWe are repurposing our beloved party tent and furniture. We are asking for funds to totally pimp out the lounge, and for a wardrobe space that has the capacity for 250+ visitors. This will require structurally sound poles for hanging coats, shelves for vertical storage and adequate lighting.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "We will need around 25kw in total across all Hyperstition dreams. We will stay close to power team throughout.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Somewhere between a playground and a daydream, this kinetic sculpture invites you to sit, sway… and maybe forget gravity for a while.\n\nDesigned for 1 to 3 people,  the piece takes the familiar language of a swing and teaches it to grow wings.\n\nAbove, vast translucent sails—part butterfly/part underwater creatures/part cosmos dancer—stretch nearly three meters wide, catching light like a whisper of dusk. Their burgundy organza shimmers with violet reflections, as if the sky itself had decided to rest for a moment.\n\nThe structure, grounded in a black metal frame, stands steady and quiet—like a stage waiting for movement.\n\nFrom it, hangs a generous hammock, a shared nest where strangers become companions, and companions become co-pilots. Because this is not just a seat: it’s a collective flight.\n\nWith every motion of the hammock, the bamboo ribs awaken the wings. They do not flap—they breathe. Slow, wide, almost alive. The sculpture listens to the rhythm of its passengers and answers in kind, turning simple play into a choreography of air and balance.\n\nAt nearly four meters tall, it is both an object and an invitation:  \nto gather, to drift, to laugh, to relax and dream\n\nCaution: This is not just a swing, this might be a hippie trap!",
+          "value": "@seblaarouchi (Discord)",
           "customField": {
-            "name": "Description"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We are a sound camp. We are in close communication with S.O.U.N.D. to ensure that we are compliant with S.O.U.N.D. restrictions.",
+          "customField": {
+            "name": "Sound levels"
           }
         }
       ],
@@ -38798,82 +38960,76 @@
           "value": "Art installation"
         },
         {
-          "value": "Chillout"
+          "value": "Hippie trap"
         },
         {
-          "value": "Hippie trap"
+          "value": "Soundcamp"
         }
       ],
       "budgetItems": [
         {
-          "description": "Steal for structure ",
-          "min": 4665,
+          "description": "Tent 6x12m, tarps etc",
+          "min": 15000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Special metal piece (laser cut) ",
-          "min": 2495,
+          "description": "Furniture",
+          "min": 5000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Bamboo stick 14x3m (plus extra)",
-          "min": 2712,
+          "description": "Misc decoration",
+          "min": 3500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Steal (for the base)",
-          "min": 2822,
+          "description": "Carpets",
+          "min": 10000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fabrics, faux fur, mylar blankets",
+          "min": 4000,
+          "max": 6000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Carpets and flooring",
+          "min": 7500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Bolt / nut ",
-          "min": 325,
+          "description": "Lights",
+          "min": 5000,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Organza (wings)",
-          "min": 1790,
-          "max": 2210,
+          "description": "Smoking area decoration",
+          "min": 2000,
+          "max": 5000,
           "type": "EXPENSE"
         },
         {
-          "description": "Sewing furniture",
-          "min": 100,
+          "description": "Wardrobe",
+          "min": 2000,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Lounge furniture and decoration",
+          "min": 5000,
           "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "U shape steel anchor stakes",
-          "min": 434,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "LED ",
-          "min": 0,
-          "max": 3470,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transport (1/3 of 11935)",
-          "min": 3978,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Heavy fabric for hammoc",
-          "min": 1400,
-          "max": 2000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 9872,
-      "percentageFundedTrue": 90.99
+      "funded": 33500,
+      "percentageFundedTrue": 131.37
     },
     {
       "id": "cmnoj0dya0013bm1lmn7v6n4y",
@@ -51360,118 +51516,146 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnt1bzhr000rz5mgaovo1wdp",
-      "title": "Borrow and Become ",
-      "summary": "Borrow and Become: a vibrant dressing room with mirrors, styling and endless ways to become.",
+      "id": "cmnsvg9f8001nyvy5h4l31ij2",
+      "title": "Sigil's & Tattoo's @ Alchemist Chamber",
+      "summary": "Create a personal sigil from a word or intention. Transform it into a unique symbol—and optionally tattoo it as a lasting mark of change.",
       "status": "FUNDED",
-      "noOfFunders": 52,
-      "noOfComments": 5,
-      "percentageFunded": 549.36,
-      "minGoal": 6900,
-      "maxGoal": 14500,
-      "income": 30000,
+      "noOfFunders": 37,
+      "noOfComments": 3,
+      "percentageFunded": 248.65,
+      "minGoal": 4100,
+      "maxGoal": 12200,
+      "income": 6000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776267296/dreams/g4w6vsbxys07fasm2xwp.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775824694/dreams/ctdxzrltujm4arlvzrbq.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775826352/dreams/jaq457xum3aser3eodhr.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775826361/dreams/pkbled7fjwt5kqfkcowo.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776517410/dreams/sjm4hhi6vshijoczevgt.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "we arrive lightly and leave no trace only a little more beauty than we found.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "yes for the camp but not extra for our dream",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Borrow and Become is a living dressing room and transformation space.\n\nStep into a warm, glowing environment of mirrors, music and curated pieces. Here, you can borrow, try, play and become someone else, or more of yourself. It’s not about fashion, but about expression, identity and letting go of who you think you should be.\n\nPass something on and discover something new. Bring a piece you no longer wear, and leave with something you love. Refresh your wardrobe through a simple exchange, one piece in, one piece out.\n\nSome pieces travel and return, others continue with a new owner.\n\nThe space remains active and evolving. New pieces are continuously added, while others find new owners. The result is a shared wardrobe shaped entirely by the beautiful souls participating in it.\n\nThe space invites curiosity and connection. You might arrive as yourself and leave as something entirely different, or simply more free.\n\nSoft guidance, intuitive styling and a welcoming atmosphere make it easy to step in, explore and transform, at your own pace.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "[Futurepreben@gmail.com](mailto:Futurepreben@gmail.com)",
+          "value": "Kemikal",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Borrow and Become",
+          "value": "Just some background music.",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Sound levels"
           }
         },
         {
-          "value": "Anyone who wishes is welcome to contribute clothing to our wardrobe by sharing their beautiful pieces. We invite everyone to leave one piece and borrow one, a wardrobe in constant movement",
+          "value": "Turn intentions into symbols.\n\nIn this workshop, you’ll create a personal sigil based on a word or phrase that represents a change, direction, or desire in your life. Using a simple letter-based method, we’ll transform language into a unique visual mark — a symbol of your own will.\n\nOnce created, you can keep your sigil as a drawing, or — if you choose — have it tattooed on your body as a lasting reminder. The act of marking the body adds weight to the intention: a moment of sensation, commitment, and transformation.\n\nCome with an idea, or find it here.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "All tattoo equipment is single-use, including needles, gloves, and razors. After each tattoo, we apply a sterile second skin to protect the area and ensure a clean, safe process.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "None.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "All waste will be collected in designated disposal bags and safely taken off-site after the event to ensure proper handling and cleanliness.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "My plan is to hold two workshops, starting around 1300 on two days during the week. My plan is to do them at Chateau Vadeau. But if you have a matching venue and event i would be happy to co-create!",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Our intention is to create ba warm, respectful and inspiring space. We believe our presence will bring a sense of beauty, creativity and connection. We are mindful to ensure our neighbours feel included, respected and ideally uplifted by what we create.",
+          "value": "This dream will be held att Chateu Vadeau.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Safety is our quiet superpower, thoughtfully held, gently felt and always present.",
+          "value": "This event will take place in the **Alchemist Chamber**, a space that in previous years has hosted experimental workshops and installations, including projects with touch, water, and mushroom synths. The space itself has been made possible through funding from earlier editions of the camp.\n\nSome of the walls were damaged in the last round of strong weather, so one of our stretch goals is to raise enough funds to repair or replace them for future use.\n\nOne night we might open our popular Absinth bar too!",
           "customField": {
-            "name": "Safety"
+            "name": "This dream belongs to camp:"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Workshop"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "What we bring  We bring a substantial part of the experience ourselves, including a large selection of our own clothing and accessories, makeup and styling tools, as well as mirrors, lighting and furniture. We also provide the sound system and core setup for the space.  This contribution forms the foundation, with the budget used to expand and elevate the shared wardrobe and atmosphere.",
-          "min": 30000,
+          "description": "Tattoo equipment",
+          "min": 6000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Vintage Wardrobe (second hand) Core outfits, accessories and transformative pieces",
-          "min": 3500,
-          "max": 7000,
+          "description": "Tattoo supplies for about 30-40 small tattoos including second skin, dissposable needles, razors etc",
+          "min": 2500,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Atmosphere & Textures (second hand) Rugs, mirrors, fabrics and soft lighting to shape the space ",
-          "min": 1500,
-          "max": 3500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Furniture (borrowed/second hand) Simple seating and small tables for rest and presence ",
-          "min": 800,
-          "max": 1800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Tools & Fixings Hangers, styling materials and setup essentials ",
-          "min": 400,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Make up",
-          "min": 200,
-          "max": 700,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Light snacks and care items",
+          "description": "Paper and pens for Sigil-design",
           "min": 500,
-          "max": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "2 yoga mats ",
+          "min": 600,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Pillows and props to make tattoos more comfortable",
+          "min": 0,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "6 meter new wall",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Bean bags for sitting (x3)",
+          "min": 0,
+          "max": 5500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wooden tablets for drawing",
+          "min": 500,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 30000,
-      "percentageFundedTrue": 434.78
+      "funded": 6000,
+      "percentageFundedTrue": 146.34
     },
     {
       "id": "cmnuoluz1001l126qa5ksdxwa",
@@ -57791,7 +57975,7 @@
       "id": "cmnn23xfi0001td9cffr0lj01",
       "title": "PORTal ",
       "summary": "The PORTal will be your greeting hotspot, an art experience as well as an educative space where you will learn the principles and ready for the week!",
-      "status": "FUNDED",
+      "status": "COMPLETED",
       "noOfFunders": 90,
       "noOfComments": 1,
       "percentageFunded": 100,
@@ -60505,140 +60689,113 @@
       "percentageFundedTrue": 76.56
     },
     {
-      "id": "cmnsw20ds000liglimp1mcapy",
-      "title": "The \"Everything is Political\" Chai Stand_2.0",
-      "summary": "We are offering homemade chai recipes while intervening on the inevitable, inescapable, and sometimes inconvenient fact that everything is political",
+      "id": "cmnslp1qs0011zu8p16mi6mla",
+      "title": "PORTal Stamps of the Principles",
+      "summary": "Get your favourite principle symbol as a stamp! Choose between 10 +1 principles.",
       "status": "FUNDED",
-      "noOfFunders": 23,
-      "noOfComments": 0,
-      "percentageFunded": 277.35,
-      "minGoal": 1400,
-      "maxGoal": 3100,
-      "income": 1600,
+      "noOfFunders": 17,
+      "noOfComments": 1,
+      "percentageFunded": 100,
+      "minGoal": 2600,
+      "maxGoal": 6800,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775826860/dreams/zyozbsndfwnnvwyjugup.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776019716/dreams/sgic5ktccaf2nupwnsrm.png"
         }
       ],
       "customFields": [
         {
-          "value": "Step into our chai cave where the air hums with sacred vibrations and the aroma of cardamom hangs thick enough to choke capitalism!\n\nImagine yourself floating in a cocoon of powerful mantras that vibrate your soul while you sip on chai so divine it could make a goddess weep with joy. Perfect for when you've lost your way between getting a tea at the Sanctuary or chasing your friends to Mumimaa. Our chai isn't just a beverage, it's a liquid revolution!\n\nWhen you emerge from your mantra-induced coma, join us for chai-fueled conversations about how the 11 principles are radical and political - and how great that is!\n\nWe welcome:\n\n*   People who already know everything is political\n    \n*   People who are terrified this is true, but want the opportunity to embrace this fear\n    \n*   People who want good chai and are prepared to chant for the liberation and joy of all living beings in the meantime\n    \n*   Anyone who can handle the truth that even in \"No-Borders-Land,\" power dynamics still exist\n    \n\n_P.S. And if talking about politics is not your cup of tea at Borderland.. well, sweetie, you've come to the wrong chai stand. But we'll still serve you tea, we're not monsters._",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "We are open to co-creation to bring in more non-Western cultures into the space, we would especially love to co-create with other POC who want to share their cultures and experiences at Borderland!",
+          "value": "If you want to be a greeeter, please sign up in the REA-platform! youre also welcome to join the build at 1st of may and before borderland <3",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "We will be on a move-able trolley, probably finding a spot for the day that doesn't disrupt anyone. We won't be taking up a lot of space and will be mindful that if we are to use a simple sound system that we are in the right zones for that. We think we will impact our neighbors only positively by offering them easy access to our delicious chai!",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We will have at most a one-speaker sound system that won't be very loud. Since we are on the move we will ensure that we don't disrupt any neighbors in the spots we choose to settle in for the day.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We will ensure their lives are not in danger by ensuring we have the right precautions and safety on all fronts!",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Our trolley will be easily dismantled in less than a few hours! Our set-up will be simple and effortless, and we will make sure to collect all of our belongings and THERE WILL BE NO MOOP!",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Alex Myerson, alex@myersons.co.uk",
+          "value": "Johanna Wahlström",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "The Bureau of Justice, Joy, Bubbles, and Other Dangerous Ideas",
+          "value": "Very safe",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Nope",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Put the stamps back into the pocket and go home!",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "The reality PORT",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "NA",
+          "value": "No",
           "customField": {
-            "name": "Electricity"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Arriving at Borderland you will get your wristband at the Threshold, and get greeted at the PORT.\n\nAt the PORT gate, you’ll get to choose your principle — the one that speaks to you most right now, this week, this version of you — and carry it as a stamp on your skin. Ten principles from Burning Man plus the eleventh, consent. Eleven symbols. One for you to claim as yours. It’s a tiny ritual with a bigger life: a conversation starter, an intention for the week, a way to find your people (“wait, you got Immediacy too?”), and a memory of the moment you crossed the threshold. Some people treat it like a tarot draw — not what you’d choose on a good day, but what you need right now. And if you’re new and don’t know the principles yet — perfect. That’s exactly what the PORT is for.​​​​​​​​​​​​​​​​",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "We are currently co-creating with Threshold, hopefully we bring good vibes only ;)",
+          "customField": {
+            "name": "Co-existence"
           }
         }
       ],
       "tags": [
         {
-          "value": "Experience"
+          "value": "Art walk apropriate"
         },
         {
-          "value": "Food"
+          "value": "Borderland infrastructure"
         },
         {
-          "value": "Healing"
+          "value": "Game"
         },
         {
-          "value": "Light"
+          "value": "Kids-friendly"
         },
         {
-          "value": "Meditation"
+          "value": "Pimping station"
+        },
+        {
+          "value": "Playful"
         }
       ],
       "budgetItems": [
         {
-          "description": "10L Thermos",
-          "min": 400,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Trolley ",
-          "min": 400,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Some decoration",
-          "min": 300,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Gas and stove ",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Masala spices",
-          "min": 400,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Oat Milk",
-          "min": 500,
-          "max": 800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Additional decoration (cushions, carpet, seating, table, lighting)",
-          "min": 500,
+          "description": "paint",
+          "min": 600,
           "max": 1800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "stamps",
+          "min": 2000,
+          "max": 5000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 1600,
-      "percentageFundedTrue": 114.29
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnw5r75d007gfp28qfil2wry",
@@ -72780,251 +72937,94 @@
       "percentageFundedTrue": 350.72
     },
     {
-      "id": "cmmyxi3qw0000fdkaxt2cd1bq",
-      "title": "The Roaming Snail 🐌",
-      "summary": "Royal Snail is on the move! Introducing...the Roaming Snail. Funky sounds, ridiculous shenanigans, slory holes, rum shots: all in a slow, snaily art carriage\n",
+      "id": "cmnoog70x000oxnzn81i1es59",
+      "title": "PORTal's Oracle cards of the principles",
+      "summary": "Which one of the 10+1 principles will be leading you through Borderland this year? hard to know beforehand but not if you have your cards read at the PORTal",
       "status": "FUNDED",
-      "noOfFunders": 75,
-      "noOfComments": 12,
-      "percentageFunded": 482.68,
-      "minGoal": 34925,
-      "maxGoal": 57097,
-      "income": 133652,
+      "noOfFunders": 15,
+      "noOfComments": 4,
+      "percentageFunded": 100,
+      "minGoal": 1529,
+      "maxGoal": 1538,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774025094/dreams/xppa7mr4goenimdotpcg.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774025240/dreams/aktxrtz5yv09llospbwr.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774028453/dreams/zyndpyygdrzxvi31ep5u.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776418684/dreams/r1fiyhveavtgm4ufgtse.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774028539/dreams/tuju1u2nh8kzufua5msx.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774028461/dreams/y6brpqxrnyxnmmkxzhwo.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776525825/dreams/dpqi7lqa8j9bep8tf583.png"
         }
       ],
       "customFields": [
         {
-          "value": "Snails are curious and engaging creatures; the roaming snail will be investigating with great enthusiasm potential collaborations with other camps.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Its all fun & games until someone gets runover. Lucky the snail will be moving very slowly. Also, all electrical do-da’s and bits 'n bobs are done properly. Also did I mention, we’re a very slow snail",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "We are indeed a loudsnail, aka soundcamp - but will make sure that when roaming, sound will be appropriate at appropriate places. We read the soundguide and Snaily Sound Sluts are on for shifts 🐌💋🔥",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The Royal Snail 🐌👑✨",
+          "value": "The reality PORTal",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Legs are for losers.\n\nThink of all the things you know and love from the Royal Snail: Theatrics! Left-coiling snail love stories. Spiritual-snail-sass, mini-everything and megaphone grilling. But now, mobile!\n\nBut wait, there’s more! Because the snails love chaos, and also friends, we’ll design a coupling system so you can come and build/bring your own cart to be pulled around.\n\nIt could be a sauna (I hear we’re aiming for 1-1 ratio of sauna to borderlanders), a costume closet, a wine and cheese tasting station, a giant crown… Really, just make a thing and we’ll attempt to tow you around - silliness loves company and moving always ups the adventure (also reduces flies).\n\nWe provide the base carriage (and towing power), coupling, sound, a base design (and a weight limit). You (hopefully) provide your mystery carts to be picked up and towed around.\n\nWill we inevitably get stuck somewhere in the mud at 3am? Will we end up running out of power at inconvenient places? Will we go the wrong way at all the wrong times?\n\nYES, YES, YES!\n\nSound good? :D Let’s make this happen.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "We will slime our way away with the main carriage (and the carts we build) and join moop sweep with all sass and LNT and pick up anything we see (as always) and contribute however we can to leave cleaner, greener, more beautiful Borderland. Other borderlands who bring the tag on carriages need to sort themselves out.",
+          "value": "We'll put them in a box and keep them for next year",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Josh Jordan:  \nEmail: [joshuansjordan@gmail.com](mailto:joshuansjordan@gmail.com)  \nPhone +31614639515",
+          "value": "To teach the principles and to transition into the Borderland world you will get an oportunity to have your cards read by our lovely greeters at the PORTal\n\nDo you wonder what the week ahead will teach you? Are you seeking to embody our principles fully? Draw a card and explore what the PORTacle has to tell you.\n\nListen carefully, your fate is written in the bubbles\"\n\nThe deck will contain cards inspired by the 10+1 principles and give you an opportunity to reflect and be guided to the coming week.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Description"
           }
         },
         {
-          "value": "The roaming snail will be self-powered by a large (upcycled) battery. We may, however, need electricity to charge while the snail sleeps.",
+          "value": "If you want to create artwork for some or all cards, please contact us. If you want to be a greeter and read with the cards then please sign up for a shift as a greeter at the REA platform",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "The cards will hang out at the PORTal",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "The cards dont scream in decibles, only in truth",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We'll make sure to have band aids if someone gets a paper cut",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "nope",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "The real experiment here is to see what happens when you give a platform for everyone to join the art car with their own special creations.\n\nWant to be dragged around slowly and snailily?\n\nSend us an email joshuansjordan@gmail.com or tag on discord so we can co-lab. @thebroccolismuggler\n\nWe may need a place that we can charge the roaming snail when not sliming around.\n\nThere will also be a soundsystem on-snail. If we’re really lucky maybe other sound camps (or camps who would like more sound) will collaborate. We would also really like, if the budget allows - streeetch goal dreamssss - to have a cardioid setup for the bass and bring more rum and FIRE. This way our RUMbly bass, bar and vibes can be directed long into the week (and into hay bales and away from asmr workshops). Also we can have flaming eye stalks!",
+          "value": "Johanna Wahlström",
           "customField": {
-            "name": "Co-creation"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Art installation"
-        },
-        {
-          "value": "Art vehicle"
-        },
-        {
-          "value": "Art walk apropriate"
-        },
-        {
-          "value": "Bar"
-        },
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Kids-friendly"
-        },
-        {
-          "value": "Music"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Weird shit"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Battery (11KW 48v recycled LiPo)",
-          "min": 86428,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Audio system (3kW amp, 2x12in mains, 1x12in sub, denon prim4)",
-          "min": 37033,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Snail eye stalks (recycled hose pipes)",
-          "min": 108,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Snail themed decorations (rum bar, fabric, lights)",
-          "min": 1297,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Pnematic actuators (suspension and fun moving)",
-          "min": 4336,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Spot lights",
-          "min": 4450,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Snail power (5kw inverter, 48v wiring, 48v-24v bus and converters)",
-          "min": 9036,
+          "description": "Cards",
+          "min": 1509,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Snail brian (microcontroller, 4g router, nvidia orin or pi, control panel) ",
-          "min": 4782,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Snail decoration (rebar, fabric materials, chanderllery, paint)",
-          "min": 3321,
-          "max": 5322,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Frame & build (Metal extrustions, fastenings, carriage connectors)",
-          "min": 3964,
-          "max": 5498,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Weather protection (ip64 electrical connectors, electronics box, waterproof sound cabling) ",
-          "min": 2455,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Drive system (VESC motor controllers x6,  750w hub motors x6, cabling, steering actuator)",
-          "min": 4764,
-          "max": 5304,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Consumables (gas, solder, cable ties, ratchets)",
-          "min": 650,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Safety (limit switches, big red stop button, (many) fuses)",
-          "min": 1273,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Lighting (adressable LED strips, spot lights, control board, cheap projector) ",
-          "min": 1160,
-          "max": 3260,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transport 50% petrol & ferry from Germany",
-          "min": 2500,
-          "max": 4501,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Audio (new coda pw12 sub (if anyone has one of these let me know!), tannoy i8 monitors)",
-          "min": 0,
-          "max": 9748,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Carriage (old vintage ideally!)",
-          "min": 1020,
-          "max": 4100,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Slory hole ingredients (slimy mushrooms, carboard)",
-          "min": 0,
-          "max": 86,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Rum",
-          "min": 0,
-          "max": 1082,
+          "description": "band aids",
+          "min": 20,
+          "max": 29,
           "type": "EXPENSE"
         }
       ],
-      "funded": 133652,
-      "percentageFundedTrue": 382.68
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnr5wrdu000fzwg1ke8s6c93",
