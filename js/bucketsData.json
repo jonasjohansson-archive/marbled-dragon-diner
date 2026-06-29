@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1782549317496,
+  "updatedAt": 1782730694320,
   "buckets": [
     {
       "id": "cmnvtz2rn0014x5n9849mksy5",
@@ -7150,113 +7150,168 @@
       "percentageFundedTrue": 8780
     },
     {
-      "id": "cmnw6l92y001r46z8enlpxygd",
-      "title": "Events in flowzone monkeybar",
-      "summary": "Workouts & workshops in the flowzone monkeybar. Nice music makes great workouts, wich also makes the need for great hairstyles. 🤸‍♀️",
-      "status": "FUNDED",
-      "noOfFunders": 17,
-      "noOfComments": 0,
-      "percentageFunded": 530,
-      "minGoal": 500,
-      "maxGoal": 3000,
+      "id": "cmnw5zfik00185tgjhcf7q8kv",
+      "title": "A.P.A (Anarcist Plutonia Attic)",
+      "summary": "HQ and chill for anarchists and apocalypse survivors",
+      "status": "PARTIAL_FUNDING",
+      "noOfFunders": 25,
+      "noOfComments": 1,
+      "percentageFunded": 66.37,
+      "minGoal": 22600,
+      "maxGoal": 43991,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776598318/dreams/syuayqrfuqqlgehaupjm.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776550790/dreams/polbkvq0xnjlziekzogh.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776598384/dreams/eynxcrmqazsl530xnvnh.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776551108/dreams/qho1mjrxnonidzsure9i.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776598462/dreams/mlb9v67ekpza1y8gby0x.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776551886/dreams/rwq8iflptlbiys60ghsq.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776024263/dreams/mhpiu49ujalwuezpcsiz.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Flowzone",
+          "value": "Plutonia",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Justina, Flowzonelair@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Yes!\n\nWe really like the pumpzone to be placed next to us.\n\nWe are looking for hosts/coaches to help us fill a shedule with workouts during the week.\n\nWe will try to gather experienced bodyweight/calisthenics- athletes for an open training session.\n\nWe are looking for people that can braid hair for the reggae & braids-event.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Same safety as the flowzone monkeybar, this is just to fund the events in the space.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Will be placed in a plaza with/right next to other camps with movement/flow/workshop-theme.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Strike on sunday",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "The flowzone monkeybar are expanding and we wish for fundings to make it more fun, by adding things like:\n\n*   Event: Reggae & braids\n    \n*   Workout of the day (maybe daily)\n    \n*   Daily discopump sessions\n    \n*   Signs with instructions & challenges to do by yourself whenever.\n    \n*   Decoration & materials for the workshops.",
+          "value": "The endless techno kept most survivors steady. Distracted. Contained.\n\n\\*_But not all._\\*\n\nA small group couldn’t process the collapse of their world through rhythm alone. The grief stayed. The anger grew louder. The past refused to dissolve. Only partying was not enough. They had to get real.\n\nSo they went deeper.\n\nThey had to talk about the rage in their hearts.\n\nThey had to face the monsters of their own past, and soon a forgotten corner, far back in the machine hall, the attic, came to life…\n\nUp here in the dark, no issue was left unspoken. There was space for the grief, the anger, the fear, the political dissonances and the need for connection through difficult feelings.\n\n\\*_Up there, nothing is avoided._\\*\n\n\\- Rage is expressed\n\n\\- Grief is held\n\n\\- Fear is spoken\n\n\\*_This is A.P.A._\\*\n\nUp in the A.P.A they trained their aim on dart boards with faces of their demons, holding each other through waves of shivering darkness, a return to the full spectrum of feeling.\n\nTo make the attic safe, we need to reinforce the floor, build walls, and a staircase. To make it chill, we need carpets, furniture, and decor.\n\nAnd a printer for making custom dart boards…\n\n\\*\n\nThe Loft exists as a lounge and chill out-area. Sofas, Darts xx",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Just a soundbox for workouts/workshops during daytime",
+          "value": "We welcome ideas of audiovisual art, workshops, DJs, and all other co-creations. Please reach out to any of the leads.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Any and all Borderlings are welcome to share APA loft, and we will build a proper staircase for easy access.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "The A.P.A Loft resides within the machine hall, which is soundproof, there is no sound pollution to neighbours. The room itself is soundproofed towards the stage for minimal sound pollution.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "No special electricity for workshops",
+          "value": "The sofas are designed to be easily rearranged and built with plastic pallets that can be kept for future use. Everything else will be removed and stored for BurnerBox possibilities.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "We will use the same grid as the machine hall.",
           "customField": {
             "name": "Electricity"
           }
+        },
+        {
+          "value": "There will be a 6kg powder fire extinguisher and an emergency exit 1.2m wide. We are planning for fire-safe materials in all construction.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Discord: bjornene",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Alversjö infrastructure"
+        },
+        {
+          "value": "Art installation"
+        },
+        {
+          "value": "Chillout"
+        },
+        {
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Music"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Mirrors",
-          "min": 100,
-          "max": 600,
+          "description": "Printer & A4 paper",
+          "min": 1500,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Material for making signs",
-          "min": 100,
-          "max": 600,
+          "description": "Carpets",
+          "min": 2500,
+          "max": 4000,
           "type": "EXPENSE"
         },
         {
-          "description": "Tools for braids and hairstyles",
-          "min": 100,
-          "max": 600,
+          "description": "Plastic Eu Pallet Chill",
+          "min": 1500,
+          "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "Decoration",
-          "min": 100,
-          "max": 600,
+          "description": "Wooden Picture Frames",
+          "min": 1000,
+          "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "Material for workouts (like chalk, towels)",
-          "min": 100,
-          "max": 600,
+          "description": "Concrete Reinforcement",
+          "min": 0,
+          "max": 10000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Access Ladder & Fire Scape",
+          "min": 7000,
+          "max": 10000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Floor Construction",
+          "min": 5000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Ligtning & Decor",
+          "min": 0,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fire Extinguisher",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wheeled Popcorn Cart",
+          "min": 3000,
+          "max": 3495,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Professional Printed Flyers",
+          "min": 600,
+          "max": 1496,
           "type": "EXPENSE"
         }
       ],
@@ -11909,110 +11964,164 @@
       "percentageFundedTrue": 37.37
     },
     {
-      "id": "cmnw5zog900avfaxoc53pmiof",
-      "title": "Cool Fucking Art Car ",
-      "summary": "Borderland needs more fire spitting art cars! ",
-      "status": "CANCELED",
-      "noOfFunders": 0,
-      "noOfComments": 5,
-      "percentageFunded": 14.37,
-      "minGoal": 20000,
-      "maxGoal": 21500,
-      "income": 1300,
+      "id": "cmnw5lij2006x13zhmxbs0ql7",
+      "title": "Halloumi-nati",
+      "summary": "The Holy Cheese Temple - In Caseus Veritas\n\nBorderland… where the palate grows weary and the soul craves salt, a new order rises: Halloumi-nati.\n",
+      "status": "FUNDED",
+      "noOfFunders": 49,
+      "noOfComments": 0,
+      "percentageFunded": 100.61,
+      "minGoal": 5700,
+      "maxGoal": 7500,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776029528/dreams/iipqcsk5wqzagcgtgfa6.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776024592/dreams/cbhgpoirh8piois9bwwa.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776372047/dreams/xqu3vrntgxsjsrlzw6xx.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776372709/dreams/pehufqwy4pminmxbcuvz.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "The sound of a nice roaring car.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "No camp",
+          "value": "Halloumi-nati",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "The car will be driven out of the älversjö.",
+          "value": "We do not serve food—we facilitate a multi-sensory immersion into the essence of cheese. True healing begins at the temple, where cheese becomes the medium for spiritual and physical realignment.\n\nAt night, the black temple appears in the woods or on the playa. Seek the priests and priestesses. To enter, you must undergo a twofold purification: first, your spirit is cleansed with the Sacred Brine of the Ancients (Holy Feta Water). Then present your vessel—before receiving the Fermented Blood of the Vine, you must confess a sin. Drink, be absolved, and step inside.\n\n**The Experience**\n\nOnce the veil lifts, the mundane dissolves. Inside Halloumi-nati, we do not eat—we transcend. Through Lacto-Sensory Play, we guide you beyond the physical self:\n\n*   **Chakra Brie-alignment:** Fromage-therapists place cheeses on your energy centers. Parmesan grounds your root chakra; goat cheese opens your third eye.\n    \n*   **The Umami Baptism:** A ritual tasting—from airy ricotta to the deep intensity of blue cheese.\n    \n*   **The Altar of the Monolith:** The Holy Cheese rests beneath glass, bathed in celestial light. Inhale its aura—but to touch is to court madness.",
           "customField": {
-            "name": "Strike plan"
+            "name": "Description"
           }
         },
         {
-          "value": "The driver will of course always be sober as a dry leaf 🍂🍂\n\nRegarding the fire strict measures will be taken to keep everything safe. There will be several fire extinguishers and fire blankets.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "The car will avoid being driven at night close to residential areas.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Unless the battery unexpectedly die there is no need for electricity.",
+          "value": "Not needed",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "@Wetdreamz",
+          "value": "always open- amen.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "The temple will appear in the dark woods or on the playa. Always aware of our surroundings and our neighbors.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "matildaK on discord",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Borderland need more cool art cars with fire!\n\nThe plan:\n\nBuy a used Kinroad 650 which is an off-road vehicle but registered for normal roads.\n\nThe car will be made available through the burnerbox for other people of the community to rent for free or for a symbolic fee. Will be located I Stockholm.\n\nThe team has a mechanical engineering but that degree will not be that useful. The work is mainly to fit the probane equipment to the car and adding decoration the chassi.\n\nPlans include expanding the rear section to create a small seating area, enabling the transport of additional passengers.\n\nThe car ad:\n\n[https://www.blocket.se/mobility/item/22063765](https://www.blocket.se/mobility/item/22063765)",
+          "value": "The danish aged ones might be a safety problem.",
           "customField": {
-            "name": "Description"
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We will make sure all cheese goes inside bodies. We will LNT.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Semi-high- high levels of chanting and moaning.",
+          "customField": {
+            "name": "Sound levels"
           }
         }
       ],
       "tags": [
         {
-          "value": "Art vehicle"
+          "value": "Experience"
         },
         {
-          "value": "BurnerBox"
+          "value": "Food"
         },
         {
-          "value": "Fire"
+          "value": "Meditation"
         }
       ],
       "budgetItems": [
         {
-          "description": "Fire extinguisher",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fire blanket",
-          "min": 300,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Kinroad 650 ",
-          "min": 20000,
+          "description": "Holy cheese 🙌🏻",
+          "min": 150,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Propane",
-          "min": 0,
-          "max": 1500,
+          "description": "Cheese dome for holy cheese",
+          "min": 100,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Holy feta water",
+          "min": 100,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "CHEESE",
+          "min": 1500,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Alcohol free wine of the Holy Spirit",
+          "min": 600,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Black vinyl gloves",
+          "min": 150,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cooler backpack for food safety",
+          "min": 200,
+          "max": 300,
+          "type": "EXPENSE"
+        },
+        {
+          "description": " Decoratiorations & lights",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Tent black 2x2m",
+          "min": 1500,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Trolley for nocternal journeys on the playa",
+          "min": 600,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Black soft fabrics / pillows / matress ",
+          "min": 300,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 1300,
-      "percentageFundedTrue": 6.5
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnvuxnw5002nx5n9r4sy4c8y",
@@ -14137,113 +14246,110 @@
       "percentageFundedTrue": 84.31
     },
     {
-      "id": "cmnw638ed006m69ep58ncouy5",
-      "title": "Human Sized Kaleidoscope",
-      "summary": "An interactive visual art piece. The size of a human. ",
-      "status": "FUNDED",
-      "noOfFunders": 66,
-      "noOfComments": 3,
-      "percentageFunded": 117.21,
-      "minGoal": 5650,
-      "maxGoal": 10700,
-      "income": 0,
+      "id": "cmnw5zog900avfaxoc53pmiof",
+      "title": "Cool Fucking Art Car ",
+      "summary": "Borderland needs more fire spitting art cars! ",
+      "status": "CANCELED",
+      "noOfFunders": 0,
+      "noOfComments": 5,
+      "percentageFunded": 14.37,
+      "minGoal": 20000,
+      "maxGoal": 21500,
+      "income": 1300,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776023597/dreams/js74l2l9roec9yicbidj.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776029528/dreams/iipqcsk5wqzagcgtgfa6.png"
         }
       ],
       "customFields": [
         {
-          "value": "Explorers",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Imagine stumbling upon a cozy spot where you can both relax your dance tired legs on a warm fur, and let your friend twist reality into fractals. Because sometimes you just need the world to be even more intense than it already was! That is what the Human Sized Kaleidoscope is all about.\n\nIt is an interactive visual art installation, intended for one or more persons to watch, and others can use light sources and props to create patterns in infinity.\n\nThe installation will be designed as a hybrid between art and playground, making sure that it is something you interact with, rather than only spectate.\n\nThe kaleidoscope will be constructed by large acrylic mirrors, a support structure, LEDs and more to play around with.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Gustav Nilsson. Email.",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "The installation is meant as an opportunity for particiants to create interesting visual experiences for each other. The aim is to be a hybrid between art piece and playground.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "It will hopefully be a pleasant addition to the neighbourhood, but not affect the surroundings too much.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Care will be taken to make the installation wind safe. That is probably the biggest hazard to take into account.\n\nThe structure will be acrylic, rather than glass.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Hopefully the loudest part of the installation is hippies laughing",
+          "value": "The sound of a nice roaring car.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "The installation will be modular and not contain small parts. It will be both transportable and hard to accidentally leave behind.",
+          "value": "No camp",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "The car will be driven out of the älversjö.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "some, but only to power some LEDs.",
+          "value": "The driver will of course always be sober as a dry leaf 🍂🍂\n\nRegarding the fire strict measures will be taken to keep everything safe. There will be several fire extinguishers and fire blankets.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "The car will avoid being driven at night close to residential areas.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Unless the battery unexpectedly die there is no need for electricity.",
           "customField": {
             "name": "Electricity"
+          }
+        },
+        {
+          "value": "@Wetdreamz",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Borderland need more cool art cars with fire!\n\nThe plan:\n\nBuy a used Kinroad 650 which is an off-road vehicle but registered for normal roads.\n\nThe car will be made available through the burnerbox for other people of the community to rent for free or for a symbolic fee. Will be located I Stockholm.\n\nThe team has a mechanical engineering but that degree will not be that useful. The work is mainly to fit the probane equipment to the car and adding decoration the chassi.\n\nPlans include expanding the rear section to create a small seating area, enabling the transport of additional passengers.\n\nThe car ad:\n\n[https://www.blocket.se/mobility/item/22063765](https://www.blocket.se/mobility/item/22063765)",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [
         {
-          "value": "Art installation"
+          "value": "Art vehicle"
         },
         {
-          "value": "Hippie trap"
+          "value": "BurnerBox"
+        },
+        {
+          "value": "Fire"
         }
       ],
       "budgetItems": [
         {
-          "description": "acrylic mirrors",
-          "min": 5000,
-          "max": 8000,
+          "description": "Fire extinguisher",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fire blanket",
+          "min": 300,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Kinroad 650 ",
+          "min": 20000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Support structure",
-          "min": 500,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "LEDs and props",
-          "min": 100,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wind anchors",
-          "min": 50,
-          "max": 200,
+          "description": "Propane",
+          "min": 0,
+          "max": 1500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 1300,
+      "percentageFundedTrue": 6.5
     },
     {
       "id": "cmnvyxq0i0075htvl7t9wljfo",
@@ -18303,159 +18409,113 @@
       "percentageFundedTrue": 41.67
     },
     {
-      "id": "cmnw5lij2006x13zhmxbs0ql7",
-      "title": "Halloumi-nati",
-      "summary": "The Holy Cheese Temple - In Caseus Veritas\n\nBorderland… where the palate grows weary and the soul craves salt, a new order rises: Halloumi-nati.\n",
+      "id": "cmnw6l92y001r46z8enlpxygd",
+      "title": "Events in flowzone monkeybar",
+      "summary": "Workouts & workshops in the flowzone monkeybar. Nice music makes great workouts, wich also makes the need for great hairstyles. 🤸‍♀️",
       "status": "FUNDED",
-      "noOfFunders": 49,
+      "noOfFunders": 17,
       "noOfComments": 0,
-      "percentageFunded": 100.61,
-      "minGoal": 5700,
-      "maxGoal": 7500,
+      "percentageFunded": 530,
+      "minGoal": 500,
+      "maxGoal": 3000,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776024592/dreams/cbhgpoirh8piois9bwwa.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776598318/dreams/syuayqrfuqqlgehaupjm.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776372047/dreams/xqu3vrntgxsjsrlzw6xx.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776598384/dreams/eynxcrmqazsl530xnvnh.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776372709/dreams/pehufqwy4pminmxbcuvz.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776598462/dreams/mlb9v67ekpza1y8gby0x.png"
         }
       ],
       "customFields": [
         {
-          "value": "Halloumi-nati",
+          "value": "Flowzone",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "We do not serve food—we facilitate a multi-sensory immersion into the essence of cheese. True healing begins at the temple, where cheese becomes the medium for spiritual and physical realignment.\n\nAt night, the black temple appears in the woods or on the playa. Seek the priests and priestesses. To enter, you must undergo a twofold purification: first, your spirit is cleansed with the Sacred Brine of the Ancients (Holy Feta Water). Then present your vessel—before receiving the Fermented Blood of the Vine, you must confess a sin. Drink, be absolved, and step inside.\n\n**The Experience**\n\nOnce the veil lifts, the mundane dissolves. Inside Halloumi-nati, we do not eat—we transcend. Through Lacto-Sensory Play, we guide you beyond the physical self:\n\n*   **Chakra Brie-alignment:** Fromage-therapists place cheeses on your energy centers. Parmesan grounds your root chakra; goat cheese opens your third eye.\n    \n*   **The Umami Baptism:** A ritual tasting—from airy ricotta to the deep intensity of blue cheese.\n    \n*   **The Altar of the Monolith:** The Holy Cheese rests beneath glass, bathed in celestial light. Inhale its aura—but to touch is to court madness.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Not needed",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "always open- amen.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "The temple will appear in the dark woods or on the playa. Always aware of our surroundings and our neighbors.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "matildaK on discord",
+          "value": "Justina, Flowzonelair@gmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "The danish aged ones might be a safety problem.",
+          "value": "Yes!\n\nWe really like the pumpzone to be placed next to us.\n\nWe are looking for hosts/coaches to help us fill a shedule with workouts during the week.\n\nWe will try to gather experienced bodyweight/calisthenics- athletes for an open training session.\n\nWe are looking for people that can braid hair for the reggae & braids-event.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Same safety as the flowzone monkeybar, this is just to fund the events in the space.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "We will make sure all cheese goes inside bodies. We will LNT.",
+          "value": "Will be placed in a plaza with/right next to other camps with movement/flow/workshop-theme.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Strike on sunday",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Semi-high- high levels of chanting and moaning.",
+          "value": "The flowzone monkeybar are expanding and we wish for fundings to make it more fun, by adding things like:\n\n*   Event: Reggae & braids\n    \n*   Workout of the day (maybe daily)\n    \n*   Daily discopump sessions\n    \n*   Signs with instructions & challenges to do by yourself whenever.\n    \n*   Decoration & materials for the workshops.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Just a soundbox for workouts/workshops during daytime",
           "customField": {
             "name": "Sound levels"
           }
-        }
-      ],
-      "tags": [
-        {
-          "value": "Experience"
         },
         {
-          "value": "Food"
-        },
-        {
-          "value": "Meditation"
+          "value": "No special electricity for workshops",
+          "customField": {
+            "name": "Electricity"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Holy cheese 🙌🏻",
-          "min": 150,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cheese dome for holy cheese",
+          "description": "Mirrors",
           "min": 100,
-          "max": null,
+          "max": 600,
           "type": "EXPENSE"
         },
         {
-          "description": "Holy feta water",
+          "description": "Material for making signs",
           "min": 100,
-          "max": null,
+          "max": 600,
           "type": "EXPENSE"
         },
         {
-          "description": "CHEESE",
-          "min": 1500,
-          "max": 2500,
+          "description": "Tools for braids and hairstyles",
+          "min": 100,
+          "max": 600,
           "type": "EXPENSE"
         },
         {
-          "description": "Alcohol free wine of the Holy Spirit",
-          "min": 600,
-          "max": null,
+          "description": "Decoration",
+          "min": 100,
+          "max": 600,
           "type": "EXPENSE"
         },
         {
-          "description": "Black vinyl gloves",
-          "min": 150,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cooler backpack for food safety",
-          "min": 200,
-          "max": 300,
-          "type": "EXPENSE"
-        },
-        {
-          "description": " Decoratiorations & lights",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Tent black 2x2m",
-          "min": 1500,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Trolley for nocternal journeys on the playa",
-          "min": 600,
-          "max": 800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Black soft fabrics / pillows / matress ",
-          "min": 300,
-          "max": null,
+          "description": "Material for workouts (like chalk, towels)",
+          "min": 100,
+          "max": 600,
           "type": "EXPENSE"
         }
       ],
@@ -18463,173 +18523,125 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnw5zfik00185tgjhcf7q8kv",
-      "title": "A.P.A (Anarcist Plutonia Attic)",
-      "summary": "HQ and chill for anarchists and apocalypse survivors",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 25,
-      "noOfComments": 1,
-      "percentageFunded": 66.37,
-      "minGoal": 22600,
-      "maxGoal": 43991,
-      "income": 0,
+      "id": "cmnw6ck1y00cb13zhrgkh50xe",
+      "title": "The Pre-game Ritual",
+      "summary": "We all know it, getting ready together, crowded by the mirrors. Heading out in the night realizing that the most magical part of the night was, as always...",
+      "status": "FUNDED",
+      "noOfFunders": 24,
+      "noOfComments": 0,
+      "percentageFunded": 210.52,
+      "minGoal": 1900,
+      "maxGoal": 3000,
+      "income": 1000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776550790/dreams/polbkvq0xnjlziekzogh.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776551108/dreams/qho1mjrxnonidzsure9i.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776551886/dreams/rwq8iflptlbiys60ghsq.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776024263/dreams/mhpiu49ujalwuezpcsiz.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776023386/dreams/gqtdfhgmyy74rzilwzo2.avif"
         }
       ],
       "customFields": [
         {
-          "value": "Plutonia",
+          "value": "Tahinians",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "The endless techno kept most survivors steady. Distracted. Contained.\n\n\\*_But not all._\\*\n\nA small group couldn’t process the collapse of their world through rhythm alone. The grief stayed. The anger grew louder. The past refused to dissolve. Only partying was not enough. They had to get real.\n\nSo they went deeper.\n\nThey had to talk about the rage in their hearts.\n\nThey had to face the monsters of their own past, and soon a forgotten corner, far back in the machine hall, the attic, came to life…\n\nUp here in the dark, no issue was left unspoken. There was space for the grief, the anger, the fear, the political dissonances and the need for connection through difficult feelings.\n\n\\*_Up there, nothing is avoided._\\*\n\n\\- Rage is expressed\n\n\\- Grief is held\n\n\\- Fear is spoken\n\n\\*_This is A.P.A._\\*\n\nUp in the A.P.A they trained their aim on dart boards with faces of their demons, holding each other through waves of shivering darkness, a return to the full spectrum of feeling.\n\nTo make the attic safe, we need to reinforce the floor, build walls, and a staircase. To make it chill, we need carpets, furniture, and decor.\n\nAnd a printer for making custom dart boards…\n\n\\*\n\nThe Loft exists as a lounge and chill out-area. Sofas, Darts xx",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "We welcome ideas of audiovisual art, workshops, DJs, and all other co-creations. Please reach out to any of the leads.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Any and all Borderlings are welcome to share APA loft, and we will build a proper staircase for easy access.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "The A.P.A Loft resides within the machine hall, which is soundproof, there is no sound pollution to neighbours. The room itself is soundproofed towards the stage for minimal sound pollution.",
+          "value": "We will have a speaker with bubbly pumpy music on but nothing crazy",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "The sofas are designed to be easily rearranged and built with plastic pallets that can be kept for future use. Everything else will be removed and stored for BurnerBox possibilities.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "We will use the same grid as the machine hall.",
+          "value": "Yes we have it from our Tahinians Dream",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "There will be a 6kg powder fire extinguisher and an emergency exit 1.2m wide. We are planning for fire-safe materials in all construction.",
+          "value": "We will strike this dream on the same day as we host this party. We moop once the party is over and will spend the next day cleaning up if anything is missed. We will also do a proper strike of the camp on the Sunday where we will take care of everything and anything which may have been missed.",
           "customField": {
-            "name": "Safety"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "Discord: bjornene",
+          "value": "The Queen of Molson  \nMolsonqueen@gmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We have all been there. You have the most amazing time getting ready with your friends. The anticipation of the night is through the roof, the sparkling wine is flowing, skirts thrown on and off in a wild dance looking for the perfect outfit, we laugh and cry as the mascara stains the glam we just spent the last 30 minutes on. We are crowded in front of the mirrors, smudging all colours of the rainbow on our own and each others faces. Glitter is everywhere (bio, of course). The smell of nail polish is just as intoxicating as the wine which is now emptied from many many bottles. Tipsy is the best way to describe everything in this picture, that perfect trance you can only end up in with the bestest of friends and the unknowing of the night ahead.  \nAnd then, once the evening is but a memory and you wake up reminiscing of the night, it's once again oh so clear.. The best part of the night was the pre-game. Just as clear as 1+1 is always 2. We, the Tahinians, want to welcome you to an event where the WHOLE party is the pre-game party. Now, what does this mean? It means.. The party never stops because it simply never begins and therefore is it... Forever?  \nWe bring the glam, mirrors, sparkling wine and vibes for the best time ever <3",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "We are clear with the ingredients in the snacks we are serving in case of allergies and have a camp equipped with water, places to rest and first aid equipment.",
+          "customField": {
+            "name": "Safety"
           }
         }
       ],
       "tags": [
         {
-          "value": "Alversjö infrastructure"
+          "value": "Pimping station"
         },
         {
-          "value": "Art installation"
-        },
-        {
-          "value": "Chillout"
-        },
-        {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Music"
+          "value": "Weird shit"
         }
       ],
       "budgetItems": [
         {
-          "description": "Printer & A4 paper",
-          "min": 1500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Carpets",
-          "min": 2500,
-          "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Plastic Eu Pallet Chill",
-          "min": 1500,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wooden Picture Frames",
+          "description": "Speaker and tent",
           "min": 1000,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Concrete Reinforcement",
-          "min": 0,
-          "max": 10000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Access Ladder & Fire Scape",
-          "min": 7000,
-          "max": 10000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Floor Construction",
-          "min": 5000,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Snacks",
+          "min": 200,
+          "max": 300,
           "type": "EXPENSE"
         },
         {
-          "description": "Ligtning & Decor",
-          "min": 0,
-          "max": 3000,
+          "description": "Fruit",
+          "min": 200,
+          "max": 300,
           "type": "EXPENSE"
         },
         {
-          "description": "Fire Extinguisher",
+          "description": "Temporary tattoos",
+          "min": 300,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Costume supplies, vibes, feather boa",
+          "min": 300,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Makeup",
+          "min": 100,
+          "max": 200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Beverages",
           "min": 500,
-          "max": null,
+          "max": 700,
           "type": "EXPENSE"
         },
         {
-          "description": "Wheeled Popcorn Cart",
-          "min": 3000,
-          "max": 3495,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Professional Printed Flyers",
-          "min": 600,
-          "max": 1496,
+          "description": "Eco-glitter/nail polish/glam",
+          "min": 300,
+          "max": 500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 1000,
+      "percentageFundedTrue": 52.63
     },
     {
       "id": "cmniuj2ec0000ylerz2e3am1q",
@@ -19012,125 +19024,136 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnw6ck1y00cb13zhrgkh50xe",
-      "title": "The Pre-game Ritual",
-      "summary": "We all know it, getting ready together, crowded by the mirrors. Heading out in the night realizing that the most magical part of the night was, as always...",
-      "status": "FUNDED",
-      "noOfFunders": 24,
-      "noOfComments": 0,
-      "percentageFunded": 210.52,
-      "minGoal": 1900,
-      "maxGoal": 3000,
-      "income": 1000,
+      "id": "cmnw68u7s00ap13zhdlinlym9",
+      "title": "Wire Sculptures - by Dreamer’s Maze",
+      "summary": "human-size wire sculpture creatures, possibly within a psychedelic forest or in a spider’s inn",
+      "status": "CANCELED",
+      "noOfFunders": 0,
+      "noOfComments": 2,
+      "percentageFunded": 28.26,
+      "minGoal": 4600,
+      "maxGoal": 12500,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776023386/dreams/gqtdfhgmyy74rzilwzo2.avif"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776034708/dreams/cbihacvasr3euyiomjjp.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776034984/dreams/zm7bbuen5oipyihhlumj.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776034998/dreams/wcugwofmblmcrk6qw6yz.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776035178/dreams/goqwzx4ejzcrnn6ypuij.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776035192/dreams/rww2qd06gs2swb97ghc6.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776035206/dreams/wlpg5ims8hl2uc7xbrz1.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776035241/dreams/zh95yrzskijli99eefaj.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776035368/dreams/gwsdpetfzi1m3ab24eir.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776083030/dreams/ak8v0gv6y9snfau6djsw.gif"
         }
       ],
       "customFields": [
         {
-          "value": "Tahinians",
+          "value": "Dreamer’s Maze",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "We will have a speaker with bubbly pumpy music on but nothing crazy",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Yes we have it from our Tahinians Dream",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "We will strike this dream on the same day as we host this party. We moop once the party is over and will spend the next day cleaning up if anything is missed. We will also do a proper strike of the camp on the Sunday where we will take care of everything and anything which may have been missed.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "The Queen of Molson  \nMolsonqueen@gmail.com",
+          "value": "feel free to reach out to me on Whatsapp, Facebook or Discord.\n\nDerin Evcim @derinevcim +31649551187",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "We have all been there. You have the most amazing time getting ready with your friends. The anticipation of the night is through the roof, the sparkling wine is flowing, skirts thrown on and off in a wild dance looking for the perfect outfit, we laugh and cry as the mascara stains the glam we just spent the last 30 minutes on. We are crowded in front of the mirrors, smudging all colours of the rainbow on our own and each others faces. Glitter is everywhere (bio, of course). The smell of nail polish is just as intoxicating as the wine which is now emptied from many many bottles. Tipsy is the best way to describe everything in this picture, that perfect trance you can only end up in with the bestest of friends and the unknowing of the night ahead.  \nAnd then, once the evening is but a memory and you wake up reminiscing of the night, it's once again oh so clear.. The best part of the night was the pre-game. Just as clear as 1+1 is always 2. We, the Tahinians, want to welcome you to an event where the WHOLE party is the pre-game party. Now, what does this mean? It means.. The party never stops because it simply never begins and therefore is it... Forever?  \nWe bring the glam, mirrors, sparkling wine and vibes for the best time ever <3",
+          "value": "It will be part of a co-creation of the Maze. It can be combined with other art.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "There will be two types of wire sculptures.\n\nA) Creatures / characters / otherworldly trees\n\nB) Immersive space/environment building art:\n\nIdea 1) psychedelic forest ivy or swamp roots shaping the space. You can bend the wire and change the shape of the space.\n\nIdea 2) Spider webs. You have to move around and through the webs.\n\nWire sculpting is a self-thought hobby I’ve been doing since childhood. My dream is to make more human-size wire art and bring it to Borderland.\n\nThe reason I started the Maze was to be able to bring my own personal art into an art maze. I hope to realize this dream this year.\n\nI just rented an Atelier spot in Amsterdam. I am aiming to be making wire sculptures up until Borderland and transport it.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "We are clear with the ingredients in the snacks we are serving in case of allergies and have a camp equipped with water, places to rest and first aid equipment.",
+          "value": "The produced art style will fit the theme of the overall art maze.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Possibly some immersive music, depending on where the sculptures will be situated and if there is other music at adjacent art rooms.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "500W",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "There will be fire exit paths. The wire will be placed in a way that people don’t trip and fall",
           "customField": {
             "name": "Safety"
           }
-        }
-      ],
-      "tags": [
-        {
-          "value": "Pimping station"
         },
         {
-          "value": "Weird shit"
+          "value": "The Strike starts on Sunday, lasts until the LNT is complete. Last year the strike lasted until Tuesday night after Borderland. We also join Borderland Strike meetings and collaborate with Borderland Strike lead.",
+          "customField": {
+            "name": "Strike plan"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Speaker and tent",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Snacks",
-          "min": 200,
-          "max": 300,
+          "description": "Aluminum / copper wire for human-size sculptures",
+          "min": 2500,
+          "max": 6000,
           "type": "EXPENSE"
         },
         {
-          "description": "Fruit",
-          "min": 200,
-          "max": 300,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Temporary tattoos",
-          "min": 300,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Costume supplies, vibes, feather boa",
-          "min": 300,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Makeup",
-          "min": 100,
-          "max": 200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Beverages",
+          "description": "UV reactive spray paint / finishing paint",
           "min": 500,
-          "max": 700,
+          "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "Eco-glitter/nail polish/glam",
+          "description": "UV Lights",
+          "min": 1000,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Mounting / fastening materials zip ties, hanging wire, hooks, connectors, tape etc.",
           "min": 300,
-          "max": 500,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Protective / work materials gloves, masks, goggles, cutters / pliers replacement etc.",
+          "min": 300,
+          "max": 1000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 1000,
-      "percentageFundedTrue": 52.63
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnun8e3q003eztaje975yqm8",
@@ -55532,131 +55555,95 @@
       "percentageFundedTrue": 588.24
     },
     {
-      "id": "cmnw68u7s00ap13zhdlinlym9",
-      "title": "Wire Sculptures - by Dreamer’s Maze",
-      "summary": "human-size wire sculpture creatures, possibly within a psychedelic forest or in a spider’s inn",
-      "status": "CANCELED",
-      "noOfFunders": 0,
-      "noOfComments": 2,
-      "percentageFunded": 28.26,
-      "minGoal": 4600,
-      "maxGoal": 12500,
+      "id": "cmnw5ywa0006969epfs8ykc93",
+      "title": "Crazy Cool Flags",
+      "summary": "Shimmering, super-lightweight flags that move in a way that is out of this world.",
+      "status": "FUNDED",
+      "noOfFunders": 9,
+      "noOfComments": 1,
+      "percentageFunded": 133.33,
+      "minGoal": 600,
+      "maxGoal": 1500,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776034708/dreams/cbihacvasr3euyiomjjp.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776034984/dreams/zm7bbuen5oipyihhlumj.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776034998/dreams/wcugwofmblmcrk6qw6yz.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776035178/dreams/goqwzx4ejzcrnn6ypuij.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776035192/dreams/rww2qd06gs2swb97ghc6.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776035206/dreams/wlpg5ims8hl2uc7xbrz1.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776035241/dreams/zh95yrzskijli99eefaj.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776035368/dreams/gwsdpetfzi1m3ab24eir.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776083030/dreams/ak8v0gv6y9snfau6djsw.gif"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776590402/dreams/f4mllmbjxu4mzxaams3z.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Dreamer’s Maze",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "feel free to reach out to me on Whatsapp, Facebook or Discord.\n\nDerin Evcim @derinevcim +31649551187",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "It will be part of a co-creation of the Maze. It can be combined with other art.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "There will be two types of wire sculptures.\n\nA) Creatures / characters / otherworldly trees\n\nB) Immersive space/environment building art:\n\nIdea 1) psychedelic forest ivy or swamp roots shaping the space. You can bend the wire and change the shape of the space.\n\nIdea 2) Spider webs. You have to move around and through the webs.\n\nWire sculpting is a self-thought hobby I’ve been doing since childhood. My dream is to make more human-size wire art and bring it to Borderland.\n\nThe reason I started the Maze was to be able to bring my own personal art into an art maze. I hope to realize this dream this year.\n\nI just rented an Atelier spot in Amsterdam. I am aiming to be making wire sculptures up until Borderland and transport it.",
+          "value": "Shimmering, super-lightweight flags that move in a way that is out of this world.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "The produced art style will fit the theme of the overall art maze.",
+          "value": "I will personally remove all traces of this dream.",
           "customField": {
-            "name": "Co-existence"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "Possibly some immersive music, depending on where the sculptures will be situated and if there is other music at adjacent art rooms.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "500W",
+          "value": "None needed",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "There will be fire exit paths. The wire will be placed in a way that people don’t trip and fall",
+          "value": "Oskar, @knots\\_knots on the borderland discord",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "No Safety concerns",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "The Strike starts on Sunday, lasts until the LNT is complete. Last year the strike lasted until Tuesday night after Borderland. We also join Borderland Strike meetings and collaborate with Borderland Strike lead.",
+          "value": "No sounds. Quiet as the wind (literally)",
           "customField": {
-            "name": "Strike plan"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "It hopefully affects neighbors positively. When setting the flags, I will talk to the neighbors to ensure that they approve of them.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Not really.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "No name yet.",
+          "customField": {
+            "name": "This dream belongs to camp:"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "Aluminum / copper wire for human-size sculptures",
-          "min": 2500,
-          "max": 6000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "UV reactive spray paint / finishing paint",
-          "min": 500,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "UV Lights",
-          "min": 1000,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Mounting / fastening materials zip ties, hanging wire, hooks, connectors, tape etc.",
+          "description": "Organza Fabrics",
           "min": 300,
           "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Protective / work materials gloves, masks, goggles, cutters / pliers replacement etc.",
-          "min": 300,
-          "max": 1000,
+          "description": "Poles",
+          "min": 200,
+          "max": 400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Thread or glue for holding the flag together",
+          "min": 100,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
@@ -59077,100 +59064,239 @@
       "percentageFundedTrue": 70.09
     },
     {
-      "id": "cmnw5ywa0006969epfs8ykc93",
-      "title": "Crazy Cool Flags",
-      "summary": "Shimmering, super-lightweight flags that move in a way that is out of this world.",
-      "status": "FUNDED",
-      "noOfFunders": 9,
-      "noOfComments": 1,
-      "percentageFunded": 133.33,
-      "minGoal": 600,
-      "maxGoal": 1500,
-      "income": 0,
+      "id": "cmnw5p8d1009tfaxoolkobeom",
+      "title": "Ångström - Sound & Light - Open Stage",
+      "summary": "A audiophile-grade sound stage and dancefloor, lights, projections and laser, holographic visuals. Open stage for live acts and scheduled artists/DJs.",
+      "status": "PARTIAL_FUNDING",
+      "noOfFunders": 65,
+      "noOfComments": 6,
+      "percentageFunded": 265.3,
+      "minGoal": 36750,
+      "maxGoal": 53350,
+      "income": 77500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776590402/dreams/f4mllmbjxu4mzxaams3z.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776202042/dreams/qkaa4ykjyr96krpjgxru.webp"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776172745/dreams/v4ntjzzjy9i94cxxuti7.png"
         }
       ],
       "customFields": [
         {
-          "value": "Shimmering, super-lightweight flags that move in a way that is out of this world.",
+          "value": "Maybe a Camp",
           "customField": {
-            "name": "Description"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "I will personally remove all traces of this dream.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "None needed",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Oskar, @knots\\_knots on the borderland discord",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "No Safety concerns",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "No sounds. Quiet as the wind (literally)",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "It hopefully affects neighbors positively. When setting the flags, I will talk to the neighbors to ensure that they approve of them.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Not really.",
+          "value": "Yes — actively wanted. Looking for: VJs and projection artists who want to collaborate (need to coordinate, reach out before late), camps or **dreamers wanting to co-create the chill-out pockets around the dancefloor.** Live performers and vocalists welcome through the walk-up program. **Contact on Discord:** neoncortex\\_",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "No name yet.",
+          "value": "Teardown begins monday morning. Items purchased with grant funds inventoried, photographed, and handed to designated caretakers for storage and reuse at future burns and by other dreams. Full MOOP sweep of stage footprint and surroundings.",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Main-stage loud within dB limit; scales down near curfew.\n\n**Rig:** PA: 4-8× 18\" subs, 4-6 tops, 14 kW amplification, DSP. FOH dB meter, soft ceiling −3 dB. Trialing active noise cancelling outdoors.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We're a loud sound camp during permitted hours, so placement is critical. We will coordinate with the placement and sound leads and accept their call without argument. We commit to: respecting all sound curfews to the minute, respecting the dB ceiling, using monitors and fills to distribute coverage rather than cranking the master, killing the rig immediately if a neighbour or safety lead asks, and being good neighbours throughout. Quieter ambient programming during transition hours into and out of curfew.  \n  \n**We are also experimenting with noise cancellation for outdoor events!**",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "No flame, no pyro. Lasers above eye level, ILDA-trained crew. Wire-tensioned covers, ballasted. RCD-protected power. Extinguisher, first-aid, free earplugs at booth. Untreated wood only.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Peak 11 kW (TBC), 16A 3-phase CEE with own RCD breakout. Coordinating with power lead.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Tim Gremalm. Reachable via Discord. @TimGremalm",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "**Ångström is a music stage built on the love for music, light and sound. We believe that sound quality matters more than volume and that light shows should leave an impression.**\n\nStep in to Ångström and experience ambient journeys and live performances that sends shivers down you spine — whether you're dancing, listening, or creating. Come as you are. Stay as long as it feels right.  \nHere, every frequency is felt, every beam of light is shaped, and every moment invites you to slow down, drift, and connect.\n\nOne ångström is the wavelength scale of visible light — a small promise to treat sound and light with the precision they deserve.\n\n**Stage:** Stage with projection mapping structures, large dancefloor with partial rain cover, decorated chill-out pockets **(open to co-creation).**\n\n**Lights:** Projection mapping using projectors, RGB Laser, PARs, blinders, fog. **_Interactive_** _and_ **_environment reactive_** _elements to the projections and other lights are in development._\n\n**Program:** Afternoon to curfew. Time dedicated to chill out when suitable, live ambient jamming. A significant portion every day are 1-hour walk-up slots — in-person signup. Discord if in advance. Electronic, live, vocals, experimental welcome.",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Art installation"
+        },
+        {
+          "value": "Chillout"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Light"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "Performance"
+        },
+        {
+          "value": "Soundcamp"
+        },
+        {
+          "value": "Venue"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Organza Fabrics",
-          "min": 300,
-          "max": 1000,
+          "description": "Computer hardware + peripherals (stereoscopic cameras, calibration microphone, router, etc)",
+          "min": 30000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fire extinguisher",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "dB meter",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Stage mixer",
+          "min": 8000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Light fixtures and Smoke machines",
+          "min": 14000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Power distribution (32A→16A breakout, RCDs, cable)",
+          "min": 10000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Wire, tensioning screws and mounting materials",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Sailcloth, tarpulins, ratchet straps",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "ILDA and DMX interfaces, light controller board",
+          "min": 10000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "PA Rental",
+          "min": 7000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Poles",
-          "min": 200,
-          "max": 400,
+          "description": "Tent Star Pole",
+          "min": 4000,
+          "max": 10000,
           "type": "EXPENSE"
         },
         {
-          "description": "Thread or glue for holding the flag together",
-          "min": 100,
+          "description": "3 x Projector",
+          "min": 3000,
+          "max": 5000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Projection screen textile + frame materials",
+          "min": 5500,
+          "max": 7000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "RGB Laser 2W rental",
+          "min": 3000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Decor materials for chill-out pockets around dancefloor",
+          "min": 1500,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Gaff tape, cable ramps, zip ties, fasteners, batteries, build consumables",
+          "min": 1000,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wire, tensioning and mounting materials",
+          "min": 2000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "First-aid kit, ear plugs",
+          "min": 600,
+          "max": 1200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Untreated lumber for stage build, booth, speaker mounts, frames",
+          "min": 2000,
+          "max": 6000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Van rental (Ford Transit Custom or similar, including mileage), 10 days, Varberg ↔ Alversjö",
+          "min": 5600,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Petrol",
+          "min": 1550,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 77500,
+      "percentageFundedTrue": 210.88
     },
     {
       "id": "cmnvxxs9u003thtvl92461dqi",
@@ -74690,77 +74816,74 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnw5p8d1009tfaxoolkobeom",
-      "title": "Ångström - Sound & Light - Open Stage",
-      "summary": "A audiophile-grade sound stage and dancefloor, lights, projections and laser, holographic visuals. Open stage for live acts and scheduled artists/DJs.",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 65,
-      "noOfComments": 6,
-      "percentageFunded": 265.3,
-      "minGoal": 36750,
-      "maxGoal": 53350,
-      "income": 77500,
+      "id": "cmnw638ed006m69ep58ncouy5",
+      "title": "Human Sized Kaleidoscope",
+      "summary": "An interactive visual art piece. The size of a human. ",
+      "status": "FUNDED",
+      "noOfFunders": 66,
+      "noOfComments": 3,
+      "percentageFunded": 117.21,
+      "minGoal": 5650,
+      "maxGoal": 10700,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776202042/dreams/qkaa4ykjyr96krpjgxru.webp"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776172745/dreams/v4ntjzzjy9i94cxxuti7.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776023597/dreams/js74l2l9roec9yicbidj.png"
         }
       ],
       "customFields": [
         {
-          "value": "Maybe a Camp",
+          "value": "Explorers",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Yes — actively wanted. Looking for: VJs and projection artists who want to collaborate (need to coordinate, reach out before late), camps or **dreamers wanting to co-create the chill-out pockets around the dancefloor.** Live performers and vocalists welcome through the walk-up program. **Contact on Discord:** neoncortex\\_",
+          "value": "Imagine stumbling upon a cozy spot where you can both relax your dance tired legs on a warm fur, and let your friend twist reality into fractals. Because sometimes you just need the world to be even more intense than it already was! That is what the Human Sized Kaleidoscope is all about.\n\nIt is an interactive visual art installation, intended for one or more persons to watch, and others can use light sources and props to create patterns in infinity.\n\nThe installation will be designed as a hybrid between art and playground, making sure that it is something you interact with, rather than only spectate.\n\nThe kaleidoscope will be constructed by large acrylic mirrors, a support structure, LEDs and more to play around with.",
           "customField": {
-            "name": "Co-creation"
+            "name": "Description"
           }
         },
         {
-          "value": "Teardown begins monday morning. Items purchased with grant funds inventoried, photographed, and handed to designated caretakers for storage and reuse at future burns and by other dreams. Full MOOP sweep of stage footprint and surroundings.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Main-stage loud within dB limit; scales down near curfew.\n\n**Rig:** PA: 4-8× 18\" subs, 4-6 tops, 14 kW amplification, DSP. FOH dB meter, soft ceiling −3 dB. Trialing active noise cancelling outdoors.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We're a loud sound camp during permitted hours, so placement is critical. We will coordinate with the placement and sound leads and accept their call without argument. We commit to: respecting all sound curfews to the minute, respecting the dB ceiling, using monitors and fills to distribute coverage rather than cranking the master, killing the rig immediately if a neighbour or safety lead asks, and being good neighbours throughout. Quieter ambient programming during transition hours into and out of curfew.  \n  \n**We are also experimenting with noise cancellation for outdoor events!**",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "No flame, no pyro. Lasers above eye level, ILDA-trained crew. Wire-tensioned covers, ballasted. RCD-protected power. Extinguisher, first-aid, free earplugs at booth. Untreated wood only.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Peak 11 kW (TBC), 16A 3-phase CEE with own RCD breakout. Coordinating with power lead.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Tim Gremalm. Reachable via Discord. @TimGremalm",
+          "value": "Gustav Nilsson. Email.",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "**Ångström is a music stage built on the love for music, light and sound. We believe that sound quality matters more than volume and that light shows should leave an impression.**\n\nStep in to Ångström and experience ambient journeys and live performances that sends shivers down you spine — whether you're dancing, listening, or creating. Come as you are. Stay as long as it feels right.  \nHere, every frequency is felt, every beam of light is shaped, and every moment invites you to slow down, drift, and connect.\n\nOne ångström is the wavelength scale of visible light — a small promise to treat sound and light with the precision they deserve.\n\n**Stage:** Stage with projection mapping structures, large dancefloor with partial rain cover, decorated chill-out pockets **(open to co-creation).**\n\n**Lights:** Projection mapping using projectors, RGB Laser, PARs, blinders, fog. **_Interactive_** _and_ **_environment reactive_** _elements to the projections and other lights are in development._\n\n**Program:** Afternoon to curfew. Time dedicated to chill out when suitable, live ambient jamming. A significant portion every day are 1-hour walk-up slots — in-person signup. Discord if in advance. Electronic, live, vocals, experimental welcome.",
+          "value": "The installation is meant as an opportunity for particiants to create interesting visual experiences for each other. The aim is to be a hybrid between art piece and playground.",
           "customField": {
-            "name": "Description"
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "It will hopefully be a pleasant addition to the neighbourhood, but not affect the surroundings too much.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Care will be taken to make the installation wind safe. That is probably the biggest hazard to take into account.\n\nThe structure will be acrylic, rather than glass.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Hopefully the loudest part of the installation is hippies laughing",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "The installation will be modular and not contain small parts. It will be both transportable and hard to accidentally leave behind.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "some, but only to power some LEDs.",
+          "customField": {
+            "name": "Electricity"
           }
         }
       ],
@@ -74769,160 +74892,37 @@
           "value": "Art installation"
         },
         {
-          "value": "Chillout"
-        },
-        {
-          "value": "Experience"
-        },
-        {
           "value": "Hippie trap"
-        },
-        {
-          "value": "Light"
-        },
-        {
-          "value": "Music"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Soundcamp"
-        },
-        {
-          "value": "Venue"
         }
       ],
       "budgetItems": [
         {
-          "description": "Computer hardware + peripherals (stereoscopic cameras, calibration microphone, router, etc)",
-          "min": 30000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fire extinguisher",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "dB meter",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Stage mixer",
-          "min": 8000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Light fixtures and Smoke machines",
-          "min": 14000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Power distribution (32A→16A breakout, RCDs, cable)",
-          "min": 10000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Wire, tensioning screws and mounting materials",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Sailcloth, tarpulins, ratchet straps",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "ILDA and DMX interfaces, light controller board",
-          "min": 10000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "PA Rental",
-          "min": 7000,
-          "max": null,
+          "description": "acrylic mirrors",
+          "min": 5000,
+          "max": 8000,
           "type": "EXPENSE"
         },
         {
-          "description": "Tent Star Pole",
-          "min": 4000,
-          "max": 10000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "3 x Projector",
-          "min": 3000,
-          "max": 5000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Projection screen textile + frame materials",
-          "min": 5500,
-          "max": 7000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "RGB Laser 2W rental",
-          "min": 3000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Decor materials for chill-out pockets around dancefloor",
-          "min": 1500,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Gaff tape, cable ramps, zip ties, fasteners, batteries, build consumables",
-          "min": 1000,
+          "description": "Support structure",
+          "min": 500,
           "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "Wire, tensioning and mounting materials",
-          "min": 2000,
-          "max": null,
+          "description": "LEDs and props",
+          "min": 100,
+          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "First-aid kit, ear plugs",
-          "min": 600,
-          "max": 1200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Untreated lumber for stage build, booth, speaker mounts, frames",
-          "min": 2000,
-          "max": 6000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Van rental (Ford Transit Custom or similar, including mileage), 10 days, Varberg ↔ Alversjö",
-          "min": 5600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Petrol",
-          "min": 1550,
-          "max": null,
+          "description": "Wind anchors",
+          "min": 50,
+          "max": 200,
           "type": "EXPENSE"
         }
       ],
-      "funded": 77500,
-      "percentageFundedTrue": 210.88
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnrnjw9i0000qyncdmke3x7f",
