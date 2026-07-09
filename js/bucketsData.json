@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783499191983,
+  "updatedAt": 1783589903218,
   "buckets": [
     {
       "id": "cmnvxkjzf008d12nemjz6gbgh",
@@ -4628,78 +4628,66 @@
       "percentageFundedTrue": 370.56
     },
     {
-      "id": "cmnvt9s4i000dgxamstaxzgpy",
-      "title": "Touch This Fabric Blanket Book",
-      "summary": "Is it a book? Is it a blanket? Is it a tactile textile experimentation? Is it a soft sculpture that you read through your senses? \n",
+      "id": "cmnvuon3m000lcwengdso6fhh",
+      "title": "The Altar of Spicy Secrets",
+      "summary": "Slutty sisters, spicy drinks, and dirty secrets! We encourage sins and trade Bloody Marys for scandalous confessions. ",
       "status": "FUNDED",
-      "noOfFunders": 29,
+      "noOfFunders": 46,
       "noOfComments": 0,
-      "percentageFunded": 425.45,
-      "minGoal": 3300,
-      "maxGoal": 5900,
-      "income": 10200,
+      "percentageFunded": 100,
+      "minGoal": 4500,
+      "maxGoal": 4500,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776001323/dreams/jrsxbfejzwuikzomat8a.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776001416/dreams/jvi7gzkfyeoooqkaltsr.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776001429/dreams/bp7kgulubvolusyc3lbg.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012939/dreams/ac1w7ppd1mzbcil3nuvz.png"
         }
       ],
       "customFields": [
         {
-          "value": "_Is it a book? Is it a blanket? Is it a tactile textile experimentation? Is it a soft sculpture that you read through your senses?_ \n\n_Whatever it is, there are no words, nothing to intellectualise. It can only be sensed, a quiet presence reawakened by caressing the pages. A personal and shared experience, intimate yet collective, the weight of the comforting blanket encloses on you while stories are felt through touch, allowing for tactility as a grounding practice._ \n\n  \n_Touch This Fabric Blanket Book invites you to reconnect with your senses within the stimulating realms of The Borderlands. Participants are encouraged to engage freely: to touch, sit, lie down, or wrap themselves within the piece.This creates a sense of body immersion, transforming reading into a physical and emotional experience. An invitation to slow down, to make moments for textures and mere existence_.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "The book is an evergoing project and for any recommendations of what you enjoy touching, I am open for tips and recommendations. If there is interest in co-creation in person, contact Emma Botin, @[emmalovisabotin@gmail.com](mailto:emmalovisabotin@gmail.com) \n\nRegarding building of the wooden pedestal I am gladly receiving guidance or help of any kind.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Will be situated inside the Chilldome but will also be carried around to invite sensory experience throughout the playa.",
+          "value": "We’re here to coexist in scandalous harmony with our neighbours. However, we must disclose that our presence acts as a spiritual catalyst. Due to our active encouragement of vice and vanity, neighbours should expect a minor, temporary surge in local transgressions.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Fire extinguishers will be located in the Chilldome.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Just the ones you make by textile caresses :)",
+          "value": "Expect hushed gossip loud gasps & a shamebell. Low enough to avoid complaints from the Vatican, loud enough to drown your moral compass. Note: slutty nuns' mischief may cause occasional volume spikes.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Chilldome",
+          "value": "At this altar, the only thing in danger is your dignity.",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Safety"
           }
         },
         {
-          "value": "The book will be brought from the premises as well as the dismantled piedestal.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Inside the Chilldome there will be light although that’s not needed for it to be felt through touch.",
+          "value": "Powered by divine intervention alone. We require zero electricity, just the smoulder of incense and the spark of your darkest confessions.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "@emmaalovisaa",
+          "value": "This isn’t a place for quiet prayer. \n\nAt this altar, sisters encourage and celebrate sins and offer spicy sacraments to wash down regrets.\n\nWhether you believe in the immaculate conception or suspect “the virgin” Mary just got hammered, fucked the stable boy, and spun a dramatic miracle to cover her tracks, you are invited to step into our confession booth to trade your shame and scandals for a spicy Bloody Mary.\n\nOur mission is simple: we harvest the scandals of the masses to fuel our own unholy agenda. We provide the heat, the spice, and the judgment; you bring the gossip. \n\nBe it a personal iniquity or a scandalous rumour about a friend, your confessions are our currency. Every transgression is logged to track the neighbourhood's moral decline in real-time. Remember: while God may forgive, the Sisters keep receipts. \n\nWhether you’re a virgin, a non-virgin, or a virgin with children, stumble over, confess your sins and toast to the woman who turned a walk of shame into a world religion.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "While we possess the eternal holy spirit, we expect to find ourselves with a limited supply of the liquid kind.\n\nWe will provide as much vodka as our modest means allow, but we anticipate an inflation in sins due to our presence. We therefore invite the masses to co-create our sacraments by bringing gifts of vodka, a necessary sacrifice to keep the libations flowing.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Like any good scandalous night, we plan to leave no trace. Once the confessions are closed, we’ll scrub the site until it's as virginal as Mary’s reputation. No trash, no evidence. Just a holy, empty ground and the lingering mystery of where those two sisters went with all your dirty secrets.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Cecilia Stenlund whatsapp +46707737931  \nKerry Kane",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
@@ -4707,67 +4695,49 @@
       ],
       "tags": [
         {
-          "value": "Art installation"
-        },
-        {
-          "value": "Art walk apropriate"
+          "value": "Bar"
         },
         {
           "value": "Experience"
+        },
+        {
+          "value": "Weird shit"
         }
       ],
       "budgetItems": [
         {
-          "description": "Needles",
-          "min": 200,
+          "description": "Base ingredients (excl. vodka)",
+          "min": 1500,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Sewing Machine",
-          "min": 8000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Textiles",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Quilt wadding",
-          "min": 300,
-          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "Fabrics of different textures",
+          "description": "Garnish",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Decorations",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Altar",
           "min": 1000,
-          "max": 2000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Threads, fringes, linings, tassels",
-          "min": 600,
-          "max": 900,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Digitally printed textile ",
-          "min": 800,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wood for piedestal",
-          "min": 600,
-          "max": 1000,
+          "description": "Confession booth",
+          "min": 1000,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 10200,
-      "percentageFundedTrue": 309.09
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnoq41as0022xnznbk1cltsr",
@@ -10129,131 +10099,155 @@
       "percentageFundedTrue": 344.83
     },
     {
-      "id": "cmnvutrk3003eaowoso30lzta",
-      "title": "The confessional booth",
-      "summary": "The confessional booth is a small space for big thoughts. A place to lighten your heart to a consenting stranger. And perhaps turn those thoughts into poetry!",
-      "status": "FUNDED",
-      "noOfFunders": 21,
-      "noOfComments": 0,
-      "percentageFunded": 182.08,
-      "minGoal": 6700,
-      "maxGoal": 7200,
-      "income": 5500,
+      "id": "cmnvubsgq0001jwf1ydnfwiax",
+      "title": "Label your Love!",
+      "summary": "Ever heard the cry of a lost beloved thing in the early morning fog?\n\nThat quiet whimper from the forest thicket. A nameless thing. No way home.",
+      "status": "PARTIAL_FUNDING",
+      "noOfFunders": 16,
+      "noOfComments": 1,
+      "percentageFunded": 347.4,
+      "minGoal": 2565,
+      "maxGoal": 3745,
+      "income": 7500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014620/dreams/vhxvws1nkefbojush8eo.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776008333/dreams/vot9xdfdfnsg8qfs2hcv.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776008892/dreams/nayxxpp2w4y6badvkmdq.png"
         }
       ],
       "customFields": [
         {
-          "value": "Secret Sailors",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Poetry workshop in tent and speeddating will also make use of the booth.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Very low",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Linus Hook, linushook@gmail.com or phone/whatsapp: +46704666369",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "The booth will be built in modules by recycling former structure for the toiletbooths of BL 2022. The modules will be able to be deconstructed and rebuilt each year for future BL-events.",
+          "value": "Build and strike within a co-location is done in minutes.  \nWe leave no traces.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Even though the format could look similar to practices of the Catholic Church, be aware that this has nothing to do with religion.\n\nIt is a booth that will be open att all hours for anyone to use. Whether you want to step in as a listener or if you need to lighten your heart.\n\nSome hours each day it will be manned by campmembers, if not you just ask a passerby if they have time to sit on the other side as a listener.\n\nWell inside, the person sharing will also find inspiration of how to turn their confession in to poetry.\n\nPS. The sign ”Diktbås” illuminated on top is a play with the Swedish words Dikt = Poetry and Bikt = Confession.",
+          "value": "hefegruenenwald@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Some background sound, but by no means high levels.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Have you ever heard it? That heartbreaking cry in the early morning hours — when the mystical fog rolls across the silent scene and something small, something _yours_, is calling out from the darkness?\n\nThe quiet whimper of a tote bag, lost in the thicket of the forest. A nameless cup, wandering without purpose, without identity, without hope — too proud to ask for directions, too lost to find its way home.\n\nWe prevent heartbreak.\n\n**Tag Your Stuff and Save the Planet (and Your Cup)** is a sacred labelling service with an unshakeable belief that no beloved object should be nameless. Even if _you_, you hopeless, reckless creature, left it behind in a moment of blissful chaos — fear not.\n\nYou shall walk, head bowed in humble pilgrimage, to the Temple of the Holy _Lostus Foundatus_. And there — gleaming softly under the morning light — your beloved item awaits. Your name shimmers upon it, golden, steadfast, undeniable. A custom vinyl label, placed in a moment of wisdom before the night took you.\n\nYou will raise your arms. You will cry out: _Heureka._  \nAnd the fog will lift. And the cup will come home.\n\nSwing by, get creative, print your label and stick it on everything you love — you will lose it anyway, but you'll find it again.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Electrical light will be waterproofed, instructions and consent guidelines posted inside.",
+          "value": "None safety measures needed.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "@Bob Hansson",
+          "value": "1 powerstrip 220V",
           "customField": {
-            "name": "Co-creation"
+            "name": "Electricity"
           }
         },
         {
-          "value": "120 watt",
+          "value": "We're looking for a covered space to setup up our labeling service (cutting plotter, laminator, label printer, laptop, etc).  \nSome tables and chairs.",
           "customField": {
-            "name": "Electricity"
+            "name": "Co-existence"
           }
         }
       ],
       "tags": [
         {
-          "value": "Experience"
+          "value": "Looking for space"
         },
         {
-          "value": "Healing"
+          "value": "Pimping station"
         },
         {
-          "value": "Playful"
-        },
-        {
-          "value": "Weird shit"
+          "value": "Workshop"
         }
       ],
       "budgetItems": [
         {
-          "description": "Wallpaper, velvet drapes for doors, seating, elektrical lighting, frames, perforated steelplate for confessionbooth-wall, outdoor lighting string (without bulbs) 1500 kr",
-          "min": 5500,
+          "description": "Cutting plotter",
+          "min": 3500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Wooden paneling sides and back",
-          "min": 3200,
+          "description": "Laminator",
+          "min": 2000,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Paint",
-          "min": 500,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transport in shared trailer",
-          "min": 1200,
+          "description": "Label printer",
+          "min": 2000,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Stationery / writing supplies",
+          "min": 235,
+          "max": 350,
           "type": "EXPENSE"
         },
         {
-          "description": "Brackets, bolts and screws",
-          "min": 1000,
-          "max": null,
+          "description": "Replacement tape Label printer",
+          "min": 470,
+          "max": 705,
           "type": "EXPENSE"
         },
         {
-          "description": "Lightbulbs for outdoor lightstring",
-          "min": 800,
+          "description": "Vinyl film for plotter",
+          "min": 235,
+          "max": 470,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Paper",
+          "min": 115,
+          "max": 235,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Laminating pouches",
+          "min": 235,
+          "max": 350,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cords / leather laces",
+          "min": 350,
+          "max": 470,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Beads",
+          "min": 350,
+          "max": 470,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Key chains",
+          "min": 115,
+          "max": 235,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Stickers, adhesive tape, glue",
+          "min": 460,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 5500,
-      "percentageFundedTrue": 82.09
+      "funded": 7500,
+      "percentageFundedTrue": 292.4
     },
     {
       "id": "cmnw913t70024mgzbd7xvs34f",
@@ -25296,155 +25290,260 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnvubsgq0001jwf1ydnfwiax",
-      "title": "Label your Love!",
-      "summary": "Ever heard the cry of a lost beloved thing in the early morning fog?\n\nThat quiet whimper from the forest thicket. A nameless thing. No way home.",
+      "id": "cmnvudg33002igxam59vlc7yo",
+      "title": "Chroma-synesthesia (Cro-sy) Pt. 2",
+      "summary": "Jam on a synthesizer and control the lights at the same time!\nExpanding on what we made last year: more art, more sounds, more interactive options. ",
       "status": "PARTIAL_FUNDING",
-      "noOfFunders": 16,
+      "noOfFunders": 24,
       "noOfComments": 1,
-      "percentageFunded": 347.4,
-      "minGoal": 2565,
-      "maxGoal": 3745,
-      "income": 7500,
+      "percentageFunded": 251.15,
+      "minGoal": 27000,
+      "maxGoal": 32350,
+      "income": 52813,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776008333/dreams/vot9xdfdfnsg8qfs2hcv.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003692/dreams/kwrp5zy3zl5ulxthettv.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776008892/dreams/nayxxpp2w4y6badvkmdq.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003708/dreams/tfmak3oclwzdsstfifdq.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012832/dreams/bqkpvk3cej10wgwak8mu.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776526139/dreams/ml5arpuxhuzmzhzkvfyt.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776522867/dreams/hcrtpabjg8gbt5x513fu.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Build and strike within a co-location is done in minutes.  \nWe leave no traces.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "hefegruenenwald@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Some background sound, but by no means high levels.",
+          "value": "No, the sound will be rather localized. Probably around 500w.  \nShouldn't be too close to any of the sound camps so you can still hear what you are playing.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Have you ever heard it? That heartbreaking cry in the early morning hours — when the mystical fog rolls across the silent scene and something small, something _yours_, is calling out from the darkness?\n\nThe quiet whimper of a tote bag, lost in the thicket of the forest. A nameless cup, wandering without purpose, without identity, without hope — too proud to ask for directions, too lost to find its way home.\n\nWe prevent heartbreak.\n\n**Tag Your Stuff and Save the Planet (and Your Cup)** is a sacred labelling service with an unshakeable belief that no beloved object should be nameless. Even if _you_, you hopeless, reckless creature, left it behind in a moment of blissful chaos — fear not.\n\nYou shall walk, head bowed in humble pilgrimage, to the Temple of the Holy _Lostus Foundatus_. And there — gleaming softly under the morning light — your beloved item awaits. Your name shimmers upon it, golden, steadfast, undeniable. A custom vinyl label, placed in a moment of wisdom before the night took you.\n\nYou will raise your arms. You will cry out: _Heureka._  \nAnd the fog will lift. And the cup will come home.\n\nSwing by, get creative, print your label and stick it on everything you love — you will lose it anyway, but you'll find it again.",
+          "value": "We are still looking for a suitable location. The same as last year could be possible, but maybe there is something better. Preferrably in the forest, while staying out of the protected nature areas. We take our surrounding environment as a starting point to enhance the experience of the chosen location! Close-by installations should not be too bright our loud.",
           "customField": {
-            "name": "Description"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "None safety measures needed.",
+          "value": "We will remove everything and leave no trace behind! Structures will be disassembled if necessary or store whole like last year. Wood will be stored to use again in the future.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Marina: I am an artist and art educator. I welcome everyone (also with no experience!) who is curious about the artistic process and would love to experience and participate in creating this installation. I am always in need of extra hands since the installation requires a lot of physical work!  \nSpecifically if your interested in: landscape design, woodworking.\n\nLinus: I'm happy to explain the technical setup to anybody interested. Touchdesigner-nerds can improve my code anytime, too.  \nIf you have any IP65 DMX Lamps or power cables lying around that you could borrow, these are always appreciated. As well as anything else we can borrow to decrease the budget.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Safety includes protecting all electronic components from water. If used outdoors, all our lamps are water-resistant. Other electronics will be protected with wooden enclosures and stored above ground",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "1 powerstrip 220V",
+          "value": "Yes, about 2kW:  \nSound 500w  \nLaptop(s) 100w  \nLights 1400w",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "We're looking for a covered space to setup up our labeling service (cutting plotter, laminator, label printer, laptop, etc).  \nSome tables and chairs.",
+          "value": "Marina and Linus (part of The Syndicated Eternal Dumpster Fire)\n\nWe met at the end of the burn in 2024 when Linus was looking for a ride back to Germany. Since then we live together in the Netherlands and have been collaborating on projects ever since!\n\nLast year we created Chroma-synesthesia (Cro-sy) (as seen in the images). A great success!\n\nMarina is a visual artist who builds colorful abstract sculptures out of wood, and Linus is a game developer. We complement each other’s skills and are passionate about creating new, exciting work together!\n\nFor whomever is curious: [https://www.instagram.com/marinamonism/?hl=en](https://www.instagram.com/marinamonism/?hl=en)",
           "customField": {
-            "name": "Co-existence"
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Cro-sy returns — bigger, stranger, and more inviting than before. Building on the audio-visual light installation that delighted audiences at the Borderland 2025, this second edition transforms into a full sculpture garden to wander through: a curated landscape of works past and present, all woven together by color, sound, motion and interactivity.\n\nInstead of realizing two separate projects like last year (cro-sy + villa room - see last picture), we will focus all our energy to catapult one dream into orbit.\n\nWhat's new in Part 2:\n\n1.  Custom MIDI instrument: Not just a keyboard, but a sculpted instrument of buttons, knobs, and touch points, modulating sound and light in real time. You just need curiosity.\n    \n2.  Sound sculpting: The most requested feature, you will finally be able to edit and adapt sounds to your liking. Light change included free of charge!\n    \n3.  Sculpture garden: Collected works from previous years curated into a landscape to explore — instead of a single sculpture, we aim to create a bigger environment to discover.\n    \n4.  Interactive projection: TouchDesigner + Kinect + beamer: movement triggers and shapes an immersive projection layered within the installation space (a museum art-piece adapted for BL)",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Marina Heuvelman: marinaheuvelman@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
       "tags": [
         {
-          "value": "Looking for space"
+          "value": "Art installation"
         },
         {
-          "value": "Pimping station"
+          "value": "Art walk apropriate"
         },
         {
-          "value": "Workshop"
+          "value": "Experience"
+        },
+        {
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Light"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "Playful"
         }
       ],
       "budgetItems": [
         {
-          "description": "Cutting plotter",
-          "min": 3500,
+          "description": "4x PAR LED lamps",
+          "min": 4340,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Laminator",
+          "description": "Power Cables",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "3x MIDI Keyboards",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "DMX cables ",
           "min": 2000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Label printer",
+          "description": "DMX Artnet Interface",
           "min": 2000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Stationery / writing supplies",
-          "min": 235,
-          "max": 350,
+          "description": "Wood from previous years",
+          "min": 4000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Laptop PC ",
+          "min": 16273,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Drill and screwdriver",
+          "min": 3200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Miter saw",
+          "min": 3200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Plunge track saw",
+          "min": 9160,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Clamps and tension straps ",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Electric sander",
+          "min": 1140,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Wood for frames and structure (for placement of lamps)",
+          "min": 3000,
+          "max": 5000,
           "type": "EXPENSE"
         },
         {
-          "description": "Replacement tape Label printer",
-          "min": 470,
-          "max": 705,
+          "description": "8 - 12 x DMX LED lamp",
+          "min": 7000,
+          "max": 10350,
           "type": "EXPENSE"
         },
         {
-          "description": "Vinyl film for plotter",
-          "min": 235,
-          "max": 470,
+          "description": "MIDI controller",
+          "min": 3000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Paper",
-          "min": 115,
-          "max": 235,
+          "description": "Pressure sensitive Midi Pads",
+          "min": 2000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Laminating pouches",
-          "min": 235,
-          "max": 350,
+          "description": "Lacquer Paint + primer",
+          "min": 2000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Cords / leather laces",
-          "min": 350,
-          "max": 470,
+          "description": "DIY speakers",
+          "min": 3000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Beads",
-          "min": 350,
-          "max": 470,
+          "description": "Power cables",
+          "min": 2000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Key chains",
-          "min": 115,
-          "max": 235,
+          "description": "Screws",
+          "min": 1200,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Stickers, adhesive tape, glue",
-          "min": 460,
+          "description": "Transport (The Hague back and forth)",
+          "min": 2000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "small stuff (tape, waterproofing, etc.)",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Waterproof electronics boxes",
+          "min": 300,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "IP65 DMX and Power extensions",
+          "min": 1000,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 7500,
-      "percentageFundedTrue": 292.4
+      "funded": 52813,
+      "percentageFundedTrue": 195.6
     },
     {
       "id": "cmnoqi6s1001mbtyovxnh04lr",
@@ -36394,56 +36493,59 @@
       "percentageFundedTrue": 181.82
     },
     {
-      "id": "cmnvtz2rn0014x5n9849mksy5",
-      "title": "Wedding for all",
-      "summary": "Tired of being single? Already married but want to try out polygamy? Join us for an open for all ceremony and tighten the bond with who- or whatever you desire",
+      "id": "cmnvuhhza002tq2a72qq0hh2z",
+      "title": "Hand Brew Sweetness",
+      "summary": "Hand-brewed speciality coffee by a lake and soft massage with coffee scrubs <3",
       "status": "FUNDED",
-      "noOfFunders": 19,
+      "noOfFunders": 13,
       "noOfComments": 0,
-      "percentageFunded": 251.51,
-      "minGoal": 3300,
-      "maxGoal": 3300,
-      "income": 5000,
+      "percentageFunded": 461.1,
+      "minGoal": 1000,
+      "maxGoal": 2000,
+      "income": 3300,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776004161/dreams/kmh4msnmyi41k22mntdp.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776004565/dreams/zlelfcu9281ch6qka8us.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776004051/dreams/dobysrifhegunc1suy40.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "We'll look for a good spot on site and coordinate with the resident camps.",
+          "value": "I usually do this by the not so secret lake, so bring your cup while coming to a morning swim.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "We'll host a free-for-all-and-everything wedding ceremony on friday afternoon. Expect veiled brides, nervous grooms and embarassing speeches.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "We will bring bin bags and clean up right afterwards.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Yes please say hi if you want to join in",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "We will bring a small Bluetooth Box.",
+          "value": "0",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Sadly we cannot garantee that the speeches won't be embarrassing or that the mother-of-the-bride won't cry. We'll provide tissues and (if necessary) divorce lawyers.",
+          "value": "Frogs",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Please join me to make coffee or pancakes!",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Pretty safe. Using trangia to boil the water.",
           "customField": {
             "name": "Safety"
+          }
+        },
+        {
+          "value": "I'll bring towels to clean the coffee scrubs.",
+          "customField": {
+            "name": "Strike plan"
           }
         },
         {
@@ -36453,63 +36555,47 @@
           }
         },
         {
-          "value": "Aglaja Bitzinger",
+          "value": "Pop-up café by one of the lakes. Usually in the morning, or whenever I feel like it. If you catch the scent of hand-brewed light roast speciality coffee, you've found it! The process takes a little time, so let's sit down, chat, or just enjoy the silence. I'll bring backgammon if you're in the mood for a game. Once the coffee is ready, I can clean your tired hippie feet and give them a soft massage with coffee scrubs. Other baristas and massage enthusiast are more than welcome to join the dream!",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Vessu (vessu.kuosmanen@gmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
-        },
-        {
-          "value": "Moonflight&Honey",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
         }
       ],
-      "tags": [
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Playful"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Music Box, costumes, tables",
-          "min": 5000,
+          "description": "Comandante coffee grinder",
+          "min": 2000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Fabric for veils, decorations ",
-          "min": 1500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Weddingrings",
+          "description": "Coffee dripper",
           "min": 500,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Weddingcake",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Waggon for the Pop up",
+          "description": "Trangia",
           "min": 800,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Coffee beans",
+          "min": 1000,
+          "max": 2000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 5000,
-      "percentageFundedTrue": 151.52
+      "funded": 3300,
+      "percentageFundedTrue": 330
     },
     {
       "id": "cmnw0sxgm007ofq7od05za99i",
@@ -42763,107 +42849,83 @@
       "percentageFundedTrue": 407.91
     },
     {
-      "id": "cmnvudg33002igxam59vlc7yo",
-      "title": "Chroma-synesthesia (Cro-sy) Pt. 2",
-      "summary": "Jam on a synthesizer and control the lights at the same time!\nExpanding on what we made last year: more art, more sounds, more interactive options. ",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 24,
-      "noOfComments": 1,
-      "percentageFunded": 251.15,
-      "minGoal": 27000,
-      "maxGoal": 32350,
-      "income": 52813,
+      "id": "cmnvtz2rn0014x5n9849mksy5",
+      "title": "Wedding for all",
+      "summary": "Tired of being single? Already married but want to try out polygamy? Join us for an open for all ceremony and tighten the bond with who- or whatever you desire",
+      "status": "FUNDED",
+      "noOfFunders": 19,
+      "noOfComments": 0,
+      "percentageFunded": 251.51,
+      "minGoal": 3300,
+      "maxGoal": 3300,
+      "income": 5000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003692/dreams/kwrp5zy3zl5ulxthettv.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003708/dreams/tfmak3oclwzdsstfifdq.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012832/dreams/bqkpvk3cej10wgwak8mu.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776526139/dreams/ml5arpuxhuzmzhzkvfyt.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776522867/dreams/hcrtpabjg8gbt5x513fu.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776004161/dreams/kmh4msnmyi41k22mntdp.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "No, the sound will be rather localized. Probably around 500w.  \nShouldn't be too close to any of the sound camps so you can still hear what you are playing.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We are still looking for a suitable location. The same as last year could be possible, but maybe there is something better. Preferrably in the forest, while staying out of the protected nature areas. We take our surrounding environment as a starting point to enhance the experience of the chosen location! Close-by installations should not be too bright our loud.",
+          "value": "We'll look for a good spot on site and coordinate with the resident camps.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "We will remove everything and leave no trace behind! Structures will be disassembled if necessary or store whole like last year. Wood will be stored to use again in the future.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Marina: I am an artist and art educator. I welcome everyone (also with no experience!) who is curious about the artistic process and would love to experience and participate in creating this installation. I am always in need of extra hands since the installation requires a lot of physical work!  \nSpecifically if your interested in: landscape design, woodworking.\n\nLinus: I'm happy to explain the technical setup to anybody interested. Touchdesigner-nerds can improve my code anytime, too.  \nIf you have any IP65 DMX Lamps or power cables lying around that you could borrow, these are always appreciated. As well as anything else we can borrow to decrease the budget.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Safety includes protecting all electronic components from water. If used outdoors, all our lamps are water-resistant. Other electronics will be protected with wooden enclosures and stored above ground",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Yes, about 2kW:  \nSound 500w  \nLaptop(s) 100w  \nLights 1400w",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Marina and Linus (part of The Syndicated Eternal Dumpster Fire)\n\nWe met at the end of the burn in 2024 when Linus was looking for a ride back to Germany. Since then we live together in the Netherlands and have been collaborating on projects ever since!\n\nLast year we created Chroma-synesthesia (Cro-sy) (as seen in the images). A great success!\n\nMarina is a visual artist who builds colorful abstract sculptures out of wood, and Linus is a game developer. We complement each other’s skills and are passionate about creating new, exciting work together!\n\nFor whomever is curious: [https://www.instagram.com/marinamonism/?hl=en](https://www.instagram.com/marinamonism/?hl=en)",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Cro-sy returns — bigger, stranger, and more inviting than before. Building on the audio-visual light installation that delighted audiences at the Borderland 2025, this second edition transforms into a full sculpture garden to wander through: a curated landscape of works past and present, all woven together by color, sound, motion and interactivity.\n\nInstead of realizing two separate projects like last year (cro-sy + villa room - see last picture), we will focus all our energy to catapult one dream into orbit.\n\nWhat's new in Part 2:\n\n1.  Custom MIDI instrument: Not just a keyboard, but a sculpted instrument of buttons, knobs, and touch points, modulating sound and light in real time. You just need curiosity.\n    \n2.  Sound sculpting: The most requested feature, you will finally be able to edit and adapt sounds to your liking. Light change included free of charge!\n    \n3.  Sculpture garden: Collected works from previous years curated into a landscape to explore — instead of a single sculpture, we aim to create a bigger environment to discover.\n    \n4.  Interactive projection: TouchDesigner + Kinect + beamer: movement triggers and shapes an immersive projection layered within the installation space (a museum art-piece adapted for BL)",
+          "value": "We'll host a free-for-all-and-everything wedding ceremony on friday afternoon. Expect veiled brides, nervous grooms and embarassing speeches.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Marina Heuvelman: marinaheuvelman@gmail.com",
+          "value": "We will bring bin bags and clean up right afterwards.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Yes please say hi if you want to join in",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "We will bring a small Bluetooth Box.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Sadly we cannot garantee that the speeches won't be embarrassing or that the mother-of-the-bride won't cry. We'll provide tissues and (if necessary) divorce lawyers.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "No",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Aglaja Bitzinger",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Moonflight&Honey",
+          "customField": {
+            "name": "This dream belongs to camp:"
           }
         }
       ],
       "tags": [
         {
-          "value": "Art installation"
-        },
-        {
-          "value": "Art walk apropriate"
-        },
-        {
           "value": "Experience"
         },
         {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Light"
-        },
-        {
-          "value": "Music"
+          "value": "Performance"
         },
         {
           "value": "Playful"
@@ -42871,152 +42933,38 @@
       ],
       "budgetItems": [
         {
-          "description": "4x PAR LED lamps",
-          "min": 4340,
+          "description": "Music Box, costumes, tables",
+          "min": 5000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Power Cables",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "3x MIDI Keyboards",
+          "description": "Fabric for veils, decorations ",
           "min": 1500,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "DMX cables ",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "DMX Artnet Interface",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Wood from previous years",
-          "min": 4000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Laptop PC ",
-          "min": 16273,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Drill and screwdriver",
-          "min": 3200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Miter saw",
-          "min": 3200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Plunge track saw",
-          "min": 9160,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Clamps and tension straps ",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Electric sander",
-          "min": 1140,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Wood for frames and structure (for placement of lamps)",
-          "min": 3000,
-          "max": 5000,
           "type": "EXPENSE"
         },
         {
-          "description": "8 - 12 x DMX LED lamp",
-          "min": 7000,
-          "max": 10350,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "MIDI controller",
-          "min": 3000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Pressure sensitive Midi Pads",
-          "min": 2000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Lacquer Paint + primer",
-          "min": 2000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "DIY speakers",
-          "min": 3000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Power cables",
-          "min": 2000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Screws",
-          "min": 1200,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transport (The Hague back and forth)",
-          "min": 2000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "small stuff (tape, waterproofing, etc.)",
+          "description": "Weddingrings",
           "min": 500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Waterproof electronics boxes",
-          "min": 300,
+          "description": "Weddingcake",
+          "min": 500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "IP65 DMX and Power extensions",
-          "min": 1000,
+          "description": "Waggon for the Pop up",
+          "min": 800,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 52813,
-      "percentageFundedTrue": 195.6
+      "funded": 5000,
+      "percentageFundedTrue": 151.52
     },
     {
       "id": "cmnuoqrdx00672ymllazj1a66",
@@ -47354,88 +47302,122 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnvtkcvn001waowoz3u1x6t1",
-      "title": "The crazy crocheted camera covers",
-      "summary": "Help us cover the Alversjö security cameras in a funny way",
-      "status": "FUNDED",
-      "noOfFunders": 7,
-      "noOfComments": 0,
-      "percentageFunded": 300,
-      "minGoal": 300,
-      "maxGoal": 400,
-      "income": 600,
+      "id": "cmnusd3ap0048t64cz25wn16l",
+      "title": "The psy-chill hangout",
+      "summary": "A cozy 24/7 chill hang out space. \nFree to chill, facilitate, drum or do whatever your heart desire. ",
+      "status": "CANCELED",
+      "noOfFunders": 0,
+      "noOfComments": 6,
+      "percentageFunded": 100.79,
+      "minGoal": 23800,
+      "maxGoal": 23800,
+      "income": 22000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003460/dreams/ntbikp2fdldbj0t0dpvf.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003804/dreams/qilfgixex5iwhgitdudq.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775939313/dreams/t1o5eggiswo6cnkamddb.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003813/dreams/cq3120oafximw2ikaalk.webp"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003822/dreams/vc9ukdnr3lwiahum7jln.webp"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003834/dreams/acoo12tttv3mchvnbnhm.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "We even save electricity by not just covering but also turning off the cameras for a week.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "The team will make sure nobody gets harmed while crocheting. Attaching the pieces to the cameras requires a ladder. This will be done by at least two sober people.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "ElinHenrik",
+          "value": "Chris Gammelgaard, contact on discord",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Just the silent sound of wind embracing yarn, on the wall of the barn.",
+          "value": "It can be used to facilitate workshops, ceremonies, drum circles and whatever else people come up with.",
           "customField": {
-            "name": "Sound levels"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "The hats will be taken down during Strike.",
+          "value": "Will be striked Sunday.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "A team of very inspired and talented crocheters will make some funny hat to cover all the security cameras around the barn for Borderland. The cameras will be off the entire Burn but we want to emphasize their non-functioning. No one should need to feel afraid of getting filmed and doubt whether they work or not.\n\nWe have some scrap yarn that will be mixed into the pieces but we want to buy something that is thicker and more colorful also.",
+          "value": "500watt",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "There is no sound attached, at max it will be a Bluetooth speaker with atmospheric music.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "A cozy 4x8m pavillion outfitted with custom made fabrics to change it into the most cozy chill spot.\n\nIt will be filled with pillows, carpets and everything to make it is as cozy and possible.\n\nWhat happens in there?\n\nWhatever YOU want!\n\nThis space is created for you ♥️\n\nI don't pull out, the fabric will be donated to gearbox in Copenhagen where it can be used by the Danish burner community.\n\nIf it only reached partially funding, Gearbox might want to help Fund the remaining.  \n  \nWalkable example:  \n[https://andreiverner.com/ivs/](https://andreiverner.com/ivs/)",
           "customField": {
             "name": "Description"
           }
-        },
-        {
-          "value": "Elin and Anna",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "BurnerBox"
+        },
+        {
+          "value": "Chillout"
+        },
+        {
+          "value": "Workshop space"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Crochet needles",
-          "min": 350,
+          "description": "Carpets ",
+          "min": 2000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Scrap yarn",
-          "min": 250,
+          "description": "Pillows",
+          "min": 1000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Yarn",
-          "min": 300,
-          "max": 400,
+          "description": "Tent ",
+          "min": 10000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Puzzlemats ",
+          "min": 7000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Lights ",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Custom made deco (made to order) from USA",
+          "min": 23800,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 600,
-      "percentageFundedTrue": 200
+      "funded": 22000,
+      "percentageFundedTrue": 92.44
     },
     {
       "id": "cmnw71ny3003v55stb7yohq36",
@@ -61401,109 +61383,88 @@
       "percentageFundedTrue": 145.45
     },
     {
-      "id": "cmnvuhhza002tq2a72qq0hh2z",
-      "title": "Hand Brew Sweetness",
-      "summary": "Hand-brewed speciality coffee by a lake and soft massage with coffee scrubs <3",
+      "id": "cmnvtkcvn001waowoz3u1x6t1",
+      "title": "The crazy crocheted camera covers",
+      "summary": "Help us cover the Alversjö security cameras in a funny way",
       "status": "FUNDED",
-      "noOfFunders": 13,
+      "noOfFunders": 7,
       "noOfComments": 0,
-      "percentageFunded": 461.1,
-      "minGoal": 1000,
-      "maxGoal": 2000,
-      "income": 3300,
+      "percentageFunded": 300,
+      "minGoal": 300,
+      "maxGoal": 400,
+      "income": 600,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776004565/dreams/zlelfcu9281ch6qka8us.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776004051/dreams/dobysrifhegunc1suy40.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003460/dreams/ntbikp2fdldbj0t0dpvf.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "I usually do this by the not so secret lake, so bring your cup while coming to a morning swim.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "0",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Frogs",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Please join me to make coffee or pancakes!",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Pretty safe. Using trangia to boil the water.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "I'll bring towels to clean the coffee scrubs.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "No",
+          "value": "We even save electricity by not just covering but also turning off the cameras for a week.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Pop-up café by one of the lakes. Usually in the morning, or whenever I feel like it. If you catch the scent of hand-brewed light roast speciality coffee, you've found it! The process takes a little time, so let's sit down, chat, or just enjoy the silence. I'll bring backgammon if you're in the mood for a game. Once the coffee is ready, I can clean your tired hippie feet and give them a soft massage with coffee scrubs. Other baristas and massage enthusiast are more than welcome to join the dream!",
+          "value": "The team will make sure nobody gets harmed while crocheting. Attaching the pieces to the cameras requires a ladder. This will be done by at least two sober people.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "ElinHenrik",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Just the silent sound of wind embracing yarn, on the wall of the barn.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "The hats will be taken down during Strike.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "A team of very inspired and talented crocheters will make some funny hat to cover all the security cameras around the barn for Borderland. The cameras will be off the entire Burn but we want to emphasize their non-functioning. No one should need to feel afraid of getting filmed and doubt whether they work or not.\n\nWe have some scrap yarn that will be mixed into the pieces but we want to buy something that is thicker and more colorful also.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Vessu (vessu.kuosmanen@gmail.com)",
+          "value": "Elin and Anna",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "This dream belongs to camp:"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "Comandante coffee grinder",
-          "min": 2000,
+          "description": "Crochet needles",
+          "min": 350,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Coffee dripper",
-          "min": 500,
+          "description": "Scrap yarn",
+          "min": 250,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Trangia",
-          "min": 800,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Coffee beans",
-          "min": 1000,
-          "max": 2000,
+          "description": "Yarn",
+          "min": 300,
+          "max": 400,
           "type": "EXPENSE"
         }
       ],
-      "funded": 3300,
-      "percentageFundedTrue": 330
+      "funded": 600,
+      "percentageFundedTrue": 200
     },
     {
       "id": "cmnujh6kc00041gxcbscwerdq",
@@ -62690,89 +62651,146 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnvuzu490018jwf1wba2rq3m",
-      "title": "Collective Utopian Dreaming",
-      "summary": "Together we will create an utopian art work filled with utopias!",
+      "id": "cmnvt9s4i000dgxamstaxzgpy",
+      "title": "Touch This Fabric Blanket Book",
+      "summary": "Is it a book? Is it a blanket? Is it a tactile textile experimentation? Is it a soft sculpture that you read through your senses? \n",
       "status": "FUNDED",
-      "noOfFunders": 8,
+      "noOfFunders": 29,
       "noOfComments": 0,
-      "percentageFunded": 100,
-      "minGoal": 800,
-      "maxGoal": 1500,
-      "income": 0,
+      "percentageFunded": 425.45,
+      "minGoal": 3300,
+      "maxGoal": 5900,
+      "income": 10200,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776005819/dreams/b2cif4rsdeyuqbo8exdw.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776001323/dreams/jrsxbfejzwuikzomat8a.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776001416/dreams/jvi7gzkfyeoooqkaltsr.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776001429/dreams/bp7kgulubvolusyc3lbg.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "\\-",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "\\-",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "\\-",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "\\-",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "\\-",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Aline (aline.groh@gmail.com)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Let's dream together about a better world!\n\nWith the starting point in a utopia about a world in which we all are valued as competent people with varying support needs we will explore our own utopias.\n\nThis workshop will start with a presentation about the utopia of a world in which we are all valued as competent people with varying support needs (described in the book \"Driv Utopierna\"). The second part of the workshop will be discussing different utopian ideas or developing your own utopia. In this part you will be encouraged to use art, to paint, draw and write. So, together we will create an utopian art work filled with utopias!",
+          "value": "_Is it a book? Is it a blanket? Is it a tactile textile experimentation? Is it a soft sculpture that you read through your senses?_ \n\n_Whatever it is, there are no words, nothing to intellectualise. It can only be sensed, a quiet presence reawakened by caressing the pages. A personal and shared experience, intimate yet collective, the weight of the comforting blanket encloses on you while stories are felt through touch, allowing for tactility as a grounding practice._ \n\n  \n_Touch This Fabric Blanket Book invites you to reconnect with your senses within the stimulating realms of The Borderlands. Participants are encouraged to engage freely: to touch, sit, lie down, or wrap themselves within the piece.This creates a sense of body immersion, transforming reading into a physical and emotional experience. An invitation to slow down, to make moments for textures and mere existence_.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Yggdrasil",
+          "value": "The book is an evergoing project and for any recommendations of what you enjoy touching, I am open for tips and recommendations. If there is interest in co-creation in person, contact Emma Botin, @[emmalovisabotin@gmail.com](mailto:emmalovisabotin@gmail.com) \n\nRegarding building of the wooden pedestal I am gladly receiving guidance or help of any kind.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Will be situated inside the Chilldome but will also be carried around to invite sensory experience throughout the playa.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Fire extinguishers will be located in the Chilldome.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Just the ones you make by textile caresses :)",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Chilldome",
           "customField": {
             "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "The book will be brought from the premises as well as the dismantled piedestal.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Inside the Chilldome there will be light although that’s not needed for it to be felt through touch.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "@emmaalovisaa",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
       "tags": [
         {
-          "value": "Kids-friendly"
+          "value": "Art installation"
         },
         {
-          "value": "Workshop"
+          "value": "Art walk apropriate"
+        },
+        {
+          "value": "Experience"
         }
       ],
       "budgetItems": [
         {
-          "description": "Tools and materials for art (paper, colour, pencils,...)",
+          "description": "Needles",
+          "min": 200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Sewing Machine",
+          "min": 8000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Textiles",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Quilt wadding",
+          "min": 300,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fabrics of different textures",
+          "min": 1000,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Threads, fringes, linings, tassels",
+          "min": 600,
+          "max": 900,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Digitally printed textile ",
           "min": 800,
           "max": 1500,
           "type": "EXPENSE"
+        },
+        {
+          "description": "Wood for piedestal",
+          "min": 600,
+          "max": 1000,
+          "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 10200,
+      "percentageFundedTrue": 309.09
     },
     {
       "id": "cmnvwmvjx007r11zh47hytny1",
@@ -67783,77 +67801,86 @@
       "percentageFundedTrue": 281.25
     },
     {
-      "id": "cmnvuon3m000lcwengdso6fhh",
-      "title": "The Altar of Spicy Secrets",
-      "summary": "Slutty sisters, spicy drinks, and dirty secrets! We encourage sins and trade Bloody Marys for scandalous confessions. ",
+      "id": "cmnvutrk3003eaowoso30lzta",
+      "title": "The confessional booth",
+      "summary": "The confessional booth is a small space for big thoughts. A place to lighten your heart to a consenting stranger. And perhaps turn those thoughts into poetry!",
       "status": "FUNDED",
-      "noOfFunders": 46,
+      "noOfFunders": 21,
       "noOfComments": 0,
-      "percentageFunded": 100,
-      "minGoal": 4500,
-      "maxGoal": 4500,
-      "income": 0,
+      "percentageFunded": 182.08,
+      "minGoal": 6700,
+      "maxGoal": 7200,
+      "income": 5500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012939/dreams/ac1w7ppd1mzbcil3nuvz.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014620/dreams/vhxvws1nkefbojush8eo.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "We’re here to coexist in scandalous harmony with our neighbours. However, we must disclose that our presence acts as a spiritual catalyst. Due to our active encouragement of vice and vanity, neighbours should expect a minor, temporary surge in local transgressions.",
+          "value": "Secret Sailors",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Poetry workshop in tent and speeddating will also make use of the booth.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Expect hushed gossip loud gasps & a shamebell. Low enough to avoid complaints from the Vatican, loud enough to drown your moral compass. Note: slutty nuns' mischief may cause occasional volume spikes.",
+          "value": "Very low",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "At this altar, the only thing in danger is your dignity.",
+          "value": "Linus Hook, linushook@gmail.com or phone/whatsapp: +46704666369",
           "customField": {
-            "name": "Safety"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Powered by divine intervention alone. We require zero electricity, just the smoulder of incense and the spark of your darkest confessions.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "This isn’t a place for quiet prayer. \n\nAt this altar, sisters encourage and celebrate sins and offer spicy sacraments to wash down regrets.\n\nWhether you believe in the immaculate conception or suspect “the virgin” Mary just got hammered, fucked the stable boy, and spun a dramatic miracle to cover her tracks, you are invited to step into our confession booth to trade your shame and scandals for a spicy Bloody Mary.\n\nOur mission is simple: we harvest the scandals of the masses to fuel our own unholy agenda. We provide the heat, the spice, and the judgment; you bring the gossip. \n\nBe it a personal iniquity or a scandalous rumour about a friend, your confessions are our currency. Every transgression is logged to track the neighbourhood's moral decline in real-time. Remember: while God may forgive, the Sisters keep receipts. \n\nWhether you’re a virgin, a non-virgin, or a virgin with children, stumble over, confess your sins and toast to the woman who turned a walk of shame into a world religion.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "While we possess the eternal holy spirit, we expect to find ourselves with a limited supply of the liquid kind.\n\nWe will provide as much vodka as our modest means allow, but we anticipate an inflation in sins due to our presence. We therefore invite the masses to co-create our sacraments by bringing gifts of vodka, a necessary sacrifice to keep the libations flowing.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Like any good scandalous night, we plan to leave no trace. Once the confessions are closed, we’ll scrub the site until it's as virginal as Mary’s reputation. No trash, no evidence. Just a holy, empty ground and the lingering mystery of where those two sisters went with all your dirty secrets.",
+          "value": "The booth will be built in modules by recycling former structure for the toiletbooths of BL 2022. The modules will be able to be deconstructed and rebuilt each year for future BL-events.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Cecilia Stenlund whatsapp +46707737931  \nKerry Kane",
+          "value": "Even though the format could look similar to practices of the Catholic Church, be aware that this has nothing to do with religion.\n\nIt is a booth that will be open att all hours for anyone to use. Whether you want to step in as a listener or if you need to lighten your heart.\n\nSome hours each day it will be manned by campmembers, if not you just ask a passerby if they have time to sit on the other side as a listener.\n\nWell inside, the person sharing will also find inspiration of how to turn their confession in to poetry.\n\nPS. The sign ”Diktbås” illuminated on top is a play with the Swedish words Dikt = Poetry and Bikt = Confession.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Electrical light will be waterproofed, instructions and consent guidelines posted inside.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "@Bob Hansson",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "120 watt",
+          "customField": {
+            "name": "Electricity"
           }
         }
       ],
       "tags": [
         {
-          "value": "Bar"
+          "value": "Experience"
         },
         {
-          "value": "Experience"
+          "value": "Healing"
+        },
+        {
+          "value": "Playful"
         },
         {
           "value": "Weird shit"
@@ -67861,38 +67888,44 @@
       ],
       "budgetItems": [
         {
-          "description": "Base ingredients (excl. vodka)",
-          "min": 1500,
+          "description": "Wallpaper, velvet drapes for doors, seating, elektrical lighting, frames, perforated steelplate for confessionbooth-wall, outdoor lighting string (without bulbs) 1500 kr",
+          "min": 5500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Wooden paneling sides and back",
+          "min": 3200,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Garnish",
+          "description": "Paint",
           "min": 500,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport in shared trailer",
+          "min": 1200,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Decorations",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Altar",
+          "description": "Brackets, bolts and screws",
           "min": 1000,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Confession booth",
-          "min": 1000,
+          "description": "Lightbulbs for outdoor lightstring",
+          "min": 800,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 5500,
+      "percentageFundedTrue": 82.09
     },
     {
       "id": "cmnm1h2u70000106e0ddftjvr",
@@ -68535,122 +68568,89 @@
       "percentageFundedTrue": 119
     },
     {
-      "id": "cmnusd3ap0048t64cz25wn16l",
-      "title": "The psy-chill hangout",
-      "summary": "A cozy 24/7 chill hang out space. \nFree to chill, facilitate, drum or do whatever your heart desire. ",
-      "status": "CANCELED",
-      "noOfFunders": 0,
-      "noOfComments": 6,
-      "percentageFunded": 100.79,
-      "minGoal": 23800,
-      "maxGoal": 23800,
-      "income": 22000,
+      "id": "cmnvuzu490018jwf1wba2rq3m",
+      "title": "Collective Utopian Dreaming",
+      "summary": "Together we will create an utopian art work filled with utopias!",
+      "status": "FUNDED",
+      "noOfFunders": 8,
+      "noOfComments": 0,
+      "percentageFunded": 100,
+      "minGoal": 800,
+      "maxGoal": 1500,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003804/dreams/qilfgixex5iwhgitdudq.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775939313/dreams/t1o5eggiswo6cnkamddb.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003813/dreams/cq3120oafximw2ikaalk.webp"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003822/dreams/vc9ukdnr3lwiahum7jln.webp"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003834/dreams/acoo12tttv3mchvnbnhm.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776005819/dreams/b2cif4rsdeyuqbo8exdw.png"
         }
       ],
       "customFields": [
         {
-          "value": "Chris Gammelgaard, contact on discord",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "It can be used to facilitate workshops, ceremonies, drum circles and whatever else people come up with.",
+          "value": "\\-",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Will be striked Sunday.",
+          "value": "\\-",
           "customField": {
-            "name": "Strike plan"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "500watt",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "There is no sound attached, at max it will be a Bluetooth speaker with atmospheric music.",
+          "value": "\\-",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "A cozy 4x8m pavillion outfitted with custom made fabrics to change it into the most cozy chill spot.\n\nIt will be filled with pillows, carpets and everything to make it is as cozy and possible.\n\nWhat happens in there?\n\nWhatever YOU want!\n\nThis space is created for you ♥️\n\nI don't pull out, the fabric will be donated to gearbox in Copenhagen where it can be used by the Danish burner community.\n\nIf it only reached partially funding, Gearbox might want to help Fund the remaining.  \n  \nWalkable example:  \n[https://andreiverner.com/ivs/](https://andreiverner.com/ivs/)",
+          "value": "\\-",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "\\-",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Aline (aline.groh@gmail.com)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Let's dream together about a better world!\n\nWith the starting point in a utopia about a world in which we all are valued as competent people with varying support needs we will explore our own utopias.\n\nThis workshop will start with a presentation about the utopia of a world in which we are all valued as competent people with varying support needs (described in the book \"Driv Utopierna\"). The second part of the workshop will be discussing different utopian ideas or developing your own utopia. In this part you will be encouraged to use art, to paint, draw and write. So, together we will create an utopian art work filled with utopias!",
           "customField": {
             "name": "Description"
+          }
+        },
+        {
+          "value": "Yggdrasil",
+          "customField": {
+            "name": "This dream belongs to camp:"
           }
         }
       ],
       "tags": [
         {
-          "value": "BurnerBox"
+          "value": "Kids-friendly"
         },
         {
-          "value": "Chillout"
-        },
-        {
-          "value": "Workshop space"
+          "value": "Workshop"
         }
       ],
       "budgetItems": [
         {
-          "description": "Carpets ",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Pillows",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tent ",
-          "min": 10000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Puzzlemats ",
-          "min": 7000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lights ",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Custom made deco (made to order) from USA",
-          "min": 23800,
-          "max": null,
+          "description": "Tools and materials for art (paper, colour, pencils,...)",
+          "min": 800,
+          "max": 1500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 22000,
-      "percentageFundedTrue": 92.44
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnunw7a0003v2ymltfxw5s6l",
