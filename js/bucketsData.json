@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783589903218,
+  "updatedAt": 1783756470154,
   "buckets": [
     {
       "id": "cmnvxkjzf008d12nemjz6gbgh",
@@ -3699,7 +3699,7 @@
       "summary": "Welcome to the new chapter of our Elvenforest Sauna Dream! Following last year's successful Elvenforest SaunaCave, we aim to merge even deeper with the elements",
       "status": "FUNDED",
       "noOfFunders": 75,
-      "noOfComments": 0,
+      "noOfComments": 1,
       "percentageFunded": 277.11,
       "minGoal": 10000,
       "maxGoal": 22300,
@@ -5132,200 +5132,103 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnw3sz0x000qapl90np61t9r",
-      "title": "The Grand Gift Trolley",
-      "summary": "A roaming gift cart. Unexpected presents for everyone. No occasion required.",
-      "status": "FUNDED",
-      "noOfFunders": 55,
-      "noOfComments": 0,
-      "percentageFunded": 177.2,
-      "minGoal": 4540,
-      "maxGoal": 9130,
-      "income": 3500,
+      "id": "cmnw5gy99005ifp280yvpydfy",
+      "title": "Gift Wrapping Workshop + Station",
+      "summary": "Learn how to wrap a gift wonderfully and make a someone happy!",
+      "status": "CANCELED",
+      "noOfFunders": 0,
+      "noOfComments": 2,
+      "percentageFunded": 114.28,
+      "minGoal": 700,
+      "maxGoal": 700,
+      "income": 100,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776023863/dreams/zopyygb6ecnjlhlzlzzs.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776432103/dreams/ywajehawmldpgztuho35.heic"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776023641/dreams/dwjj2ttwo9lvunzhhn73.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Some construction work on saturday-monday. But not loud music or any other disturbances.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Richard (RickTheTrick)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "We know what we're doing when we're building it and pushing it around.\n\nIf you get upset because you got the gift you needed, we will try our best to comfort you.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Maybe a tiny bluetooth speaker at some particular mission... but no sound levels to worry about.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Will use our own 12V lighting with battery. So no load on the power grid.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "The camp at the end of the universe",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "This year will be our third Borderland participation, and we will not stop here. We have previously done similar things; last year we made luxury ice cream on-site and handed out (Dicksicles). We will build this trolley to be sturdy and adaptable, so that it can be used for similar missions on future burns, and also easily modified to the future themes. In other words we will dismount it and bring it back home, so that we can bring it to Borderland 2027 (and maybe other burns).\n\ntldr: We will dismantle and bring everything back with us, to provide it again next year.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "You wanna bring some gifts to the trolley? Or you wanna use it for a mission?\n\nSure, just talk to us :)",
+          "value": "Bringing your own gift to wrap is very welcome! Wrapping body parts might happen at some point :). Perhaps we can collaborate with the Mobile Grand Gift Station!",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "The Grand Gift Trolley is a mobile gift-giving experience for Borderland. A beautifully decorated cart, operated by a warm and enthusiastic gift-giver, roams the festival and offers handpicked gifts to anyone it encounters.\n\nThere is no transaction. No performance required. You receive a gift simply because the trolley found you.\n\nThe gifts themselves are chosen with care and a certain creative logic that we won't explain fully here. Some gifts are practical. Some are playful. Some are deliberately surprising. That element of surprise is part of the experience: you never quite know what you are going to get, and that is exactly the point.\n\nOne planned sub-theme — developed in more detail separately — is a gift selection built entirely around giving people the opposite of what the moment seems to call for: coffee late at night, something cold in the rain, a compass when you need directions but no map. These gifts are not pranks. They are offered with complete warmth and conviction. Think of it as a love language that happens to be slightly inconvenient.\n\nThat sub-theme is one expression of the trolley's spirit. But we will utilize of for a few more gifting patrols aroudn the playa — the cart is a platform, not a fixed script.",
+          "value": "Just the sound of scissors cutting and an occasional “ooooh that looks so nice”",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Paper cuts can be painful!",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We will make sure to not create extra moop and only use biodegradable materials.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Our workshop will be a small, calm, and welcoming space within the surrounding environment, a place for people to slow down and create.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "None",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Always wanted to learn how to wrap a gift beautifully using natural materials? This is your moment!\n\nCome play with paper, fabric, twine, and earthy decorations and turn simple objects into little works of art. Anything can become a gift experience as long as you wrap it nicely.\n\nWe will teach you the state of the art of gift wrapping & gifting tiny things.\n\nWe’ll have a box of sustainable gifts ready for you to wrap… so you can surprise your Borderland crush, hardworking clown police, a fearless threshold warrior, or your favorite campmate with a beautifully wrapped gift!\n\nWe plan to leave the leftover materials for people to use at a Gift Wrapping Station so you can wrap & gift throughout the week.",
           "customField": {
             "name": "Description"
           }
+        },
+        {
+          "value": "Discord: @camillionaire7711",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
         }
       ],
-      "tags": [
-        {
-          "value": "Bar"
-        },
-        {
-          "value": "Bazaar"
-        },
-        {
-          "value": "BurnerBox"
-        },
-        {
-          "value": "Food"
-        },
-        {
-          "value": "Wellness"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "12V battery + charger",
-          "min": 1000,
+          "description": "Scissors",
+          "min": 100,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Hand tools",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Screws, fasteners, adhesive tape, stripes",
+          "description": "Biodegradable Wrapping paper ",
           "min": 300,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Paint + brushes",
-          "min": 300,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Led strips",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Cooler bags, Thermos flasks",
-          "min": 400,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Drink items",
-          "min": 800,
-          "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Food items",
-          "min": 700,
-          "max": 1200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Party gifts",
-          "min": 700,
-          "max": 1200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Trolley base",
-          "min": 1200,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "wooden beams",
-          "min": 150,
-          "max": 300,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "OSB-board",
-          "min": 240,
-          "max": 480,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Hemp rope handle",
+          "description": "Other supplies (wool, hennep rope, bio tape)",
           "min": 100,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Fabric",
-          "min": 200,
-          "max": 400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Chalkboard",
-          "min": 0,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Gift store cloth cover",
-          "min": 150,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Display baskets",
+          "description": "Little sustainable gifts to give away",
           "min": 300,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 3500,
-      "percentageFundedTrue": 77.09
+      "funded": 100,
+      "percentageFundedTrue": 14.29
     },
     {
       "id": "cmnrkzgn1000jee0vrrmsfz71",
@@ -7133,87 +7036,72 @@
       "percentageFundedTrue": 544.6
     },
     {
-      "id": "cmnhm1s6q000e6m2dbtol87h9",
-      "title": "Passage to Lemuria",
-      "summary": "What if you left yourself at the door? Enter House of Lemuria through three ritual doors, shed skin and be digested into an immersive ongoing performance.",
+      "id": "cmnw3sz0x000qapl90np61t9r",
+      "title": "The Grand Gift Trolley",
+      "summary": "A roaming gift cart. Unexpected presents for everyone. No occasion required.",
       "status": "FUNDED",
-      "noOfFunders": 56,
-      "noOfComments": 1,
-      "percentageFunded": 2287.4,
-      "minGoal": 7500,
-      "maxGoal": 36000,
-      "income": 157800,
+      "noOfFunders": 55,
+      "noOfComments": 0,
+      "percentageFunded": 177.2,
+      "minGoal": 4540,
+      "maxGoal": 9130,
+      "income": 3500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775737342/dreams/shulbfkoqaun1z1zavfy.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775830115/dreams/te4lnrv9zpoyiquitnnz.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776257793/dreams/jgvf93ojpddf3cfmborf.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775830126/dreams/ivfqyze3ni85vb8xop1i.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775830138/dreams/nh9gl5ng6obr3lv7irmm.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775830153/dreams/con4xqxhgwo86tqqvlr3.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776023863/dreams/zopyygb6ecnjlhlzlzzs.png"
         }
       ],
       "customFields": [
         {
-          "value": "House of Lemuria",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Yes, **deeply and wholeheartedly**.\n\nHouse of Lemuria is by nature a collective. Beyond our own performances and rituals, we welcome collaboration with dreamers across Borderland. This can take many forms, hosting workshops or ceremonies for visiting camps, offering our stage to performers passing through, or simply holding space as a warm resting place for participants on their journey.\n\nThe Passage is not just an experience, it is a living world that grows richer through every person that goes through it. We see every collaboration as another thread woven into the fabric of Lemuria itself.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "When Lemuria is awake and open, she opens her arms to her neighbours to rest, connect and let go. Her sounds drift toward the trees as the placement will be connected to the forest. We are committed to respecting Borderland's sound directives at all times.",
+          "value": "Some construction work on saturday-monday. But not loud music or any other disturbances.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Our physical dream will be removed after the closing but Lemuria is released into the world or perhaps carried outward when our collective baby will be born. All decorations, fabrics, light installations, tent structures and will be carefully removed and packed for transport. The forest area will be fully cleared and a thorough MOOP sweep will be conducted across the entire footprint before we leave. Our goal is simple: to leave the land as we found it, or better.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Heléne Schreber (Fkahlo) @fkahlo\\_61051 on discord or +46709494141",
+          "value": "Richard (RickTheTrick)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "We would need a 16 to 32 ampere power socket with a distributor with at least 3 phases for the whole camp.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "House of Lemuria is a sound camp with intentional and directional sound. 500W - 2000W",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Performers and inhabitants of Lemuria are briefed on creating a safe environment. The space welcomes all bodies, identities and states of being without judgment.",
+          "value": "We know what we're doing when we're building it and pushing it around.\n\nIf you get upset because you got the gift you needed, we will try our best to comfort you.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "House of Lemuria brings you a dream inspired by the myth of Lemuria: A utopian civilization believed to have existed millions of years ago. This is the first time the alternate dimension of Lemuria comes to the Borderland. House of Lemuria unfolds as an **ongoing immersive performance**_,_ inhabited by characters that exist beyond time. _You are invited to enter and to become part of its fabric_. The space functions as a warm, intimate womb: a place to rest, connect with oneself, others and nature. To let go of imposed identities and rehearse new forms of togetherness. It is a collective baby, held by three pillars: **heart-centered community, nature and inclusiveness**.\n\nOpening night will offer a **three door ritualized passage of a mouth, a confession and a butthole**. After you've shed skin and been digested into the house, you will be offered **a lineup of DJs and a space which will be connected to the forest woven by light installations**. The dream remains open during set hours and hosts a series of workshops, concerts and small-scale rituals. On the closing there will be a soft gathering with tea, live music, readings, cuddling or whatever we may need or feel like doing.",
+          "value": "Maybe a tiny bluetooth speaker at some particular mission... but no sound levels to worry about.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Will use our own 12V lighting with battery. So no load on the power grid.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "The camp at the end of the universe",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "This year will be our third Borderland participation, and we will not stop here. We have previously done similar things; last year we made luxury ice cream on-site and handed out (Dicksicles). We will build this trolley to be sturdy and adaptable, so that it can be used for similar missions on future burns, and also easily modified to the future themes. In other words we will dismount it and bring it back home, so that we can bring it to Borderland 2027 (and maybe other burns).\n\ntldr: We will dismantle and bring everything back with us, to provide it again next year.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "You wanna bring some gifts to the trolley? Or you wanna use it for a mission?\n\nSure, just talk to us :)",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "The Grand Gift Trolley is a mobile gift-giving experience for Borderland. A beautifully decorated cart, operated by a warm and enthusiastic gift-giver, roams the festival and offers handpicked gifts to anyone it encounters.\n\nThere is no transaction. No performance required. You receive a gift simply because the trolley found you.\n\nThe gifts themselves are chosen with care and a certain creative logic that we won't explain fully here. Some gifts are practical. Some are playful. Some are deliberately surprising. That element of surprise is part of the experience: you never quite know what you are going to get, and that is exactly the point.\n\nOne planned sub-theme — developed in more detail separately — is a gift selection built entirely around giving people the opposite of what the moment seems to call for: coffee late at night, something cold in the rain, a compass when you need directions but no map. These gifts are not pranks. They are offered with complete warmth and conviction. Think of it as a love language that happens to be slightly inconvenient.\n\nThat sub-theme is one expression of the trolley's spirit. But we will utilize of for a few more gifting patrols aroudn the playa — the cart is a platform, not a fixed script.",
           "customField": {
             "name": "Description"
           }
@@ -7221,193 +7109,127 @@
       ],
       "tags": [
         {
-          "value": "Chillout"
+          "value": "Bar"
         },
         {
-          "value": "Experience"
+          "value": "Bazaar"
         },
         {
-          "value": "Healing"
+          "value": "BurnerBox"
         },
         {
-          "value": "Hippie trap"
+          "value": "Food"
         },
         {
-          "value": "Light"
-        },
-        {
-          "value": "Meditation"
-        },
-        {
-          "value": "Music"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Queer"
-        },
-        {
-          "value": "Weird shit"
+          "value": "Wellness"
         }
       ],
       "budgetItems": [
         {
-          "description": "Fabrics (mats, matresses, pillows)",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Dj booth (turntables, mixer, computer, pallets for stage)",
-          "min": 37000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tools (Hammer, Saw, Screws etc)",
+          "description": "12V battery + charger",
           "min": 1000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Instruments live music (guitars, loop, pedals, amplifier, microphones, cajon, small instruments)",
-          "min": 30000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "PA Soundsystem",
-          "min": 60000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Synth, recorder (effects, drive, delay, reverb)",
-          "min": 7000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Low tables",
+          "description": "Hand tools",
           "min": 1000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Discoball",
+          "description": "Screws, fasteners, adhesive tape, stripes",
+          "min": 300,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Paint + brushes",
+          "min": 300,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Led strips",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Cooler bags, Thermos flasks",
+          "min": 400,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Drink items",
           "min": 800,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Plants",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Boardgames",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Cables (XLR, DMX, Power, Multiplugs)",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lights (Entecode MK3 DMX Interface, LED FLoods)",
-          "min": 6000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tents",
-          "min": 10000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Light installations (china lamps, fairy lights, lamp shades, bulbs, chords, extensions, sunset lamps)",
-          "min": 500,
-          "max": 6000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Fabrics (pillows, blankets, roof and wall fabrics)",
-          "min": 0,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Party tent",
-          "min": 2000,
-          "max": 7000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Arts and crafts for workshop",
-          "min": 0,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "4xdoors",
-          "min": 500,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Building material",
-          "min": 500,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Costumes of Lemurians (masks, feathers)",
-          "min": 0,
           "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Surface and cushions (carpets, matresses, bean bags)",
-          "min": 500,
-          "max": 3000,
+          "description": "Food items",
+          "min": 700,
+          "max": 1200,
           "type": "EXPENSE"
         },
         {
-          "description": "Rain proof sail",
-          "min": 0,
-          "max": 1000,
+          "description": "Party gifts",
+          "min": 700,
+          "max": 1200,
           "type": "EXPENSE"
         },
         {
-          "description": "Big projector",
-          "min": 1000,
+          "description": "Trolley base",
+          "min": 1200,
           "max": 2500,
           "type": "EXPENSE"
         },
         {
-          "description": "1 Phase currency distributor (32Ampere) outdoor",
-          "min": 2500,
-          "max": 4000,
+          "description": "wooden beams",
+          "min": 150,
+          "max": 300,
           "type": "EXPENSE"
         },
         {
-          "description": "Transport",
+          "description": "OSB-board",
+          "min": 240,
+          "max": 480,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Hemp rope handle",
+          "min": 100,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fabric",
+          "min": 200,
+          "max": 400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Chalkboard",
           "min": 0,
-          "max": 5000,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Gift store cloth cover",
+          "min": 150,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Display baskets",
+          "min": 300,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 157800,
-      "percentageFundedTrue": 2104
+      "funded": 3500,
+      "percentageFundedTrue": 77.09
     },
     {
       "id": "cmnvvh4f8004fx5n9g5qe2wtx",
@@ -18128,167 +17950,112 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnw2frpr0010faxo6ks53zyy",
-      "title": " Do's & Dont's: Dancefloor & chill space",
-      "summary": "An extension of do's and don'ts doughnut diner. The space will provide an area to meet during the day and dance on select days/evenings.",
-      "status": "CANCELED",
-      "noOfFunders": 0,
-      "noOfComments": 3,
-      "percentageFunded": 208.06,
-      "minGoal": 10100,
-      "maxGoal": 32100,
-      "income": 18000,
+      "id": "cmnw3v68w002f47zomm3sbl5g",
+      "title": "Monkey Signs",
+      "summary": "Lawn signs for marking if a public camp or other space is suitable for big monkeys or little monkeys.",
+      "status": "FUNDED",
+      "noOfFunders": 16,
+      "noOfComments": 0,
+      "percentageFunded": 260,
+      "minGoal": 2500,
+      "maxGoal": 10000,
+      "income": 4000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776593592/dreams/zazxc9zffdcomabkfoli.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776027065/dreams/j0ez1db6ykqejyprwrhw.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776612783/dreams/z6xxqmpvacvkcassqifn.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "First aid kit and assigned safety officer onsite.",
+          "value": "it is very safe",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "We are open to co-creating, we'll start discussions with neighbors asap.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Its a natural addition to the surrounding dreams, well planned together with the area we aim to place ourselves.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "An extension of do's and dont's doughnut diner. The space will provide an area to meet during the day and dance on select days/evenings.\n\nWe aim to prolong the diners music during select evenings with emphasis on happy & melodic music.\n\nIf we reach our goal, the space will be an oasis to chill during the day and get some pep in your step for the nights.\n\nMusic will range from italo disco, disco, Norwegian space disco, melodic electronic genre's, this will not be a hard techno or psytrance dancefloor.\n\nOur budget (depending on what we get) is somewhat to-existing with our main dream (do's & don'ts) in that if we dont get additional funding for this dream we will re-use materials from one or the other.\n\nLooking forward to seeing you all❤️",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Do’s & Don’ts",
+          "value": "Teentown",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "2000",
+          "value": "We will make a bunch of sturdy and long- lasting lawn signs with big monkey or little monkey and distribute them around borderland so camps and events can easily show if they are welcoming of kids and teens or is it for adults only. if we get more funding we can also print other signs from the JOMO like \"Pet Friendly\", “Pet Free” and \"Trigger Warning\". if we have enough support, we can also maintain a sign office for distributing signs and providing custom lettering (particularly for \"Trigger Warning\").  \n  \nThe signs are made to withlast for years to come in future Borderlands, building a culture of true consensuality in communicating expectations that Borberlings may have when entering a space or event. The monkeys are loose from the pages of JOMO, and they know what they like in Borderland!",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "there will be little effect",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "none",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "In conjunction with our doughnut diner. Leave no trace is the upmpst priority",
+          "value": "We will gift the signs to their respective camps for use in further years, but will also collect back the signs that camps do not wish to keep afterwards. All actions will LNT under the supervision of the Mermaid Camp LNT lead.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "3500",
+          "value": "none",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Lukas (lovkei) discord",
+          "value": "Yakup Albekoglu (telegram: @charmerchameleon, WA +358503682477, email: albekogluyakup@gmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
-        }
-      ],
-      "tags": [
-        {
-          "value": "Chillout"
         },
         {
-          "value": "Music"
-        },
-        {
-          "value": "Soundcamp"
+          "value": "If someone has a cnc machine in finland for sign design. otherwise we will use vinyl sticker printing.",
+          "customField": {
+            "name": "Co-creation"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Lounge Chairs",
-          "min": 3500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Water/Juice dispenser",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Electricity infrastructure",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Instruments",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "DJ equipment (rental)",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Boardgames & Games",
+          "description": "sign material",
           "min": 1000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "sarongs & decor",
-          "min": 2000,
+          "description": "Monkey Sign Office tent ",
+          "min": 3000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Sound system",
+          "description": "sign material",
+          "min": 1500,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Monkey Sign cart",
+          "min": 1000,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Monkey Sign Office deco",
           "min": 0,
-          "max": 8000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Lighting",
-          "min": 0,
-          "max": 5000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Tent &/Rain cover rental",
-          "min": 10000,
-          "max": 17000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Charging station",
-          "min": 100,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "seating / mats",
-          "min": 0,
-          "max": 1500,
+          "max": 3000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 18000,
-      "percentageFundedTrue": 178.22
+      "funded": 4000,
+      "percentageFundedTrue": 160
     },
     {
       "id": "cmnc696670000rwiepds8bioi",
@@ -19067,115 +18834,94 @@
       "percentageFundedTrue": 33333.67
     },
     {
-      "id": "cmnw9exmx0002sxoe0a6l6089",
-      "title": "Kaleidoscope of visions",
-      "summary": null,
-      "status": "FUNDED",
-      "noOfFunders": 15,
-      "noOfComments": 1,
-      "percentageFunded": 184.31,
-      "minGoal": 5100,
-      "maxGoal": 10800,
-      "income": 4300,
+      "id": "cmnw3qgfr000ez2danuxkin15",
+      "title": "TuTuTaxi",
+      "summary": "Want to go to the lake but you're too lazy to walk? Hop on the TuTUTaxi! You will get to your destination, sort of, and have an amazing time while doing it",
+      "status": "CANCELED",
+      "noOfFunders": 0,
+      "noOfComments": 0,
+      "percentageFunded": 20.46,
+      "minGoal": 13000,
+      "maxGoal": 18000,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776590838/dreams/zpmrvibvntu7nn05rkyu.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776590902/dreams/o3ersf179mqci6yyv3ea.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776621138/dreams/t0g6xnaak4cxb69amod7.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "NA",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Everything will be brought with back home (and brought back again for next Borderland!).",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "NA",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "It has a small footprint, and can be made movable, and will benefite from being placed at spots that has \"interesting visual footprint\" that can be transformed through the kaleidoscope. Still unsure on perfect placement, and open to advice.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "I Dream of a big kaleidoscope, made like a moveable telescope that will be perched upon the hill, and allow one to take in all of Borderland through its scope. The glowing lights of Borderland will be transformed through the mirrores and drichornic glass inside into the most wicked and amazing visual experiences that will take you on a journey there and back here again!\n\nThe size of the kaleidoscope, and the level of visual \"enhancement\" made will grow in relation to the funding.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Rasmus @rasmus.solberg@gmail.com",
+          "value": "Hanna Kanon, 0707868405, hanna.l.kanon@gmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "NA",
+          "value": "We will have a first aid kit (and one of the creators is a doctor, one call away).",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We will remove the taxi from the playa and return it to it's home.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "0",
           "customField": {
             "name": "Sound levels"
+          }
+        },
+        {
+          "value": "The dream exists mainly on the roads on the playa, and will always respect people walking around.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Groovy camp",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "100 W to charge a portable speaker, possibly lights",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Everyone can be the driver, everyone can be the passenger.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "From an electric \"golfbil\" we willl make a beautiful creation ready to pick up any lost, or non-lost, souls - the TuTuTaxi! Whether you want a ride to a workshop, a trip to the lake or just a nice cruise on the playa the taxi is there for you. Hurry and stress is not on the agenda - only chill and good vibes!",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "Dichronic Glass",
-          "min": 2400,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Wood",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Mirrors",
-          "min": 400,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Wood",
-          "min": 1600,
-          "max": 3200,
+          "description": "Car rental",
+          "min": 10000,
+          "max": 15000,
           "type": "EXPENSE"
         },
         {
-          "description": "Mirrors",
-          "min": 1500,
-          "max": 2400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Screws",
-          "min": 800,
-          "max": 1200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Dichronic glass",
-          "min": 1200,
-          "max": 4000,
+          "description": "Decorations and lights",
+          "min": 3000,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 4300,
-      "percentageFundedTrue": 84.31
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnurj1tt007d9xj9mgu4207q",
@@ -22325,103 +22071,167 @@
       "percentageFundedTrue": 930
     },
     {
-      "id": "cmnw5gy99005ifp280yvpydfy",
-      "title": "Gift Wrapping Workshop + Station",
-      "summary": "Learn how to wrap a gift wonderfully and make a someone happy!",
-      "status": "FUNDED",
-      "noOfFunders": 9,
-      "noOfComments": 2,
-      "percentageFunded": 114.28,
-      "minGoal": 700,
-      "maxGoal": 700,
-      "income": 100,
+      "id": "cmnw2frpr0010faxo6ks53zyy",
+      "title": " Do's & Dont's: Dancefloor & chill space",
+      "summary": "An extension of do's and don'ts doughnut diner. The space will provide an area to meet during the day and dance on select days/evenings.",
+      "status": "CANCELED",
+      "noOfFunders": 0,
+      "noOfComments": 3,
+      "percentageFunded": 208.06,
+      "minGoal": 10100,
+      "maxGoal": 32100,
+      "income": 18000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776432103/dreams/ywajehawmldpgztuho35.heic"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776593592/dreams/zazxc9zffdcomabkfoli.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776023641/dreams/dwjj2ttwo9lvunzhhn73.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776027065/dreams/j0ez1db6ykqejyprwrhw.png"
         }
       ],
       "customFields": [
         {
-          "value": "Bringing your own gift to wrap is very welcome! Wrapping body parts might happen at some point :). Perhaps we can collaborate with the Mobile Grand Gift Station!",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Just the sound of scissors cutting and an occasional “ooooh that looks so nice”",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Paper cuts can be painful!",
+          "value": "First aid kit and assigned safety officer onsite.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "We will make sure to not create extra moop and only use biodegradable materials.",
+          "value": "We are open to co-creating, we'll start discussions with neighbors asap.",
           "customField": {
-            "name": "Strike plan"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "Our workshop will be a small, calm, and welcoming space within the surrounding environment, a place for people to slow down and create.",
+          "value": "Its a natural addition to the surrounding dreams, well planned together with the area we aim to place ourselves.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "None",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Always wanted to learn how to wrap a gift beautifully using natural materials? This is your moment!\n\nCome play with paper, fabric, twine, and earthy decorations and turn simple objects into little works of art. Anything can become a gift experience as long as you wrap it nicely.\n\nWe will teach you the state of the art of gift wrapping & gifting tiny things.\n\nWe’ll have a box of sustainable gifts ready for you to wrap… so you can surprise your Borderland crush, hardworking clown police, a fearless threshold warrior, or your favorite campmate with a beautifully wrapped gift!\n\nWe plan to leave the leftover materials for people to use at a Gift Wrapping Station so you can wrap & gift throughout the week.",
+          "value": "An extension of do's and dont's doughnut diner. The space will provide an area to meet during the day and dance on select days/evenings.\n\nWe aim to prolong the diners music during select evenings with emphasis on happy & melodic music.\n\nIf we reach our goal, the space will be an oasis to chill during the day and get some pep in your step for the nights.\n\nMusic will range from italo disco, disco, Norwegian space disco, melodic electronic genre's, this will not be a hard techno or psytrance dancefloor.\n\nOur budget (depending on what we get) is somewhat to-existing with our main dream (do's & don'ts) in that if we dont get additional funding for this dream we will re-use materials from one or the other.\n\nLooking forward to seeing you all❤️",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Discord: @camillionaire7711",
+          "value": "Do’s & Don’ts",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "2000",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "In conjunction with our doughnut diner. Leave no trace is the upmpst priority",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "3500",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Lukas (lovkei) discord",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Chillout"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "Soundcamp"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Scissors",
-          "min": 100,
+          "description": "Lounge Chairs",
+          "min": 3500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Biodegradable Wrapping paper ",
-          "min": 300,
+          "description": "Water/Juice dispenser",
+          "min": 500,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Electricity infrastructure",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Instruments",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "DJ equipment (rental)",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Boardgames & Games",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "sarongs & decor",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Sound system",
+          "min": 0,
+          "max": 8000,
           "type": "EXPENSE"
         },
         {
-          "description": "Other supplies (wool, hennep rope, bio tape)",
+          "description": "Lighting",
+          "min": 0,
+          "max": 5000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Tent &/Rain cover rental",
+          "min": 10000,
+          "max": 17000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Charging station",
           "min": 100,
-          "max": null,
+          "max": 600,
           "type": "EXPENSE"
         },
         {
-          "description": "Little sustainable gifts to give away",
-          "min": 300,
-          "max": null,
+          "description": "seating / mats",
+          "min": 0,
+          "max": 1500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 100,
-      "percentageFundedTrue": 14.29
+      "funded": 18000,
+      "percentageFundedTrue": 178.22
     },
     {
       "id": "cmnqcct2w000z10u8f6om9z20",
@@ -30623,7 +30433,7 @@
       "summary": "The lakeside gets busy, towels wander off, and bags disappear into the grass. We’d love to gift benches, hooks, and a soft landing space for wet hippies 🌊",
       "status": "FUNDED",
       "noOfFunders": 80,
-      "noOfComments": 3,
+      "noOfComments": 4,
       "percentageFunded": 103.35,
       "minGoal": 6000,
       "maxGoal": 48500,
@@ -48757,94 +48567,281 @@
       "percentageFundedTrue": 100.11
     },
     {
-      "id": "cmnw3qgfr000ez2danuxkin15",
-      "title": "TuTuTaxi",
-      "summary": "Want to go to the lake but you're too lazy to walk? Hop on the TuTUTaxi! You will get to your destination, sort of, and have an amazing time while doing it",
-      "status": "CANCELED",
-      "noOfFunders": 0,
-      "noOfComments": 0,
-      "percentageFunded": 20.46,
-      "minGoal": 13000,
-      "maxGoal": 18000,
-      "income": 0,
+      "id": "cmnhm1s6q000e6m2dbtol87h9",
+      "title": "Passage to Lemuria",
+      "summary": "What if you left yourself at the door? Enter House of Lemuria through three ritual doors, shed skin and be digested into an immersive ongoing performance.",
+      "status": "FUNDED",
+      "noOfFunders": 56,
+      "noOfComments": 1,
+      "percentageFunded": 2287.4,
+      "minGoal": 7500,
+      "maxGoal": 36000,
+      "income": 157800,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776621138/dreams/t0g6xnaak4cxb69amod7.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775737342/dreams/shulbfkoqaun1z1zavfy.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775830115/dreams/te4lnrv9zpoyiquitnnz.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776257793/dreams/jgvf93ojpddf3cfmborf.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775830126/dreams/ivfqyze3ni85vb8xop1i.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775830138/dreams/nh9gl5ng6obr3lv7irmm.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775830153/dreams/con4xqxhgwo86tqqvlr3.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Hanna Kanon, 0707868405, hanna.l.kanon@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "We will have a first aid kit (and one of the creators is a doctor, one call away).",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "We will remove the taxi from the playa and return it to it's home.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "0",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The dream exists mainly on the roads on the playa, and will always respect people walking around.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Groovy camp",
+          "value": "House of Lemuria",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "100 W to charge a portable speaker, possibly lights",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Everyone can be the driver, everyone can be the passenger.",
+          "value": "Yes, **deeply and wholeheartedly**.\n\nHouse of Lemuria is by nature a collective. Beyond our own performances and rituals, we welcome collaboration with dreamers across Borderland. This can take many forms, hosting workshops or ceremonies for visiting camps, offering our stage to performers passing through, or simply holding space as a warm resting place for participants on their journey.\n\nThe Passage is not just an experience, it is a living world that grows richer through every person that goes through it. We see every collaboration as another thread woven into the fabric of Lemuria itself.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "From an electric \"golfbil\" we willl make a beautiful creation ready to pick up any lost, or non-lost, souls - the TuTuTaxi! Whether you want a ride to a workshop, a trip to the lake or just a nice cruise on the playa the taxi is there for you. Hurry and stress is not on the agenda - only chill and good vibes!",
+          "value": "When Lemuria is awake and open, she opens her arms to her neighbours to rest, connect and let go. Her sounds drift toward the trees as the placement will be connected to the forest. We are committed to respecting Borderland's sound directives at all times.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Our physical dream will be removed after the closing but Lemuria is released into the world or perhaps carried outward when our collective baby will be born. All decorations, fabrics, light installations, tent structures and will be carefully removed and packed for transport. The forest area will be fully cleared and a thorough MOOP sweep will be conducted across the entire footprint before we leave. Our goal is simple: to leave the land as we found it, or better.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Heléne Schreber (Fkahlo) @fkahlo\\_61051 on discord or +46709494141",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We would need a 16 to 32 ampere power socket with a distributor with at least 3 phases for the whole camp.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "House of Lemuria is a sound camp with intentional and directional sound. 500W - 2000W",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Performers and inhabitants of Lemuria are briefed on creating a safe environment. The space welcomes all bodies, identities and states of being without judgment.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "House of Lemuria brings you a dream inspired by the myth of Lemuria: A utopian civilization believed to have existed millions of years ago. This is the first time the alternate dimension of Lemuria comes to the Borderland. House of Lemuria unfolds as an **ongoing immersive performance**_,_ inhabited by characters that exist beyond time. _You are invited to enter and to become part of its fabric_. The space functions as a warm, intimate womb: a place to rest, connect with oneself, others and nature. To let go of imposed identities and rehearse new forms of togetherness. It is a collective baby, held by three pillars: **heart-centered community, nature and inclusiveness**.\n\nOpening night will offer a **three door ritualized passage of a mouth, a confession and a butthole**. After you've shed skin and been digested into the house, you will be offered **a lineup of DJs and a space which will be connected to the forest woven by light installations**. The dream remains open during set hours and hosts a series of workshops, concerts and small-scale rituals. On the closing there will be a soft gathering with tea, live music, readings, cuddling or whatever we may need or feel like doing.",
           "customField": {
             "name": "Description"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Chillout"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Healing"
+        },
+        {
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Light"
+        },
+        {
+          "value": "Meditation"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "Performance"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Queer"
+        },
+        {
+          "value": "Weird shit"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Car rental",
+          "description": "Fabrics (mats, matresses, pillows)",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Dj booth (turntables, mixer, computer, pallets for stage)",
+          "min": 37000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Tools (Hammer, Saw, Screws etc)",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Instruments live music (guitars, loop, pedals, amplifier, microphones, cajon, small instruments)",
+          "min": 30000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "PA Soundsystem",
+          "min": 60000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Synth, recorder (effects, drive, delay, reverb)",
+          "min": 7000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Low tables",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Discoball",
+          "min": 800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Plants",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Boardgames",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Cables (XLR, DMX, Power, Multiplugs)",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Lights (Entecode MK3 DMX Interface, LED FLoods)",
+          "min": 6000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Tents",
           "min": 10000,
-          "max": 15000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Light installations (china lamps, fairy lights, lamp shades, bulbs, chords, extensions, sunset lamps)",
+          "min": 500,
+          "max": 6000,
           "type": "EXPENSE"
         },
         {
-          "description": "Decorations and lights",
-          "min": 3000,
-          "max": null,
+          "description": "Fabrics (pillows, blankets, roof and wall fabrics)",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Party tent",
+          "min": 2000,
+          "max": 7000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Arts and crafts for workshop",
+          "min": 0,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "4xdoors",
+          "min": 500,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Building material",
+          "min": 500,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Costumes of Lemurians (masks, feathers)",
+          "min": 0,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Surface and cushions (carpets, matresses, bean bags)",
+          "min": 500,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Rain proof sail",
+          "min": 0,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Big projector",
+          "min": 1000,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "1 Phase currency distributor (32Ampere) outdoor",
+          "min": 2500,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport",
+          "min": 0,
+          "max": 5000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 157800,
+      "percentageFundedTrue": 2104
     },
     {
       "id": "cmnh3m00c000112zs1gruagc4",
@@ -52298,7 +52295,7 @@
       "summary": "Last year we re-located one of the most legendary Saunas to Borderland. From arrival to strike the sauna was on 24/7 serving weary hippies. Lets do it again!",
       "status": "FUNDED",
       "noOfFunders": 67,
-      "noOfComments": 1,
+      "noOfComments": 3,
       "percentageFunded": 1161.77,
       "minGoal": 5700,
       "maxGoal": 5700,
@@ -69425,112 +69422,115 @@
       "percentageFundedTrue": 148203.7
     },
     {
-      "id": "cmnw3v68w002f47zomm3sbl5g",
-      "title": "Monkey Signs",
-      "summary": "Lawn signs for marking if a public camp or other space is suitable for big monkeys or little monkeys.",
+      "id": "cmnw9exmx0002sxoe0a6l6089",
+      "title": "Kaleidoscope of visions",
+      "summary": null,
       "status": "FUNDED",
-      "noOfFunders": 16,
-      "noOfComments": 0,
-      "percentageFunded": 260,
-      "minGoal": 2500,
-      "maxGoal": 10000,
-      "income": 4000,
+      "noOfFunders": 15,
+      "noOfComments": 1,
+      "percentageFunded": 184.31,
+      "minGoal": 5100,
+      "maxGoal": 10800,
+      "income": 4300,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776612783/dreams/z6xxqmpvacvkcassqifn.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776590838/dreams/zpmrvibvntu7nn05rkyu.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776590902/dreams/o3ersf179mqci6yyv3ea.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "it is very safe",
+          "value": "NA",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Teentown",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "We will make a bunch of sturdy and long- lasting lawn signs with big monkey or little monkey and distribute them around borderland so camps and events can easily show if they are welcoming of kids and teens or is it for adults only. if we get more funding we can also print other signs from the JOMO like \"Pet Friendly\", “Pet Free” and \"Trigger Warning\". if we have enough support, we can also maintain a sign office for distributing signs and providing custom lettering (particularly for \"Trigger Warning\").  \n  \nThe signs are made to withlast for years to come in future Borderlands, building a culture of true consensuality in communicating expectations that Borberlings may have when entering a space or event. The monkeys are loose from the pages of JOMO, and they know what they like in Borderland!",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "there will be little effect",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "none",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We will gift the signs to their respective camps for use in further years, but will also collect back the signs that camps do not wish to keep afterwards. All actions will LNT under the supervision of the Mermaid Camp LNT lead.",
+          "value": "Everything will be brought with back home (and brought back again for next Borderland!).",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "none",
+          "value": "NA",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Yakup Albekoglu (telegram: @charmerchameleon, WA +358503682477, email: albekogluyakup@gmail.com)",
+          "value": "It has a small footprint, and can be made movable, and will benefite from being placed at spots that has \"interesting visual footprint\" that can be transformed through the kaleidoscope. Still unsure on perfect placement, and open to advice.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "I Dream of a big kaleidoscope, made like a moveable telescope that will be perched upon the hill, and allow one to take in all of Borderland through its scope. The glowing lights of Borderland will be transformed through the mirrores and drichornic glass inside into the most wicked and amazing visual experiences that will take you on a journey there and back here again!\n\nThe size of the kaleidoscope, and the level of visual \"enhancement\" made will grow in relation to the funding.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Rasmus @rasmus.solberg@gmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "If someone has a cnc machine in finland for sign design. otherwise we will use vinyl sticker printing.",
+          "value": "NA",
           "customField": {
-            "name": "Co-creation"
+            "name": "Sound levels"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "sign material",
-          "min": 1000,
+          "description": "Dichronic Glass",
+          "min": 2400,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Monkey Sign Office tent ",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "sign material",
+          "description": "Wood",
           "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Mirrors",
+          "min": 400,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Wood",
+          "min": 1600,
+          "max": 3200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Mirrors",
+          "min": 1500,
+          "max": 2400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Screws",
+          "min": 800,
+          "max": 1200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Dichronic glass",
+          "min": 1200,
           "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Monkey Sign cart",
-          "min": 1000,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Monkey Sign Office deco",
-          "min": 0,
-          "max": 3000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 4000,
-      "percentageFundedTrue": 160
+      "funded": 4300,
+      "percentageFundedTrue": 84.31
     },
     {
       "id": "cmnua3csy0011pqbcsepz7frc",
