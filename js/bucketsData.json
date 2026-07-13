@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1783844148854,
+  "updatedAt": 1783934709498,
   "buckets": [
     {
       "id": "cmnvxkjzf008d12nemjz6gbgh",
@@ -22800,100 +22800,139 @@
       "percentageFundedTrue": 183.96
     },
     {
-      "id": "cmnwa90uq000epy0k8datmp6b",
-      "title": "The Leadership Appreciation Lounge",
-      "summary": "Help us show some love to our Community's biggest contributors. The Borderland wouldn't exist without them! \n",
+      "id": "cmnwae15t0002uvw3ay8tksqu",
+      "title": "Astral Veil",
+      "summary": "Lie beneath a living sky of light and sound. Astral Veil is a place to stop moving, stop thinking, and just be somewhere else for a while.",
       "status": "FUNDED",
-      "noOfFunders": 21,
-      "noOfComments": 2,
-      "percentageFunded": 100.11,
-      "minGoal": 3500,
-      "maxGoal": 7500,
-      "income": 0,
+      "noOfFunders": 41,
+      "noOfComments": 0,
+      "percentageFunded": 248.77,
+      "minGoal": 7730,
+      "maxGoal": 10730,
+      "income": 11500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776029810/dreams/kt8jy5j5yyocglxukai3.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776516235/dreams/gqzlbnd2cphcsjfjv5oz.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776515915/dreams/gpnxu9m3jbczbgxiwwty.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776516282/dreams/oz4jyp5gk1hst83y8jga.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776516974/dreams/y1wzxwfqkpbdfidvoyl4.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "[petronela.kjoelsen@yahoo.dk](mailto:petronela.kjoelsen@yahoo.dk)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "If you want, you can also donate snacks, drinks and such to serve our esteemed guests.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "It's a pretty quiet chill place, so not much effect on surroundings. Other than the possibility to run into a Borderland Leader, which is nice :)",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "This might be the safest dream out there, and all necessary precautions has been taken.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Help us celebrate the souls who make The Borderland possible! We’re creating a lounge for all those amazing Borderlings who have worked their hearts out year after year - a space for rest, luxury, and recharging in a beautifully decorated setting.\n\nEveryone who contributes: leads, founders, epic camp members, artists, and maybe even YOU! The Borderland is magic because of all of us, and we want to make sure no one burns out working for its glory.\n\nSign up via the form below to get your VIP leadership pass to the lounge:  \n[https://docs.google.com/forms/d/e/1FAIpQLSfP7FcvSZkMRtIcPl5Ze5\\_FUKWCERqef7oQHqxzgLwDsoGDRg/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSfP7FcvSZkMRtIcPl5Ze5_FUKWCERqef7oQHqxzgLwDsoGDRg/viewform?usp=publish-editor)\n\nConsider this a gift to the community (and yourself)—because without our leads, the dream stops! 🤭",
+          "value": "Crawl inside, lie down, and look up. Above you, a living sky breathes in slow waves of color and light. A low hum pulls you deeper. You are somewhere else now. Somewhere vast and quiet. Further away, and deeper within you. A place to dissolve into somethingness for a while.\n\nFunds will mainly be used to build a wooden structure creating a dark space for the art.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Personal dream",
+          "value": "Estimated total usage is around 30 kWh for the week",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Electricity"
           }
         },
         {
-          "value": "Mostly low and cosy, no high effect soundsystem",
+          "value": "Anton Ullenius",
           "customField": {
-            "name": "Sound levels"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Strike on sunday, everything will easily be removed respecting LNT",
+          "value": "Plan to strike on Sunday and Monday.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Just a little for ambient lights when needed",
+          "value": "Will be using a small speaker",
           "customField": {
-            "name": "Electricity"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "The structure is solid and all electrical components are safely installed and weather-protected.",
+          "customField": {
+            "name": "Safety"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "tent rental",
-          "min": 2500,
+          "description": "Speakers",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Projector, cables etc. ",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Strings & net",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Matresses, pillows, blankets",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Textiles",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Wood for structure (framing & panels)",
+          "min": 5610,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "deco",
-          "min": 500,
-          "max": 2500,
+          "description": "Metal parts",
+          "min": 720,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "furniture",
+          "description": "Paint",
+          "min": 900,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Waterproofing",
           "min": 500,
-          "max": 2500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Second hand portable AC",
+          "min": 0,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Matresses, pillows, blankets",
+          "min": 0,
+          "max": 1500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 11500,
+      "percentageFundedTrue": 148.77
     },
     {
       "id": "cmnw9w19s0010db4wd8z3dkln",
@@ -41670,139 +41709,88 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnwae15t0002uvw3ay8tksqu",
-      "title": "Astral Veil",
-      "summary": "Lie beneath a living sky of light and sound. Astral Veil is a place to stop moving, stop thinking, and just be somewhere else for a while.",
-      "status": "FUNDED",
-      "noOfFunders": 41,
+      "id": "cmnw97l3400001sx76zpgzboz",
+      "title": "Multicolored Haybales for Multicolored Borderlings",
+      "summary": "We use haybales/roundbales for sound mitigation. The plastic for these can be bought in different colors like pink and baby blue. Let's color things up a bit!",
+      "status": "CANCELED",
+      "noOfFunders": 0,
       "noOfComments": 0,
-      "percentageFunded": 248.77,
-      "minGoal": 7730,
-      "maxGoal": 10730,
-      "income": 11500,
+      "percentageFunded": 7.25,
+      "minGoal": 10000,
+      "maxGoal": 10000,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776516235/dreams/gqzlbnd2cphcsjfjv5oz.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776515915/dreams/gpnxu9m3jbczbgxiwwty.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776516282/dreams/oz4jyp5gk1hst83y8jga.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776516974/dreams/y1wzxwfqkpbdfidvoyl4.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776028543/dreams/x1ofefcb9p5otwqw4syk.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Crawl inside, lie down, and look up. Above you, a living sky breathes in slow waves of color and light. A low hum pulls you deeper. You are somewhere else now. Somewhere vast and quiet. Further away, and deeper within you. A place to dissolve into somethingness for a while.\n\nFunds will mainly be used to build a wooden structure creating a dark space for the art.",
+          "value": "N/A",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Just the same as with the boring white ones. Stacking stability and avoiding too slopey terrain is key.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "This dream was conceived of by our two native borderling children Klint and Kåra, 2.5 and 5 years old. It's simple yet impactful, like so many other ideas of children.\n\nWe will potentially be surrounded by hundreds of these bales for the week, why not invite more come into our lives and minds?",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Estimated total usage is around 30 kWh for the week",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Anton Ullenius",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Plan to strike on Sunday and Monday.",
+          "value": "Just like last year.. Bales will be removed by the farmers.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Will be using a small speaker",
+          "value": "N/A.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Sound team and Fluffing team realities combo.",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "N/A, but the hay bales themselves radically reduce sound.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "The structure is solid and all electrical components are safely installed and weather-protected.",
+          "value": "Hampus Lindblad.\n\n@hampusito on BL discord.",
           "customField": {
-            "name": "Safety"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We collaborate with the sound team, all haybale using sound camps as well as the local farmers of Alversjö.",
+          "customField": {
+            "name": "Co-creation"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "Speakers",
-          "min": 3000,
+          "description": "Pink, blue and yellow bale wrapping plastic",
+          "min": 10000,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Projector, cables etc. ",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Strings & net",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Matresses, pillows, blankets",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Textiles",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Wood for structure (framing & panels)",
-          "min": 5610,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Metal parts",
-          "min": 720,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Paint",
-          "min": 900,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Waterproofing",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Second hand portable AC",
-          "min": 0,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Matresses, pillows, blankets",
-          "min": 0,
-          "max": 1500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 11500,
-      "percentageFundedTrue": 148.77
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnw9cwjt001r13ezsyodjo58",
@@ -64989,63 +64977,95 @@
       "percentageFundedTrue": 230.75
     },
     {
-      "id": "cmnwalwcl000698u58p4y64z4",
-      "title": "Juggling Workshop",
-      "summary": "Beginner juggling workshop: learn the basic patterns to juggle three balls in a fun and accessible way. Perfect for anyone curious to get started.",
+      "id": "cmnwa90uq000epy0k8datmp6b",
+      "title": "The Leadership Appreciation Lounge",
+      "summary": "Help us show some love to our Community's biggest contributors. The Borderland wouldn't exist without them! \n",
       "status": "FUNDED",
-      "noOfFunders": 9,
-      "noOfComments": 5,
-      "percentageFunded": 160,
-      "minGoal": 750,
-      "maxGoal": 1500,
+      "noOfFunders": 21,
+      "noOfComments": 2,
+      "percentageFunded": 100.11,
+      "minGoal": 3500,
+      "maxGoal": 7500,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776031067/dreams/axckp8wo6upsgjrojsxb.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776029810/dreams/kt8jy5j5yyocglxukai3.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "The workshop uses only juggling balls, which makes cleanup simple and efficient. After the session, I will collect all equipment and ensure that no materials are left behind. Participants will also be encouraged to help gather the balls as part of closing the workshop. Since there is no waste or disposable materials involved, the area can be quickly restored to its original condition. Maintaining a clean space is a priority, and I will make sure the workshop leaves no trace.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "The workshop is aimed entirely at beginners and focuses on teaching the classic juggling patterns step by step. I guide participants through the process of learning how to juggle with three balls, breaking it down into simple and approachable stages.\n\nI have never applied for funding for this workshop and have instead used tennis balls as a budget solution. While that has made the workshop possible, tennis balls are not at all the same as proper juggling balls.\n\nThat is why I am now applying for funding to purchase real juggling balls for my annual workshop. With the right equipment, the workshop will be more fun, more accessible, and much better suited for teaching beginners successfully.\n\nI set the budget to allow at least five participants to practice with three balls each. If the funding reaches the full amount of 1,500 SEK, I will be able to provide ten participants with three juggling balls each.\n\nWorkshop attendance is usually between 10 and 20 people, so I will also bring some tennis balls to ensure that as many participants as possible can take part.\n\nIn addition, the juggling balls will be available throughout the week for anyone who wants to drop by and practice.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Very safe",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Max Hultman [maxhultman@hotmail.com](mailto:maxhultman@hotmail.com)",
+          "value": "[petronela.kjoelsen@yahoo.dk](mailto:petronela.kjoelsen@yahoo.dk)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Explorers",
+          "value": "If you want, you can also donate snacks, drinks and such to serve our esteemed guests.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "It's a pretty quiet chill place, so not much effect on surroundings. Other than the possibility to run into a Borderland Leader, which is nice :)",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "This might be the safest dream out there, and all necessary precautions has been taken.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Help us celebrate the souls who make The Borderland possible! We’re creating a lounge for all those amazing Borderlings who have worked their hearts out year after year - a space for rest, luxury, and recharging in a beautifully decorated setting.\n\nEveryone who contributes: leads, founders, epic camp members, artists, and maybe even YOU! The Borderland is magic because of all of us, and we want to make sure no one burns out working for its glory.\n\nSign up via the form below to get your VIP leadership pass to the lounge:  \n[https://docs.google.com/forms/d/e/1FAIpQLSfP7FcvSZkMRtIcPl5Ze5\\_FUKWCERqef7oQHqxzgLwDsoGDRg/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSfP7FcvSZkMRtIcPl5Ze5_FUKWCERqef7oQHqxzgLwDsoGDRg/viewform?usp=publish-editor)\n\nConsider this a gift to the community (and yourself)—because without our leads, the dream stops! 🤭",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Personal dream",
           "customField": {
             "name": "This dream belongs to camp:"
           }
-        }
-      ],
-      "tags": [
+        },
         {
-          "value": "Workshop"
+          "value": "Mostly low and cosy, no high effect soundsystem",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Strike on sunday, everything will easily be removed respecting LNT",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Just a little for ambient lights when needed",
+          "customField": {
+            "name": "Electricity"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "15 to 30 juggling balls",
-          "min": 750,
-          "max": 1500,
+          "description": "tent rental",
+          "min": 2500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "deco",
+          "min": 500,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "furniture",
+          "min": 500,
+          "max": 2500,
           "type": "EXPENSE"
         }
       ],
@@ -74864,83 +74884,63 @@
       "percentageFundedTrue": 69.36
     },
     {
-      "id": "cmnw97l3400001sx76zpgzboz",
-      "title": "Multicolored Haybales for Multicolored Borderlings",
-      "summary": "We use haybales/roundbales for sound mitigation. The plastic for these can be bought in different colors like pink and baby blue. Let's color things up a bit!",
-      "status": "CANCELED",
-      "noOfFunders": 0,
-      "noOfComments": 0,
-      "percentageFunded": 7.25,
-      "minGoal": 10000,
-      "maxGoal": 10000,
+      "id": "cmnwalwcl000698u58p4y64z4",
+      "title": "Juggling Workshop",
+      "summary": "Beginner juggling workshop: learn the basic patterns to juggle three balls in a fun and accessible way. Perfect for anyone curious to get started.",
+      "status": "FUNDED",
+      "noOfFunders": 9,
+      "noOfComments": 5,
+      "percentageFunded": 160,
+      "minGoal": 750,
+      "maxGoal": 1500,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776028543/dreams/x1ofefcb9p5otwqw4syk.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776031067/dreams/axckp8wo6upsgjrojsxb.png"
         }
       ],
       "customFields": [
         {
-          "value": "N/A",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Just the same as with the boring white ones. Stacking stability and avoiding too slopey terrain is key.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "This dream was conceived of by our two native borderling children Klint and Kåra, 2.5 and 5 years old. It's simple yet impactful, like so many other ideas of children.\n\nWe will potentially be surrounded by hundreds of these bales for the week, why not invite more come into our lives and minds?",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Just like last year.. Bales will be removed by the farmers.",
+          "value": "The workshop uses only juggling balls, which makes cleanup simple and efficient. After the session, I will collect all equipment and ensure that no materials are left behind. Participants will also be encouraged to help gather the balls as part of closing the workshop. Since there is no waste or disposable materials involved, the area can be quickly restored to its original condition. Maintaining a clean space is a priority, and I will make sure the workshop leaves no trace.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "N/A.",
+          "value": "The workshop is aimed entirely at beginners and focuses on teaching the classic juggling patterns step by step. I guide participants through the process of learning how to juggle with three balls, breaking it down into simple and approachable stages.\n\nI have never applied for funding for this workshop and have instead used tennis balls as a budget solution. While that has made the workshop possible, tennis balls are not at all the same as proper juggling balls.\n\nThat is why I am now applying for funding to purchase real juggling balls for my annual workshop. With the right equipment, the workshop will be more fun, more accessible, and much better suited for teaching beginners successfully.\n\nI set the budget to allow at least five participants to practice with three balls each. If the funding reaches the full amount of 1,500 SEK, I will be able to provide ten participants with three juggling balls each.\n\nWorkshop attendance is usually between 10 and 20 people, so I will also bring some tennis balls to ensure that as many participants as possible can take part.\n\nIn addition, the juggling balls will be available throughout the week for anyone who wants to drop by and practice.",
           "customField": {
-            "name": "Electricity"
+            "name": "Description"
           }
         },
         {
-          "value": "Sound team and Fluffing team realities combo.",
+          "value": "Very safe",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Safety"
           }
         },
         {
-          "value": "N/A, but the hay bales themselves radically reduce sound.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Hampus Lindblad.\n\n@hampusito on BL discord.",
+          "value": "Max Hultman [maxhultman@hotmail.com](mailto:maxhultman@hotmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "We collaborate with the sound team, all haybale using sound camps as well as the local farmers of Alversjö.",
+          "value": "Explorers",
           "customField": {
-            "name": "Co-creation"
+            "name": "This dream belongs to camp:"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Workshop"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Pink, blue and yellow bale wrapping plastic",
-          "min": 10000,
-          "max": null,
+          "description": "15 to 30 juggling balls",
+          "min": 750,
+          "max": 1500,
           "type": "EXPENSE"
         }
       ],
