@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784275711878,
+  "updatedAt": 1784448955320,
   "buckets": [
     {
       "id": "cmnvwch3y002mjwf1fsraac8i",
@@ -4127,152 +4127,187 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnuoluz1001l126qa5ksdxwa",
-      "title": "BL Info points - WTF - Where To Find everything",
-      "summary": "Beautiful, co-created Info Points will guide Burners through essential Borderland knowledge while adding art, magic, and community spirit 🌵✨",
-      "status": "FUNDED",
-      "noOfFunders": 33,
-      "noOfComments": 2,
-      "percentageFunded": 100,
-      "minGoal": 15700,
-      "maxGoal": 30600,
-      "income": 0,
+      "id": "cmnuoevja000z54d1gxv3wfuk",
+      "title": "Pink Piano Bar",
+      "summary": "The Pink Piano & Pink Bar are coming back to Borderland with new add-ons, upgrades and surprises. ",
+      "status": "COMPLETED",
+      "noOfFunders": 119,
+      "noOfComments": 0,
+      "percentageFunded": 505.88,
+      "minGoal": 14450,
+      "maxGoal": 23126,
+      "income": 53000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022408/dreams/trne9aycnxgswmtlnvvc.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776023909/dreams/grvnm0eyqmh4m7yucup7.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776023225/dreams/ve0htecjrikflio0kk3n.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022934/dreams/a0fwswmb1nmyxadmcfi8.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022315/dreams/s6bgqenkykfm5a0ncaf7.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022368/dreams/inze1mhnxly2u5meoeet.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022388/dreams/eoj0nvzdclzmdd318v8p.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776024012/dreams/agyq4h9zpssrgdqocrd4.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776024622/dreams/vqyvick3pcbw93c4ripx.png"
         }
       ],
       "customFields": [
         {
-          "value": "Info Points are designed as gentle, positive anchors in the environment 🌿✨ — they improve the experience of neighboring camps by reducing repeated basic questions, supporting orientation, and encouraging shared knowledge. We’ve considered their placement carefully to avoid blocking pathways or sightlines, and they are built in a modular, low-impact way so they don’t interfere with surrounding spaces.  \n  \nDo you have a placement in mind? Reach out to me on Discord **#Mesrsmith**",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "None",
+          "value": "No amps involved. only singing voices.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Every bit of information there is 100% true! So yea, super safe.",
+          "value": "The piano will be reinforced to support the weight of multiple people, and will be regularly inspected throughout the event to maintain the highest safety standards.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Will be stored in the sheep barn for next years",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "None",
+          "value": "2000W is more than enough for the lights and electric piano.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Communication reality",
+          "value": "We will dismantle the installation and properly dispose of the parts that cannot be reused. All items bought with the Dreams funding grant will be stored for future use of the borderland community.",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "Welcome to the **Info Points** - your little oases of clarity in the wild chaos of Borderland 🌵\n\nThese magical boards are here to answer _all the questions you forgot to ask before arriving_ (don’t worry, you’re not alone 😄). From water wisdom 💧 to lake dipping etiquette 🏞️, from toilets (yes, _those_) 🚽 to shifts, tent wizardry ⛺ and parking karma 🚗- we’ve got a little bit of everything.\n\nEach Info Point also carries **local, place-specific knowledge**, because every corner of Borderland has its own vibe, its own secrets, its own tiny universe 🌌\n\nBut wait - this isn’t just top-down info. Oh no.  \nThere will be a **dedicated space for camps and individuals** to co-create, share, express, and leave their mark. Got something to say? A joke? A poem? A last-minute survival tip? This is your stage 🎭✨\n\nAnd because we’re not just functional - we’re fabulous:  \nThese Info Points will be **beautifully decorated, playful, eye-catching**, and built with love 💛  \nAt the same time, they’re designed to be **easy to assemble, disassemble, and reborn again next year** ♻️\n\nThey’ll rest safely in the sacred **Sheep Barn** 🐑 until the next gathering of magic.\n\nLet’s make information sexy, useful, and just a little bit magical 🔥💫",
+          "value": "Ram E., discord @ram\\_\\_\\_\\_\\_\\_",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Sing it:\n\nCome gather round under lavender skies  \nWhere the northern twilight is bright  \nThere’s a bar made of stories, of chords and of songs  \nAnd a Pink Piano playing tonight\n\nSome come for laughter, some for the tune  \nSome come just to say hi  \nSomebody’s humming, somebody’s swaying  \nDon’t bother asking them why\n\nIn Alversjö’s forest, where day lingers on  \nAt the edge of the real and dreamed  \nA queen with blue glitter leans into the keys:  \n“For the Snark was a Boojum, you see”\n\nSomewhere between daydream and magic  \nA whole little world is born  \nA place to be awkward, sarcastic, dramatic  \nAnd feel like your strangeness belongs\n\nHere’s to the builders, the dreamers, the hands  \nWho carry this wonder back home  \nWho polish the color and build up the bar  \nSo music has somewhere to roam\n\nThis year we return with more heart in the lumber  \nMore care in the shape of the bar  \nStill it's the same little miracle:  \nHow people become who they are\n\nSo... Sing us a song Pink Piano man  \nPlay us a night we can hold  \nMake it wild and tender  \nA little absurd and bold  \nHelp us bring back this ridiculous heaven  \nThis bright improbable star  \nIn Alversjö, between dreaming and waking,  \nCome build the Pink Piano Bar\n\nla la la lala",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "💡 **Call to all creators, dreamers, and architects:**  \nYou are warmly invited to build your own Info Point (within given dimensions). Bring your creativity, your weirdness, your sparkle ✨\n\nIf this speaks to your soul, slide into my DMs on Discord → **#Mesrsmith** 💌",
+          "value": "Pink Piano",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "It's a lively dream, with a lot of positive energy around it.  \nWe would love to collaborate with our neighbors so everyone is happy.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "We love to co-create! Do you have any cool ideas for the dream? let's talk",
           "customField": {
             "name": "Co-creation"
           }
-        },
-        {
-          "value": "**#Mesrsmith**",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
         }
       ],
-      "tags": [
-        {
-          "value": "Alversjö infrastructure"
-        },
-        {
-          "value": "Borderland infrastructure"
-        },
-        {
-          "value": "Kids-friendly"
-        },
-        {
-          "value": "Light"
-        },
-        {
-          "value": "Looking for content"
-        },
-        {
-          "value": "Looking for space"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Pre-placement"
-        },
-        {
-          "value": "Reality-as-a-Dream"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Plywood",
-          "min": 2000,
-          "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wood for structure build",
-          "min": 1500,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "LEDs with night sensor and wiring",
-          "min": 2700,
-          "max": 5400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Batteries - rechargeable 18650 cells ",
-          "min": 1500,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Info point top - so we know it is what it is - 16pcs",
-          "min": 4000,
-          "max": 8000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Storage 2m2",
-          "min": 800,
+          "description": "Rainproof cover tent (5X10)",
+          "min": 12000,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Electric Piano",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "lights ",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Pillows, Rugs, Matresses",
+          "min": 4000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Video Projector and source",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "existing installation and bar",
+          "min": 30000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Lumber for new part of the bar",
+          "min": 5000,
+          "max": 7600,
           "type": "EXPENSE"
         },
         {
-          "description": "Polycarbonate 0.8mm for paper cover",
-          "min": 3200,
-          "max": 6400,
+          "description": "Connectors/screws/glue",
+          "min": 1000,
+          "max": 1650,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Paint (pink)",
+          "min": 500,
+          "max": 890,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Consumables (cutter discs, duct tape etc)",
+          "min": 900,
+          "max": 1950,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fabrique",
+          "min": 450,
+          "max": 950,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "LED lights and controllers",
+          "min": 1500,
+          "max": 3230,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transportation",
+          "min": 2870,
+          "max": 4625,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Tools ",
+          "min": 2230,
+          "max": 2231,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 53000,
+      "percentageFundedTrue": 366.78
     },
     {
       "id": "cmnvt9s4i000dgxamstaxzgpy",
@@ -18026,72 +18061,72 @@
       "percentageFundedTrue": 48.78
     },
     {
-      "id": "cmnunw7a0003v2ymltfxw5s6l",
-      "title": "The Space Between Us",
-      "summary": "Step into a tiny portal where you meet yourself or a stranger—and discover just how far your comfort zone is willing to burn 🔥",
-      "status": "FUNDED",
-      "noOfFunders": 59,
+      "id": "cmnumeidg000fztajjgayk7bk",
+      "title": "Njorunns Garden - LET THERE BE LIGHT 💫",
+      "summary": "A Garden Oasis | DJ & Dance | Campfire hang-out | Workshop & event space",
+      "status": "PARTIAL_FUNDING",
+      "noOfFunders": 32,
       "noOfComments": 0,
-      "percentageFunded": 159.68,
-      "minGoal": 5713,
-      "maxGoal": 5713,
-      "income": 3410,
+      "percentageFunded": 442.68,
+      "minGoal": 17400,
+      "maxGoal": 18999,
+      "income": 64477,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775932097/dreams/uil2ynnyoe8v8a8hj4j4.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775932563/dreams/bltag1ta95yrdoyblqnu.png"
         }
       ],
       "customFields": [
         {
-          "value": "The Heart",
+          "value": "Njorunns Garden",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Few LED strips needed. 200W maybe?",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Waterproof. Could trigger childhood trauma though...",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Two circular micro-spaces - just big enough for a human to **step inside** and meet… something. ✨\n\nIn one, you dive inward - _face yourself, your thoughts, your shadows, your spark._  \nIn the other, you turn outward - _encounter the presence of others_, connection, curiosity, maybe even a little delicious awkwardness. 😏\n\nAn interactive art piece exploring the edges of intimacy and the dance with vulnerability. Where does your comfort zone end? Where does the magic begin? 🔥\n\nAre you an **introvert or an extrovert?**  \nA silent observer or a radiant connector?  \nWhat are you brave enough to step into?\n\n**Come play**. Come feel. Come get a little weird with it. 🌀",
+          "value": "Njorunns Garden is the magical grove of many possibilities at the heart of Borderlands downtown. Our vision is to create a welcoming space among the trees with flowers, fairy lights, a pavilion, a campfire, and PA, so that we are able to host everything from braiding workshops and song circles during the day to pre-parties and open decks for DJs during the evening. We also want to light up the wooden parts of this area, for a cozy ambience and improved visibility at night, and to keep building on the existing firepit, adding more(cozier) seating options.  \nThe stretch goal is to add lights to the nearby toilets as well!\n\nWe want this DOWN-TOWN to be LIT AF, ya dig?\n\nIn this space, we also want to invite others to create in our garden. If you have something to offer but no place to do it, you can talk to one of our Garden Hosts and use our garden for your activity, and we’ll put it in our schedule. Our vision is to capture the feeling of the perfect summer garden hangout, where new things happen every day.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Just come and explore",
+          "value": "Njorunns Garden is made for co-creation! We’ll host several activities in the garden, but leave a lot of space in our schedule for others. Mainly, we hope to provide a platform for all the talented people who have something to offer to Borderland, but not necessarily a venue to do it. The grove is perfect for activities that take place under the open sky, but we also have a cozy little pavilion for those that need a closed-off space or when the weather gods are in a bad mood.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Placement not decided, maybe a missing piece",
+          "value": "Fire extinguishers for the campfire and a first aid kit are easily available. The organizers for each activity will be responsible for the safety of the activity.",
           "customField": {
-            "name": "Co-existence"
+            "name": "Safety"
           }
         },
         {
-          "value": "No sound or very subtle",
+          "value": "We’ll bring a smallish PA, which we’ll mostly use during the evenings. Situated between Plutonia and The Church we will never be the loudest in the neighborhood, and we don’t want to.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Disassembley after BL.",
+          "value": "We plan to stay until we remove everything, and aim to leave the place more beautiful than we found it.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Martin #Mesrsmith",
+          "value": "Many of our lights will be solar-powered.\n\nTotal Dream lights: 600w\n\nTotal Soundstage: 1700w\n\nTotal: 2300w",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Last year, we started clearing out an area among the trees close to the plaza, which hadn’t been in use, and created Njorunns Garden for the first time. We co-existed peacefully with the other places around us, and the response we received was very positive, due to the calming energy and serene spirit of our garden.\n\nWe are currently active in pre-placement to sync with upcoming, side-cumming, and downtown cumming camps.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "HrmFellonia ( DC: hrmfellonia email hrm.fellonia@gmail.com )",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
@@ -18099,76 +18134,148 @@
       ],
       "tags": [
         {
-          "value": "Art installation"
+          "value": "Chillout"
         },
         {
-          "value": "Experience"
+          "value": "Fire"
         },
         {
           "value": "Hippie trap"
         },
         {
-          "value": "Light"
-        },
-        {
-          "value": "Looking for space"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Pre-placement"
-        },
-        {
-          "value": "Weird shit"
+          "value": "Workshop space"
         }
       ],
       "budgetItems": [
         {
-          "description": "Wooden frame",
-          "min": 499,
+          "description": "Vanaheim 24tent",
+          "min": 20000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Mirror foils",
-          "min": 1800,
+          "description": "Tent rgb lights",
+          "min": 800,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Energy to build it",
-          "min": 1111,
+          "description": "Carpets ",
+          "min": 500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Plywood for top and bottom part",
-          "min": 2200,
+          "description": "Puzzlemats",
+          "min": 3980,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fabrics",
+          "min": 20000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "greenery",
+          "min": 3500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Pillows",
+          "min": 2760,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Tarps",
+          "min": 8000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Habadashery",
+          "min": 2439,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "assorted ed lights",
+          "min": 800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "maroccan chandeler",
+          "min": 700,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "pallets",
+          "min": 998,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Toilet lights",
+          "min": 1700,
+          "max": 1800,
           "type": "EXPENSE"
         },
         {
-          "description": "Polycarbonate sheets 6pcs in total",
-          "min": 1913,
-          "max": null,
+          "description": "Garden lights 1",
+          "min": 1400,
+          "max": 1600,
           "type": "EXPENSE"
         },
         {
-          "description": "Transport in a trailer",
-          "min": 1200,
-          "max": null,
+          "description": "Garden lights 2",
+          "min": 1100,
+          "max": 1300,
           "type": "EXPENSE"
         },
         {
-          "description": "LED strips ",
-          "min": 400,
+          "description": "Garden lights 3",
+          "min": 600,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Path lights",
+          "min": 8000,
+          "max": 8199,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "fire seating",
+          "min": 1400,
+          "max": 1600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Trailer",
+          "min": 2500,
+          "max": 2800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "First Aid kitty",
+          "min": 200,
+          "max": 400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Firewood",
+          "min": 500,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 3410,
-      "percentageFundedTrue": 59.69
+      "funded": 64477,
+      "percentageFundedTrue": 370.56
     },
     {
       "id": "cmnw50mrb003o69ep2gzxzon4",
@@ -18412,116 +18519,149 @@
       "percentageFundedTrue": 178.22
     },
     {
-      "id": "cmnuop88t00612ymlpia2i2at",
-      "title": "FruitSalad SamBAR",
-      "summary": "Hot day. No worries. Four Fruit Fairies roll in with samba beats, juicy fruit salads & electrolytes to save your soul. Catch your rhythm. Find your juice.",
+      "id": "cmnunw7a0003v2ymltfxw5s6l",
+      "title": "The Space Between Us",
+      "summary": "Step into a tiny portal where you meet yourself or a stranger—and discover just how far your comfort zone is willing to burn 🔥",
       "status": "FUNDED",
-      "noOfFunders": 25,
+      "noOfFunders": 59,
       "noOfComments": 0,
-      "percentageFunded": 122.32,
-      "minGoal": 2240,
-      "maxGoal": 3080,
-      "income": 0,
+      "percentageFunded": 159.68,
+      "minGoal": 5713,
+      "maxGoal": 5713,
+      "income": 3410,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775938121/dreams/gyjwn70e4gkdpkzm7wtm.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775932097/dreams/uil2ynnyoe8v8a8hj4j4.png"
         }
       ],
       "customFields": [
         {
-          "value": "No need",
+          "value": "The Heart",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Few LED strips needed. 200W maybe?",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Creapatra",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Waste and moop will be limited by using your own cup. We will take care of food waste and recycle it in the camp's moop station.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "We will keep a list of allergens / packaging with us.",
+          "value": "Waterproof. Could trigger childhood trauma though...",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Once upon a time on a hot summer day in Borderland, a magical SamBAR appears… Imagine you are enjoying the best day party in Borderland, but you get thirsty and dehydrated. You only need to wish, and Fruit Fairies will roll in with FruitSalad SamBAR to save your day. Join the fun, and experience the joy of being a fruit in SamBAR. Hot day will become even hotter. \n\n**What is Fruit Fairy SamBAR?** \n\nOn a chosen day during Borderland week, a tiny pop-up refreshment trolley bar on wheels with samba-rhythms and good vibes makes an appearance and delights people. Either grab a juicy fruit salad or join us into the samba mood with YOUR rhythm. We go where the thirsty people are and serve electrolyte drinks and fruit salad, and maybe some whipped cream ;)  \n\n**Entertaining you in the SamBAR celebration - The Fruit Fairy Ensemble!**  \nEm Cherry, perky & fun\n\nPineapple Juissi, funky & swingy \n\nStrawberry Liz, sweet & bubbly \n\nWatermelon Joe, friendly & fresh",
+          "value": "Two circular micro-spaces - just big enough for a human to **step inside** and meet… something. ✨\n\nIn one, you dive inward - _face yourself, your thoughts, your shadows, your spark._  \nIn the other, you turn outward - _encounter the presence of others_, connection, curiosity, maybe even a little delicious awkwardness. 😏\n\nAn interactive art piece exploring the edges of intimacy and the dance with vulnerability. Where does your comfort zone end? Where does the magic begin? 🔥\n\nAre you an **introvert or an extrovert?**  \nA silent observer or a radiant connector?  \nWhat are you brave enough to step into?\n\n**Come play**. Come feel. Come get a little weird with it. 🌀",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Portable speaker / soundbox moving around with moderate sound (Fruit Fairies will sleep at night)",
+          "value": "Just come and explore",
           "customField": {
-            "name": "Sound levels"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "Our dream is mobile and very small, it will travel through main roads. We won't stay long in one spot so if someone doesn't like us, we will go away (but who wouldn't love fruits and fairies and samba?)",
+          "value": "Placement not decided, maybe a missing piece",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "We welcome any new fruit to our Fruit Fairy cast and of course, we welcome everyone to join the SAMBA!",
+          "value": "No sound or very subtle",
           "customField": {
-            "name": "Co-creation"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Disassembley after BL.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Martin #Mesrsmith",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
       "tags": [
         {
-          "value": "Bar"
+          "value": "Art installation"
         },
         {
           "value": "Experience"
         },
         {
-          "value": "Food"
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Light"
+        },
+        {
+          "value": "Looking for space"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Pre-placement"
+        },
+        {
+          "value": "Weird shit"
         }
       ],
       "budgetItems": [
         {
-          "description": "Trolley ",
+          "description": "Wooden frame",
+          "min": 499,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Mirror foils",
+          "min": 1800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Energy to build it",
+          "min": 1111,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Plywood for top and bottom part",
+          "min": 2200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Polycarbonate sheets 6pcs in total",
+          "min": 1913,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport in a trailer",
           "min": 1200,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Trolley decoration ",
-          "min": 100,
-          "max": 200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Fruit for fruit salad ",
-          "min": 700,
-          "max": 1200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Electrolyte powder ",
-          "min": 200,
-          "max": 400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Whipped cream spray ",
-          "min": 40,
-          "max": 80,
+          "description": "LED strips ",
+          "min": 400,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 3410,
+      "percentageFundedTrue": 59.69
     },
     {
       "id": "cmnw913t70024mgzbd7xvs34f",
@@ -65692,140 +65832,116 @@
       "percentageFundedTrue": 146.34
     },
     {
-      "id": "cmnuj6wur0000ugtv4qpdcro5",
-      "title": "Cosmic Fungal Frequencies",
-      "summary": "Imagine that you embark on a guided sound journey to the cosmic - with Fungal Frequencies!\nThe Cosmic Cloud Tipi Tent is whispering your name. Come closer. ",
+      "id": "cmnuop88t00612ymlpia2i2at",
+      "title": "FruitSalad SamBAR",
+      "summary": "Hot day. No worries. Four Fruit Fairies roll in with samba beats, juicy fruit salads & electrolytes to save your soul. Catch your rhythm. Find your juice.",
       "status": "FUNDED",
-      "noOfFunders": 39,
-      "noOfComments": 2,
-      "percentageFunded": 198.8,
-      "minGoal": 6700,
-      "maxGoal": 13200,
-      "income": 4600,
+      "noOfFunders": 25,
+      "noOfComments": 0,
+      "percentageFunded": 122.32,
+      "minGoal": 2240,
+      "maxGoal": 3080,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775923845/dreams/oobpilfvjyz0fjyygj5v.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775923876/dreams/shrgiuw6tn16wtkna7bi.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775938121/dreams/gyjwn70e4gkdpkzm7wtm.png"
         }
       ],
       "customFields": [
         {
-          "value": "Less than 2300 w (10Ah) for sound system",
+          "value": "No need",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "This will be removed when we depart on sunday",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Cosmic Cloud",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Anyone with experience and passion to help fellows explore with the help of music.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "This dream will be daytime, soft music that will bring you into the right mood and place",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "@tacho.ds on Discord",
+          "value": "Creapatra",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "We will have sober sitters, guides and caring people",
+          "value": "Waste and moop will be limited by using your own cup. We will take care of food waste and recycle it in the camp's moop station.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "We will keep a list of allergens / packaging with us.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Imagine that you embark on a guided sound journey to the cosmic - with Fungal Frequencies!\n\nThe Cosmic Cloud Tipi Tent is whispering your name. Come closer. Come in. Come with us.\n\nTogether we embark on a three hour sound journey beyond maps, expectations and reason.\n\nIn the spirit of being connected, like the fungals with their mycelium - we will journey together.\n\nLet’s explore, dissolve, and slip through unseen doors. Let’s smell the other side.\n\nWherever you wander, however far you travel,  \nwe land softly together. Let’s share chai, coffee, and cookies that taste like care, baked with love, served with presence and compassion.",
+          "value": "Once upon a time on a hot summer day in Borderland, a magical SamBAR appears… Imagine you are enjoying the best day party in Borderland, but you get thirsty and dehydrated. You only need to wish, and Fruit Fairies will roll in with FruitSalad SamBAR to save your day. Join the fun, and experience the joy of being a fruit in SamBAR. Hot day will become even hotter. \n\n**What is Fruit Fairy SamBAR?** \n\nOn a chosen day during Borderland week, a tiny pop-up refreshment trolley bar on wheels with samba-rhythms and good vibes makes an appearance and delights people. Either grab a juicy fruit salad or join us into the samba mood with YOUR rhythm. We go where the thirsty people are and serve electrolyte drinks and fruit salad, and maybe some whipped cream ;)  \n\n**Entertaining you in the SamBAR celebration - The Fruit Fairy Ensemble!**  \nEm Cherry, perky & fun\n\nPineapple Juissi, funky & swingy \n\nStrawberry Liz, sweet & bubbly \n\nWatermelon Joe, friendly & fresh",
           "customField": {
             "name": "Description"
+          }
+        },
+        {
+          "value": "Portable speaker / soundbox moving around with moderate sound (Fruit Fairies will sleep at night)",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Our dream is mobile and very small, it will travel through main roads. We won't stay long in one spot so if someone doesn't like us, we will go away (but who wouldn't love fruits and fairies and samba?)",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "We welcome any new fruit to our Fruit Fairy cast and of course, we welcome everyone to join the SAMBA!",
+          "customField": {
+            "name": "Co-creation"
           }
         }
       ],
       "tags": [
         {
-          "value": "Chillout"
+          "value": "Bar"
         },
         {
           "value": "Experience"
         },
         {
-          "value": "Meditation"
-        },
-        {
-          "value": "Music"
+          "value": "Food"
         }
       ],
       "budgetItems": [
         {
-          "description": "Cables, power outlets, decor ",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Colorful ligths",
+          "description": "Trolley ",
           "min": 1200,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Plastic to protect from ground wet ",
-          "min": 400,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Rental of sound system",
-          "min": 1500,
-          "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "Carpets, pillow, fabric, blankets and cosy stuff",
-          "min": 1500,
-          "max": 3000,
+          "description": "Trolley decoration ",
+          "min": 100,
+          "max": 200,
           "type": "EXPENSE"
         },
         {
-          "description": "Soft lights and small table",
-          "min": 500,
+          "description": "Fruit for fruit salad ",
+          "min": 700,
           "max": 1200,
           "type": "EXPENSE"
         },
         {
-          "description": "Decor",
-          "min": 700,
-          "max": 2000,
+          "description": "Electrolyte powder ",
+          "min": 200,
+          "max": 400,
           "type": "EXPENSE"
         },
         {
-          "description": "Rental tipi tent",
-          "min": 2500,
-          "max": 4000,
+          "description": "Whipped cream spray ",
+          "min": 40,
+          "max": 80,
           "type": "EXPENSE"
         }
       ],
-      "funded": 4600,
-      "percentageFundedTrue": 68.66
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnq6r99q0001d4sc8nlfv0uy",
@@ -67065,187 +67181,140 @@
       "percentageFundedTrue": 20
     },
     {
-      "id": "cmnuoevja000z54d1gxv3wfuk",
-      "title": "Pink Piano Bar",
-      "summary": "The Pink Piano & Pink Bar are coming back to Borderland with new add-ons, upgrades and surprises. ",
-      "status": "COMPLETED",
-      "noOfFunders": 119,
-      "noOfComments": 0,
-      "percentageFunded": 505.88,
-      "minGoal": 14450,
-      "maxGoal": 23126,
-      "income": 53000,
+      "id": "cmnuj6wur0000ugtv4qpdcro5",
+      "title": "Cosmic Fungal Frequencies",
+      "summary": "Imagine that you embark on a guided sound journey to the cosmic - with Fungal Frequencies!\nThe Cosmic Cloud Tipi Tent is whispering your name. Come closer. ",
+      "status": "FUNDED",
+      "noOfFunders": 39,
+      "noOfComments": 2,
+      "percentageFunded": 198.8,
+      "minGoal": 6700,
+      "maxGoal": 13200,
+      "income": 4600,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776023909/dreams/grvnm0eyqmh4m7yucup7.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775923845/dreams/oobpilfvjyz0fjyygj5v.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776023225/dreams/ve0htecjrikflio0kk3n.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022934/dreams/a0fwswmb1nmyxadmcfi8.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022315/dreams/s6bgqenkykfm5a0ncaf7.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022368/dreams/inze1mhnxly2u5meoeet.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022388/dreams/eoj0nvzdclzmdd318v8p.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776024012/dreams/agyq4h9zpssrgdqocrd4.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776024622/dreams/vqyvick3pcbw93c4ripx.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775923876/dreams/shrgiuw6tn16wtkna7bi.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "No amps involved. only singing voices.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The piano will be reinforced to support the weight of multiple people, and will be regularly inspected throughout the event to maintain the highest safety standards.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "2000W is more than enough for the lights and electric piano.",
+          "value": "Less than 2300 w (10Ah) for sound system",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "We will dismantle the installation and properly dispose of the parts that cannot be reused. All items bought with the Dreams funding grant will be stored for future use of the borderland community.",
+          "value": "This will be removed when we depart on sunday",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Ram E., discord @ram\\_\\_\\_\\_\\_\\_",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Sing it:\n\nCome gather round under lavender skies  \nWhere the northern twilight is bright  \nThere’s a bar made of stories, of chords and of songs  \nAnd a Pink Piano playing tonight\n\nSome come for laughter, some for the tune  \nSome come just to say hi  \nSomebody’s humming, somebody’s swaying  \nDon’t bother asking them why\n\nIn Alversjö’s forest, where day lingers on  \nAt the edge of the real and dreamed  \nA queen with blue glitter leans into the keys:  \n“For the Snark was a Boojum, you see”\n\nSomewhere between daydream and magic  \nA whole little world is born  \nA place to be awkward, sarcastic, dramatic  \nAnd feel like your strangeness belongs\n\nHere’s to the builders, the dreamers, the hands  \nWho carry this wonder back home  \nWho polish the color and build up the bar  \nSo music has somewhere to roam\n\nThis year we return with more heart in the lumber  \nMore care in the shape of the bar  \nStill it's the same little miracle:  \nHow people become who they are\n\nSo... Sing us a song Pink Piano man  \nPlay us a night we can hold  \nMake it wild and tender  \nA little absurd and bold  \nHelp us bring back this ridiculous heaven  \nThis bright improbable star  \nIn Alversjö, between dreaming and waking,  \nCome build the Pink Piano Bar\n\nla la la lala",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Pink Piano",
+          "value": "Cosmic Cloud",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "It's a lively dream, with a lot of positive energy around it.  \nWe would love to collaborate with our neighbors so everyone is happy.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We love to co-create! Do you have any cool ideas for the dream? let's talk",
+          "value": "Anyone with experience and passion to help fellows explore with the help of music.",
           "customField": {
             "name": "Co-creation"
           }
+        },
+        {
+          "value": "This dream will be daytime, soft music that will bring you into the right mood and place",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "@tacho.ds on Discord",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We will have sober sitters, guides and caring people",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Imagine that you embark on a guided sound journey to the cosmic - with Fungal Frequencies!\n\nThe Cosmic Cloud Tipi Tent is whispering your name. Come closer. Come in. Come with us.\n\nTogether we embark on a three hour sound journey beyond maps, expectations and reason.\n\nIn the spirit of being connected, like the fungals with their mycelium - we will journey together.\n\nLet’s explore, dissolve, and slip through unseen doors. Let’s smell the other side.\n\nWherever you wander, however far you travel,  \nwe land softly together. Let’s share chai, coffee, and cookies that taste like care, baked with love, served with presence and compassion.",
+          "customField": {
+            "name": "Description"
+          }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Chillout"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Meditation"
+        },
+        {
+          "value": "Music"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Rainproof cover tent (5X10)",
-          "min": 12000,
+          "description": "Cables, power outlets, decor ",
+          "min": 3000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Electric Piano",
-          "min": 5000,
+          "description": "Colorful ligths",
+          "min": 1200,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "lights ",
-          "min": 1000,
+          "description": "Plastic to protect from ground wet ",
+          "min": 400,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Pillows, Rugs, Matresses",
-          "min": 4000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Video Projector and source",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "existing installation and bar",
-          "min": 30000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lumber for new part of the bar",
-          "min": 5000,
-          "max": 7600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Connectors/screws/glue",
-          "min": 1000,
-          "max": 1650,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Paint (pink)",
-          "min": 500,
-          "max": 890,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Consumables (cutter discs, duct tape etc)",
-          "min": 900,
-          "max": 1950,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Fabrique",
-          "min": 450,
-          "max": 950,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "LED lights and controllers",
+          "description": "Rental of sound system",
           "min": 1500,
-          "max": 3230,
+          "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "Transportation",
-          "min": 2870,
-          "max": 4625,
+          "description": "Carpets, pillow, fabric, blankets and cosy stuff",
+          "min": 1500,
+          "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "Tools ",
-          "min": 2230,
-          "max": 2231,
+          "description": "Soft lights and small table",
+          "min": 500,
+          "max": 1200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Decor",
+          "min": 700,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Rental tipi tent",
+          "min": 2500,
+          "max": 4000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 53000,
-      "percentageFundedTrue": 366.78
+      "funded": 4600,
+      "percentageFundedTrue": 68.66
     },
     {
       "id": "cmnw5l0d8005yfp28lv6bbhsy",
@@ -68360,72 +68429,72 @@
       "percentageFundedTrue": 92.44
     },
     {
-      "id": "cmnumeidg000fztajjgayk7bk",
-      "title": "Njorunns Garden - LET THERE BE LIGHT 💫",
-      "summary": "A Garden Oasis | DJ & Dance | Campfire hang-out | Workshop & event space",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 32,
-      "noOfComments": 0,
-      "percentageFunded": 442.68,
-      "minGoal": 17400,
-      "maxGoal": 18999,
-      "income": 64477,
+      "id": "cmnuoluz1001l126qa5ksdxwa",
+      "title": "BL Info points - WTF - Where To Find everything",
+      "summary": "Beautiful, co-created Info Points will guide Burners through essential Borderland knowledge while adding art, magic, and community spirit 🌵✨",
+      "status": "FUNDED",
+      "noOfFunders": 33,
+      "noOfComments": 2,
+      "percentageFunded": 100,
+      "minGoal": 15700,
+      "maxGoal": 30600,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775932563/dreams/bltag1ta95yrdoyblqnu.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022408/dreams/trne9aycnxgswmtlnvvc.png"
         }
       ],
       "customFields": [
         {
-          "value": "Njorunns Garden",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Njorunns Garden is the magical grove of many possibilities at the heart of Borderlands downtown. Our vision is to create a welcoming space among the trees with flowers, fairy lights, a pavilion, a campfire, and PA, so that we are able to host everything from braiding workshops and song circles during the day to pre-parties and open decks for DJs during the evening. We also want to light up the wooden parts of this area, for a cozy ambience and improved visibility at night, and to keep building on the existing firepit, adding more(cozier) seating options.  \nThe stretch goal is to add lights to the nearby toilets as well!\n\nWe want this DOWN-TOWN to be LIT AF, ya dig?\n\nIn this space, we also want to invite others to create in our garden. If you have something to offer but no place to do it, you can talk to one of our Garden Hosts and use our garden for your activity, and we’ll put it in our schedule. Our vision is to capture the feeling of the perfect summer garden hangout, where new things happen every day.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Njorunns Garden is made for co-creation! We’ll host several activities in the garden, but leave a lot of space in our schedule for others. Mainly, we hope to provide a platform for all the talented people who have something to offer to Borderland, but not necessarily a venue to do it. The grove is perfect for activities that take place under the open sky, but we also have a cozy little pavilion for those that need a closed-off space or when the weather gods are in a bad mood.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Fire extinguishers for the campfire and a first aid kit are easily available. The organizers for each activity will be responsible for the safety of the activity.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "We’ll bring a smallish PA, which we’ll mostly use during the evenings. Situated between Plutonia and The Church we will never be the loudest in the neighborhood, and we don’t want to.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We plan to stay until we remove everything, and aim to leave the place more beautiful than we found it.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Many of our lights will be solar-powered.\n\nTotal Dream lights: 600w\n\nTotal Soundstage: 1700w\n\nTotal: 2300w",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Last year, we started clearing out an area among the trees close to the plaza, which hadn’t been in use, and created Njorunns Garden for the first time. We co-existed peacefully with the other places around us, and the response we received was very positive, due to the calming energy and serene spirit of our garden.\n\nWe are currently active in pre-placement to sync with upcoming, side-cumming, and downtown cumming camps.",
+          "value": "Info Points are designed as gentle, positive anchors in the environment 🌿✨ — they improve the experience of neighboring camps by reducing repeated basic questions, supporting orientation, and encouraging shared knowledge. We’ve considered their placement carefully to avoid blocking pathways or sightlines, and they are built in a modular, low-impact way so they don’t interfere with surrounding spaces.  \n  \nDo you have a placement in mind? Reach out to me on Discord **#Mesrsmith**",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "HrmFellonia ( DC: hrmfellonia email hrm.fellonia@gmail.com )",
+          "value": "None",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Every bit of information there is 100% true! So yea, super safe.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Will be stored in the sheep barn for next years",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "None",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Communication reality",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Welcome to the **Info Points** - your little oases of clarity in the wild chaos of Borderland 🌵\n\nThese magical boards are here to answer _all the questions you forgot to ask before arriving_ (don’t worry, you’re not alone 😄). From water wisdom 💧 to lake dipping etiquette 🏞️, from toilets (yes, _those_) 🚽 to shifts, tent wizardry ⛺ and parking karma 🚗- we’ve got a little bit of everything.\n\nEach Info Point also carries **local, place-specific knowledge**, because every corner of Borderland has its own vibe, its own secrets, its own tiny universe 🌌\n\nBut wait - this isn’t just top-down info. Oh no.  \nThere will be a **dedicated space for camps and individuals** to co-create, share, express, and leave their mark. Got something to say? A joke? A poem? A last-minute survival tip? This is your stage 🎭✨\n\nAnd because we’re not just functional - we’re fabulous:  \nThese Info Points will be **beautifully decorated, playful, eye-catching**, and built with love 💛  \nAt the same time, they’re designed to be **easy to assemble, disassemble, and reborn again next year** ♻️\n\nThey’ll rest safely in the sacred **Sheep Barn** 🐑 until the next gathering of magic.\n\nLet’s make information sexy, useful, and just a little bit magical 🔥💫",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "💡 **Call to all creators, dreamers, and architects:**  \nYou are warmly invited to build your own Info Point (within given dimensions). Bring your creativity, your weirdness, your sparkle ✨\n\nIf this speaks to your soul, slide into my DMs on Discord → **#Mesrsmith** 💌",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "**#Mesrsmith**",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
@@ -68433,148 +68502,79 @@
       ],
       "tags": [
         {
-          "value": "Chillout"
+          "value": "Alversjö infrastructure"
         },
         {
-          "value": "Fire"
+          "value": "Borderland infrastructure"
         },
         {
-          "value": "Hippie trap"
+          "value": "Kids-friendly"
         },
         {
-          "value": "Workshop space"
+          "value": "Light"
+        },
+        {
+          "value": "Looking for content"
+        },
+        {
+          "value": "Looking for space"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Pre-placement"
+        },
+        {
+          "value": "Reality-as-a-Dream"
         }
       ],
       "budgetItems": [
         {
-          "description": "Vanaheim 24tent",
-          "min": 20000,
-          "max": null,
-          "type": "INCOME"
+          "description": "Plywood",
+          "min": 2000,
+          "max": 4000,
+          "type": "EXPENSE"
         },
         {
-          "description": "Tent rgb lights",
+          "description": "Wood for structure build",
+          "min": 1500,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "LEDs with night sensor and wiring",
+          "min": 2700,
+          "max": 5400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Batteries - rechargeable 18650 cells ",
+          "min": 1500,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Info point top - so we know it is what it is - 16pcs",
+          "min": 4000,
+          "max": 8000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Storage 2m2",
           "min": 800,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Carpets ",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Puzzlemats",
-          "min": 3980,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fabrics",
-          "min": 20000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "greenery",
-          "min": 3500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Pillows",
-          "min": 2760,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tarps",
-          "min": 8000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Habadashery",
-          "min": 2439,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "assorted ed lights",
-          "min": 800,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "maroccan chandeler",
-          "min": 700,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "pallets",
-          "min": 998,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Toilet lights",
-          "min": 1700,
-          "max": 1800,
           "type": "EXPENSE"
         },
         {
-          "description": "Garden lights 1",
-          "min": 1400,
-          "max": 1600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Garden lights 2",
-          "min": 1100,
-          "max": 1300,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Garden lights 3",
-          "min": 600,
-          "max": 800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Path lights",
-          "min": 8000,
-          "max": 8199,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "fire seating",
-          "min": 1400,
-          "max": 1600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Trailer",
-          "min": 2500,
-          "max": 2800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "First Aid kitty",
-          "min": 200,
-          "max": 400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Firewood",
-          "min": 500,
-          "max": null,
+          "description": "Polycarbonate 0.8mm for paper cover",
+          "min": 3200,
+          "max": 6400,
           "type": "EXPENSE"
         }
       ],
-      "funded": 64477,
-      "percentageFundedTrue": 370.56
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmntgy30u0000q35ym5v0s2mv",
