@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1784966706140,
+  "updatedAt": 1785314360264,
   "buckets": [
     {
       "id": "cmnvwch3y002mjwf1fsraac8i",
@@ -2819,132 +2819,107 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnu0hl8g000334i9629q6ys6",
-      "title": "Gossip Gazette",
-      "summary": "Novel newspaper Gossip Gazette will keep you up-to-date with occasional deliveries of the latest news, rumours and hearsay right to your camp’s brunch table!",
+      "id": "cmnu7z165000za5hp80zzugp3",
+      "title": "The Blackwater Proxy Division, Borderland",
+      "summary": "Cultural influence through deniable agents & proxy-camps, and control of essential infrastructure",
       "status": "FUNDED",
-      "noOfFunders": 58,
-      "noOfComments": 1,
-      "percentageFunded": 100,
-      "minGoal": 9000,
-      "maxGoal": 10000,
+      "noOfFunders": 18,
+      "noOfComments": 0,
+      "percentageFunded": 114.16,
+      "minGoal": 1200,
+      "maxGoal": 7800,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775893866/dreams/brr0vnkbligoh2dh32cw.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906665/dreams/sfjro8ndi5pylj5hpvi4.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906689/dreams/bfcsvre3hlmam8nji6ij.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906697/dreams/anyplruewziry0ckkiox.webp"
         }
       ],
       "customFields": [
         {
-          "value": "the clicking sounds of quick fingers typing on a keyboard",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The printing press does not run exclusively on the sweat of our volunteers. We need some juice to operate a printer.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Printer and office supplies will be brought back with us.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Philippe. [gossipgazettebl@gmail.com](mailto:gossipgazettebl@gmail.com)",
+          "value": "The Blackwater Congressional Funding Committe",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "We´ll preferably set up our HQ somewhere in the barn. And you will of course meet our reporters in the field!",
+          "value": "The Blackwater Proxy Division will, by nature, heavily influence Borderland - but in ways that are unnoticeable.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "The Gossip Gazette is The Borderland´s very own newspaper.\n\nExpect relentless reporters revealing incendiary investigations, cunning critiques, frivolous fashion, cryptic crosswords, phony polls, false advertising and most importantly: the juiciest gossip available. High editorial standards include but are not limited to: consent, co-creation and complete confusion.",
+          "value": "0 db",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Safety will be a factor in decision making, but potential political gains will take priority.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Quietly and effectively.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Our power consumption is included in other dreams and camps.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "The BPD is a decentralized system for shaping culture at Borderland through embedded, deniable assets. Instead of direct control, it builds networks of individuals, camps, and **essential services** that appear independent but influence how Borderland functions to produce outcomes aligned with Blackwater's political and strategic goals.\n\n**Proxy Individuals** operate as participants—artists, organizers, or connectors—who naturally steer conversations, collaborations, and decisions.\n\n**Proxy Camps** act as cultural hubs. For example, a well-placed sound camp with reliable power becomes a nightly gathering point, setting music trends and social norms. A service camp offering shade, food, or workshops attracts key networks and information.\n\n**Proxy Realities** focus on infrastructure control:  \nWho gets prime placement near high traffic areas, which camps have stable power, where toilets are located, and how logistics flow. A camp with power and nearby sanitation thrives; one without quietly disappears. By shaping these conditions, the Division influences where people go, who succeeds, and what becomes culturally central.\n\nThe result is indirect but reliable control: behavior follows what is accessible, functional, and attractive.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Yes! Anyone is welcome to contribute with content, particularly even before the Borderland starts.\n\nHere´s a few suggestions: opinion pieces and critiques, dating profiles and match making, horoscopes, real or fake advertisements for workshops and happenings (where is the G-spot this year?), interviews and polls, crosswords and puzzles, comic strips, whatever you can dream up really.\n\nDo inform us in good time if you wish to co-create so we can reserve some space in the layouts. While we will of course appreciate anything that you send in, we cannot promise to include everything, particularly if it comes in very spontaneously during the week.\n\nContact your spin-doctors in chief Wanda and Philippe for collaboration: [gossipgazettebl@gmail.com](mailto:gossipgazettebl@gmail.com).",
+          "value": "\\>CLASSIFIED<",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Our high editorial standards include consent, co-creation and complete confusion. Accuracy and fact-checking 3rd.",
+          "value": "Blackwater Operations",
           "customField": {
-            "name": "Safety"
+            "name": "This dream belongs to camp:"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Looking for content"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Weird shit"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Printer + toner",
-          "min": 3500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Paper",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "pin board",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "office supplies (pens, sticky notes, highlighters, staplers etc)",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "press badges",
+          "description": "Tent rental",
           "min": 500,
-          "max": null,
+          "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "tiny camera",
+          "description": "Tables and chairs",
+          "min": 500,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Deco & accessories for undercover agents:",
           "min": 0,
-          "max": 500,
+          "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "voice recorder",
-          "min": 0,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "transport ",
-          "min": 2000,
-          "max": null,
+          "description": "Transportation ",
+          "min": 200,
+          "max": 1800,
           "type": "EXPENSE"
         }
       ],
@@ -3817,82 +3792,89 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnw3mnjf0040faxo160qhlp8",
-      "title": "The Flower Power Station",
-      "summary": "Have you ever dreamt of feeling like a little bumblebee surrounded by big beautiful flowers that makes you grow? Now is your chance!",
+      "id": "cmnvye89r008zjdaokz6mqs3r",
+      "title": "Molten Love - Life saviour Cheese",
+      "summary": "Life-saving cheese for starving wanderers.",
       "status": "FUNDED",
-      "noOfFunders": 12,
-      "noOfComments": 1,
-      "percentageFunded": 123.13,
-      "minGoal": 1500,
-      "maxGoal": 3000,
-      "income": 0,
+      "noOfFunders": 17,
+      "noOfComments": 0,
+      "percentageFunded": 221.73,
+      "minGoal": 1150,
+      "maxGoal": 1350,
+      "income": 1200,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776021281/dreams/xrvpdmcsukami06emtnn.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776009991/dreams/jceqw1xvnrljttdvdqci.png"
         }
       ],
       "customFields": [
         {
-          "value": "We will need to be able to use glue guns",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "This camp will not contribute to any sounds other than our conversations",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We will remove the rest of materials and the remaining flowers, so that the space is left tidy.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "None yet! We would like to create this dream within a suitable camp where we can contribute with flowers, joy and crafts!",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "This is a quiet and happy contribution to neighbors!",
+          "value": "We need a place where we can setup our pots and equipment.  \nWe provide 2 specialized fondue pots (Caquelons) and forks.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Linnea and Alice!\n\nAlice: 0736401994",
+          "value": "hefegruenenwald@gmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Everyone will be welcome to come and craft flowers during our flower workshops. And ofc everyone will see the artful flowers and take part of the beautiful messages!\n\n(We are also much for workshops with friendship and connection theme and would love to create that in combination.)\n\nWe would love to be part of a camp to bring flower power!",
+          "value": "none.",
           "customField": {
-            "name": "Co-creation"
+            "name": "Sound levels"
           }
         },
         {
-          "value": "Have you ever dreamt of feeling like a little bumblebee surrounded by big beautiful flowers that makes you grow? Now is your chance!\n\nWe create flowers out of paper and other crafting materials, including a message or question! Part of our dream is to create a forest of flowers or decorate a lovely camp with them. Walk around and find beauty, and when getting up close: read a beautiful message or thoughtful question for you made by someone else on the playa.\n\nWe also want to have workshops for everyone to come and create flowers with your own hands while meeting and talking to other Borderling. The flower can be to wear, to gift someone, to bring to your camp or place where it's bringing joy.\n\nJoin us in creating flower power!",
+          "value": "none",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "You shuffle hungrily through the cold night, freezing and slightly disoriented across the vast borderlands. Then — a delicious scent pulls you in. You hear cheerful, murmuring voices. Salvation is near: a pot of rich, soul-reviving fondue awaits you. Dip your bread into the melted cheese, and feel love and contentment spread through your grateful stomach.",
           "customField": {
             "name": "Description"
           }
+        },
+        {
+          "value": "we build and strike the whole thing completely.",
+          "customField": {
+            "name": "Strike plan"
+          }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Chillout"
+        },
+        {
+          "value": "Food"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Paper, glue and steel thread",
-          "min": 1500,
-          "max": 3000,
+          "description": "2 Fondue Pots with forks",
+          "min": 1200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Cheese",
+          "min": 900,
+          "max": 1100,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Bread",
+          "min": 250,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 1200,
+      "percentageFundedTrue": 104.35
     },
     {
       "id": "cmnw09gaq0002ozd12fexs9qa",
@@ -4452,112 +4434,140 @@
       "percentageFundedTrue": 309.09
     },
     {
-      "id": "cmnu7z165000za5hp80zzugp3",
-      "title": "The Blackwater Proxy Division, Borderland",
-      "summary": "Cultural influence through deniable agents & proxy-camps, and control of essential infrastructure",
-      "status": "FUNDED",
-      "noOfFunders": 18,
-      "noOfComments": 0,
-      "percentageFunded": 114.16,
-      "minGoal": 1200,
-      "maxGoal": 7800,
-      "income": 0,
+      "id": "cmnu6w6w1000hdz1swyc6t11n",
+      "title": "Erotic Oscillations II",
+      "summary": "Following enthusiastic support & reactions, the naughty swings are back to once again elicit much laughter (& maybe also, as we've been told, spontaneous sex!)",
+      "status": "COMPLETED",
+      "noOfFunders": 17,
+      "noOfComments": 3,
+      "percentageFunded": 480.8,
+      "minGoal": 1250,
+      "maxGoal": 1950,
+      "income": 4060,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906665/dreams/sfjro8ndi5pylj5hpvi4.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906689/dreams/bfcsvre3hlmam8nji6ij.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906697/dreams/anyplruewziry0ckkiox.webp"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775903450/dreams/rwvjmlvevmkfnlngxugw.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "The Blackwater Congressional Funding Committe",
+          "value": "Noam Cohen (noamcee99@gmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "The Blackwater Proxy Division will, by nature, heavily influence Borderland - but in ways that are unnoticeable.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "0 db",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Safety will be a factor in decision making, but potential political gains will take priority.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Quietly and effectively.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Our power consumption is included in other dreams and camps.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "The BPD is a decentralized system for shaping culture at Borderland through embedded, deniable assets. Instead of direct control, it builds networks of individuals, camps, and **essential services** that appear independent but influence how Borderland functions to produce outcomes aligned with Blackwater's political and strategic goals.\n\n**Proxy Individuals** operate as participants—artists, organizers, or connectors—who naturally steer conversations, collaborations, and decisions.\n\n**Proxy Camps** act as cultural hubs. For example, a well-placed sound camp with reliable power becomes a nightly gathering point, setting music trends and social norms. A service camp offering shade, food, or workshops attracts key networks and information.\n\n**Proxy Realities** focus on infrastructure control:  \nWho gets prime placement near high traffic areas, which camps have stable power, where toilets are located, and how logistics flow. A camp with power and nearby sanitation thrives; one without quietly disappears. By shaping these conditions, the Division influences where people go, who succeeds, and what becomes culturally central.\n\nThe result is indirect but reliable control: behavior follows what is accessible, functional, and attractive.",
+          "value": "Our erotic and interactive installation consists of 2 innocent looking swings. Yes - Swings, as in playground: A small wooden bench suspended with ropes from a tree. However - these swings are anything but innocent. After a few unsuspecting back and forth motions, they start to moan. Softly at first, but the more & harder you swing - the more intense the moans. The moans are distinctly sexual; and - they are ethically - and very enthusiastically sourced - from community members who wish to participate and co-create this installation; By donating their recorded moans! We'll again reach out to the community and invite people to contribute their voices, so that later they, their partners, friends, and the community can merilly swing along and enjoy their ecstasy!!!  \nAnnnd - MEN - we're talking to you too!! Last year there was (justified!) criticism of our having only female voices. Yes, we know that often it is more difficult for the more vocally inhibited sex to express themselves in this way. But we're enthusiasticaly soliciting male participation too - Please send us MALE sexual vocalisations as well!",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "\\>CLASSIFIED<",
+          "value": "Come and play (quite literally…)! We want YOU! Our mischievous Borderling friends, to partake in our shenanigans. How, you ask?\n\n ✨🦊 **Record and send us your  sexiest sounding escapades** 🦊✨\n\nGuidelines:\n\n*   Capture & send us a clear recording. Using your smartphone will do.\n    \n*   Ideally starting from the softest moans, slowly building to squeals, grunts, and groans of pleasure, and finally building up to full-bodied screams of rapture!!! Want to include some kinky words of encouragement? Yes please! Any enthusiastically (and - consensually!) human-vocalized erotics will do just fine.\n    \n*   In case of more than one moaning voice, try to keep the moans of each participant separate, as it will make the editing viable and easier.\n    \n*   Try to minimize background noises. Bus horns aren’t unanimously sexy (but hey, no kink shaming!)\n    \n\nWe will select technically good recordings, edit them into a sequence of short clips, and load them into the controller that will be embedded in each of the swings. The identity of contributors will naturally remain a secret, but - hey, if you wanna brag, we won't stop you...\n\n(annnnd, we most emphatically refute those vile rumors alleging the recordings were surreptitiously made outside that infamous camp's party last year. Even if you think you've heard that person before!).",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Blackwater Operations",
+          "value": "A clear area of 3m front and back on each side of the swings will be maintained & marked, to avoid collisions. Swings will be suspended with thick rope to a very thick beam ratcheted to the trees.",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "On strike, swings will be removed from the suspension beam, and the beam itself will be un-ratcheted from the trees, Any leftovers, moop, marks or other debris will be collected and removed. The beam will be left in the barn, for future community use.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Yes - a low power (<100W) mains connection, to power some lights.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Sound footprint is around 10 meters, (we use a small 5 Watt speaker in each swing).",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We plan to place this installation in an area with \"proven\" trees & some amount of passerby traffic & other activity - Same as last year, nearby the Cheeky Badger. So, not a super quiet area. And will be in touch with it's likely inhabitants & neighbours regarding any likely environmental (or just any mental) impact.",
+          "customField": {
+            "name": "Co-existence"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Art installation"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "NOT kids-friendly"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Sex positive"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Tent rental",
-          "min": 500,
-          "max": 1500,
+          "description": "Wood beams from last year",
+          "min": 2800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Ropes from last year",
+          "min": 660,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Electronics from last year",
+          "min": 600,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Assorted screws, brackets, irons",
+          "min": 150,
+          "max": 300,
           "type": "EXPENSE"
         },
         {
-          "description": "Tables and chairs",
-          "min": 500,
-          "max": 1500,
+          "description": "Extra/replacement wooden beams",
+          "min": 250,
+          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "Deco & accessories for undercover agents:",
-          "min": 0,
-          "max": 3000,
+          "description": "LED illumination & decorations",
+          "min": 600,
+          "max": 900,
           "type": "EXPENSE"
         },
         {
-          "description": "Transportation ",
-          "min": 200,
-          "max": 1800,
+          "description": "Low voltage wiring ",
+          "min": 100,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Ratchet Straps",
+          "min": 150,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 4060,
+      "percentageFundedTrue": 324.8
     },
     {
       "id": "cmnix0i9k00005zx6yn4b0hde",
@@ -13768,115 +13778,119 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnvxzdon000471wltoptgpij",
-      "title": "The Forest Tide",
-      "summary": "Have you ever seen a smack of jellyfish?\nIf you're lucky, you just might be able to spot one in the wild forest. ",
-      "status": "FUNDED",
-      "noOfFunders": 44,
-      "noOfComments": 2,
-      "percentageFunded": 114.28,
-      "minGoal": 3500,
-      "maxGoal": 3500,
-      "income": 500,
+      "id": "cmnvz6cdw000jguzgskj5bujb",
+      "title": "Injera - A taste of Ethiopia 🇪🇹",
+      "summary": "Injera + Borderland = True! 😍",
+      "status": "COMPLETED",
+      "noOfFunders": 73,
+      "noOfComments": 3,
+      "percentageFunded": 519.95,
+      "minGoal": 4450,
+      "maxGoal": 6450,
+      "income": 18000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776009277/dreams/vg2yp87uy8lio56y8hp7.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776009341/dreams/klmy0ygoqnwe9voyp7bv.gif"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776011798/dreams/ljcybrci5f3bfhsycyd8.png"
         }
       ],
       "customFields": [
         {
-          "value": "It is safe",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "It will be easy to carry and will be removed as soon as the flash-mob is over, and will leave no trace.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "No",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "There will be a workshop were u can build your own jellyfish and join the smack.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Have you ever seen a smack of jellyfish? If you're lucky, you just might be able to spot one in the wild during this years Borderland.\n\nLike a tide through the forest, the smack of jellyfishes drifts slowly across the playa. It shines and twinkles in a mesmerizing, coordinated flow. The smack of jellyfish might occur on dancefloors, in the forest, in your camp or perhaps just making it's way along the many winding roads and paths of the playa.\n\nMaybe you want to be a part of it?",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "No electricity needed",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "It will be moving around. And occur like flash-mobs a little bit of everywere.",
+          "value": "This is part of the Habesha camp and our other dreams.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Kristina Eriksson, by email: kristina.ellen.eriksson@gmail.com",
+          "value": "Low",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Our Dr. Bill-Bull is on discord: ia9023",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "No camp, this is a free flying jellyfish",
+          "value": "Warning: Injera can be seriously addictive. 🙌",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Habesha",
           "customField": {
             "name": "This dream belongs to camp:"
           }
+        },
+        {
+          "value": "1500W",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Leave no trace!",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Do you have decorations in green, red and yellow? Or anything that might suit the cozy tent? Feel free to decorate with us!",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "For the first time ever we’ll have some yummy Ethiopian food at Borderland! We’ll taste delicious flavours together. We can’t wait to share Injera with you! 💛\n\n🇪🇹 Part of the \"Ethiopian Coffee Ceremony\" dream\"\n\n🇪🇹 Part of the “Ciné Chill” dream",
+          "customField": {
+            "name": "Description"
+          }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Food"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Artist supply ",
-          "min": 500,
+          "description": "Tent",
+          "min": 6000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Umbrellas x 20 ",
-          "min": 1500,
+          "description": "Transport",
+          "min": 4000,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Decors, furniture",
+          "min": 8000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Injera and food (home made!) ",
+          "min": 4000,
+          "max": 6000,
           "type": "EXPENSE"
         },
         {
-          "description": "Fabrics second hand",
-          "min": 600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Light strings",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Batteries",
-          "min": 400,
+          "description": "Plates and paper towels",
+          "min": 450,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 500,
-      "percentageFundedTrue": 14.29
+      "funded": 18000,
+      "percentageFundedTrue": 404.49
     },
     {
       "id": "cmnvxtlt7007cjdaodnwtoh3m",
@@ -17775,182 +17789,115 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnw0sxgm007ofq7od05za99i",
-      "title": "mycelium",
-      "summary": "Light installation in a hidden place for wandering minds",
+      "id": "cmnvxzdon000471wltoptgpij",
+      "title": "The Forest Tide",
+      "summary": "Have you ever seen a smack of jellyfish?\nIf you're lucky, you just might be able to spot one in the wild forest. ",
       "status": "FUNDED",
-      "noOfFunders": 48,
-      "noOfComments": 0,
-      "percentageFunded": 411.27,
-      "minGoal": 4249,
-      "maxGoal": 8370,
-      "income": 13200,
+      "noOfFunders": 44,
+      "noOfComments": 2,
+      "percentageFunded": 114.28,
+      "minGoal": 3500,
+      "maxGoal": 3500,
+      "income": 500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014456/dreams/y3oec8ua56ckd2nefkgw.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776009277/dreams/vg2yp87uy8lio56y8hp7.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014472/dreams/y58m3mnamdrd78z6s8hh.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014485/dreams/zsqylp0r4g0x9ge6kjv5.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014493/dreams/gvszgcjahh7b71wonqeh.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014505/dreams/qug0cwjtyukoiiypmc9d.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014514/dreams/mzjhj3awo0om7ou2cpvi.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014527/dreams/rbwl5ijuoldfg2rjs38m.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014550/dreams/boiawg6yuperjwfpwmtv.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014655/dreams/oshylzc1u3c1f01yxfkg.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014667/dreams/ggykzndpswbzthxdt1qb.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014675/dreams/ezdz2tnprmmrzoinrcay.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776009341/dreams/klmy0ygoqnwe9voyp7bv.gif"
         }
       ],
       "customFields": [
         {
-          "value": "Mari Mur, Tea By The Sea",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Err, yes, definitely if the right tunes are to be found!",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Only positive effects from previous years. Only mishap was that 2024 Mycelium attracted a bit more people than anticipated and had to guide people not walking straight across the sleeping tents forwards the wonder.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Yes, will borrow from the nearby camp.  \n  \nLED lights will not take up very much. Approximately 0.9 kWh/per night.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Mari Mur - marimur.art@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "All will be gone by Sunday, no trace left behind.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Last year, Mycelium offered a quiet pause from the playa buzz—a place at the Lookout to wander, reflect, and find solitude.\n\nThis year, I’m evolving the project with intricate wood details, improved light programming, and refined mycelium structures. The goal is a more interactive space that reacts gently to music and movement, shifting from a calm forest picnic spot by day to a portal-like realm by night.\n\nPractical upgrades include grid-powered lighting, better hanging gear, and larger art panels to guide visitors safely through the twilight. If the budget allows, I’ll add a small teaser installation nearby to lead the way. I’m also focusing on light automation and better site guidance to ensure the forest and neighboring camps remain undisturbed.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Very safe",
+          "value": "It is safe",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Nope",
+          "value": "It will be easy to carry and will be removed as soon as the flash-mob is over, and will leave no trace.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "No",
           "customField": {
             "name": "Sound levels"
           }
-        }
-      ],
-      "tags": [
-        {
-          "value": "Art installation"
         },
         {
-          "value": "Chillout"
+          "value": "There will be a workshop were u can build your own jellyfish and join the smack.",
+          "customField": {
+            "name": "Co-creation"
+          }
         },
         {
-          "value": "Light"
+          "value": "Have you ever seen a smack of jellyfish? If you're lucky, you just might be able to spot one in the wild during this years Borderland.\n\nLike a tide through the forest, the smack of jellyfishes drifts slowly across the playa. It shines and twinkles in a mesmerizing, coordinated flow. The smack of jellyfish might occur on dancefloors, in the forest, in your camp or perhaps just making it's way along the many winding roads and paths of the playa.\n\nMaybe you want to be a part of it?",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "No electricity needed",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "It will be moving around. And occur like flash-mobs a little bit of everywere.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Kristina Eriksson, by email: kristina.ellen.eriksson@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "No camp, this is a free flying jellyfish",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Tools, hanging stuff",
-          "min": 1700,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fabric, wooden artwork ",
-          "min": 7000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Backup power which acts poorly",
+          "description": "Artist supply ",
           "min": 500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "lights",
-          "min": 4000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Light Supply ",
-          "min": 659,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "More nice quality fabric to make it work more, the movement is the key, Last year some were tainted. ",
-          "min": 690,
-          "max": 1200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Metal rods",
-          "min": 770,
+          "description": "Umbrellas x 20 ",
+          "min": 1500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Wood for the art ",
-          "min": 1780,
-          "max": 3700,
+          "description": "Fabrics second hand",
+          "min": 600,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Arduino",
-          "min": 200,
-          "max": 500,
+          "description": "Light strings",
+          "min": 1000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "clay",
-          "min": 150,
-          "max": 200,
+          "description": "Batteries",
+          "min": 400,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 13200,
-      "percentageFundedTrue": 310.66
+      "funded": 500,
+      "percentageFundedTrue": 14.29
     },
     {
       "id": "cmnw4xjfn003napl9u22ydpiq",
@@ -36375,86 +36322,104 @@
       "percentageFundedTrue": 151.52
     },
     {
-      "id": "cmnw0389j0000lyq3rsa40zji",
-      "title": "Wondrous Forge",
-      "summary": "Venture into traditional blacksmithing to shape hot iron into whatever form you want! Turn your frustration, joy, or any feeling you have, into creation!",
+      "id": "cmnw0sxgm007ofq7od05za99i",
+      "title": "mycelium",
+      "summary": "Light installation in a hidden place for wandering minds",
       "status": "FUNDED",
       "noOfFunders": 48,
-      "noOfComments": 2,
-      "percentageFunded": 488.9,
-      "minGoal": 6156,
-      "maxGoal": 11576,
-      "income": 20097,
+      "noOfComments": 0,
+      "percentageFunded": 411.27,
+      "minGoal": 4249,
+      "maxGoal": 8370,
+      "income": 13200,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012932/dreams/chikb89bsjokwxpcbxdi.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014456/dreams/y3oec8ua56ckd2nefkgw.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776419184/dreams/ukgdprfc1eh5zdvincme.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014472/dreams/y58m3mnamdrd78z6s8hh.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012994/dreams/ahwsp5cheulyythj6kbg.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014485/dreams/zsqylp0r4g0x9ge6kjv5.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012955/dreams/rlyuyknpkv6el9rkuwfc.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014493/dreams/gvszgcjahh7b71wonqeh.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012945/dreams/fpoy8d3wsbbgjbdzvige.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014505/dreams/qug0cwjtyukoiiypmc9d.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776421161/dreams/alrz6ou1zlguxhpvpu3m.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014514/dreams/mzjhj3awo0om7ou2cpvi.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012967/dreams/v04fejjfokup0baiqm2k.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014527/dreams/rbwl5ijuoldfg2rjs38m.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014550/dreams/boiawg6yuperjwfpwmtv.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014655/dreams/oshylzc1u3c1f01yxfkg.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014667/dreams/ggykzndpswbzthxdt1qb.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776014675/dreams/ezdz2tnprmmrzoinrcay.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "This is a workshop with high sound-level, and needs a space of aprox. 3,5x4,5 meter. This is excluded a shelter for spray-painting, which will be an appendix of approx. 1,5x1,5 m.\n\nThe imaginary Iron-oak will have a space of 1x1 m, but can be placed anywhere there is space.\n\nSuggested place: Plaza in Lowlands/Highlands?",
+          "value": "Mari Mur, Tea By The Sea",
           "customField": {
-            "name": "Co-existence"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Fanny Henriksson  \nTel: 004670-3685472  \nfanny.henriksson1@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "There will be buckets of water, fire-blanket and a fire-extinguisher.  \nThe spraycans will be keept in a box in a separate shelter outside the smithy.  \nIntructions will follow before each workshops.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "If someone know how to do traditionally blacksmithing, you could assist in guiding. If you have no idea how to hammer on things, you could still assist an hour or two by bellowing, keeping the forge hot.\n\nAlso, I would love to have some extra hands in building the base for the tree, setting up the roof of the smithy and building a simple paint-shelter sunday & monday.\n\nDo not want to do anything above? Then help me deocrate the Imaginary Iron-oak by forging!",
+          "value": "Err, yes, definitely if the right tunes are to be found!",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Might be high for neighbors and passersby, but limited between 12-16, tuesday-friday. Silent in the morning and in the evening.",
+          "value": "Only positive effects from previous years. Only mishap was that 2024 Mycelium attracted a bit more people than anticipated and had to guide people not walking straight across the sleeping tents forwards the wonder.",
           "customField": {
-            "name": "Sound levels"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "Needed for cozy lights, grinding machine and electrical drills.",
+          "value": "Yes, will borrow from the nearby camp.  \n  \nLED lights will not take up very much. Approximately 0.9 kWh/per night.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Following the path of nature, we will plunder and demolish the Imaginary Iron-oak at the end of the festival (so make sure to be there in time to grab the art pieces that you want, or tag it beforehand if you where the creator). Then, broken into pieces and stripped of all its values, the Imaginary Iron-oak finally unites with the flames of the festival, to once and for all reach the stars that it always has dreamt about.",
+          "value": "Mari Mur - marimur.art@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "All will be gone by Sunday, no trace left behind.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Ever dreamt of hammering on things that won’t break into thousand of pieces?\n\nAt the smithy you can venture into traditional blacksmithing to shape hot iron into whatever form you want, where the art-pieces you create will give life to the Imaginary Iron-oak (not everything will be possible, due to limitations of time and material, but let imagination run free!). At the end of the festival, you can bring your creation home if you want(:\n\nLet the pieces be black as the soul, or color them joyfully with spray paint with your own imagination. Then hang it up in the branches of the Imaginary Iron-oak (or smuggle it away to decorate your own camp).",
+          "value": "Last year, Mycelium offered a quiet pause from the playa buzz—a place at the Lookout to wander, reflect, and find solitude.\n\nThis year, I’m evolving the project with intricate wood details, improved light programming, and refined mycelium structures. The goal is a more interactive space that reacts gently to music and movement, shifting from a calm forest picnic spot by day to a portal-like realm by night.\n\nPractical upgrades include grid-powered lighting, better hanging gear, and larger art panels to guide visitors safely through the twilight. If the budget allows, I’ll add a small teaser installation nearby to lead the way. I’m also focusing on light automation and better site guidance to ensure the forest and neighboring camps remain undisturbed.",
           "customField": {
             "name": "Description"
+          }
+        },
+        {
+          "value": "Very safe",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Nope",
+          "customField": {
+            "name": "Sound levels"
           }
         }
       ],
@@ -36463,184 +36428,76 @@
           "value": "Art installation"
         },
         {
-          "value": "Experience"
+          "value": "Chillout"
         },
         {
-          "value": "Fire"
-        },
-        {
-          "value": "Workshop"
-        },
-        {
-          "value": "Workshop space"
+          "value": "Light"
         }
       ],
       "budgetItems": [
         {
-          "description": "Anvil",
-          "min": 3000,
+          "description": "Tools, hanging stuff",
+          "min": 1700,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Hammer and Tongs",
-          "min": 6000,
+          "description": "Fabric, wooden artwork ",
+          "min": 7000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Vice",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fire blankes and extinguisher",
-          "min": 748,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Roof",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Bellows",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Table, stocks, etc",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Clay for forge",
-          "min": 299,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Drill",
-          "min": 300,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Punches, stud, chisel, rasp etc",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Aprons",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Grinding machine",
-          "min": 250,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Buckets for water",
+          "description": "Backup power which acts poorly",
           "min": 500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Wooden-coal",
-          "min": 385,
-          "max": 440,
-          "type": "EXPENSE"
+          "description": "lights",
+          "min": 4000,
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Iron-sheets",
-          "min": 2500,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Iron-rods",
-          "min": 1500,
+          "description": "Light Supply ",
+          "min": 659,
           "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "Water-based spraypaint (MTN)",
-          "min": 630,
-          "max": 1050,
+          "description": "More nice quality fabric to make it work more, the movement is the key, Last year some were tainted. ",
+          "min": 690,
+          "max": 1200,
           "type": "EXPENSE"
         },
         {
-          "description": "Screws for tree and shelter",
-          "min": 338,
-          "max": 400,
+          "description": "Metal rods",
+          "min": 770,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Hemp-twine for decorations",
+          "description": "Wood for the art ",
+          "min": 1780,
+          "max": 3700,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Arduino",
           "min": 200,
-          "max": null,
+          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "Facemask for spray-painting",
-          "min": 59,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Plywood for paint-shelter",
-          "min": 0,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Earplugs",
-          "min": 139,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Working-gloves",
-          "min": 316,
-          "max": 474,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Gas for transport",
-          "min": 0,
-          "max": 1184,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Working-overalls",
-          "min": 0,
-          "max": 1197,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Copper and brass-wire",
-          "min": 0,
-          "max": 344,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Linen-oil",
-          "min": 89,
-          "max": null,
+          "description": "clay",
+          "min": 150,
+          "max": 200,
           "type": "EXPENSE"
         }
       ],
-      "funded": 20097,
-      "percentageFundedTrue": 326.46
+      "funded": 13200,
+      "percentageFundedTrue": 310.66
     },
     {
       "id": "cmnoq41as0022xnznbk1cltsr",
@@ -42050,140 +41907,137 @@
       "percentageFundedTrue": 27.78
     },
     {
-      "id": "cmnu6w6w1000hdz1swyc6t11n",
-      "title": "Erotic Oscillations II",
-      "summary": "Following enthusiastic support & reactions, the naughty swings are back to once again elicit much laughter (& maybe also, as we've been told, spontaneous sex!)",
+      "id": "cmnu0hl8g000334i9629q6ys6",
+      "title": "Gossip Gazette",
+      "summary": "Novel newspaper Gossip Gazette will keep you up-to-date with occasional deliveries of the latest news, rumours and hearsay right to your camp’s brunch table!",
       "status": "FUNDED",
-      "noOfFunders": 17,
-      "noOfComments": 3,
-      "percentageFunded": 480.8,
-      "minGoal": 1250,
-      "maxGoal": 1950,
-      "income": 4060,
+      "noOfFunders": 58,
+      "noOfComments": 1,
+      "percentageFunded": 100,
+      "minGoal": 9000,
+      "maxGoal": 10000,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775903450/dreams/rwvjmlvevmkfnlngxugw.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775893866/dreams/brr0vnkbligoh2dh32cw.png"
         }
       ],
       "customFields": [
         {
-          "value": "Noam Cohen (noamcee99@gmail.com)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Our erotic and interactive installation consists of 2 innocent looking swings. Yes - Swings, as in playground: A small wooden bench suspended with ropes from a tree. However - these swings are anything but innocent. After a few unsuspecting back and forth motions, they start to moan. Softly at first, but the more & harder you swing - the more intense the moans. The moans are distinctly sexual; and - they are ethically - and very enthusiastically sourced - from community members who wish to participate and co-create this installation; By donating their recorded moans! We'll again reach out to the community and invite people to contribute their voices, so that later they, their partners, friends, and the community can merilly swing along and enjoy their ecstasy!!!  \nAnnnd - MEN - we're talking to you too!! Last year there was (justified!) criticism of our having only female voices. Yes, we know that often it is more difficult for the more vocally inhibited sex to express themselves in this way. But we're enthusiasticaly soliciting male participation too - Please send us MALE sexual vocalisations as well!",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Come and play (quite literally…)! We want YOU! Our mischievous Borderling friends, to partake in our shenanigans. How, you ask?\n\n ✨🦊 **Record and send us your  sexiest sounding escapades** 🦊✨\n\nGuidelines:\n\n*   Capture & send us a clear recording. Using your smartphone will do.\n    \n*   Ideally starting from the softest moans, slowly building to squeals, grunts, and groans of pleasure, and finally building up to full-bodied screams of rapture!!! Want to include some kinky words of encouragement? Yes please! Any enthusiastically (and - consensually!) human-vocalized erotics will do just fine.\n    \n*   In case of more than one moaning voice, try to keep the moans of each participant separate, as it will make the editing viable and easier.\n    \n*   Try to minimize background noises. Bus horns aren’t unanimously sexy (but hey, no kink shaming!)\n    \n\nWe will select technically good recordings, edit them into a sequence of short clips, and load them into the controller that will be embedded in each of the swings. The identity of contributors will naturally remain a secret, but - hey, if you wanna brag, we won't stop you...\n\n(annnnd, we most emphatically refute those vile rumors alleging the recordings were surreptitiously made outside that infamous camp's party last year. Even if you think you've heard that person before!).",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "A clear area of 3m front and back on each side of the swings will be maintained & marked, to avoid collisions. Swings will be suspended with thick rope to a very thick beam ratcheted to the trees.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "On strike, swings will be removed from the suspension beam, and the beam itself will be un-ratcheted from the trees, Any leftovers, moop, marks or other debris will be collected and removed. The beam will be left in the barn, for future community use.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Yes - a low power (<100W) mains connection, to power some lights.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Sound footprint is around 10 meters, (we use a small 5 Watt speaker in each swing).",
+          "value": "the clicking sounds of quick fingers typing on a keyboard",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We plan to place this installation in an area with \"proven\" trees & some amount of passerby traffic & other activity - Same as last year, nearby the Cheeky Badger. So, not a super quiet area. And will be in touch with it's likely inhabitants & neighbours regarding any likely environmental (or just any mental) impact.",
+          "value": "The printing press does not run exclusively on the sweat of our volunteers. We need some juice to operate a printer.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Printer and office supplies will be brought back with us.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Philippe. [gossipgazettebl@gmail.com](mailto:gossipgazettebl@gmail.com)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We´ll preferably set up our HQ somewhere in the barn. And you will of course meet our reporters in the field!",
           "customField": {
             "name": "Co-existence"
+          }
+        },
+        {
+          "value": "The Gossip Gazette is The Borderland´s very own newspaper.\n\nExpect relentless reporters revealing incendiary investigations, cunning critiques, frivolous fashion, cryptic crosswords, phony polls, false advertising and most importantly: the juiciest gossip available. High editorial standards include but are not limited to: consent, co-creation and complete confusion.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Yes! Anyone is welcome to contribute with content, particularly even before the Borderland starts.\n\nHere´s a few suggestions: opinion pieces and critiques, dating profiles and match making, horoscopes, real or fake advertisements for workshops and happenings (where is the G-spot this year?), interviews and polls, crosswords and puzzles, comic strips, whatever you can dream up really.\n\nDo inform us in good time if you wish to co-create so we can reserve some space in the layouts. While we will of course appreciate anything that you send in, we cannot promise to include everything, particularly if it comes in very spontaneously during the week.\n\nContact your spin-doctors in chief Wanda and Philippe for collaboration: [gossipgazettebl@gmail.com](mailto:gossipgazettebl@gmail.com).",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Our high editorial standards include consent, co-creation and complete confusion. Accuracy and fact-checking 3rd.",
+          "customField": {
+            "name": "Safety"
           }
         }
       ],
       "tags": [
         {
-          "value": "Art installation"
-        },
-        {
           "value": "Experience"
         },
         {
-          "value": "NOT kids-friendly"
+          "value": "Looking for content"
         },
         {
           "value": "Playful"
         },
         {
-          "value": "Sex positive"
+          "value": "Weird shit"
         }
       ],
       "budgetItems": [
         {
-          "description": "Wood beams from last year",
-          "min": 2800,
+          "description": "Printer + toner",
+          "min": 3500,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Ropes from last year",
-          "min": 660,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Electronics from last year",
-          "min": 600,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Assorted screws, brackets, irons",
-          "min": 150,
-          "max": 300,
           "type": "EXPENSE"
         },
         {
-          "description": "Extra/replacement wooden beams",
-          "min": 250,
+          "description": "Paper",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "pin board",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "office supplies (pens, sticky notes, highlighters, staplers etc)",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "press badges",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "tiny camera",
+          "min": 0,
           "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "LED illumination & decorations",
-          "min": 600,
-          "max": 900,
+          "description": "voice recorder",
+          "min": 0,
+          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "Low voltage wiring ",
-          "min": 100,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Ratchet Straps",
-          "min": 150,
+          "description": "transport ",
+          "min": 2000,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 4060,
-      "percentageFundedTrue": 324.8
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnog9k9i0002dstzax3cd6m1",
@@ -51482,119 +51336,106 @@
       "percentageFundedTrue": 218.18
     },
     {
-      "id": "cmnvz6cdw000jguzgskj5bujb",
-      "title": "Injera - A taste of Ethiopia 🇪🇹",
-      "summary": "Injera + Borderland = True! 😍",
-      "status": "FUNDED",
-      "noOfFunders": 73,
-      "noOfComments": 3,
-      "percentageFunded": 519.95,
-      "minGoal": 4450,
-      "maxGoal": 6450,
-      "income": 18000,
+      "id": "cmnvyyw0n0061o86hy2i53axg",
+      "title": "BYOB (bring your own bread)",
+      "summary": null,
+      "status": "CANCELED",
+      "noOfFunders": 0,
+      "noOfComments": 0,
+      "percentageFunded": 9.05,
+      "minGoal": 7400,
+      "maxGoal": 7400,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776011798/dreams/ljcybrci5f3bfhsycyd8.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776011671/dreams/yfvrow2r7ea4t8iklbfm.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "This is part of the Habesha camp and our other dreams.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Low",
+          "value": "Just grunts from cyclists",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Our Dr. Bill-Bull is on discord: ia9023",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Warning: Injera can be seriously addictive. 🙌",
+          "value": "We will make sure all cyclists have warmed up before and stretch after toasting",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Habesha",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "1500W",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Leave no trace!",
+          "value": "the toaster station will be removed after use",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Do you have decorations in green, red and yellow? Or anything that might suit the cozy tent? Feel free to decorate with us!",
+          "value": "Erik.von.ke@gmail.com",
           "customField": {
-            "name": "Co-creation"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "For the first time ever we’ll have some yummy Ethiopian food at Borderland! We’ll taste delicious flavours together. We can’t wait to share Injera with you! 💛\n\n🇪🇹 Part of the \"Ethiopian Coffee Ceremony\" dream\"\n\n🇪🇹 Part of the “Ciné Chill” dream",
+          "value": "Leg powered no need for electricity",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Frog plaza",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Toasting toast improves the environment",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Through the power of six(!) average cyclists we will power a toaster for the convenience of the borderlings, where we will toast one slice of bread at a time. Bring your own bread.\n\nWe will provide our service at least twice during the week",
           "customField": {
             "name": "Description"
           }
-        }
-      ],
-      "tags": [
-        {
-          "value": "Experience"
         },
         {
-          "value": "Food"
+          "value": "Anyone that wants to toast are welcome to power the toaster",
+          "customField": {
+            "name": "Co-creation"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Tent",
-          "min": 6000,
+          "description": "toaster",
+          "min": 200,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Transport",
-          "min": 4000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Decors, furniture",
-          "min": 8000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Injera and food (home made!) ",
-          "min": 4000,
-          "max": 6000,
           "type": "EXPENSE"
         },
         {
-          "description": "Plates and paper towels",
-          "min": 450,
+          "description": "bikes",
+          "min": 5000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "generators",
+          "min": 2000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "electrolytes ",
+          "min": 200,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 18000,
-      "percentageFundedTrue": 404.49
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnuijbld002yi2i7vwlkbmhs",
@@ -52064,89 +51905,272 @@
       "percentageFundedTrue": 103.45
     },
     {
-      "id": "cmnvye89r008zjdaokz6mqs3r",
-      "title": "Molten Love - Life saviour Cheese",
-      "summary": "Life-saving cheese for starving wanderers.",
+      "id": "cmnw0389j0000lyq3rsa40zji",
+      "title": "Wondrous Forge",
+      "summary": "Venture into traditional blacksmithing to shape hot iron into whatever form you want! Turn your frustration, joy, or any feeling you have, into creation!",
       "status": "FUNDED",
-      "noOfFunders": 17,
-      "noOfComments": 0,
-      "percentageFunded": 221.73,
-      "minGoal": 1150,
-      "maxGoal": 1350,
-      "income": 1200,
+      "noOfFunders": 48,
+      "noOfComments": 2,
+      "percentageFunded": 488.9,
+      "minGoal": 6156,
+      "maxGoal": 11576,
+      "income": 20097,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776009991/dreams/jceqw1xvnrljttdvdqci.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012932/dreams/chikb89bsjokwxpcbxdi.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776419184/dreams/ukgdprfc1eh5zdvincme.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012994/dreams/ahwsp5cheulyythj6kbg.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012955/dreams/rlyuyknpkv6el9rkuwfc.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012945/dreams/fpoy8d3wsbbgjbdzvige.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776421161/dreams/alrz6ou1zlguxhpvpu3m.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776012967/dreams/v04fejjfokup0baiqm2k.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "We need a place where we can setup our pots and equipment.  \nWe provide 2 specialized fondue pots (Caquelons) and forks.",
+          "value": "This is a workshop with high sound-level, and needs a space of aprox. 3,5x4,5 meter. This is excluded a shelter for spray-painting, which will be an appendix of approx. 1,5x1,5 m.\n\nThe imaginary Iron-oak will have a space of 1x1 m, but can be placed anywhere there is space.\n\nSuggested place: Plaza in Lowlands/Highlands?",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "hefegruenenwald@gmail.com",
+          "value": "Fanny Henriksson  \nTel: 004670-3685472  \nfanny.henriksson1@gmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "none.",
+          "value": "There will be buckets of water, fire-blanket and a fire-extinguisher.  \nThe spraycans will be keept in a box in a separate shelter outside the smithy.  \nIntructions will follow before each workshops.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "If someone know how to do traditionally blacksmithing, you could assist in guiding. If you have no idea how to hammer on things, you could still assist an hour or two by bellowing, keeping the forge hot.\n\nAlso, I would love to have some extra hands in building the base for the tree, setting up the roof of the smithy and building a simple paint-shelter sunday & monday.\n\nDo not want to do anything above? Then help me deocrate the Imaginary Iron-oak by forging!",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Might be high for neighbors and passersby, but limited between 12-16, tuesday-friday. Silent in the morning and in the evening.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "none",
+          "value": "Needed for cozy lights, grinding machine and electrical drills.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "You shuffle hungrily through the cold night, freezing and slightly disoriented across the vast borderlands. Then — a delicious scent pulls you in. You hear cheerful, murmuring voices. Salvation is near: a pot of rich, soul-reviving fondue awaits you. Dip your bread into the melted cheese, and feel love and contentment spread through your grateful stomach.",
+          "value": "Following the path of nature, we will plunder and demolish the Imaginary Iron-oak at the end of the festival (so make sure to be there in time to grab the art pieces that you want, or tag it beforehand if you where the creator). Then, broken into pieces and stripped of all its values, the Imaginary Iron-oak finally unites with the flames of the festival, to once and for all reach the stars that it always has dreamt about.",
           "customField": {
-            "name": "Description"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "we build and strike the whole thing completely.",
+          "value": "Ever dreamt of hammering on things that won’t break into thousand of pieces?\n\nAt the smithy you can venture into traditional blacksmithing to shape hot iron into whatever form you want, where the art-pieces you create will give life to the Imaginary Iron-oak (not everything will be possible, due to limitations of time and material, but let imagination run free!). At the end of the festival, you can bring your creation home if you want(:\n\nLet the pieces be black as the soul, or color them joyfully with spray paint with your own imagination. Then hang it up in the branches of the Imaginary Iron-oak (or smuggle it away to decorate your own camp).",
           "customField": {
-            "name": "Strike plan"
+            "name": "Description"
           }
         }
       ],
       "tags": [
         {
-          "value": "Chillout"
+          "value": "Art installation"
         },
         {
-          "value": "Food"
+          "value": "Experience"
+        },
+        {
+          "value": "Fire"
+        },
+        {
+          "value": "Workshop"
+        },
+        {
+          "value": "Workshop space"
         }
       ],
       "budgetItems": [
         {
-          "description": "2 Fondue Pots with forks",
-          "min": 1200,
+          "description": "Anvil",
+          "min": 3000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Cheese",
-          "min": 900,
-          "max": 1100,
+          "description": "Hammer and Tongs",
+          "min": 6000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Vice",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fire blankes and extinguisher",
+          "min": 748,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Roof",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Bellows",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Table, stocks, etc",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Clay for forge",
+          "min": 299,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Drill",
+          "min": 300,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Punches, stud, chisel, rasp etc",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Aprons",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Grinding machine",
+          "min": 250,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Buckets for water",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Wooden-coal",
+          "min": 385,
+          "max": 440,
           "type": "EXPENSE"
         },
         {
-          "description": "Bread",
-          "min": 250,
+          "description": "Iron-sheets",
+          "min": 2500,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Iron-rods",
+          "min": 1500,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Water-based spraypaint (MTN)",
+          "min": 630,
+          "max": 1050,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Screws for tree and shelter",
+          "min": 338,
+          "max": 400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Hemp-twine for decorations",
+          "min": 200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Facemask for spray-painting",
+          "min": 59,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Plywood for paint-shelter",
+          "min": 0,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Earplugs",
+          "min": 139,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Working-gloves",
+          "min": 316,
+          "max": 474,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Gas for transport",
+          "min": 0,
+          "max": 1184,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Working-overalls",
+          "min": 0,
+          "max": 1197,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Copper and brass-wire",
+          "min": 0,
+          "max": 344,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Linen-oil",
+          "min": 89,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 1200,
-      "percentageFundedTrue": 104.35
+      "funded": 20097,
+      "percentageFundedTrue": 326.46
     },
     {
       "id": "cmnvuhhza002tq2a72qq0hh2z",
@@ -73378,101 +73402,77 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnvyyw0n0061o86hy2i53axg",
-      "title": "BYOB (bring your own bread)",
-      "summary": null,
-      "status": "CANCELED",
-      "noOfFunders": 0,
-      "noOfComments": 0,
-      "percentageFunded": 9.05,
-      "minGoal": 7400,
-      "maxGoal": 7400,
+      "id": "cmnw3mnjf0040faxo160qhlp8",
+      "title": "The Flower Power Station",
+      "summary": "Have you ever dreamt of feeling like a little bumblebee surrounded by big beautiful flowers that makes you grow? Now is your chance!",
+      "status": "FUNDED",
+      "noOfFunders": 12,
+      "noOfComments": 1,
+      "percentageFunded": 123.13,
+      "minGoal": 1500,
+      "maxGoal": 3000,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776011671/dreams/yfvrow2r7ea4t8iklbfm.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776021281/dreams/xrvpdmcsukami06emtnn.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Just grunts from cyclists",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We will make sure all cyclists have warmed up before and stretch after toasting",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "the toaster station will be removed after use",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Erik.von.ke@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Leg powered no need for electricity",
+          "value": "We will need to be able to use glue guns",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Frog plaza",
+          "value": "This camp will not contribute to any sounds other than our conversations",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We will remove the rest of materials and the remaining flowers, so that the space is left tidy.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "None yet! We would like to create this dream within a suitable camp where we can contribute with flowers, joy and crafts!",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Toasting toast improves the environment",
+          "value": "This is a quiet and happy contribution to neighbors!",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Through the power of six(!) average cyclists we will power a toaster for the convenience of the borderlings, where we will toast one slice of bread at a time. Bring your own bread.\n\nWe will provide our service at least twice during the week",
+          "value": "Linnea and Alice!\n\nAlice: 0736401994",
           "customField": {
-            "name": "Description"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Anyone that wants to toast are welcome to power the toaster",
+          "value": "Everyone will be welcome to come and craft flowers during our flower workshops. And ofc everyone will see the artful flowers and take part of the beautiful messages!\n\n(We are also much for workshops with friendship and connection theme and would love to create that in combination.)\n\nWe would love to be part of a camp to bring flower power!",
           "customField": {
             "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Have you ever dreamt of feeling like a little bumblebee surrounded by big beautiful flowers that makes you grow? Now is your chance!\n\nWe create flowers out of paper and other crafting materials, including a message or question! Part of our dream is to create a forest of flowers or decorate a lovely camp with them. Walk around and find beauty, and when getting up close: read a beautiful message or thoughtful question for you made by someone else on the playa.\n\nWe also want to have workshops for everyone to come and create flowers with your own hands while meeting and talking to other Borderling. The flower can be to wear, to gift someone, to bring to your camp or place where it's bringing joy.\n\nJoin us in creating flower power!",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [],
       "budgetItems": [
         {
-          "description": "toaster",
-          "min": 200,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "bikes",
-          "min": 5000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "generators",
-          "min": 2000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "electrolytes ",
-          "min": 200,
-          "max": null,
+          "description": "Paper, glue and steel thread",
+          "min": 1500,
+          "max": 3000,
           "type": "EXPENSE"
         }
       ],
