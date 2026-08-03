@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785572385025,
+  "updatedAt": 1785750140891,
   "buckets": [
     {
       "id": "cmlo6634a0008rt2anbi3sfdz",
@@ -6872,84 +6872,87 @@
       "percentageFundedTrue": 434.78
     },
     {
-      "id": "cmnuqk6de0015awedsksao3yq",
-      "title": "MUSEUM OF BAD ART (MoBA)",
-      "summary": "Welcome to the worlds first museum solely dedicated to Bad Arts, and the aesthetic, artistic and academic center for the Bad Arts movement.",
+      "id": "cmnuuio3x006ygxdap5n92qqj",
+      "title": "The Green Zone: Back in Business",
+      "summary": "Once again, the Green Zone will offer borderlings an oasis of Western sanity: Cold beers, classic country and rock and absolutely no breathwork workshops.",
       "status": "FUNDED",
-      "noOfFunders": 76,
-      "noOfComments": 1,
-      "percentageFunded": 176.56,
-      "minGoal": 16850,
-      "maxGoal": 32300,
-      "income": 12901,
+      "noOfFunders": 67,
+      "noOfComments": 0,
+      "percentageFunded": 671.42,
+      "minGoal": 10500,
+      "maxGoal": 25500,
+      "income": 60000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775936500/dreams/xtypq4o4w1xzspz4wmva.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776167958/dreams/gr3igpvefokyurycorv2.gif"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775986396/dreams/zlfjqsjt128irdp0ekqy.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776167990/dreams/yoi8ptophzzdnfr5nikx.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775990022/dreams/dnwbbhepl2p5uoh8j3vo.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776167998/dreams/mfg5imbbnxiptzag0soi.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775990038/dreams/kt4fwxs5u7rv40occtnc.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776168009/dreams/pcvz0jiq0jmcesmwdj3s.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776004370/dreams/noa0knlp4jlcobycjrpy.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776168023/dreams/qzgnbb3wyi9asaormbyt.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776168032/dreams/sie0eibqrcymwexphfqv.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "We will not use scandalous amounts of electricity, other than some lighting, sound and minor artsy stuff.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "No safety risks to worry about, except for the visitors expanded notion of art and aesthetics.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "The MoBA camp will see too it that the space we occupy will be in as impeccable a shape as it was before our celebrated arrival.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "The Museum of Bad Arts will be hosted by the MoBA camp and it's collaborators.",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "The Museum of Bad Arts aims to be located in one of the rooms at the lower floor of the Barn (most probably in the Living Room), and will have a collaboration with the newly opened office of the Gossip Gazette. Our exhibition halls will provide a well-needed public space for cultural and artistic interchange, and we will be happy to be transparent and collaborative with any neighboring projects.\n\nWe are part of the pre-placement process and are already in communication with potential other projects in the Barn and the surrounding area.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "TBD, contact Filip until we find someone more suitable",
+          "value": "Crispy. Discord: @crispy440",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "**The Museum of Bad Arts (MoBA)** aims to exhibit, educate and evolve expressions and ideas found in the archives of the Bad Arts movement. Further still, the museum will act as an impermanent institution for the movement, and a creative hub developing its different artistic and philosophical outputs.\n\nThe Museum will provide several exhibition halls, both for showcasing a representable selection of contemporary examples of Bad Arts aesthetics, and as a dynamic surface on which to project the ever-changing multitude of Bad Art created at the Borderland during the week. As such, the Museum is on one hand educational and inspirational, lifting up the growing importance of a unique strand within the contemporary art scene, and on one hand pushing forward in the creation of works of arts following the movements aesthetic ideals.\n\nIf you are unfamiliar with the Bad Arts movement, we can recommend this classic historical overview written by one of the founders of the Museum: [\\[link to history pdf\\]](https://drive.google.com/file/d/1JZaRNbktRTaYrmkpUEm1M_0wyhORm_7l/view?usp=drive_link)\n\nMoBA promises a highly conceptual programme to celebrate our opening year, with bad exhibitions, artistic workshops, vernissages and panel debates.",
+          "value": "1500W average,",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Attention civilians. \n\nAs part of Blackwater Operations’ ongoing efforts to safeguard sanity and culture at the Borderland, civilians will once again be allowed entrance to the Green Zone - our secure base in the warzone known as the Playa.\n\nHere, you can shelter in place when you need a break from the burning sun, kitty ears, playa-tech and political correctness.\n\nThis year, we're expanding operations with BUCK - The _Blackwater Unconscious Community Kasino_ [(link)](https://dreams.theborderland.se/borderland/dreams-2026/cmnuv3nh3000q125rkjdwqutl). \n\n## **At the Green Zone you'll find:**\n\n*   Our 50m² free-to-use hangout space with crisp, professional sound system and military nostalgia decor\n    \n*   Heated interiors to keep you warm in the freezing Alversjö night\n    \n*   Shade from the scorching sun under our satellite-proof camo net.\n    \n*   Free wifi\n    \n\n## Planned entertainment operations.\n\n*   Our cozy Hot Dogs n' Budweisers day-party. \n    \n*   Our 4x4 multipurpose art car, ferrying lost civilians around\n    \n*   Dance parties with outlaw DJs such as Senator Snowflake and _Riktigt Party_ with Alexander Näslund.\n    \n*   And more…\n    \n\n## Remember\n\nFreedom don't come free. To ensure uninterrupted security service from, please proceed to fund the Green Zone.\n\nThank you for your cooperation.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Sound levels will be sparse and mostly pleasantly bad. There might be a lively vernissage at some point, and potentially a DJ-set with only modernist opera.",
+          "value": "The Green Zone - by Blackwater Operations",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "All strikes will be carried out with military precision and in accordance with current rules of engagement.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Blackwater Operations continue to believe in the peaceful coexistence between civilians and armed forces.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Our assault plan involves deployment of military grade sound system. We will ensure to comply with relevant noise regulations and seek to place ourselves in an area that allows loud music.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "The Museum of Bad Arts will be facilitated by the MoBA camp, specifically dedicated to the institutional responsibilities of this cultural milestone. But the Bad Arts movement is already spreading in wide circles all over Borderland, and practitioners are strongly encouraged to contact us for collaborative projects, and/or to perform their own Bad Art in their respective premises.\n\nWe will have one or two exhibition halls for our non-permanent permanent collections from some of the Bad Arts movements different branches, and one dedicated for different projects and exhibitions throughout the week. We wish to invite anyone who feel drawn to the Bad Arts programme with the possibility of presenting their œuvre in a professional setting, and/or other forms of collaborations.\n\nWe will most probably host a number of workshops and panel debates on the subject of Bad Art where you are very welcome to participate.",
+          "value": "We are here for your safety. Please comply with all directives given by Blackwater operatives and all will be fine.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Blackwater is always looking for locals willing to support our operations. Cooperation will be greatly rewarded. Contact the [Blackwater Proxy Division](https://dreams.theborderland.se/borderland/dreams-2026/cmnu7z165000za5hp80zzugp3) for more details.",
           "customField": {
             "name": "Co-creation"
           }
@@ -6957,196 +6960,76 @@
       ],
       "tags": [
         {
-          "value": "Art installation"
+          "value": "Bar"
         },
         {
-          "value": "Art walk apropriate"
+          "value": "BurnerBox"
+        },
+        {
+          "value": "Chillout"
         },
         {
           "value": "Experience"
         },
         {
-          "value": "Looking for content"
+          "value": "Fire"
         },
         {
-          "value": "Performance"
+          "value": "Music"
         },
         {
           "value": "Playful"
         },
         {
-          "value": "Pre-placement"
+          "value": "Soundcamp"
         },
         {
-          "value": "Venue"
+          "value": "Theme camp"
         },
         {
           "value": "Weird shit"
-        },
-        {
-          "value": "Workshop space"
         }
       ],
       "budgetItems": [
         {
-          "description": "Easel x 1",
-          "min": 300,
+          "description": "Decor, furniture, bar desk, gas heaters, monitors, streaming computer, camo nets, carpets, signals, storage tent, fire pit, stage and mood lights, radio tower",
+          "min": 60000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Loads of salty sticks",
-          "min": 200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Bench x 1",
-          "min": 400,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Speaker",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tools and stuff",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Decoration",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Furniture/piedestals/etc",
-          "min": 4000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Bad Art",
-          "min": 1,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Frames",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Bad box wine for vernissage",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Frames",
+          "description": "Tent rental",
           "min": 2500,
-          "max": 3500,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Posters",
-          "min": 2500,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Plexiglass print",
-          "min": 2000,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wood print",
-          "min": 1000,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Painting (brushes, pain, palettes, etc) material",
+          "description": "Sound & lights rental",
           "min": 2000,
           "max": 5000,
           "type": "EXPENSE"
         },
         {
-          "description": "Canvases",
-          "min": 200,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Plasticards for art work descriptions",
-          "min": 300,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Artsy hats",
+          "description": "Deco: We'd love to get even more deco for for unique, military-nostalgic look",
           "min": 0,
-          "max": 300,
+          "max": 5000,
           "type": "EXPENSE"
         },
         {
-          "description": "Easels",
-          "min": 900,
-          "max": 1200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wire for hanging stuff",
-          "min": 50,
-          "max": 100,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Uncomfortable benches",
-          "min": 400,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Room dividers",
-          "min": 3000,
-          "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Curtains",
-          "min": 500,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Piedestals",
-          "min": 0,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Decorations",
+          "description": "Firewood ",
           "min": 1000,
-          "max": 4000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Stickers for entry etc",
-          "min": 500,
-          "max": 1000,
+          "description": "Transport ",
+          "min": 5000,
+          "max": 12000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 12901,
-      "percentageFundedTrue": 76.56
+      "funded": 60000,
+      "percentageFundedTrue": 571.43
     },
     {
       "id": "cmnbit4kl0000ox5h3has5slo",
@@ -20418,92 +20301,83 @@
       "percentageFundedTrue": 190.48
     },
     {
-      "id": "cmnuv3nh3000q125rkjdwqutl",
-      "title": "BUCK Casino: The Blackwater Unconscious Community Kasino",
-      "summary": "A classy, dangerous place for high-rolling gamblers, hard-drinking cowboys and treacherous ladies. Will luck smile upon you?",
-      "status": "FUNDED",
-      "noOfFunders": 40,
-      "noOfComments": 5,
-      "percentageFunded": 100,
-      "minGoal": 7100,
-      "maxGoal": 27200,
-      "income": 0,
+      "id": "cmnurahb5001ot64c4zqvqy34",
+      "title": "Kinky Claus and the Horny Elves, by the Fuckery",
+      "summary": "Turn yourself into a popup present when Kinky Claus and his sinful elves unleash your naughtiest desires. ",
+      "status": "CANCELED",
+      "noOfFunders": 0,
+      "noOfComments": 2,
+      "percentageFunded": 340.45,
+      "minGoal": 3300,
+      "maxGoal": 6000,
+      "income": 11000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776100123/dreams/oini0dcowoxhvhrpkwu2.gif"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775937966/dreams/arskviy6srkgpblgo6rb.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Crispy. Discord: @crispy440",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "None, we'll piggy-back off the Green Zone",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Who wouldn't want to have an unlicensed casino next door?",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Gambling is hazardous to your wallet. That's the point.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Low/medium",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Feel free to dress up for the role of a 1970s/80s casino-guest. Feather boas, suits, dark shades.... You know the look.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "The Green Zone - by Blackwater Operations",
+          "value": "The Fuckery",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "It's deep in the Borderland night. You're bored with the playa-tech and cheap validation. You step inside our smoky, warm tent, brimming with hard gambling, cowboy hats, laughter and classic blues on the sound system. \n\nYou quickly trade in your TEMU-accessories for a handful of our house currency and proceed to the tables. The dealer, a woman in a bulletproof vest, gives you the once-over before dealing your cards. As you size up the other players, you realize this was just the place you didn't know you were looking for. \n\n## A new way to serve\n\nFor years, Blackwater Operations has been serving our community, safeguarding Borderlings from hazards such as eye-gazing competitions and didgeridoo jam circles.\n\nThis year we're diversifying our portfolio; adding BUCK - the Blackwater Unconscious Community Kasino - to our list of offerings.\n\nWill you break the bank and win the big jackpot? Or maybe make new friends as you drown your sorrows at our bar? You'll have to play to find out. \n\nSee you at the tables, civilian.\n\n### OPERATIONAL EXPENDITURES\n\nYour generous funding will cover expenses for blackjack, roulette and poker tables, casino decor - and of course, epic prizes and our custom branded BUCK casino chips. #freedomdontcomefree",
+          "value": "Like a hot summer wind, we arrive and vanish without trace. All Kinkmas cheer is carried on elf back, and resides otherwise at Kink Central: the Fuckery.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "We were made to make your dreams come true. So we only exist alongside you, and are happy to venture. Whether it's at your back door or your front door, we come only when begged to. And we stay so long as you're pleading for more. But a kind word is all it takes for us to carry on our horny way.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Very safe, very comforting. We only spank, vibrate, or undress body parts which have been consented to freely.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Kinky Claus and his sinsational elves can be found wherever lines are growing long and tedious, or darkness has descended on the Swedish pastures. Popping up like your mother's nipples at the sight of David Hasselhoff, Kinky loves to get the playa pulsing. Both in front of our Fuckery tent, as the masses prepare to shed their inhibitions... and across camps of all kinds, wherever spicy hot Christmas cuties are required. Send us your wishes, and Kinky or our kinkster elves could arrive at your camp with vibrators and sexy bows to set your libidos free. Christmas lights never got you this wet before.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "When Santa is away, the elves will play. And those little devils want you to keep copulating.\n\nCome meet the wilder younger brother Kinky Claus, put your delicate tushy upon his knee, and find out if you've qualified for his naughty list. With inspiration all around you in our horny elves, the King Kinkster himself is waiting to hear your dirtiest dreams, your most luscious longing and wettest wonders. Speak those cravings aloud, and poof, with a wave of his rock hard candy cane, Kinky's elves will set about turning you into the present you deserve.\n\nWith a gift bow on your body, and from the cravings on your tongue, the Elves will help to unwrap you and advertise your naughtiest wishes to the playa. Come one, come all.\n\nAs we detail your desires to be discovered on your body in Christmas card fashion and send you out into the underworld, let the gift giving begin. You're now a present, wrapped in your very own words and wishes, while our elves do their duty to pimp you to the playa. Fuck your burn, as they say, and may the burn fuck you right back, deep and proper.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "**Don't Pull Out Pledge:**\n\nAll reusable materials we buy will be available to the community afterwards, stored in Copenhagen or Alversjö.",
+          "value": "Whispers, secrets, deep revelations to begin with... Then proudly pimping your wishes at a reasonable volume. No speakers, no sound system, just pure human lust being broadcast.",
           "customField": {
-            "name": "Strike plan"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "A certain amount of electrical supply to recharge vibrators between elfen outings.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "@Mirja, queen of the cash, is our Dr Bill-Bull.",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
       "tags": [
         {
-          "value": "Bar"
-        },
-        {
-          "value": "BurnerBox"
-        },
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Hippie trap"
-        },
-        {
           "value": "Playful"
+        },
+        {
+          "value": "Sex positive"
         },
         {
           "value": "Weird shit"
@@ -20511,62 +20385,68 @@
       ],
       "budgetItems": [
         {
-          "description": "Tent rental",
-          "min": 2500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Blackjack, roulette and poker tables, chairs",
-          "min": 2000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Casino chips",
+          "description": "Lights for individual elves",
           "min": 1000,
-          "max": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Elven kink wear",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Christmas cards",
+          "min": 800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Kinky Claus clothes",
+          "min": 1200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Other externally vibrating sex toys",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Unholy light for Kinky Claus",
+          "min": 500,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Sound & lights rental",
-          "min": 0,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Various decor and prizes, for that glitzy casino vibe 😎 ",
-          "min": 400,
-          "max": 5000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Custom playing cards",
-          "min": 0,
+          "description": "Vibrators for elves to use",
+          "min": 800,
           "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "Bar supplies (non-alcoholic) ",
-          "min": 0,
-          "max": 800,
+          "description": "Gift bows",
+          "min": 700,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Big flashy LED sign",
-          "min": 0,
-          "max": 5000,
+          "description": "Sexy gift wrap bracelets",
+          "min": 700,
+          "max": 1600,
           "type": "EXPENSE"
         },
         {
-          "description": "Transport ",
-          "min": 1200,
-          "max": 4400,
+          "description": "Elven Christmas slutwear",
+          "min": 600,
+          "max": 1200,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 11000,
+      "percentageFundedTrue": 333.33
     },
     {
       "id": "cmnt3med30009gt3gu0js417d",
@@ -40393,146 +40273,100 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnuohq9t001g126q186jf9pd",
-      "title": "Ambulating Ice Cream Saviours",
-      "summary": "We have 1 m³ of left over ice cream (1 000 liters!!) that we need your help to bring to the Borderland!",
-      "status": "FUNDED",
-      "noOfFunders": 62,
-      "noOfComments": 2,
-      "percentageFunded": 475.44,
-      "minGoal": 4350,
-      "maxGoal": 10400,
-      "income": 15000,
+      "id": "cmnutxs0s007at64ck16bninj",
+      "title": "Yoga, with Goats!?",
+      "summary": "Have you ever considered doing yoga? Have you ever considered being a goat? ",
+      "status": "COMPLETED",
+      "noOfFunders": 32,
+      "noOfComments": 3,
+      "percentageFunded": 142.4,
+      "minGoal": 2500,
+      "maxGoal": 3000,
+      "income": 1000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775933045/dreams/mwlzsgc6r1ggrtamsh8s.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775942512/dreams/fmf1wxxhum9xal092jg8.png"
         }
       ],
       "customFields": [
         {
-          "value": "Tra$h is King",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "200 W for the freezer.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "We aim to make our neighbors self-sufficient on ice cream during the burn.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Marco Kraus",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "We will definetly make some noise to alert the playa that the ice cream is near. Not more than a speaker and voices.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Are you in need of some ice cream for your waffles, your event or your after care? Hit us up! We would love to collaborate to get this ice cream off our hands.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "We only hand out ice cream and ice cream cones, which will be eaten by the community. The containers for the ice cream will be brought back and recycled.",
+          "value": "This is still to be determined, but strike should be fairly simple.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Risk of brain-freeze.",
+          "value": "No need for electricity.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "I don't think this dream would make much of an impact on our neighbors. We're still trying to find a space, so placement and set up will still need to be determined.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "No excessive sound levels... unless we have some overzealous goats.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "You can email me at AJLKangaroo@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We will make sure to warn our goats to not be too rowdy. Body contact will be minimal.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "We wish to surprise you with ice cream where you are with planned or unplanned visits with our mobile ice cream wagon. There will be some different flavours, and maybe even toppings!\n\nThis is a joint effort to save the ice cream and you from wasting away in the heat or unheat! We will be there no matter the weather. Expect a severe brain freeze!\n\nWe have acquired near infinite amounts of ice cream and the more funds we receive the more ice cream we will be able to bring to The Borderland.",
+          "value": "40-ish Thieves Camp, but open to being hosted in another space.",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "For those who like to do yoga, and for those who like to dress up as goats. The perfect dream is now here.\n\nYoga Lovers: You will be led by an experienced yoga instructor through a series of yoga poses. Just regular run-of-the-mill yoga.\n\nGoat Enthusiasts (people dressed up as goats and maybe one llama?): You will be released from the **PEN** and ushered into the yoga space.\n\nOur yoga lovers will be given treats to feed the goats, they are also free to pet them. The goats may get a little rowdy, but they are just having fun!\n\nNote: This isn't a Furry specific event, all manner of dress up is allowed! Feel free to reach out if you would like to participate in any way.",
           "customField": {
             "name": "Description"
           }
-        }
-      ],
-      "tags": [
-        {
-          "value": "Experience"
         },
         {
-          "value": "Food"
-        },
-        {
-          "value": "Playful"
+          "value": "We would be open to co-creation with others interested in yoga, or willing to share their space!",
+          "customField": {
+            "name": "Co-creation"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Huge amounts of saved Ice Cream",
-          "min": 10000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Freezer",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Ice cream cones",
+          "description": "Speaker for music",
           "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Goat Accessories",
+          "min": 2000,
           "max": 2500,
           "type": "EXPENSE"
         },
         {
-          "description": "Ice cream scoops",
-          "min": 50,
-          "max": 100,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Toppings",
-          "min": 0,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Portable battery solution",
-          "min": 2000,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Portable wagon",
-          "min": 0,
-          "max": 800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Construction materials",
-          "min": 300,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transportation of ice cream",
-          "min": 1000,
-          "max": 3000,
+          "description": "Pen for Goats",
+          "min": 500,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 15000,
-      "percentageFundedTrue": 344.83
+      "funded": 1000,
+      "percentageFundedTrue": 40
     },
     {
       "id": "cmnuequ3w0025caky0adgco82",
@@ -41646,100 +41480,155 @@
       "percentageFundedTrue": 2104
     },
     {
-      "id": "cmnutxs0s007at64ck16bninj",
-      "title": "Yoga, with Goats!?",
-      "summary": "Have you ever considered doing yoga? Have you ever considered being a goat? ",
-      "status": "COMPLETED",
-      "noOfFunders": 32,
-      "noOfComments": 3,
-      "percentageFunded": 142.4,
-      "minGoal": 2500,
-      "maxGoal": 3000,
-      "income": 1000,
+      "id": "cmnuv3nh3000q125rkjdwqutl",
+      "title": "BUCK Casino: The Blackwater Unconscious Community Kasino",
+      "summary": "A classy, dangerous place for high-rolling gamblers, hard-drinking cowboys and treacherous ladies. Will luck smile upon you?",
+      "status": "FUNDED",
+      "noOfFunders": 40,
+      "noOfComments": 5,
+      "percentageFunded": 100,
+      "minGoal": 7100,
+      "maxGoal": 27200,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775942512/dreams/fmf1wxxhum9xal092jg8.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776100123/dreams/oini0dcowoxhvhrpkwu2.gif"
         }
       ],
       "customFields": [
         {
-          "value": "This is still to be determined, but strike should be fairly simple.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "No need for electricity.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "I don't think this dream would make much of an impact on our neighbors. We're still trying to find a space, so placement and set up will still need to be determined.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "No excessive sound levels... unless we have some overzealous goats.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "You can email me at AJLKangaroo@gmail.com",
+          "value": "Crispy. Discord: @crispy440",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "We will make sure to warn our goats to not be too rowdy. Body contact will be minimal.",
+          "value": "None, we'll piggy-back off the Green Zone",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Who wouldn't want to have an unlicensed casino next door?",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Gambling is hazardous to your wallet. That's the point.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "40-ish Thieves Camp, but open to being hosted in another space.",
+          "value": "Low/medium",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Feel free to dress up for the role of a 1970s/80s casino-guest. Feather boas, suits, dark shades.... You know the look.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "The Green Zone - by Blackwater Operations",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "For those who like to do yoga, and for those who like to dress up as goats. The perfect dream is now here.\n\nYoga Lovers: You will be led by an experienced yoga instructor through a series of yoga poses. Just regular run-of-the-mill yoga.\n\nGoat Enthusiasts (people dressed up as goats and maybe one llama?): You will be released from the **PEN** and ushered into the yoga space.\n\nOur yoga lovers will be given treats to feed the goats, they are also free to pet them. The goats may get a little rowdy, but they are just having fun!\n\nNote: This isn't a Furry specific event, all manner of dress up is allowed! Feel free to reach out if you would like to participate in any way.",
+          "value": "It's deep in the Borderland night. You're bored with the playa-tech and cheap validation. You step inside our smoky, warm tent, brimming with hard gambling, cowboy hats, laughter and classic blues on the sound system. \n\nYou quickly trade in your TEMU-accessories for a handful of our house currency and proceed to the tables. The dealer, a woman in a bulletproof vest, gives you the once-over before dealing your cards. As you size up the other players, you realize this was just the place you didn't know you were looking for. \n\n## A new way to serve\n\nFor years, Blackwater Operations has been serving our community, safeguarding Borderlings from hazards such as eye-gazing competitions and didgeridoo jam circles.\n\nThis year we're diversifying our portfolio; adding BUCK - the Blackwater Unconscious Community Kasino - to our list of offerings.\n\nWill you break the bank and win the big jackpot? Or maybe make new friends as you drown your sorrows at our bar? You'll have to play to find out. \n\nSee you at the tables, civilian.\n\n### OPERATIONAL EXPENDITURES\n\nYour generous funding will cover expenses for blackjack, roulette and poker tables, casino decor - and of course, epic prizes and our custom branded BUCK casino chips. #freedomdontcomefree",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "We would be open to co-creation with others interested in yoga, or willing to share their space!",
+          "value": "**Don't Pull Out Pledge:**\n\nAll reusable materials we buy will be available to the community afterwards, stored in Copenhagen or Alversjö.",
           "customField": {
-            "name": "Co-creation"
+            "name": "Strike plan"
           }
         }
       ],
-      "tags": [],
-      "budgetItems": [
+      "tags": [
         {
-          "description": "Speaker for music",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
+          "value": "Bar"
         },
         {
-          "description": "Goat Accessories",
+          "value": "BurnerBox"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Weird shit"
+        }
+      ],
+      "budgetItems": [
+        {
+          "description": "Tent rental",
+          "min": 2500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Blackjack, roulette and poker tables, chairs",
           "min": 2000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Casino chips",
+          "min": 1000,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Sound & lights rental",
+          "min": 0,
           "max": 2500,
           "type": "EXPENSE"
         },
         {
-          "description": "Pen for Goats",
-          "min": 500,
-          "max": null,
+          "description": "Various decor and prizes, for that glitzy casino vibe 😎 ",
+          "min": 400,
+          "max": 5000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Custom playing cards",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Bar supplies (non-alcoholic) ",
+          "min": 0,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Big flashy LED sign",
+          "min": 0,
+          "max": 5000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport ",
+          "min": 1200,
+          "max": 4400,
           "type": "EXPENSE"
         }
       ],
-      "funded": 1000,
-      "percentageFundedTrue": 40
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmmuwxo1f0000gz6iltg4qmmu",
@@ -45544,7 +45433,7 @@
       "id": "cmnwaj4tv000agj4ny8nnj68p",
       "title": "Intimacy playground - conversation games, desire bulletin board, workshops ",
       "summary": "A playful, consent-centered space where people explore, express, and align on intimate desires through guided card experiences and open conversations. ",
-      "status": "FUNDED",
+      "status": "COMPLETED",
       "noOfFunders": 35,
       "noOfComments": 0,
       "percentageFunded": 126.83,
@@ -48013,130 +47902,146 @@
       "percentageFundedTrue": 1866.67
     },
     {
-      "id": "cmnuhkxyq0022uc23aky1j8rj",
-      "title": "Period Cramps - The Men's Expansion Pack",
-      "summary": "A playful “hard mode” Borderland experience where participants borrow a wearable device and go about their adventures on the playa with simulated period cramps.",
+      "id": "cmnuohq9t001g126q186jf9pd",
+      "title": "Ambulating Ice Cream Saviours",
+      "summary": "We have 1 m³ of left over ice cream (1 000 liters!!) that we need your help to bring to the Borderland!",
       "status": "FUNDED",
-      "noOfFunders": 46,
-      "noOfComments": 3,
-      "percentageFunded": 120.61,
-      "minGoal": 2910,
-      "maxGoal": 5320,
-      "income": 460,
+      "noOfFunders": 62,
+      "noOfComments": 2,
+      "percentageFunded": 475.44,
+      "minGoal": 4350,
+      "maxGoal": 10400,
+      "income": 15000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775939813/dreams/svza2tfkn2kubjiwfhqb.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775933045/dreams/mwlzsgc6r1ggrtamsh8s.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "5-20W for string lights set up.",
+          "value": "Tra$h is King",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "200 W for the freezer.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Just pack it all up and clean up the space around it. Easy peasy.",
+          "value": "We aim to make our neighbors self-sufficient on ice cream during the burn.",
           "customField": {
-            "name": "Strike plan"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "**This experience DOES include**\n\nAbility to stop at any time\n\n**We take NO responsibility for**\n\nShift in perspective, increased respect, unexpected humility, any apologies issued after participation",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Fay Khodaperest @faysome on fb",
+          "value": "Marco Kraus",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Baseline: 30–60 dB (conversational)  \nTransient peaks up to 85–95 dB may occur depending on user and intensity  \n_(often immediately following statements such as “it’s not that bad”)_",
+          "value": "We will definetly make some noise to alert the playa that the ice cream is near. Not more than a speaker and voices.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Open to co-creating playful challenges, including composure face-offs where participants attempt to remain completely unaffected in front of an audience.",
+          "value": "Are you in need of some ice cream for your waffles, your event or your after care? Hit us up! We would love to collaborate to get this ice cream off our hands.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "**Ever wondered how bad period cramps really are?**  \nNo? Perfect. Even better.\n\nNow you can stop wondering.\n\nWelcome to **“Period Cramps-The Men’s Expansion Pack”** also known as **“Borderland on Hardmode”**\n\nAt this station, you can borrow a portable device for a maximum of 24h that lets you experience simulated period cramps. Strap it on, turn it up to a level that matches your confidence, and continue your day like nothing’s happening.\n\nGo dance. Have conversations. Be completely normal. Or try to be.  \nI mean… women do this all the time. How hard can it _really_ be?\n\nSomewhere between _“this is manageable”_ and _“okay never mind,”_ something interesting might happen.  \nCall it perspective. Call it character development. Call it a terrible idea you’re oddly proud of.\n\nEither way, you’ll have something to brag about on your next date…  \nOr a sudden urge to apologize to a woman in your life.\n\n**_Small print disclaimer_**  \nThis experience does NOT include common symptoms such as:  \n_Bleeding, emotional fluctuations, crying (with/-out cause), increased irritability (sometimes justified), oddly specific food cravings, diarrhea, constipation, headaches, fatigue, brain fog, nausea, change in libido, acne, gas,_ **...read more**",
+          "value": "We only hand out ice cream and ice cream cones, which will be eaten by the community. The containers for the ice cream will be brought back and recycled.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Risk of brain-freeze.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We wish to surprise you with ice cream where you are with planned or unplanned visits with our mobile ice cream wagon. There will be some different flavours, and maybe even toppings!\n\nThis is a joint effort to save the ice cream and you from wasting away in the heat or unheat! We will be there no matter the weather. Expect a severe brain freeze!\n\nWe have acquired near infinite amounts of ice cream and the more funds we receive the more ice cream we will be able to bring to The Borderland.",
           "customField": {
             "name": "Description"
           }
-        },
-        {
-          "value": "The setup is low-impact and contained. Sound levels are generally minimal, with occasional brief reactions. No major disturbance to neighbors is expected, and placement will be considered accordingly.",
-          "customField": {
-            "name": "Co-existence"
-          }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Food"
+        },
+        {
+          "value": "Playful"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Trashbin for waste",
-          "min": 30,
+          "description": "Huge amounts of saved Ice Cream",
+          "min": 10000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Plastic bags",
-          "min": 30,
+          "description": "Freezer",
+          "min": 5000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Basket",
-          "min": 200,
-          "max": null,
-          "type": "INCOME"
+          "description": "Ice cream cones",
+          "min": 1000,
+          "max": 2500,
+          "type": "EXPENSE"
         },
         {
-          "description": "String lights",
-          "min": 200,
-          "max": null,
-          "type": "INCOME"
+          "description": "Ice cream scoops",
+          "min": 50,
+          "max": 100,
+          "type": "EXPENSE"
         },
         {
-          "description": "5-10x Period cramp simulation devices",
+          "description": "Toppings",
+          "min": 0,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Portable battery solution",
           "min": 2000,
-          "max": 4000,
+          "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "5-10x Fanny packs for easy carriage",
-          "min": 200,
-          "max": 400,
+          "description": "Portable wagon",
+          "min": 0,
+          "max": 800,
           "type": "EXPENSE"
         },
         {
-          "description": "20-40x Extra gel patches",
-          "min": 210,
-          "max": 420,
+          "description": "Construction materials",
+          "min": 300,
+          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "Camping table",
-          "min": 400,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "skin disinfecting wipes",
-          "min": 100,
-          "max": null,
+          "description": "Transportation of ice cream",
+          "min": 1000,
+          "max": 3000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 460,
-      "percentageFundedTrue": 15.81
+      "funded": 15000,
+      "percentageFundedTrue": 344.83
     },
     {
       "id": "cmnp0dje200319hc984s0ze84",
@@ -52212,178 +52117,281 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnurj1tt007d9xj9mgu4207q",
-      "title": "The Heartspace",
-      "summary": "♥️HEARTSPACE♥️\n\nDisconnected and lost in the magic? We welcome you to THE HEARTSPACE – a red portal for souls longing to soften and return\n",
+      "id": "cmnuqk6de0015awedsksao3yq",
+      "title": "MUSEUM OF BAD ART (MoBA)",
+      "summary": "Welcome to the worlds first museum solely dedicated to Bad Arts, and the aesthetic, artistic and academic center for the Bad Arts movement.",
       "status": "FUNDED",
-      "noOfFunders": 22,
-      "noOfComments": 4,
-      "percentageFunded": 278.7,
-      "minGoal": 10800,
-      "maxGoal": 15500,
-      "income": 19300,
+      "noOfFunders": 76,
+      "noOfComments": 1,
+      "percentageFunded": 176.56,
+      "minGoal": 16850,
+      "maxGoal": 32300,
+      "income": 12901,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775938524/dreams/j2jolldfnjt6dc7jxwza.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775936500/dreams/xtypq4o4w1xzspz4wmva.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775986396/dreams/zlfjqsjt128irdp0ekqy.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775990022/dreams/dnwbbhepl2p5uoh8j3vo.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775990038/dreams/kt4fwxs5u7rv40occtnc.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776004370/dreams/noa0knlp4jlcobycjrpy.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "We are following safety guidelines and aim to be a space offering loving grounding support, and to support you finding your own grounded center",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "♥️HEARTSPACE♥️\n\nA red portal for souls longing to soften and return\n\nWe welcome all the triggered inner children, spaced out sisters and brothers, fellow border-travellers who sense a bit of overwhelm and disconnect into the warm loving void of the Heartspace.\n\nWhen the fire in your soul has been overfueled and you need some cooling down, the Heartspace is here for you. Filled with centering heart energy. A place intented for you to feel yourself again, reconnect with that inner peace, bond with others or to get some safe hands to support you when your magical system is in need.\n\nSit down, have some heartcentering tea, eye-gaze, whisper sweet truths to your reflection, ask for what you need or snuggle up in a cuddle cosmos. Nothing to prove, all is welcome to be felt.\n\nWe all feel disconnected, alone and overwhelmed at times. Especially in a space with all this excitement and magic! When that happens, and it’s time to ground and reconnect – the Heartspace’s got you♥️🫂\n\nPS.\n\nLots of love expressions like deep intimacy, sensuality, cuddles and big or small emotional releases are warmly welcome but this is not a sex-positive space",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "You are welcomed into a co-creation amongst witches, fairies and earth angels so spontaneous energy clearings, soul integration ceremonies or witchy magic might be offered when resonance and need are felt in the space 🦋\n\nDo you feel a deep calling to offer your gift in this portal you are welcomed to reach out",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "We intend to be a calm loving space welcoming all neighbours and far away travellers to find their grounding. We hope to be a postitive loving contribution and to not disturb neighbours with high sound levels.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We will strike Sunday or Monday and will take care of the place when leaving it",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "We will need approximately **2.2 kW**\n\n(Water boiler for tea station, a jbl speaker and some fairy lights)",
+          "value": "We will not use scandalous amounts of electricity, other than some lighting, sound and minor artsy stuff.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "nina.mathilda on Discord",
+          "value": "No safety risks to worry about, except for the visitors expanded notion of art and aesthetics.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Safety"
           }
         },
         {
-          "value": "Heartspace",
+          "value": "The MoBA camp will see too it that the space we occupy will be in as impeccable a shape as it was before our celebrated arrival.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "The Museum of Bad Arts will be hosted by the MoBA camp and it's collaborators.",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Not a sound camp. We will have some music playing from one speaker at times.",
+          "value": "The Museum of Bad Arts aims to be located in one of the rooms at the lower floor of the Barn (most probably in the Living Room), and will have a collaboration with the newly opened office of the Gossip Gazette. Our exhibition halls will provide a well-needed public space for cultural and artistic interchange, and we will be happy to be transparent and collaborative with any neighboring projects.\n\nWe are part of the pre-placement process and are already in communication with potential other projects in the Barn and the surrounding area.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "TBD, contact Filip until we find someone more suitable",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "**The Museum of Bad Arts (MoBA)** aims to exhibit, educate and evolve expressions and ideas found in the archives of the Bad Arts movement. Further still, the museum will act as an impermanent institution for the movement, and a creative hub developing its different artistic and philosophical outputs.\n\nThe Museum will provide several exhibition halls, both for showcasing a representable selection of contemporary examples of Bad Arts aesthetics, and as a dynamic surface on which to project the ever-changing multitude of Bad Art created at the Borderland during the week. As such, the Museum is on one hand educational and inspirational, lifting up the growing importance of a unique strand within the contemporary art scene, and on one hand pushing forward in the creation of works of arts following the movements aesthetic ideals.\n\nIf you are unfamiliar with the Bad Arts movement, we can recommend this classic historical overview written by one of the founders of the Museum: [\\[link to history pdf\\]](https://drive.google.com/file/d/1JZaRNbktRTaYrmkpUEm1M_0wyhORm_7l/view?usp=drive_link)\n\nMoBA promises a highly conceptual programme to celebrate our opening year, with bad exhibitions, artistic workshops, vernissages and panel debates.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Sound levels will be sparse and mostly pleasantly bad. There might be a lively vernissage at some point, and potentially a DJ-set with only modernist opera.",
           "customField": {
             "name": "Sound levels"
           }
+        },
+        {
+          "value": "The Museum of Bad Arts will be facilitated by the MoBA camp, specifically dedicated to the institutional responsibilities of this cultural milestone. But the Bad Arts movement is already spreading in wide circles all over Borderland, and practitioners are strongly encouraged to contact us for collaborative projects, and/or to perform their own Bad Art in their respective premises.\n\nWe will have one or two exhibition halls for our non-permanent permanent collections from some of the Bad Arts movements different branches, and one dedicated for different projects and exhibitions throughout the week. We wish to invite anyone who feel drawn to the Bad Arts programme with the possibility of presenting their œuvre in a professional setting, and/or other forms of collaborations.\n\nWe will most probably host a number of workshops and panel debates on the subject of Bad Art where you are very welcome to participate.",
+          "customField": {
+            "name": "Co-creation"
+          }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Art installation"
+        },
+        {
+          "value": "Art walk apropriate"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Looking for content"
+        },
+        {
+          "value": "Performance"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Pre-placement"
+        },
+        {
+          "value": "Venue"
+        },
+        {
+          "value": "Weird shit"
+        },
+        {
+          "value": "Workshop space"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Textiles 100st red pair of curtains (to decorate the space)",
-          "min": 6000,
+          "description": "Easel x 1",
+          "min": 300,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Textiles, Pillow inserts (around 30st) and decorative pillows (10-15st)",
-          "min": 2000,
+          "description": "Loads of salty sticks",
+          "min": 200,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Matresses (90x200 4st, 120x200 2st)",
-          "min": 3800,
+          "description": "Bench x 1",
+          "min": 400,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Blankets ",
-          "min": 1500,
+          "description": "Speaker",
+          "min": 3000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Building materials (basic flooring for the whole space)",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Building materials (ladder, tools, material for big signs)",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lights (outdoor fairy lights, indoor lamps)",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Trailer",
+          "description": "Tools and stuff",
           "min": 500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Red party tent 6x6m + 2,5x2,5m entrance ",
-          "min": 3700,
+          "description": "Decoration",
+          "min": 2000,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Furniture/piedestals/etc",
+          "min": 4000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Bad Art",
+          "min": 1,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Frames",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Bad box wine for vernissage",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Frames",
+          "min": 2500,
+          "max": 3500,
           "type": "EXPENSE"
         },
         {
-          "description": "Carpets (to create a cosy space)",
+          "description": "Posters",
+          "min": 2500,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Plexiglass print",
+          "min": 2000,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wood print",
           "min": 1000,
           "max": 2500,
           "type": "EXPENSE"
         },
         {
-          "description": "Lights (indoor ceiling lights, red fairy lights and galaxy lamp)",
-          "min": 1500,
-          "max": 2500,
+          "description": "Painting (brushes, pain, palettes, etc) material",
+          "min": 2000,
+          "max": 5000,
           "type": "EXPENSE"
         },
         {
-          "description": "Textiles (sheets and pillow cases for cuddle heaven)",
-          "min": 1800,
-          "max": 2600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Tea station (tea and snacks)",
-          "min": 800,
+          "description": "Canvases",
+          "min": 200,
           "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Building material (extension cords, strings and ropes, duck tejp and such)",
-          "min": 1000,
-          "max": 1500,
+          "description": "Plasticards for art work descriptions",
+          "min": 300,
+          "max": 600,
           "type": "EXPENSE"
         },
         {
-          "description": "Signs (paper, pens, paint for bigger signs)",
+          "description": "Artsy hats",
+          "min": 0,
+          "max": 300,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Easels",
+          "min": 900,
+          "max": 1200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wire for hanging stuff",
+          "min": 50,
+          "max": 100,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Uncomfortable benches",
+          "min": 400,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Room dividers",
+          "min": 3000,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Curtains",
           "min": 500,
-          "max": 700,
+          "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Fuel for transport",
+          "description": "Piedestals",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Decorations",
+          "min": 1000,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Stickers for entry etc",
           "min": 500,
           "max": 1000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 19300,
-      "percentageFundedTrue": 178.7
+      "funded": 12901,
+      "percentageFundedTrue": 76.56
     },
     {
       "id": "cmnw17qjv00ej71wlrgdj25x4",
@@ -56195,107 +56203,178 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnuvf86c001n125rjv05su7i",
-      "title": "Tunnel Vision 2026",
-      "summary": "Tunnel Vision is back!",
+      "id": "cmnurj1tt007d9xj9mgu4207q",
+      "title": "The Heartspace",
+      "summary": "♥️HEARTSPACE♥️\n\nDisconnected and lost in the magic? We welcome you to THE HEARTSPACE – a red portal for souls longing to soften and return\n",
       "status": "FUNDED",
-      "noOfFunders": 103,
+      "noOfFunders": 22,
       "noOfComments": 4,
-      "percentageFunded": 1102.91,
-      "minGoal": 9000,
-      "maxGoal": 9500,
-      "income": 90000,
+      "percentageFunded": 278.7,
+      "minGoal": 10800,
+      "maxGoal": 15500,
+      "income": 19300,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775992565/dreams/pqlc4myqn98hly0xllbu.gif"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776011083/dreams/gxwdmtwrg5emc907oqtf.heic"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775938524/dreams/j2jolldfnjt6dc7jxwza.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Thomas Steiner",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "3000W",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Tunnel Vision is back!",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Wanna see a show to your favorite song in the attic of the barn?  \nSend me a DM: [https://www.instagram.com/thomas\\_lightart/](https://www.instagram.com/thomas_lightart/)",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "As the Cosmic Portal is gonna be installed at the entrance of the barn, the music will be more suited for a chillout this time.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We bring the sound system back to Plutonia after the event and clean up the attic.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "This isn't a camp, but Tunnel Vision is featuring music, like last year.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The fire safety limit of the Barn is still in place, and we'll provide a much bigger \"no smoking\" sign this time.",
+          "value": "We are following safety guidelines and aim to be a space offering loving grounding support, and to support you finding your own grounded center",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Thomas Steiner",
+          "value": "♥️HEARTSPACE♥️\n\nA red portal for souls longing to soften and return\n\nWe welcome all the triggered inner children, spaced out sisters and brothers, fellow border-travellers who sense a bit of overwhelm and disconnect into the warm loving void of the Heartspace.\n\nWhen the fire in your soul has been overfueled and you need some cooling down, the Heartspace is here for you. Filled with centering heart energy. A place intented for you to feel yourself again, reconnect with that inner peace, bond with others or to get some safe hands to support you when your magical system is in need.\n\nSit down, have some heartcentering tea, eye-gaze, whisper sweet truths to your reflection, ask for what you need or snuggle up in a cuddle cosmos. Nothing to prove, all is welcome to be felt.\n\nWe all feel disconnected, alone and overwhelmed at times. Especially in a space with all this excitement and magic! When that happens, and it’s time to ground and reconnect – the Heartspace’s got you♥️🫂\n\nPS.\n\nLots of love expressions like deep intimacy, sensuality, cuddles and big or small emotional releases are warmly welcome but this is not a sex-positive space",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "You are welcomed into a co-creation amongst witches, fairies and earth angels so spontaneous energy clearings, soul integration ceremonies or witchy magic might be offered when resonance and need are felt in the space 🦋\n\nDo you feel a deep calling to offer your gift in this portal you are welcomed to reach out",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "We intend to be a calm loving space welcoming all neighbours and far away travellers to find their grounding. We hope to be a postitive loving contribution and to not disturb neighbours with high sound levels.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "We will strike Sunday or Monday and will take care of the place when leaving it",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "We will need approximately **2.2 kW**\n\n(Water boiler for tea station, a jbl speaker and some fairy lights)",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "nina.mathilda on Discord",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Heartspace",
           "customField": {
             "name": "This dream belongs to camp:"
           }
-        }
-      ],
-      "tags": [
-        {
-          "value": "Art installation"
         },
         {
-          "value": "Borderland infrastructure"
-        },
-        {
-          "value": "Hippie trap"
+          "value": "Not a sound camp. We will have some music playing from one speaker at times.",
+          "customField": {
+            "name": "Sound levels"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Tunnel Vision - Fund33 2025",
-          "min": 90000,
+          "description": "Textiles 100st red pair of curtains (to decorate the space)",
+          "min": 6000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Sound system rent",
-          "min": 9000,
-          "max": 9500,
+          "description": "Textiles, Pillow inserts (around 30st) and decorative pillows (10-15st)",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Matresses (90x200 4st, 120x200 2st)",
+          "min": 3800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Blankets ",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Building materials (basic flooring for the whole space)",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Building materials (ladder, tools, material for big signs)",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Lights (outdoor fairy lights, indoor lamps)",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Trailer",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Red party tent 6x6m + 2,5x2,5m entrance ",
+          "min": 3700,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Carpets (to create a cosy space)",
+          "min": 1000,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Lights (indoor ceiling lights, red fairy lights and galaxy lamp)",
+          "min": 1500,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Textiles (sheets and pillow cases for cuddle heaven)",
+          "min": 1800,
+          "max": 2600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Tea station (tea and snacks)",
+          "min": 800,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Building material (extension cords, strings and ropes, duck tejp and such)",
+          "min": 1000,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Signs (paper, pens, paint for bigger signs)",
+          "min": 500,
+          "max": 700,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fuel for transport",
+          "min": 500,
+          "max": 1000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 90000,
-      "percentageFundedTrue": 1000
+      "funded": 19300,
+      "percentageFundedTrue": 178.7
     },
     {
       "id": "cmnri4vrg001ca3rohnhcjcdo",
@@ -59006,152 +59085,130 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnurahb5001ot64c4zqvqy34",
-      "title": "Kinky Claus and the Horny Elves, by the Fuckery",
-      "summary": "Turn yourself into a popup present when Kinky Claus and his sinful elves unleash your naughtiest desires. ",
-      "status": "CANCELED",
-      "noOfFunders": 0,
-      "noOfComments": 2,
-      "percentageFunded": 340.45,
-      "minGoal": 3300,
-      "maxGoal": 6000,
-      "income": 11000,
+      "id": "cmnuhkxyq0022uc23aky1j8rj",
+      "title": "Period Cramps - The Men's Expansion Pack",
+      "summary": "A playful “hard mode” Borderland experience where participants borrow a wearable device and go about their adventures on the playa with simulated period cramps.",
+      "status": "FUNDED",
+      "noOfFunders": 46,
+      "noOfComments": 3,
+      "percentageFunded": 120.61,
+      "minGoal": 2910,
+      "maxGoal": 5320,
+      "income": 460,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775937966/dreams/arskviy6srkgpblgo6rb.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775939813/dreams/svza2tfkn2kubjiwfhqb.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "The Fuckery",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Like a hot summer wind, we arrive and vanish without trace. All Kinkmas cheer is carried on elf back, and resides otherwise at Kink Central: the Fuckery.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "We were made to make your dreams come true. So we only exist alongside you, and are happy to venture. Whether it's at your back door or your front door, we come only when begged to. And we stay so long as you're pleading for more. But a kind word is all it takes for us to carry on our horny way.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Very safe, very comforting. We only spank, vibrate, or undress body parts which have been consented to freely.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Kinky Claus and his sinsational elves can be found wherever lines are growing long and tedious, or darkness has descended on the Swedish pastures. Popping up like your mother's nipples at the sight of David Hasselhoff, Kinky loves to get the playa pulsing. Both in front of our Fuckery tent, as the masses prepare to shed their inhibitions... and across camps of all kinds, wherever spicy hot Christmas cuties are required. Send us your wishes, and Kinky or our kinkster elves could arrive at your camp with vibrators and sexy bows to set your libidos free. Christmas lights never got you this wet before.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "When Santa is away, the elves will play. And those little devils want you to keep copulating.\n\nCome meet the wilder younger brother Kinky Claus, put your delicate tushy upon his knee, and find out if you've qualified for his naughty list. With inspiration all around you in our horny elves, the King Kinkster himself is waiting to hear your dirtiest dreams, your most luscious longing and wettest wonders. Speak those cravings aloud, and poof, with a wave of his rock hard candy cane, Kinky's elves will set about turning you into the present you deserve.\n\nWith a gift bow on your body, and from the cravings on your tongue, the Elves will help to unwrap you and advertise your naughtiest wishes to the playa. Come one, come all.\n\nAs we detail your desires to be discovered on your body in Christmas card fashion and send you out into the underworld, let the gift giving begin. You're now a present, wrapped in your very own words and wishes, while our elves do their duty to pimp you to the playa. Fuck your burn, as they say, and may the burn fuck you right back, deep and proper.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Whispers, secrets, deep revelations to begin with... Then proudly pimping your wishes at a reasonable volume. No speakers, no sound system, just pure human lust being broadcast.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "A certain amount of electrical supply to recharge vibrators between elfen outings.",
+          "value": "5-20W for string lights set up.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "@Mirja, queen of the cash, is our Dr Bill-Bull.",
+          "value": "Just pack it all up and clean up the space around it. Easy peasy.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "**This experience DOES include**\n\nAbility to stop at any time\n\n**We take NO responsibility for**\n\nShift in perspective, increased respect, unexpected humility, any apologies issued after participation",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Fay Khodaperest @faysome on fb",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
-        }
-      ],
-      "tags": [
-        {
-          "value": "Playful"
         },
         {
-          "value": "Sex positive"
+          "value": "Baseline: 30–60 dB (conversational)  \nTransient peaks up to 85–95 dB may occur depending on user and intensity  \n_(often immediately following statements such as “it’s not that bad”)_",
+          "customField": {
+            "name": "Sound levels"
+          }
         },
         {
-          "value": "Weird shit"
+          "value": "Open to co-creating playful challenges, including composure face-offs where participants attempt to remain completely unaffected in front of an audience.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "**Ever wondered how bad period cramps really are?**  \nNo? Perfect. Even better.\n\nNow you can stop wondering.\n\nWelcome to **“Period Cramps-The Men’s Expansion Pack”** also known as **“Borderland on Hardmode”**\n\nAt this station, you can borrow a portable device for a maximum of 24h that lets you experience simulated period cramps. Strap it on, turn it up to a level that matches your confidence, and continue your day like nothing’s happening.\n\nGo dance. Have conversations. Be completely normal. Or try to be.  \nI mean… women do this all the time. How hard can it _really_ be?\n\nSomewhere between _“this is manageable”_ and _“okay never mind,”_ something interesting might happen.  \nCall it perspective. Call it character development. Call it a terrible idea you’re oddly proud of.\n\nEither way, you’ll have something to brag about on your next date…  \nOr a sudden urge to apologize to a woman in your life.\n\n**_Small print disclaimer_**  \nThis experience does NOT include common symptoms such as:  \n_Bleeding, emotional fluctuations, crying (with/-out cause), increased irritability (sometimes justified), oddly specific food cravings, diarrhea, constipation, headaches, fatigue, brain fog, nausea, change in libido, acne, gas,_ **...read more**",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "The setup is low-impact and contained. Sound levels are generally minimal, with occasional brief reactions. No major disturbance to neighbors is expected, and placement will be considered accordingly.",
+          "customField": {
+            "name": "Co-existence"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Lights for individual elves",
-          "min": 1000,
+          "description": "Trashbin for waste",
+          "min": 30,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Elven kink wear",
-          "min": 5000,
+          "description": "Plastic bags",
+          "min": 30,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Christmas cards",
-          "min": 800,
+          "description": "Basket",
+          "min": 200,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Kinky Claus clothes",
-          "min": 1200,
+          "description": "String lights",
+          "min": 200,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Other externally vibrating sex toys",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
+          "description": "5-10x Period cramp simulation devices",
+          "min": 2000,
+          "max": 4000,
+          "type": "EXPENSE"
         },
         {
-          "description": "Unholy light for Kinky Claus",
-          "min": 500,
+          "description": "5-10x Fanny packs for easy carriage",
+          "min": 200,
+          "max": 400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "20-40x Extra gel patches",
+          "min": 210,
+          "max": 420,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Camping table",
+          "min": 400,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Vibrators for elves to use",
-          "min": 800,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Gift bows",
-          "min": 700,
+          "description": "skin disinfecting wipes",
+          "min": 100,
           "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sexy gift wrap bracelets",
-          "min": 700,
-          "max": 1600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Elven Christmas slutwear",
-          "min": 600,
-          "max": 1200,
           "type": "EXPENSE"
         }
       ],
-      "funded": 11000,
-      "percentageFundedTrue": 333.33
+      "funded": 460,
+      "percentageFundedTrue": 15.81
     },
     {
       "id": "cmnw8i92j000514a6hscrcgt3",
@@ -63712,164 +63769,121 @@
       "percentageFundedTrue": 92.44
     },
     {
-      "id": "cmnuuio3x006ygxdap5n92qqj",
-      "title": "The Green Zone: Back in Business",
-      "summary": "Once again, the Green Zone will offer borderlings an oasis of Western sanity: Cold beers, classic country and rock and absolutely no breathwork workshops.",
+      "id": "cmnp75nn3000014nf66zjy9dy",
+      "title": "Squirting School - by the Fuckery",
+      "summary": "A no-nonsense, practical and to-the-point workshop teaching how to induce fountains - perhaps even orgasms. By the Fuckery.",
       "status": "FUNDED",
-      "noOfFunders": 67,
-      "noOfComments": 0,
-      "percentageFunded": 671.42,
-      "minGoal": 10500,
-      "maxGoal": 25500,
-      "income": 60000,
+      "noOfFunders": 47,
+      "noOfComments": 2,
+      "percentageFunded": 477.35,
+      "minGoal": 2650,
+      "maxGoal": 2650,
+      "income": 10000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776167958/dreams/gr3igpvefokyurycorv2.gif"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775601401/dreams/bhdfil6uybczx5hmneus.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776167990/dreams/yoi8ptophzzdnfr5nikx.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776167998/dreams/mfg5imbbnxiptzag0soi.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776168009/dreams/pcvz0jiq0jmcesmwdj3s.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776168023/dreams/qzgnbb3wyi9asaormbyt.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776168032/dreams/sie0eibqrcymwexphfqv.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775601408/dreams/siv6moszahh197rnbjrn.webp"
         }
       ],
       "customFields": [
         {
-          "value": "Crispy. Discord: @crispy440",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "1500W average,",
+          "value": "No special requirements",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Attention civilians. \n\nAs part of Blackwater Operations’ ongoing efforts to safeguard sanity and culture at the Borderland, civilians will once again be allowed entrance to the Green Zone - our secure base in the warzone known as the Playa.\n\nHere, you can shelter in place when you need a break from the burning sun, kitty ears, playa-tech and political correctness.\n\nThis year, we're expanding operations with BUCK - The _Blackwater Unconscious Community Kasino_ [(link)](https://dreams.theborderland.se/borderland/dreams-2026/cmnuv3nh3000q125rkjdwqutl). \n\n## **At the Green Zone you'll find:**\n\n*   Our 50m² free-to-use hangout space with crisp, professional sound system and military nostalgia decor\n    \n*   Heated interiors to keep you warm in the freezing Alversjö night\n    \n*   Shade from the scorching sun under our satellite-proof camo net.\n    \n*   Free wifi\n    \n\n## Planned entertainment operations.\n\n*   Our cozy Hot Dogs n' Budweisers day-party. \n    \n*   Our 4x4 multipurpose art car, ferrying lost civilians around\n    \n*   Dance parties with outlaw DJs such as Senator Snowflake and _Riktigt Party_ with Alexander Näslund.\n    \n*   And more…\n    \n\n## Remember\n\nFreedom don't come free. To ensure uninterrupted security service from, please proceed to fund the Green Zone.\n\nThank you for your cooperation.",
+          "value": "Mirja (FuckNugget) - [mirjavirginiaandersson@gmail.com](mailto:mirjavirginiaandersson@gmail.com)",
           "customField": {
-            "name": "Description"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "The Green Zone - by Blackwater Operations",
+          "value": "The Fuckery",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "All strikes will be carried out with military precision and in accordance with current rules of engagement.",
+          "value": "Open to co-create - but you cant be scared of getting wet.",
           "customField": {
-            "name": "Strike plan"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "Blackwater Operations continue to believe in the peaceful coexistence between civilians and armed forces.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Our assault plan involves deployment of military grade sound system. We will ensure to comply with relevant noise regulations and seek to place ourselves in an area that allows loud music.",
+          "value": "Ooh. Aaah.  \nAnd \"what the fuck??\"  \nNoone will mind if we make any noise.  \n(No music, only screaming. But just daytime)",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We are here for your safety. Please comply with all directives given by Blackwater operatives and all will be fine.",
+          "value": "Part of the Fuckery camp - strike from the workshop happens after the workshop.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "We pull in a big crowd but noone fights on their way home.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "We will stay safe at Catholic levels !",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Blackwater is always looking for locals willing to support our operations. Cooperation will be greatly rewarded. Contact the [Blackwater Proxy Division](https://dreams.theborderland.se/borderland/dreams-2026/cmnu7z165000za5hp80zzugp3) for more details.",
+          "value": "Three stage workshop.\n\n1.  Theory (yes there is always theory!)\n    \n2.  Demonstration. Nude, yes. If not for the technique come for the glimpse of skin!\n    \n3.  Practise. Couples only. You can hook up at the workshop if you have game and get lucky.\n    \n\nIf we need to explain more you should probably go to the Linedancing workshop instead ;)",
           "customField": {
-            "name": "Co-creation"
+            "name": "Description"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Bar"
-        },
-        {
-          "value": "BurnerBox"
-        },
-        {
-          "value": "Chillout"
-        },
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Fire"
-        },
-        {
-          "value": "Music"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Soundcamp"
-        },
-        {
-          "value": "Theme camp"
-        },
-        {
-          "value": "Weird shit"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Decor, furniture, bar desk, gas heaters, monitors, streaming computer, camo nets, carpets, signals, storage tent, fire pit, stage and mood lights, radio tower",
-          "min": 60000,
+          "description": "All other infrastructure and equipment needed",
+          "min": 10000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Tent rental",
-          "min": 2500,
+          "description": "Towels",
+          "min": 600,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Sound & lights rental",
-          "min": 2000,
-          "max": 5000,
+          "description": "Lube and disinfectant",
+          "min": 500,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Deco: We'd love to get even more deco for for unique, military-nostalgic look",
-          "min": 0,
-          "max": 5000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Firewood ",
+          "description": "Mattress covers (10)",
           "min": 1000,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Transport ",
-          "min": 5000,
-          "max": 12000,
+          "description": "Sheets (10)",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Sugar candies to tired participants",
+          "min": 50,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 60000,
-      "percentageFundedTrue": 571.43
+      "funded": 10000,
+      "percentageFundedTrue": 377.36
     },
     {
       "id": "cmnrhfxpq0006vdk4tjsetql9",
@@ -74434,121 +74448,107 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnp75nn3000014nf66zjy9dy",
-      "title": "Squirting School - by the Fuckery",
-      "summary": "A no-nonsense, practical and to-the-point workshop teaching how to induce fountains - perhaps even orgasms. By the Fuckery.",
+      "id": "cmnuvf86c001n125rjv05su7i",
+      "title": "Tunnel Vision 2026",
+      "summary": "Tunnel Vision is back!",
       "status": "FUNDED",
-      "noOfFunders": 47,
-      "noOfComments": 2,
-      "percentageFunded": 477.35,
-      "minGoal": 2650,
-      "maxGoal": 2650,
-      "income": 10000,
+      "noOfFunders": 103,
+      "noOfComments": 4,
+      "percentageFunded": 1102.91,
+      "minGoal": 9000,
+      "maxGoal": 9500,
+      "income": 90000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775601401/dreams/bhdfil6uybczx5hmneus.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775992565/dreams/pqlc4myqn98hly0xllbu.gif"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775601408/dreams/siv6moszahh197rnbjrn.webp"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776011083/dreams/gxwdmtwrg5emc907oqtf.heic"
         }
       ],
       "customFields": [
         {
-          "value": "No special requirements",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Mirja (FuckNugget) - [mirjavirginiaandersson@gmail.com](mailto:mirjavirginiaandersson@gmail.com)",
+          "value": "Thomas Steiner",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "The Fuckery",
+          "value": "3000W",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Electricity"
           }
         },
         {
-          "value": "Open to co-create - but you cant be scared of getting wet.",
+          "value": "Tunnel Vision is back!",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Wanna see a show to your favorite song in the attic of the barn?  \nSend me a DM: [https://www.instagram.com/thomas\\_lightart/](https://www.instagram.com/thomas_lightart/)",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Ooh. Aaah.  \nAnd \"what the fuck??\"  \nNoone will mind if we make any noise.  \n(No music, only screaming. But just daytime)",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Part of the Fuckery camp - strike from the workshop happens after the workshop.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "We pull in a big crowd but noone fights on their way home.",
+          "value": "As the Cosmic Portal is gonna be installed at the entrance of the barn, the music will be more suited for a chillout this time.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "We will stay safe at Catholic levels !",
+          "value": "We bring the sound system back to Plutonia after the event and clean up the attic.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "This isn't a camp, but Tunnel Vision is featuring music, like last year.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "The fire safety limit of the Barn is still in place, and we'll provide a much bigger \"no smoking\" sign this time.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Three stage workshop.\n\n1.  Theory (yes there is always theory!)\n    \n2.  Demonstration. Nude, yes. If not for the technique come for the glimpse of skin!\n    \n3.  Practise. Couples only. You can hook up at the workshop if you have game and get lucky.\n    \n\nIf we need to explain more you should probably go to the Linedancing workshop instead ;)",
+          "value": "Thomas Steiner",
           "customField": {
-            "name": "Description"
+            "name": "This dream belongs to camp:"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Art installation"
+        },
+        {
+          "value": "Borderland infrastructure"
+        },
+        {
+          "value": "Hippie trap"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "All other infrastructure and equipment needed",
-          "min": 10000,
+          "description": "Tunnel Vision - Fund33 2025",
+          "min": 90000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Towels",
-          "min": 600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Lube and disinfectant",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Mattress covers (10)",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sheets (10)",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sugar candies to tired participants",
-          "min": 50,
-          "max": null,
+          "description": "Sound system rent",
+          "min": 9000,
+          "max": 9500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 10000,
-      "percentageFundedTrue": 377.36
+      "funded": 90000,
+      "percentageFundedTrue": 1000
     },
     {
       "id": "cmnm06m2j000581jjzatwq0km",
