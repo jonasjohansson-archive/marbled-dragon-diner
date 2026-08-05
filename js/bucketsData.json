@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1785750140891,
+  "updatedAt": 1785918848811,
   "buckets": [
     {
       "id": "cmlo6634a0008rt2anbi3sfdz",
@@ -13109,196 +13109,122 @@
       "percentageFundedTrue": 200
     },
     {
-      "id": "cmnegcxby0000r5ctithmdsx8",
-      "title": "The Fungal Refuge",
-      "summary": "A warm, mushroom-inspired haven where tired bodies and tender hearts can land.",
+      "id": "cmnemx5o30004oeshbhvbu1ri",
+      "title": "Electrical (dizzz)agreement",
+      "summary": "Ever been shocked by your friends' weird opinions? Now it's time to shock them BACK: with electricity.",
       "status": "FUNDED",
-      "noOfFunders": 49,
-      "noOfComments": 0,
-      "percentageFunded": 804.67,
-      "minGoal": 7000,
-      "maxGoal": 31000,
-      "income": 46800,
+      "noOfFunders": 17,
+      "noOfComments": 2,
+      "percentageFunded": 100,
+      "minGoal": 2900,
+      "maxGoal": 4100,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775597291/dreams/wivp28c1xxrojflsyt8y.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774964899/dreams/qjhnddpttjzurbqm5tre.png"
         }
       ],
       "customFields": [
         {
-          "value": "@abw1986 at Discord",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "We provide a space where people can feel held emotionally and physically, with focus on consent, comfort, and care. Our construction and electricity is safe.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Fungal Refuge",
+          "value": "Electric banana camp",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "You are wandering through the mighty forest when you notice a soft glow between the trees, you see warm light radiating in all directions and slow shadows starting to dance. You begin to feel the quiet hum of something alive, you start walking towards the glow, towards warm light, towards safety.\n\nHere, in the heart of the sacred forest of Alvheim, you find Fungal Refuge; your mushroom-themed chill-out sanctuary. We are a safe haven for overstimulated, tired, tripping Borderlanders or Borderlanders simply wanting a relaxing space. We offer a place where elves, fungi, and cosmic travelers can meet in stillness rather than intensity.\n\nInside our big tipi you will find mattresses, sofas, blankets, pillows and fluffy materials to sink into. The light strings, candles, and slow-moving visual projections create the feeling of resting inside a forest held together by mycelium. We bring you an art experience, a living installation shaped by mushrooms, softness, and care.\n\nThe Fungal Refuge is a non-sexual cuddle and chill-out space. A place for closeness without expectation, intimacy without pressure, and presence without performance. Stay for a moment or for hours; nap, breathe, talk softly, cuddle, regulate, or simply exist.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Low to medium.  Music is used to support the atmosphere; we’re going for a grounding and cozy vibe.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We plan to arrive the weekend prior to the event to begin building our structure. Fungal Refuge will be fully struck on Sunday 26th of July, and all materials will be removed. Leave No Trace is part of our core intention, and the space will be restored to its original state.",
+          "value": "we will pack our zap-machine and table at the end of the burn and bring it back to reality.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Estimated simultaneous power usage is around ~500W, mainly for a projector and charging of a Soundboks speaker battery.",
+          "value": "The zaps are mild and made for humans, please sit this one out if you have a pacemaker, heart problems, or are pregnant.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "10 amp - for lights",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "The Fungal Refuge is designed to coexist peacefully with its surroundings. We are mindful of our neighbors and adapt sound levels accordingly. Within the shared area, we act as the quiet counterbalance to Kishmastle's sonic intensity and a soft landing space within the elven world of Alvheim.",
+          "value": "Me (Anton Laurén 076195007)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Take a seat at our (real) electric table! Read the cards, find a topic, and let the (literal) sparks fly. The rules are simple: Both of you will attach a small electrode to your body before the discussion begins. If your friend talks bullshit, send them a shocking present, and see how much you _really_ have in common.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "no (bzzzzz)",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Very easy and simple to co-exist with. We need a good space to place our table.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "This space is held by a core crew of seven people, but it is nourished by many. We are hosting gentle offerings during the week, such as morning yoga, body awakening, guided meditation, grounding practices, massage, acroyoga, soft movement, and chai evenings with warm drinks and cozy surprises. Offerings arise organically in harmony with energy and inspiration.\n\nWe warmly invite other Borderlanders to use the space for compatible workshops or gatherings, especially if you want to bring something calm, caring, creative or connective to this haven. We also welcome crossover offerings with Alvheim, Kishmastle and Breadcrumb Bureau that help weave together ritual, rest, and intergalactic weirdness.\n\nWhat this dream gives to Borderland:\n\nThe Fungal Refuge gives Borderland a restorative oasis woven into a larger immersive world. It offers softness, grounding, conscious cuddling, chai, visual atmosphere, and space for integration in contrast to the louder and more activating energies around it. As part of the world shared with Alvheim, Kishmastle and Breadcrumb Bureau, it helps create emotional rhythm; landing, recovery, connection.",
+          "value": "only laugh and zzippzzz",
           "customField": {
-            "name": "Co-creation"
+            "name": "Sound levels"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Game"
+        },
+        {
+          "value": "Playful"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Tipi tent",
-          "min": 12000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Sound equipment (Soundboks)",
-          "min": 12000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Bean bag sofa",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lounge sofa",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Hanging chair",
+          "description": "Tens machine",
           "min": 800,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Mattresses, blankets, pillows, fabrics etc.",
-          "min": 5500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Handmade mushroom decor",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Electric lighting",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Extension cables",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fire blanket",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Building materials for mushrooms",
-          "min": 1000,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Building materials for forest passage",
-          "min": 1000,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Mattresses, blankets, pillows, cozy materials",
-          "min": 1000,
-          "max": 6000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Electric lighting",
-          "min": 1500,
-          "max": 7500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Projector and visual equipment",
-          "min": 1500,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Heater inside the tipi",
-          "min": 500,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Oat milk and chai spices",
-          "min": 0,
           "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "Safety supplies (fire extinguisher and first aid kit)",
-          "min": 500,
-          "max": 1500,
+          "description": "Table",
+          "min": 700,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Transportation of sculptures and materials",
-          "min": 0,
-          "max": 4000,
+          "description": "Lights",
+          "min": 600,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "decoration",
+          "min": 300,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "printing subject cards",
+          "min": 500,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 46800,
-      "percentageFundedTrue": 668.57
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnw5axv2003lfp28brzqo0d8",
@@ -14021,146 +13947,200 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmn970afa0000gcmzg4lkduw1",
-      "title": "HEAVENLY DINNER",
-      "summary": "It all begins when we gather around a beautifully decorated table with delicious food to make you drawl. (depending on the budget :)\n\nHow will it end? Find out!",
+      "id": "cmnf8lluw00049i7n4pj02i18",
+      "title": "🫠The Chilldome🫠",
+      "summary": "A mad chill in a mad world",
       "status": "FUNDED",
-      "noOfFunders": 10,
+      "noOfFunders": 75,
       "noOfComments": 0,
-      "percentageFunded": 100,
-      "minGoal": 1380,
-      "maxGoal": 18000,
-      "income": 0,
+      "percentageFunded": 668.84,
+      "minGoal": 10650,
+      "maxGoal": 39301,
+      "income": 58000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774635246/dreams/ionjrfyqrzrwgbvsbfvz.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775000030/dreams/hzzagiu6sb1zygjwgrvy.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775000075/dreams/muu51nvm6vmyjbxrh5rc.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775000084/dreams/eudqi0kpufuaj5ddqr2m.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775000094/dreams/mz7goeiuvzgeqsz21uog.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775000107/dreams/h96wmq9fthqxylisuena.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775000117/dreams/a0dcvxeitp96ivyrlfiy.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Sacred Kink",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "we might need electricity to cook or prepare some foods, but we could do without :D",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "It all begins when we gather around a fancy beautifully decorated table with delicious food curatedly placed to make you drawl.\n\nThe dinner guests will be guided through a series of novel ways to experience the act of feeding and being fed, and other ways of interacting with food.\n\nAs the dinner progresses, you may find yourself using a human plate or human cutlery, having your arms and feet restricted of movement.\n\nThe feast will will slowly transform into the messy food fight you have always dreamed of <3\n\nAs you have already probably guessed by this description there is a big possibility of clothes being stained, and we absolutely don't want you to ruin that beautiful outfit in which you came in. So you will be not be forced to keep on your pretty clothes and will be welcome to remove them, however due to the nature of the play for hygiene and safety reasons we would ask you to keep your bottom underwear.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "No body fluids should be in contact with the food, so no spiting, vomiting, peeing or defecating in the worksop area. Bottom underwear must be kept. Fire will be appropriately handled. Consent is key!",
+          "value": "We will have a fire extinguisher, no open flames in the dome, and the canvas is fire proof.\n\nThe whole structure will be bolted down with 5 big storm screws to avoid domeflight.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "We have taught to run this dream outdoors, because of the nature of the dream (its messy and we don't want to bother anyone)\n\nIt would be best to be in an intimate and hidden space so people can be comfortable being naked.  \n  \nAdditionally a location where we have access to a fire place is ideal.",
+          "value": "The Chilldome",
           "customField": {
-            "name": "Co-existence"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "As there will be food remains, we have thought of disposing this organic material in a fireplace, where we will do a cleansing ceremony honoring the pleasure and joy and all the wonderful emotions and feelings associated with food that this remaining ingredients have brought to us.",
+          "value": "We will pack down the dome and contents after the burn and bring it back with us to rest, hibernating for the next borderland.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "To create the dream we need you to participate and also we will need help creating and cleaning the dream.  \nFor example:  \n\\-Cooking Staff (help out from the beginning and bond)\n\n\\-Decorators and builders of the space\n\n\\-Event Servers /Servants( you will answer to the mistresses of the event)\n\n\\-Cleaners (you might love to roll around in as nasty foods as your thoughts, so maybe come help us clean and you will make two dreams come true)\n\n\\-Guests that are willing to explore and let there inhibitions in their tent\n\n\\-Fire place builders\n\nIdeas are welcome and if you have a specific dream that you think we could mesh, contact us!\n\nwe don't bite ... or do we???",
+          "value": "The land is your oyster and the dome its pearl!  \nWe would be happy to be the venue for your workshop, guided meditation or chill shenanigans!",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Aluap - Paula San Segundo +46793501583",
+          "value": "Ah, Borderland...\n\nOne minute you’re racing a shopping cart downhill with full confidence, the next you’re swimming across a lake to rescue an inflatable llama like it’s a life-or-death mission. You surface, triumphant, only to get taken out by a rogue paper airplane. And now, here you are. Alive, barely. Exhausted, definitely. As you gaze out over the madness you ask yourself, what now?\n\nEnter Chilldome! Pillows. Blankets. A rotating cast of humans who are all one deep exhale away from becoming part of the furniture. Low-effort. High-comfort. A place where horizontal excellence is encouraged. Just lie down. Stop moving. Maybe nap. Maybe plot your next chaotic move. Maybe just laugh at the absurdity of everything you just survived.\n\nStay five minutes, five hours, or until you forget what day it is. Wait… Is Borderland even still going? And… Where is everyone? What the… Why is there snow outside?",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "@pallepallepalle on Discord",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "light ambient music, talk and laugh",
+          "value": "The dome is a chill and relaxed zone. We will play music, but mostly music to invite you to relax, sit back and integrate. Some workshops will make noises but it won't be loud or disturbing.",
           "customField": {
             "name": "Sound levels"
+          }
+        },
+        {
+          "value": "For this years Borderland we will take part of the pre-placement process and are looking to create a chill neighbourhood with all them good vibez and communal effort!",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "We need power! Not more than 16A though.",
+          "customField": {
+            "name": "Electricity"
           }
         }
       ],
       "tags": [
         {
-          "value": "Experience"
+          "value": "Chillout"
         },
         {
-          "value": "Fire"
+          "value": "Hippie trap"
         },
         {
-          "value": "Food"
+          "value": "Pre-placement"
         },
         {
-          "value": "Looking for space"
-        },
-        {
-          "value": "NOT kids-friendly"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Weird shit"
+          "value": "Workshop space"
         }
       ],
       "budgetItems": [
         {
-          "description": "Food",
+          "description": "Dome",
+          "min": 32000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "DJ-table",
+          "min": 10000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Carpets",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fabrics",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Lights",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Blankets and pillows",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Other decoration",
           "min": 1000,
-          "max": 7200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Breathing mechanism",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Transport",
+          "min": 10000,
+          "max": 10001,
           "type": "EXPENSE"
         },
         {
-          "description": "Tables",
+          "description": "More flowers and fabrics",
           "min": 0,
-          "max": 1600,
+          "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Bowls",
+          "description": "Puzzle mats under the carpets",
           "min": 0,
-          "max": 1800,
+          "max": 15000,
           "type": "EXPENSE"
         },
         {
-          "description": "Cleaning",
-          "min": 150,
-          "max": 1200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Decorations",
+          "description": "Sound system upgrade for surroundness",
           "min": 0,
-          "max": 1200,
+          "max": 10000,
           "type": "EXPENSE"
         },
         {
-          "description": "Pool",
-          "min": 0,
+          "description": "Construction improvements",
+          "min": 250,
           "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "Transport",
-          "min": 230,
-          "max": 3000,
+          "description": "Steel cable for breathing mechanism",
+          "min": 100,
+          "max": 300,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "LED strips (replacing broken ones) and accessories",
+          "min": 300,
+          "max": 1000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 58000,
+      "percentageFundedTrue": 544.6
     },
     {
       "id": "cmnvs2frh005k10v82coeb4we",
@@ -27760,122 +27740,140 @@
       "percentageFundedTrue": 540.63
     },
     {
-      "id": "cmnemx5o30004oeshbhvbu1ri",
-      "title": "Electrical (dizzz)agreement",
-      "summary": "Ever been shocked by your friends' weird opinions? Now it's time to shock them BACK: with electricity.",
+      "id": "cmnuvc228001lazj886h3yakf",
+      "title": "Tijuana Social Club - ¡Fiesta Grande!",
+      "summary": "¡Amigos! Are you ready for a fiesta, full of passion, amor and tequila?",
       "status": "FUNDED",
-      "noOfFunders": 17,
-      "noOfComments": 2,
-      "percentageFunded": 100,
-      "minGoal": 2900,
+      "noOfFunders": 40,
+      "noOfComments": 5,
+      "percentageFunded": 132.78,
+      "minGoal": 3050,
       "maxGoal": 4100,
-      "income": 0,
+      "income": 1000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774964899/dreams/qjhnddpttjzurbqm5tre.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775944254/dreams/n05vbpsbsmbuvrkmvm5h.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Electric banana camp",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "we will pack our zap-machine and table at the end of the burn and bring it back to reality.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "The zaps are mild and made for humans, please sit this one out if you have a pacemaker, heart problems, or are pregnant.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "10 amp - for lights",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Me (Anton Laurén 076195007)",
+          "value": "Crispy. Discord: @crispy440",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Take a seat at our (real) electric table! Read the cards, find a topic, and let the (literal) sparks fly. The rules are simple: Both of you will attach a small electrode to your body before the discussion begins. If your friend talks bullshit, send them a shocking present, and see how much you _really_ have in common.",
+          "value": "Gone before ICE even knows we're here.",
           "customField": {
-            "name": "Description"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "no (bzzzzz)",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Very easy and simple to co-exist with. We need a good space to place our table.",
+          "value": "We'll be playing our happy fiesta music in a dedicated sound stage, adhering to regulations.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "only laugh and zzippzzz",
+          "value": "Si! But within limits.",
           "customField": {
             "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Tequila tasting is only for adults.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We will be hosting our event at a dedicated sound stage and are covered by their electricity.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Familia Sánchez",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "**¡_Hola_! We are Señor and Señorita Sánchez. You might know us as the makers of our _famoso_ Tequila Sánchez - the best tequila in all of Mexico!**\n\nThis summer, we will once again visit Scandinavia to promote our _distileria_ with a _Grande Fiesta_! Come, join us for a chance to enjoy some _delicioso_ Latin rhythms and try our tequila!\n\nSee you on the Playa, _cabrón_!",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Feel free to show up in culturally appropriate attire: Sombreros, ponchos and ballroom Latin dresses!",
+          "customField": {
+            "name": "Co-creation"
           }
         }
       ],
       "tags": [
         {
+          "value": "Bar"
+        },
+        {
           "value": "Experience"
         },
         {
-          "value": "Game"
+          "value": "Music"
         },
         {
           "value": "Playful"
+        },
+        {
+          "value": "Weird shit"
         }
       ],
       "budgetItems": [
         {
-          "description": "Tens machine",
-          "min": 800,
+          "description": "Tequila!!! ",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Decor: Flags, streamers, fabrics in bright fiesta colors ",
+          "min": 1000,
           "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "Table",
-          "min": 700,
+          "description": "Piñata (Fun for everyone, except for the piñata) ",
+          "min": 500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Lights",
-          "min": 600,
+          "description": "Moustache for everyone (Tequila tastes better with a moustache! ) ",
+          "min": 500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "decoration",
+          "description": "Sombreros (don't let the sun burn you) ",
           "min": 300,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "printing subject cards",
+          "description": "Fruits and snacks (Lemon for the tequila + snacks) ",
           "min": 500,
           "max": null,
           "type": "EXPENSE"
+        },
+        {
+          "description": "Stickers",
+          "min": 250,
+          "max": 300,
+          "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 1000,
+      "percentageFundedTrue": 32.79
     },
     {
       "id": "cmnw6vcm8002z55stnzcxadc3",
@@ -31297,200 +31295,124 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnf8lluw00049i7n4pj02i18",
-      "title": "🫠The Chilldome🫠",
-      "summary": "A mad chill in a mad world",
-      "status": "FUNDED",
-      "noOfFunders": 75,
-      "noOfComments": 0,
-      "percentageFunded": 668.84,
-      "minGoal": 10650,
-      "maxGoal": 39301,
-      "income": 58000,
+      "id": "cmn917rr20004z3csfw65xnwn",
+      "title": "The Fluffy Creatures",
+      "summary": "Fluffy Bunny & Unicorn—two rideable art cars offering joy, softness, and magical rides across Borderland, creating connection and unexpected encounters.",
+      "status": "PARTIAL_FUNDING",
+      "noOfFunders": 29,
+      "noOfComments": 1,
+      "percentageFunded": 31.78,
+      "minGoal": 19900,
+      "maxGoal": 22500,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775000030/dreams/hzzagiu6sb1zygjwgrvy.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774623984/dreams/ipby9fzipbjjaluqexqo.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775000075/dreams/muu51nvm6vmyjbxrh5rc.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774623995/dreams/irbdd6pd9anoquppqw62.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775000084/dreams/eudqi0kpufuaj5ddqr2m.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774624002/dreams/m1nlmmtrxb2s2f8dqbcz.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775000094/dreams/mz7goeiuvzgeqsz21uog.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774624011/dreams/wdnek87mmbycf4fmqjw9.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775000107/dreams/h96wmq9fthqxylisuena.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774624020/dreams/fzwb50pd8v8nz3pvqres.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775000117/dreams/a0dcvxeitp96ivyrlfiy.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774624033/dreams/jnso1tsffsjxwznadg0i.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774624041/dreams/kacexh30mpkijojvu2gc.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "We will have a fire extinguisher, no open flames in the dome, and the canvas is fire proof.\n\nThe whole structure will be bolted down with 5 big storm screws to avoid domeflight.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "The Chilldome",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "We will pack down the dome and contents after the burn and bring it back with us to rest, hibernating for the next borderland.",
+          "value": "The Fluffy Creatures will be dismantled immediately after the event. The golf carts will be transported back by the supplier on a flatbed truck.\n\nAll materials, decorations, and structures will be carefully removed and packed for transport. Any loose elements (such as fluff, fabrics, or decorations) will be secured during the event to prevent MOOP, and a final sweep of our home base area (Festifluff) will be conducted to ensure nothing is left behind.\n\nAs the project is mobile, we do not leave any installations in shared spaces. Our goal is to leave the area cleaner than we found it.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "The land is your oyster and the dome its pearl!  \nWe would be happy to be the venue for your workshop, guided meditation or chill shenanigans!",
+          "value": "Yes.\n\nThe consumption is around 10–16 kWh per day.\n\nWe aim to charge during nighttime and mornings to reduce strain on shared infrastructure.",
           "customField": {
-            "name": "Co-creation"
+            "name": "Electricity"
           }
         },
         {
-          "value": "Ah, Borderland...\n\nOne minute you’re racing a shopping cart downhill with full confidence, the next you’re swimming across a lake to rescue an inflatable llama like it’s a life-or-death mission. You surface, triumphant, only to get taken out by a rogue paper airplane. And now, here you are. Alive, barely. Exhausted, definitely. As you gaze out over the madness you ask yourself, what now?\n\nEnter Chilldome! Pillows. Blankets. A rotating cast of humans who are all one deep exhale away from becoming part of the furniture. Low-effort. High-comfort. A place where horizontal excellence is encouraged. Just lie down. Stop moving. Maybe nap. Maybe plot your next chaotic move. Maybe just laugh at the absurdity of everything you just survived.\n\nStay five minutes, five hours, or until you forget what day it is. Wait… Is Borderland even still going? And… Where is everyone? What the… Why is there snow outside?",
+          "value": "Safety is a priority.\n\nThe vehicles will be driven at low speed by designated drivers, with careful attention to surroundings and pedestrians. Boarding and riding are designed to be stable and secure.",
           "customField": {
-            "name": "Description"
+            "name": "Safety"
           }
         },
         {
-          "value": "@pallepallepalle on Discord",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "The dome is a chill and relaxed zone. We will play music, but mostly music to invite you to relax, sit back and integrate. Some workshops will make noises but it won't be loud or disturbing.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "For this years Borderland we will take part of the pre-placement process and are looking to create a chill neighbourhood with all them good vibez and communal effort!",
+          "value": "The Fluffy Creatures are designed to positively contribute to the social and emotional landscape of Borderland rather than disrupt it.\n\nAs mobile installations, they do not occupy a fixed space or create long-term impact on any specific camp or area. Instead, they move gently through the city, allowing interactions to happen organically and without imposing on others.\n\nSound levels will be kept soft and intentional. The music is designed to enhance the atmosphere for riders and nearby participants without becoming intrusive or competing with surrounding sound systems.\n\nThe vehicles move at low speed and will be operated with care, especially in crowded or sensitive areas. We will avoid driving through tight camp spaces, quiet zones, or areas where stillness is part of the experience.\n\nWe are mindful of Borderland’s environmental conditions. As the fluff is sensitive to rain, we have planned weather protection and a designated home base (Festifluff) where the vehicles can be sheltered when not in use. This also ensures that no materials are left exposed or degraded in the environment.\n\nWe see the Fluffy Creatures as facilitators of connection—creating moments of joy, surprise, and shared experience between participants who might not otherwise meet.\n\nWhile we have not yet had specific placement discussions with neighboring camps, the project’s mobile nature minimizes the need for fixed coordination. We remain open and responsive, and will adapt our movement and behavior based on feedback from the community during the event.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "We need power! Not more than 16A though.",
+          "value": "No.\n\nThe Fluffy Creatures use small, low-power speakers intended only for creating a soft and immersive atmosphere. The sound system is portable, well below 1000W.",
           "customField": {
-            "name": "Electricity"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Festifluff",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Across the city of Borderland roam two mysterious creatures made entirely of fluff.\n\nA **giant Bunny** - Playful and cozy  \nAnd a **magical Unicorn** - Magical and dreamy\n\nThese are not art pieces.\n\nThey are creatures you can ride.\n\nIntroducing the **Fluffy Creatures**— two electric golf carts transformed into enormous soft creatures that gently travel across the playa, offering participants rides through a moving cloud of softness.\n\nInside the vehicles, riders sit surrounded by plush fabrics, soft textures and warm lighting while cruising through the streets of Borderland. Music flows softly from the vehicles as they glide through camps, art installations and muddy roads.\n\nThe experience is playful, surreal and heartwarming.\n\nParticipants might suddenly encounter the fluffy creatures at night glowing in the distance, or during the day slowly rolling through the city collecting passengers who want a magical ride. Creating spontaneous encounters between strangers, unexpected adventures and moments of pure festival magic.\n\nThroughout the week they will roam Borderland spreading softness, laughter and connection.\n\nYou never know when they will appear.\n\nBut when they do, the only rule is simple:\n\nHop in.  \nRelax.  \nEnjoy the ride.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Isabelle von Schreeb\n\nPhone: +46702511992\n\nEmail: isabelle@vonschreeb.se",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Yes, we are very open to co-creation.\n\nBeyond our own project, we are happy to support others in realizing their dreams, big or small. This can be anything from helping transport materials or people, to contributing with atmosphere, presence, or playful interactions across Borderland.\n\nFor example, last year we distributed the JOMO Guide to camps and participants, and we aim to continue contributing in similar ways that enhance the shared experience.\n\nThe Fluffy Creatures are not just an experience of their own, they are a moving platform for connection, collaboration, and supporting the magic created by others.",
+          "customField": {
+            "name": "Co-creation"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Chillout"
-        },
-        {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Pre-placement"
-        },
-        {
-          "value": "Workshop space"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Dome",
-          "min": 32000,
+          "description": "Cart rental",
+          "min": 17500,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "DJ-table",
-          "min": 10000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Carpets",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fabrics",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lights",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Blankets and pillows",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Other decoration",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Breathing mechanism",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Transport",
-          "min": 10000,
-          "max": 10001,
           "type": "EXPENSE"
         },
         {
-          "description": "More flowers and fabrics",
-          "min": 0,
-          "max": 1000,
+          "description": "Lights & decoration",
+          "min": 500,
+          "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "Puzzle mats under the carpets",
-          "min": 0,
-          "max": 15000,
+          "description": "Tarpaulin",
+          "min": 500,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Sound system upgrade for surroundness",
-          "min": 0,
-          "max": 10000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Construction improvements",
-          "min": 250,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Steel cable for breathing mechanism",
-          "min": 100,
-          "max": 300,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "LED strips (replacing broken ones) and accessories",
-          "min": 300,
-          "max": 1000,
+          "description": "Party tent",
+          "min": 1400,
+          "max": 3000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 58000,
-      "percentageFundedTrue": 544.6
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnvptozt001mit7z7yzc5p63",
@@ -32988,122 +32910,196 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmn76utzk0000fea26973hh81",
-      "title": "Woody - The amazing tree experince",
-      "summary": "An art installation inclosing all the wonders of Borderland, play nicely with Woody to reveal it's magic",
+      "id": "cmnegcxby0000r5ctithmdsx8",
+      "title": "The Fungal Refuge",
+      "summary": "A warm, mushroom-inspired haven where tired bodies and tender hearts can land.",
       "status": "FUNDED",
-      "noOfFunders": 41,
+      "noOfFunders": 49,
       "noOfComments": 0,
-      "percentageFunded": 211.53,
-      "minGoal": 5200,
-      "maxGoal": 8100,
-      "income": 2900,
+      "percentageFunded": 804.67,
+      "minGoal": 7000,
+      "maxGoal": 31000,
+      "income": 46800,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774539561/dreams/btwsijxlipk3vtvwtisq.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775597291/dreams/wivp28c1xxrojflsyt8y.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Arkady Zaifman  \nemail: arkzai1@gmail.com",
+          "value": "@abw1986 at Discord",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Very safe, everything is inside the glass dome. as long no one breaks it.",
+          "value": "We provide a space where people can feel held emotionally and physically, with focus on consent, comfort, and care. Our construction and electricity is safe.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "If we can plug into it, it would be amazing.  \nWe will need 200W maximum.",
+          "value": "Fungal Refuge",
           "customField": {
-            "name": "Electricity"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Just a JBL small speaker. inclosed sound experince",
+          "value": "You are wandering through the mighty forest when you notice a soft glow between the trees, you see warm light radiating in all directions and slow shadows starting to dance. You begin to feel the quiet hum of something alive, you start walking towards the glow, towards warm light, towards safety.\n\nHere, in the heart of the sacred forest of Alvheim, you find Fungal Refuge; your mushroom-themed chill-out sanctuary. We are a safe haven for overstimulated, tired, tripping Borderlanders or Borderlanders simply wanting a relaxing space. We offer a place where elves, fungi, and cosmic travelers can meet in stillness rather than intensity.\n\nInside our big tipi you will find mattresses, sofas, blankets, pillows and fluffy materials to sink into. The light strings, candles, and slow-moving visual projections create the feeling of resting inside a forest held together by mycelium. We bring you an art experience, a living installation shaped by mushrooms, softness, and care.\n\nThe Fungal Refuge is a non-sexual cuddle and chill-out space. A place for closeness without expectation, intimacy without pressure, and presence without performance. Stay for a moment or for hours; nap, breathe, talk softly, cuddle, regulate, or simply exist.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Low to medium.  Music is used to support the atmosphere; we’re going for a grounding and cozy vibe.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We will take Woody with us and leave nothing behind <3",
+          "value": "We plan to arrive the weekend prior to the event to begin building our structure. Fungal Refuge will be fully struck on Sunday 26th of July, and all materials will be removed. Leave No Trace is part of our core intention, and the space will be restored to its original state.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "An art installation, inclosing all the wonders and beauty of Borderland wonders incapsulated inside a perfect little bubble, play nicely with old Woody and to reveal all it's wonders for yourself.",
+          "value": "Estimated simultaneous power usage is around ~500W, mainly for a projector and charging of a Soundboks speaker battery.",
           "customField": {
-            "name": "Description"
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "The Fungal Refuge is designed to coexist peacefully with its surroundings. We are mindful of our neighbors and adapt sound levels accordingly. Within the shared area, we act as the quiet counterbalance to Kishmastle's sonic intensity and a soft landing space within the elven world of Alvheim.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "This space is held by a core crew of seven people, but it is nourished by many. We are hosting gentle offerings during the week, such as morning yoga, body awakening, guided meditation, grounding practices, massage, acroyoga, soft movement, and chai evenings with warm drinks and cozy surprises. Offerings arise organically in harmony with energy and inspiration.\n\nWe warmly invite other Borderlanders to use the space for compatible workshops or gatherings, especially if you want to bring something calm, caring, creative or connective to this haven. We also welcome crossover offerings with Alvheim, Kishmastle and Breadcrumb Bureau that help weave together ritual, rest, and intergalactic weirdness.\n\nWhat this dream gives to Borderland:\n\nThe Fungal Refuge gives Borderland a restorative oasis woven into a larger immersive world. It offers softness, grounding, conscious cuddling, chai, visual atmosphere, and space for integration in contrast to the louder and more activating energies around it. As part of the world shared with Alvheim, Kishmastle and Breadcrumb Bureau, it helps create emotional rhythm; landing, recovery, connection.",
+          "customField": {
+            "name": "Co-creation"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Art installation"
-        },
-        {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Playful"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Wood stand",
-          "min": 600,
+          "description": "Tipi tent",
+          "min": 12000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Glass bubble",
-          "min": 1200,
+          "description": "Sound equipment (Soundboks)",
+          "min": 12000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Mobile speaker",
-          "min": 1100,
+          "description": "Bean bag sofa",
+          "min": 5000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Extra bag to fly with equipment to Sweden.",
-          "min": 1000,
-          "max": 1600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "LEDS!!!",
-          "min": 800,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Electronics, chips, wires and cool stuff",
-          "min": 800,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Miniatures",
-          "min": 600,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "3D print filling",
+          "description": "Lounge sofa",
           "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Hanging chair",
+          "min": 800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Mattresses, blankets, pillows, fabrics etc.",
+          "min": 5500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Handmade mushroom decor",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Electric lighting",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Extension cables",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fire blanket",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Building materials for mushrooms",
+          "min": 1000,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Building materials for forest passage",
+          "min": 1000,
           "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Mattresses, blankets, pillows, cozy materials",
+          "min": 1000,
+          "max": 6000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Electric lighting",
+          "min": 1500,
+          "max": 7500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Projector and visual equipment",
+          "min": 1500,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Heater inside the tipi",
+          "min": 500,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Oat milk and chai spices",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Safety supplies (fire extinguisher and first aid kit)",
+          "min": 500,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transportation of sculptures and materials",
+          "min": 0,
+          "max": 4000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 2900,
-      "percentageFundedTrue": 55.77
+      "funded": 46800,
+      "percentageFundedTrue": 668.57
     },
     {
       "id": "cmnw6y6ui00fnapl9uqcr4s3q",
@@ -40921,124 +40917,122 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmn917rr20004z3csfw65xnwn",
-      "title": "The Fluffy Creatures",
-      "summary": "Fluffy Bunny & Unicorn—two rideable art cars offering joy, softness, and magical rides across Borderland, creating connection and unexpected encounters.",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 29,
-      "noOfComments": 1,
-      "percentageFunded": 31.78,
-      "minGoal": 19900,
-      "maxGoal": 22500,
-      "income": 0,
+      "id": "cmn76utzk0000fea26973hh81",
+      "title": "Woody - The amazing tree experince",
+      "summary": "An art installation inclosing all the wonders of Borderland, play nicely with Woody to reveal it's magic",
+      "status": "COMPLETED",
+      "noOfFunders": 41,
+      "noOfComments": 0,
+      "percentageFunded": 211.53,
+      "minGoal": 5200,
+      "maxGoal": 8100,
+      "income": 2900,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774623984/dreams/ipby9fzipbjjaluqexqo.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774623995/dreams/irbdd6pd9anoquppqw62.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774624002/dreams/m1nlmmtrxb2s2f8dqbcz.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774624011/dreams/wdnek87mmbycf4fmqjw9.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774624020/dreams/fzwb50pd8v8nz3pvqres.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774624033/dreams/jnso1tsffsjxwznadg0i.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774624041/dreams/kacexh30mpkijojvu2gc.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774539561/dreams/btwsijxlipk3vtvwtisq.png"
         }
       ],
       "customFields": [
         {
-          "value": "The Fluffy Creatures will be dismantled immediately after the event. The golf carts will be transported back by the supplier on a flatbed truck.\n\nAll materials, decorations, and structures will be carefully removed and packed for transport. Any loose elements (such as fluff, fabrics, or decorations) will be secured during the event to prevent MOOP, and a final sweep of our home base area (Festifluff) will be conducted to ensure nothing is left behind.\n\nAs the project is mobile, we do not leave any installations in shared spaces. Our goal is to leave the area cleaner than we found it.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Yes.\n\nThe consumption is around 10–16 kWh per day.\n\nWe aim to charge during nighttime and mornings to reduce strain on shared infrastructure.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Safety is a priority.\n\nThe vehicles will be driven at low speed by designated drivers, with careful attention to surroundings and pedestrians. Boarding and riding are designed to be stable and secure.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "The Fluffy Creatures are designed to positively contribute to the social and emotional landscape of Borderland rather than disrupt it.\n\nAs mobile installations, they do not occupy a fixed space or create long-term impact on any specific camp or area. Instead, they move gently through the city, allowing interactions to happen organically and without imposing on others.\n\nSound levels will be kept soft and intentional. The music is designed to enhance the atmosphere for riders and nearby participants without becoming intrusive or competing with surrounding sound systems.\n\nThe vehicles move at low speed and will be operated with care, especially in crowded or sensitive areas. We will avoid driving through tight camp spaces, quiet zones, or areas where stillness is part of the experience.\n\nWe are mindful of Borderland’s environmental conditions. As the fluff is sensitive to rain, we have planned weather protection and a designated home base (Festifluff) where the vehicles can be sheltered when not in use. This also ensures that no materials are left exposed or degraded in the environment.\n\nWe see the Fluffy Creatures as facilitators of connection—creating moments of joy, surprise, and shared experience between participants who might not otherwise meet.\n\nWhile we have not yet had specific placement discussions with neighboring camps, the project’s mobile nature minimizes the need for fixed coordination. We remain open and responsive, and will adapt our movement and behavior based on feedback from the community during the event.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "No.\n\nThe Fluffy Creatures use small, low-power speakers intended only for creating a soft and immersive atmosphere. The sound system is portable, well below 1000W.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Festifluff",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Across the city of Borderland roam two mysterious creatures made entirely of fluff.\n\nA **giant Bunny** - Playful and cozy  \nAnd a **magical Unicorn** - Magical and dreamy\n\nThese are not art pieces.\n\nThey are creatures you can ride.\n\nIntroducing the **Fluffy Creatures**— two electric golf carts transformed into enormous soft creatures that gently travel across the playa, offering participants rides through a moving cloud of softness.\n\nInside the vehicles, riders sit surrounded by plush fabrics, soft textures and warm lighting while cruising through the streets of Borderland. Music flows softly from the vehicles as they glide through camps, art installations and muddy roads.\n\nThe experience is playful, surreal and heartwarming.\n\nParticipants might suddenly encounter the fluffy creatures at night glowing in the distance, or during the day slowly rolling through the city collecting passengers who want a magical ride. Creating spontaneous encounters between strangers, unexpected adventures and moments of pure festival magic.\n\nThroughout the week they will roam Borderland spreading softness, laughter and connection.\n\nYou never know when they will appear.\n\nBut when they do, the only rule is simple:\n\nHop in.  \nRelax.  \nEnjoy the ride.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Isabelle von Schreeb\n\nPhone: +46702511992\n\nEmail: isabelle@vonschreeb.se",
+          "value": "Arkady Zaifman  \nemail: arkzai1@gmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Yes, we are very open to co-creation.\n\nBeyond our own project, we are happy to support others in realizing their dreams, big or small. This can be anything from helping transport materials or people, to contributing with atmosphere, presence, or playful interactions across Borderland.\n\nFor example, last year we distributed the JOMO Guide to camps and participants, and we aim to continue contributing in similar ways that enhance the shared experience.\n\nThe Fluffy Creatures are not just an experience of their own, they are a moving platform for connection, collaboration, and supporting the magic created by others.",
+          "value": "Very safe, everything is inside the glass dome. as long no one breaks it.",
           "customField": {
-            "name": "Co-creation"
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "If we can plug into it, it would be amazing.  \nWe will need 200W maximum.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Just a JBL small speaker. inclosed sound experince",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We will take Woody with us and leave nothing behind <3",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "An art installation, inclosing all the wonders and beauty of Borderland wonders incapsulated inside a perfect little bubble, play nicely with old Woody and to reveal all it's wonders for yourself.",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Art installation"
+        },
+        {
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Playful"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Cart rental",
-          "min": 17500,
+          "description": "Wood stand",
+          "min": 600,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Glass bubble",
+          "min": 1200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Mobile speaker",
+          "min": 1100,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Extra bag to fly with equipment to Sweden.",
+          "min": 1000,
+          "max": 1600,
           "type": "EXPENSE"
         },
         {
-          "description": "Lights & decoration",
-          "min": 500,
+          "description": "LEDS!!!",
+          "min": 800,
           "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "Tarpaulin",
-          "min": 500,
-          "max": null,
+          "description": "Electronics, chips, wires and cool stuff",
+          "min": 800,
+          "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "Party tent",
-          "min": 1400,
-          "max": 3000,
+          "description": "Miniatures",
+          "min": 600,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "3D print filling",
+          "min": 2000,
+          "max": 2500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 2900,
+      "percentageFundedTrue": 55.77
     },
     {
       "id": "cmnwa9kf4000appwo2h21kwuh",
@@ -71958,86 +71952,92 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnuvc228001lazj886h3yakf",
-      "title": "Tijuana Social Club - ¡Fiesta Grande!",
-      "summary": "¡Amigos! Are you ready for a fiesta, full of passion, amor and tequila?",
+      "id": "cmn970afa0000gcmzg4lkduw1",
+      "title": "HEAVENLY DINNER",
+      "summary": "It all begins when we gather around a beautifully decorated table with delicious food to make you drawl. (depending on the budget :)\n\nHow will it end? Find out!",
       "status": "FUNDED",
-      "noOfFunders": 40,
-      "noOfComments": 5,
-      "percentageFunded": 132.78,
-      "minGoal": 3050,
-      "maxGoal": 4100,
-      "income": 1000,
+      "noOfFunders": 10,
+      "noOfComments": 0,
+      "percentageFunded": 100,
+      "minGoal": 1380,
+      "maxGoal": 18000,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775944254/dreams/n05vbpsbsmbuvrkmvm5h.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774635246/dreams/ionjrfyqrzrwgbvsbfvz.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Crispy. Discord: @crispy440",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Gone before ICE even knows we're here.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "We'll be playing our happy fiesta music in a dedicated sound stage, adhering to regulations.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Si! But within limits.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Tequila tasting is only for adults.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "We will be hosting our event at a dedicated sound stage and are covered by their electricity.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Familia Sánchez",
+          "value": "Sacred Kink",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "**¡_Hola_! We are Señor and Señorita Sánchez. You might know us as the makers of our _famoso_ Tequila Sánchez - the best tequila in all of Mexico!**\n\nThis summer, we will once again visit Scandinavia to promote our _distileria_ with a _Grande Fiesta_! Come, join us for a chance to enjoy some _delicioso_ Latin rhythms and try our tequila!\n\nSee you on the Playa, _cabrón_!",
+          "value": "we might need electricity to cook or prepare some foods, but we could do without :D",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "It all begins when we gather around a fancy beautifully decorated table with delicious food curatedly placed to make you drawl.\n\nThe dinner guests will be guided through a series of novel ways to experience the act of feeding and being fed, and other ways of interacting with food.\n\nAs the dinner progresses, you may find yourself using a human plate or human cutlery, having your arms and feet restricted of movement.\n\nThe feast will will slowly transform into the messy food fight you have always dreamed of <3\n\nAs you have already probably guessed by this description there is a big possibility of clothes being stained, and we absolutely don't want you to ruin that beautiful outfit in which you came in. So you will be not be forced to keep on your pretty clothes and will be welcome to remove them, however due to the nature of the play for hygiene and safety reasons we would ask you to keep your bottom underwear.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Feel free to show up in culturally appropriate attire: Sombreros, ponchos and ballroom Latin dresses!",
+          "value": "No body fluids should be in contact with the food, so no spiting, vomiting, peeing or defecating in the worksop area. Bottom underwear must be kept. Fire will be appropriately handled. Consent is key!",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We have taught to run this dream outdoors, because of the nature of the dream (its messy and we don't want to bother anyone)\n\nIt would be best to be in an intimate and hidden space so people can be comfortable being naked.  \n  \nAdditionally a location where we have access to a fire place is ideal.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "As there will be food remains, we have thought of disposing this organic material in a fireplace, where we will do a cleansing ceremony honoring the pleasure and joy and all the wonderful emotions and feelings associated with food that this remaining ingredients have brought to us.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "To create the dream we need you to participate and also we will need help creating and cleaning the dream.  \nFor example:  \n\\-Cooking Staff (help out from the beginning and bond)\n\n\\-Decorators and builders of the space\n\n\\-Event Servers /Servants( you will answer to the mistresses of the event)\n\n\\-Cleaners (you might love to roll around in as nasty foods as your thoughts, so maybe come help us clean and you will make two dreams come true)\n\n\\-Guests that are willing to explore and let there inhibitions in their tent\n\n\\-Fire place builders\n\nIdeas are welcome and if you have a specific dream that you think we could mesh, contact us!\n\nwe don't bite ... or do we???",
           "customField": {
             "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Aluap - Paula San Segundo +46793501583",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "light ambient music, talk and laugh",
+          "customField": {
+            "name": "Sound levels"
           }
         }
       ],
       "tags": [
         {
-          "value": "Bar"
-        },
-        {
           "value": "Experience"
         },
         {
-          "value": "Music"
+          "value": "Fire"
+        },
+        {
+          "value": "Food"
+        },
+        {
+          "value": "Looking for space"
+        },
+        {
+          "value": "NOT kids-friendly"
         },
         {
           "value": "Playful"
@@ -72048,50 +72048,50 @@
       ],
       "budgetItems": [
         {
-          "description": "Tequila!!! ",
+          "description": "Food",
           "min": 1000,
-          "max": null,
-          "type": "INCOME"
+          "max": 7200,
+          "type": "EXPENSE"
         },
         {
-          "description": "Decor: Flags, streamers, fabrics in bright fiesta colors ",
-          "min": 1000,
+          "description": "Tables",
+          "min": 0,
+          "max": 1600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Bowls",
+          "min": 0,
+          "max": 1800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cleaning",
+          "min": 150,
+          "max": 1200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Decorations",
+          "min": 0,
+          "max": 1200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Pool",
+          "min": 0,
           "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "Piñata (Fun for everyone, except for the piñata) ",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Moustache for everyone (Tequila tastes better with a moustache! ) ",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sombreros (don't let the sun burn you) ",
-          "min": 300,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Fruits and snacks (Lemon for the tequila + snacks) ",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Stickers",
-          "min": 250,
-          "max": 300,
+          "description": "Transport",
+          "min": 230,
+          "max": 3000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 1000,
-      "percentageFundedTrue": 32.79
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnw2frpr0010faxo6ks53zyy",
