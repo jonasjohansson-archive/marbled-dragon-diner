@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786005246205,
+  "updatedAt": 1786171876073,
   "buckets": [
     {
       "id": "cmlo6634a0008rt2anbi3sfdz",
@@ -10353,74 +10353,56 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnw7jqcz0003sf6ovgsb0p4n",
-      "title": "Vu-Pee",
-      "summary": "As a Vulva owner, life can be challenging at Borderland. Standing in line for hours to get a 1 minute job done? Meh! Let's bring peequility (back) to Borderland",
-      "status": "FUNDED",
-      "noOfFunders": 89,
-      "noOfComments": 9,
-      "percentageFunded": 177.62,
-      "minGoal": 6850,
-      "maxGoal": 10600,
-      "income": 4500,
+      "id": "cmnvucrgn0028aoworc6x4l6r",
+      "title": "📞📞 The Phone Booth  📞📞 Ring Ring",
+      "summary": "We’ll place 3–4 phone booths around Borderland, each connected to a small, local network and an old-school telephone. Pick it up, dial a number, reach another b",
+      "status": "COMPLETED",
+      "noOfFunders": 74,
+      "noOfComments": 0,
+      "percentageFunded": 100,
+      "minGoal": 6900,
+      "maxGoal": 12400,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776888812/dreams/ssmlelqeziynyanifhcg.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776888909/dreams/doz3nzvmwfud0dax5aoa.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776888919/dreams/jxvdidzsicapoivbj6uv.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003582/dreams/gmkbm3rfq8l7gscwdfnm.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "I would love to get in touch with people that want to sparr with me about the structure itself, but maybe it can also be a fun project to have the community beautify and make it look nice and inviting :)  \n  \nI am in contact with our B.O.W.E.L.S., regarding cleaning and potential emptying, so these Heroes help getting some Vulva Service done! <3",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "I mean - it's still a toilet. Even tho my plans are pretty thought through, there may be some olfactory issues that could possibly arise (Isn't that a nice way to say: \"it could smell like pee in the worst case\"?)\n\nSo yes, let's co-exist.. a little aside.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "None",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "I would love to have some power for lightchains and a waterpump, gonna calculate precisely what I need for that",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "I would love to store it on the land, so it is easy to be reused for BL and other events throughout the year. Of course after everything is nicely cleaned and packed together!",
+          "value": "Camp BÄRSÄRK will disassemble the project end of Borderland collecting all the parts so they can be reused the years to come.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "We peed in many different ways - and let's face it, most of them weren't too pleasant.\n\nAs a Vulva owner myself, I am tired of the Pee-Privilege, that comes with a certain Body attachment. We have to stand in lines forever, just to use questionable facilities that leave us with a feeling of questionable hygiene and a fear of having something somewhere on our clothes that really shouldn't be there..\n\nAside of the little nastynesses that come with the use of Porta Potties, are we also talking about practical advantages. Studies and observations of different festivals have shown a significant decrease in the length of lines and the waiting times for every visitor. Having a hygienic and quick solution to pee would be a huge win, not only for Vulva Owners - it would have a positive impact on everyone, who has to use a toilet.\n\nThe rough idea (will finalize it before the deadline) is to set up a solution that is connected to an IBC tank, that can be exchanged/pumped empty. A squatting solution over an anti-splatter grit to make it easy to clean and to reuse. Surrounded by a simple structure for some privacy and in combination with some running water to clean hands and cups. Located somewhere central and easy accessible.",
+          "value": "We’ll place 3–4 phone booths around Borderland, each connected to a small, local network and an old-school telephone. Pick it up, dial a number, reach another booth somewhere across the fields — see who answers 🤙\n\nPricing scales with the number of booths, and simpler approaches could probably also bring this to life.  \n  \nBOOTH 1 (CPE510 + ATA → Phone) ⇄ BOOTH 2 (CPE510 + ATA → Phone) ⇄ HUB (SBC + Router + CPE510) ⇄ BOOTH 3 (CPE510 + ATA → Phone) ⇄ BOOTH 4 (CPE510 + ATA → Phone)\n\nComponents:\n\n*   Asterisk (open source software)\n    \n*   Single board computer\n    \n*   Router / Switch\n    \n*   TP-Link CPE510 (x2 per link)\n    \n*   ATA (Analog Telephone Adapter)\n    \n*   Analog telephone / rotary phone\n    \n*   Power banks\n    \n*   Ethernet cables\n    \n*   PoE injector (for CPE510)",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "It's me, Hi, I'm the Peeblem it's me!\n\nTash - find me on Discord @burn\\_tash",
+          "value": "Camp BÄRSÄRK",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "I will take care that all parts are safely attached and that they will withstand the planned use along with weather and other potential issues",
+          "value": "We will place the booths at some of the central hot spot locations so travelers can find them and where they are not to close to any camp site",
           "customField": {
-            "name": "Safety"
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Your good with networks/ artsy for decoration/ just want to tag along",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "1",
+          "customField": {
+            "name": "Sound levels"
           }
         }
       ],
@@ -10429,82 +10411,61 @@
           "value": "Borderland infrastructure"
         },
         {
-          "value": "Queer"
+          "value": "Experience"
         },
         {
-          "value": "Wellness"
+          "value": "Kids-friendly"
+        },
+        {
+          "value": "Pimping station"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Weird shit"
         }
       ],
       "budgetItems": [
         {
-          "description": "Tools",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lightchains, Outdoorcables",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Paint and accessories for signs and beautifying",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Bits and bops to build ",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Tarps as extra rain protection",
-          "min": 500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Wood for construction ",
-          "min": 2500,
-          "max": 3000,
+          "description": "Decoration",
+          "min": 900,
+          "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "Sinks to pee in (trying to get as much used as possible!)",
-          "min": 2000,
-          "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Pipes to guide the pee",
-          "min": 750,
+          "description": "Phones",
+          "min": 600,
           "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Waterpump and accessories ",
+          "description": "Cabling ",
           "min": 1000,
-          "max": 1500,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Screws, Nails, hinges and so on",
-          "min": 100,
-          "max": 300,
+          "description": "Power",
+          "min": 1000,
+          "max": 5000,
           "type": "EXPENSE"
         },
         {
-          "description": "Transport ",
-          "min": 500,
-          "max": 800,
+          "description": "Building material",
+          "min": 2000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transportation",
+          "min": 1400,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 4500,
-      "percentageFundedTrue": 65.69
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnp2gjtc000co1pjbl8p2vq2",
@@ -18401,179 +18362,143 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnvwruwh005ccwen3vg9xii7",
-      "title": "Shisha nights at Socialen",
-      "summary": "Shisha, milk chai and music to start off your night at the playa.",
+      "id": "cmnohub27000fygax67f2qpfu",
+      "title": "Hot sauna 24/7 returns with a fruit bar!",
+      "summary": "Last year we re-located one of the most legendary Saunas to Borderland. From arrival to strike the sauna was on 24/7 serving weary hippies. Lets do it again!",
       "status": "FUNDED",
-      "noOfFunders": 33,
-      "noOfComments": 1,
-      "percentageFunded": 662.7,
-      "minGoal": 2400,
-      "maxGoal": 6100,
-      "income": 12700,
+      "noOfFunders": 67,
+      "noOfComments": 3,
+      "percentageFunded": 1161.77,
+      "minGoal": 5700,
+      "maxGoal": 5700,
+      "income": 60521,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776007794/dreams/zwpfqmipa4gysigjbw51.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564483/dreams/bmyhu8ag0zn6dvaf9vmv.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775563682/dreams/q5rb30fincqh2rmtzzsh.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564477/dreams/btskwvccqk26jyessclp.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775563811/dreams/yooopvdzvlwxqd7zvfib.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775563831/dreams/wgmhtpfmzetift5wtk8v.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564488/dreams/qlcqpnoilztrgcnlts6y.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775924824/dreams/nbp9ddu1ode1cxzreecj.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "The Playa is transforming from daytime playground to nighttime adventure. Rest your legs & butt, and meet some new friends over shared shisha and tea, and prepare for the adventures of the night. Maybe you will even catch a performance or have your fortunes told?  \n  \nReaching into our stretch goal will allow the event to have more shisha, more creativity and more lovely, lovely vibes for you to enjoy<3",
+          "value": "Last year, Kappeli - the legendary hot sauna from Sompasauna - found a new home at Borderland. From arrival to strike, the fire never went out. Day and night, weary hippies stepped inside, and emerged softened, reset, and somehow more human. We also created a real Avanto cold plunge where you can jump in to cool off.\n\nIn 2026 we bring it back. This time with more JUICE 🧊💦\n\nWe‘re dreaming of adding a little fruit bar, serving frozen fruit and popsicles. Delivered by some irresistible and hot attendants 😏🔥 at unexpected times throughout the week 🤫✨",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "Socialen",
+          "value": "Hotter dimension",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "We will take part in the pre-placement and are looking forward to create a a living neighbourhood where you can spend the evening. We do not expect the event to bother the surrounding creations/atmosphere.",
+          "value": "The Hot Sauna wants to preserve the history of Sompasauna. Total communal effort. Everyone is responsible of adding firewood, carrying water and so on! Last year this worked really well and we know it will also allow us to operate 24/7 this year.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "We are part of pre-placement and right now it looks like a sauna/wellness area is forming on the lakefront on sunny hill. We would love to be a part of contributing here. We also have a covered clothes rack that we built last year that allows people to hang their clothes while taking a swim and have your towel and clothes covered even during some summer rain.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Respectful levels of evocative music will be in the air",
+          "value": "No sound",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Shisha’s with hot coals require care and safety. Proper equipment will be at hand, as well as fire extinguisher and fire blanket.  \n(Tobacco smoking will of course only be offered to adult burners)",
+          "value": "The building has been tried and tested as safe over the years at Sompasauna. We will also provide firefighting equipment.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "We will keep the area clean and make sure we leave no trace. All used material will be taken well care of so it can be reused.",
+          "value": "The Sauna will stay in Alversjö for everyone to use during the year however to follow the building permit code we will move it back further away from the lake according to the instructions from the municipality. The placement after Borderland is up to the communityand we are more than happy to take suggestions if the place it stayed over the winter was good or if there are better ideas.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "A small amount for lights and speakers.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Darius Baeckström (darius9631@hotmail.com, Discord: darius.baeckstrom)",
+          "value": "Eero @ Discord",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "The event sets up a social hub, suitable for smaller musical performances (live or dj). If you wish to host a simple workshop, tarot, interactive happening, etc in a part of the space this would also work very well with the intended setting.",
+          "value": "200W LED lighting  \n500W for cold plunge freezer  \n300W for small fruit freezer for fruitbar",
           "customField": {
-            "name": "Co-creation"
+            "name": "Electricity"
           }
         }
       ],
       "tags": [
         {
-          "value": "Chillout"
+          "value": "Experience"
         },
         {
-          "value": "Food"
-        },
-        {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Looking for content"
+          "value": "Permanent"
         },
         {
           "value": "Pre-placement"
         },
         {
-          "value": "Workshop space"
+          "value": "Wellness"
         }
       ],
       "budgetItems": [
         {
-          "description": "Pavillion",
-          "min": 4000,
+          "description": "The sauna already in Alversjö",
+          "min": 58521,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Music Equipment",
-          "min": 4000,
+          "description": "Mobile freezer for freezing the fruit",
+          "min": 2000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Decor & seating",
-          "min": 3000,
+          "description": "4 m3 Firewood for the week",
+          "min": 4500,
           "max": null,
-          "type": "INCOME"
+          "type": "EXPENSE"
         },
         {
-          "description": "Tobacco",
-          "min": 800,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Teapots and thermoses",
+          "description": "Fruits",
           "min": 600,
           "max": null,
-          "type": "INCOME"
+          "type": "EXPENSE"
         },
         {
-          "description": "Shisha",
-          "min": 300,
+          "description": "Popsicle molds & juice",
+          "min": 600,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Shishas",
-          "min": 1000,
-          "max": 1900,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Charcoal, lighter and mouthpieces",
-          "min": 500,
-          "max": 700,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Tea, milk chai, snacks, incense",
-          "min": 500,
-          "max": 1100,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Fire extinguisher",
-          "min": 400,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Decor",
-          "min": 0,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transport",
-          "min": 0,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Power distribution box/chord",
-          "min": 0,
-          "max": 500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 12700,
-      "percentageFundedTrue": 529.17
+      "funded": 60521,
+      "percentageFundedTrue": 1061.77
     },
     {
       "id": "cmnt3qgtw000493x4axl9abzi",
@@ -22217,104 +22142,83 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnohub27000fygax67f2qpfu",
-      "title": "Hot sauna 24/7 returns with a fruit bar!",
-      "summary": "Last year we re-located one of the most legendary Saunas to Borderland. From arrival to strike the sauna was on 24/7 serving weary hippies. Lets do it again!",
+      "id": "cmnw7jqcz0003sf6ovgsb0p4n",
+      "title": "Vu-Pee",
+      "summary": "As a Vulva owner, life can be challenging at Borderland. Standing in line for hours to get a 1 minute job done? Meh! Let's bring peequility (back) to Borderland",
       "status": "FUNDED",
-      "noOfFunders": 67,
-      "noOfComments": 3,
-      "percentageFunded": 1161.77,
-      "minGoal": 5700,
-      "maxGoal": 5700,
-      "income": 60521,
+      "noOfFunders": 89,
+      "noOfComments": 9,
+      "percentageFunded": 177.62,
+      "minGoal": 6850,
+      "maxGoal": 10600,
+      "income": 4500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564483/dreams/bmyhu8ag0zn6dvaf9vmv.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776888812/dreams/ssmlelqeziynyanifhcg.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775563682/dreams/q5rb30fincqh2rmtzzsh.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776888909/dreams/doz3nzvmwfud0dax5aoa.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564477/dreams/btskwvccqk26jyessclp.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775563811/dreams/yooopvdzvlwxqd7zvfib.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775563831/dreams/wgmhtpfmzetift5wtk8v.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775564488/dreams/qlcqpnoilztrgcnlts6y.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775924824/dreams/nbp9ddu1ode1cxzreecj.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776888919/dreams/jxvdidzsicapoivbj6uv.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Last year, Kappeli - the legendary hot sauna from Sompasauna - found a new home at Borderland. From arrival to strike, the fire never went out. Day and night, weary hippies stepped inside, and emerged softened, reset, and somehow more human. We also created a real Avanto cold plunge where you can jump in to cool off.\n\nIn 2026 we bring it back. This time with more JUICE 🧊💦\n\nWe‘re dreaming of adding a little fruit bar, serving frozen fruit and popsicles. Delivered by some irresistible and hot attendants 😏🔥 at unexpected times throughout the week 🤫✨",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Hotter dimension",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "The Hot Sauna wants to preserve the history of Sompasauna. Total communal effort. Everyone is responsible of adding firewood, carrying water and so on! Last year this worked really well and we know it will also allow us to operate 24/7 this year.",
+          "value": "I would love to get in touch with people that want to sparr with me about the structure itself, but maybe it can also be a fun project to have the community beautify and make it look nice and inviting :)  \n  \nI am in contact with our B.O.W.E.L.S., regarding cleaning and potential emptying, so these Heroes help getting some Vulva Service done! <3",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "We are part of pre-placement and right now it looks like a sauna/wellness area is forming on the lakefront on sunny hill. We would love to be a part of contributing here. We also have a covered clothes rack that we built last year that allows people to hang their clothes while taking a swim and have your towel and clothes covered even during some summer rain.",
+          "value": "I mean - it's still a toilet. Even tho my plans are pretty thought through, there may be some olfactory issues that could possibly arise (Isn't that a nice way to say: \"it could smell like pee in the worst case\"?)\n\nSo yes, let's co-exist.. a little aside.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "No sound",
+          "value": "None",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "The building has been tried and tested as safe over the years at Sompasauna. We will also provide firefighting equipment.",
+          "value": "I would love to have some power for lightchains and a waterpump, gonna calculate precisely what I need for that",
           "customField": {
-            "name": "Safety"
+            "name": "Electricity"
           }
         },
         {
-          "value": "The Sauna will stay in Alversjö for everyone to use during the year however to follow the building permit code we will move it back further away from the lake according to the instructions from the municipality. The placement after Borderland is up to the communityand we are more than happy to take suggestions if the place it stayed over the winter was good or if there are better ideas.",
+          "value": "I would love to store it on the land, so it is easy to be reused for BL and other events throughout the year. Of course after everything is nicely cleaned and packed together!",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Eero @ Discord",
+          "value": "We peed in many different ways - and let's face it, most of them weren't too pleasant.\n\nAs a Vulva owner myself, I am tired of the Pee-Privilege, that comes with a certain Body attachment. We have to stand in lines forever, just to use questionable facilities that leave us with a feeling of questionable hygiene and a fear of having something somewhere on our clothes that really shouldn't be there..\n\nAside of the little nastynesses that come with the use of Porta Potties, are we also talking about practical advantages. Studies and observations of different festivals have shown a significant decrease in the length of lines and the waiting times for every visitor. Having a hygienic and quick solution to pee would be a huge win, not only for Vulva Owners - it would have a positive impact on everyone, who has to use a toilet.\n\nThe rough idea (will finalize it before the deadline) is to set up a solution that is connected to an IBC tank, that can be exchanged/pumped empty. A squatting solution over an anti-splatter grit to make it easy to clean and to reuse. Surrounded by a simple structure for some privacy and in combination with some running water to clean hands and cups. Located somewhere central and easy accessible.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "It's me, Hi, I'm the Peeblem it's me!\n\nTash - find me on Discord @burn\\_tash",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "200W LED lighting  \n500W for cold plunge freezer  \n300W for small fruit freezer for fruitbar",
+          "value": "I will take care that all parts are safely attached and that they will withstand the planned use along with weather and other potential issues",
           "customField": {
-            "name": "Electricity"
+            "name": "Safety"
           }
         }
       ],
       "tags": [
         {
-          "value": "Experience"
+          "value": "Borderland infrastructure"
         },
         {
-          "value": "Permanent"
-        },
-        {
-          "value": "Pre-placement"
+          "value": "Queer"
         },
         {
           "value": "Wellness"
@@ -22322,38 +22226,74 @@
       ],
       "budgetItems": [
         {
-          "description": "The sauna already in Alversjö",
-          "min": 58521,
+          "description": "Tools",
+          "min": 1500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Mobile freezer for freezing the fruit",
+          "description": "Lightchains, Outdoorcables",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Paint and accessories for signs and beautifying",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Bits and bops to build ",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Tarps as extra rain protection",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Wood for construction ",
+          "min": 2500,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Sinks to pee in (trying to get as much used as possible!)",
           "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "4 m3 Firewood for the week",
-          "min": 4500,
-          "max": null,
+          "max": 4000,
           "type": "EXPENSE"
         },
         {
-          "description": "Fruits",
-          "min": 600,
-          "max": null,
+          "description": "Pipes to guide the pee",
+          "min": 750,
+          "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Popsicle molds & juice",
-          "min": 600,
-          "max": null,
+          "description": "Waterpump and accessories ",
+          "min": 1000,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Screws, Nails, hinges and so on",
+          "min": 100,
+          "max": 300,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transport ",
+          "min": 500,
+          "max": 800,
           "type": "EXPENSE"
         }
       ],
-      "funded": 60521,
-      "percentageFundedTrue": 1061.77
+      "funded": 4500,
+      "percentageFundedTrue": 65.69
     },
     {
       "id": "cmnw71ny3003v55stb7yohq36",
@@ -42866,239 +42806,179 @@
       "percentageFundedTrue": 28
     },
     {
-      "id": "cmnq7iw0i0006pfcvcs4r78wg",
-      "title": "The Orgone Accumulation Research Project",
-      "summary": "The Orgone accumulator will unleash massive amounts of inner libido energy. Join the largest experimental research project ever. ",
+      "id": "cmnvwruwh005ccwen3vg9xii7",
+      "title": "Shisha nights at Socialen",
+      "summary": "Shisha, milk chai and music to start off your night at the playa.",
       "status": "FUNDED",
-      "noOfFunders": 48,
-      "noOfComments": 2,
-      "percentageFunded": 150.8,
-      "minGoal": 7775,
-      "maxGoal": 20610,
-      "income": 3950,
+      "noOfFunders": 33,
+      "noOfComments": 1,
+      "percentageFunded": 662.7,
+      "minGoal": 2400,
+      "maxGoal": 6100,
+      "income": 12700,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775852539/dreams/dfe1wy3hvgdvjicwknee.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775662893/dreams/ncya74qghmnnwujlbtar.gif"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775662740/dreams/vgedg4wiw1abdh3ek5en.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775680014/dreams/glqrlwm9jvt79zi1vgyg.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776007794/dreams/zwpfqmipa4gysigjbw51.png"
         }
       ],
       "customFields": [
         {
-          "value": "Take your toxic Dur energy elsewhere!",
+          "value": "The Playa is transforming from daytime playground to nighttime adventure. Rest your legs & butt, and meet some new friends over shared shisha and tea, and prepare for the adventures of the night. Maybe you will even catch a performance or have your fortunes told?  \n  \nReaching into our stretch goal will allow the event to have more shisha, more creativity and more lovely, lovely vibes for you to enjoy<3",
           "customField": {
-            "name": "Electricity"
+            "name": "Description"
           }
         },
         {
-          "value": "Mårten Niklasson +4670545424\n\n(send me a text if you want to cocreate)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "The Secret Sailors",
+          "value": "Socialen",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Orgone has never hurt anyone, quite the opposite. It has been used to heal fascists since the early 1900s.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Very quiet. We will make announcements with a megafon of sorts. Daytime activity.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Absolutely! We depend on fellow borderlings to build, use and spread the Orgone. Our minimum budget is for 1 human size accumulator, 1 small size accumulator with shooter and funnel, and one wand. If we get more funding we will build more, and distribute all over the Borderland. Come join us! And please contact us if you want to co-create in any possible weird way. Maybe a dance floor in an Orgonite pyramide.\n\nWe also need study objects for the research project and If there is a researcher that can help write a paper that would be mostly appreciated.\n\nThis is also a service, where Borderlings who feel drained, empty, disillusioned and sad, can come and get embraced by Orgone energy.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "The Orgone will affect everyone in a positive way. Most likely we will have more sunshine and good weather. Probably kids friendly.\n\nDuring day time we are open for collaboration with play spaces by charging their future guests, and their toys, with Orgone.",
+          "value": "We will take part in the pre-placement and are looking forward to create a a living neighbourhood where you can spend the evening. We do not expect the event to bother the surrounding creations/atmosphere.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Will be removed by the end of Borderland. We can disassemble the accumulators for the next BL or the materials will be recycled. We will make minimum alteration of the materials so they may be reused.",
+          "value": "Respectful levels of evocative music will be in the air",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Shisha’s with hot coals require care and safety. Proper equipment will be at hand, as well as fire extinguisher and fire blanket.  \n(Tobacco smoking will of course only be offered to adult burners)",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We will keep the area clean and make sure we leave no trace. All used material will be taken well care of so it can be reused.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "We're bringing Orgone back to the Borderland! Maybe you remember the Orgone toilet in 2015? Now Orgone is accumulating once again. This will be the largest Orgone accumulation project in history. Ancient forgotten civilizations may have done something similar, but the records are annoyingly vague.\n\nOrgone is life force, cosmic energy, present in the atmosphere in free form and concentrated by the accumulator. Wilhelm Reich described it in the 1930s, and while Orgone has since been overshadowed by chi, prana, kundalini, and also sex-negative forces, such as slut shaming and fascism, we believe the time has come for its return.\n\nWe will host an open workshop area where we will construct Orgone accumulators. We have had long and serious studies in the science of Orgone. We will provide drawings, materials, tools, guidance. Once the accumulators are built, we will gather Orgone at Borderland and invite participants to be soaked in it, showered with it, and possibly transformed by it. This is likely a once-in-a-lifetime opportunity to expose a large population to Orgone.\n\nIt's a workshop, an experiment, a ritual. A trip into the muddy waters of pseudo-science. It is about rebuilding lost technologies and gathering life positive energy.",
+          "value": "A small amount for lights and speakers.",
           "customField": {
-            "name": "Description"
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Darius Baeckström (darius9631@hotmail.com, Discord: darius.baeckstrom)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "The event sets up a social hub, suitable for smaller musical performances (live or dj). If you wish to host a simple workshop, tarot, interactive happening, etc in a part of the space this would also work very well with the intended setting.",
+          "customField": {
+            "name": "Co-creation"
           }
         }
       ],
       "tags": [
         {
-          "value": "Experience"
+          "value": "Chillout"
         },
         {
-          "value": "Healing"
+          "value": "Food"
         },
         {
-          "value": "Performance"
+          "value": "Hippie trap"
         },
         {
-          "value": "Weird shit"
+          "value": "Looking for content"
         },
         {
-          "value": "Workshop"
+          "value": "Pre-placement"
+        },
+        {
+          "value": "Workshop space"
         }
       ],
       "budgetItems": [
         {
-          "description": "Tools ",
-          "min": 1500,
+          "description": "Pavillion",
+          "min": 4000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Tent for building",
-          "min": 0,
+          "description": "Music Equipment",
+          "min": 4000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Megaphone",
-          "min": 1500,
+          "description": "Decor & seating",
+          "min": 3000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Sanitizer",
-          "min": 150,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Dressing and deco",
+          "description": "Tobacco",
           "min": 800,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Steel wool (42 m2, 4,5 kg); for 1 full size, 1 small size, 1 Funnel shooter, 1 wand",
-          "min": 1300,
-          "max": 2600,
-          "type": "EXPENSE"
+          "description": "Teapots and thermoses",
+          "min": 600,
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Floor paper (28 m2)",
-          "min": 200,
-          "max": 400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Metal plates (12 m2)",
-          "min": 4000,
-          "max": 8000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Plywood (2 m2)",
-          "min": 450,
-          "max": 900,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Funnel with tube (1)",
+          "description": "Shisha",
           "min": 300,
-          "max": 600,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Shishas",
+          "min": 1000,
+          "max": 1900,
           "type": "EXPENSE"
         },
         {
-          "description": "Glass tube (1)",
-          "min": 15,
-          "max": 90,
+          "description": "Charcoal, lighter and mouthpieces",
+          "min": 500,
+          "max": 700,
           "type": "EXPENSE"
         },
         {
-          "description": "Screws",
-          "min": 100,
-          "max": 200,
+          "description": "Tea, milk chai, snacks, incense",
+          "min": 500,
+          "max": 1100,
           "type": "EXPENSE"
         },
         {
-          "description": "Metal tape (2)",
-          "min": 100,
-          "max": 200,
+          "description": "Fire extinguisher",
+          "min": 400,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Staples",
-          "min": 100,
-          "max": 200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Masonit (wood boards) (10 m2)",
-          "min": 700,
-          "max": 1400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wood beams (16 m)",
-          "min": 270,
-          "max": 540,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Tape",
-          "min": 40,
-          "max": 80,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transportation",
-          "min": 100,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Prints",
-          "min": 100,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Weather proof paint",
-          "min": 0,
-          "max": 400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Deco",
+          "description": "Decor",
           "min": 0,
           "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "Lab coats and safety gear",
+          "description": "Transport",
           "min": 0,
-          "max": 1500,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Power distribution box/chord",
+          "min": 0,
+          "max": 500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 3950,
-      "percentageFundedTrue": 50.8
+      "funded": 12700,
+      "percentageFundedTrue": 529.17
     },
     {
       "id": "cmnsxflsy00007o6b5nx3pojd",
@@ -73778,119 +73658,239 @@
       "percentageFundedTrue": 50
     },
     {
-      "id": "cmnvucrgn0028aoworc6x4l6r",
-      "title": "📞📞 The Phone Booth  📞📞 Ring Ring",
-      "summary": "We’ll place 3–4 phone booths around Borderland, each connected to a small, local network and an old-school telephone. Pick it up, dial a number, reach another b",
+      "id": "cmnq7iw0i0006pfcvcs4r78wg",
+      "title": "The Orgone Accumulation Research Project",
+      "summary": "The Orgone accumulator will unleash massive amounts of inner libido energy. Join the largest experimental research project ever. ",
       "status": "FUNDED",
-      "noOfFunders": 74,
-      "noOfComments": 0,
-      "percentageFunded": 100,
-      "minGoal": 6900,
-      "maxGoal": 12400,
-      "income": 0,
+      "noOfFunders": 48,
+      "noOfComments": 2,
+      "percentageFunded": 150.8,
+      "minGoal": 7775,
+      "maxGoal": 20610,
+      "income": 3950,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776003582/dreams/gmkbm3rfq8l7gscwdfnm.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775852539/dreams/dfe1wy3hvgdvjicwknee.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775662893/dreams/ncya74qghmnnwujlbtar.gif"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775662740/dreams/vgedg4wiw1abdh3ek5en.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775680014/dreams/glqrlwm9jvt79zi1vgyg.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Camp BÄRSÄRK will disassemble the project end of Borderland collecting all the parts so they can be reused the years to come.",
+          "value": "Take your toxic Dur energy elsewhere!",
           "customField": {
-            "name": "Strike plan"
+            "name": "Electricity"
           }
         },
         {
-          "value": "We’ll place 3–4 phone booths around Borderland, each connected to a small, local network and an old-school telephone. Pick it up, dial a number, reach another booth somewhere across the fields — see who answers 🤙\n\nPricing scales with the number of booths, and simpler approaches could probably also bring this to life.  \n  \nBOOTH 1 (CPE510 + ATA → Phone) ⇄ BOOTH 2 (CPE510 + ATA → Phone) ⇄ HUB (SBC + Router + CPE510) ⇄ BOOTH 3 (CPE510 + ATA → Phone) ⇄ BOOTH 4 (CPE510 + ATA → Phone)\n\nComponents:\n\n*   Asterisk (open source software)\n    \n*   Single board computer\n    \n*   Router / Switch\n    \n*   TP-Link CPE510 (x2 per link)\n    \n*   ATA (Analog Telephone Adapter)\n    \n*   Analog telephone / rotary phone\n    \n*   Power banks\n    \n*   Ethernet cables\n    \n*   PoE injector (for CPE510)",
+          "value": "Mårten Niklasson +4670545424\n\n(send me a text if you want to cocreate)",
           "customField": {
-            "name": "Description"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Camp BÄRSÄRK",
+          "value": "The Secret Sailors",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "We will place the booths at some of the central hot spot locations so travelers can find them and where they are not to close to any camp site",
+          "value": "Orgone has never hurt anyone, quite the opposite. It has been used to heal fascists since the early 1900s.",
           "customField": {
-            "name": "Co-existence"
+            "name": "Safety"
           }
         },
         {
-          "value": "Your good with networks/ artsy for decoration/ just want to tag along",
+          "value": "Very quiet. We will make announcements with a megafon of sorts. Daytime activity.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Absolutely! We depend on fellow borderlings to build, use and spread the Orgone. Our minimum budget is for 1 human size accumulator, 1 small size accumulator with shooter and funnel, and one wand. If we get more funding we will build more, and distribute all over the Borderland. Come join us! And please contact us if you want to co-create in any possible weird way. Maybe a dance floor in an Orgonite pyramide.\n\nWe also need study objects for the research project and If there is a researcher that can help write a paper that would be mostly appreciated.\n\nThis is also a service, where Borderlings who feel drained, empty, disillusioned and sad, can come and get embraced by Orgone energy.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "1",
+          "value": "The Orgone will affect everyone in a positive way. Most likely we will have more sunshine and good weather. Probably kids friendly.\n\nDuring day time we are open for collaboration with play spaces by charging their future guests, and their toys, with Orgone.",
           "customField": {
-            "name": "Sound levels"
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Will be removed by the end of Borderland. We can disassemble the accumulators for the next BL or the materials will be recycled. We will make minimum alteration of the materials so they may be reused.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "We're bringing Orgone back to the Borderland! Maybe you remember the Orgone toilet in 2015? Now Orgone is accumulating once again. This will be the largest Orgone accumulation project in history. Ancient forgotten civilizations may have done something similar, but the records are annoyingly vague.\n\nOrgone is life force, cosmic energy, present in the atmosphere in free form and concentrated by the accumulator. Wilhelm Reich described it in the 1930s, and while Orgone has since been overshadowed by chi, prana, kundalini, and also sex-negative forces, such as slut shaming and fascism, we believe the time has come for its return.\n\nWe will host an open workshop area where we will construct Orgone accumulators. We have had long and serious studies in the science of Orgone. We will provide drawings, materials, tools, guidance. Once the accumulators are built, we will gather Orgone at Borderland and invite participants to be soaked in it, showered with it, and possibly transformed by it. This is likely a once-in-a-lifetime opportunity to expose a large population to Orgone.\n\nIt's a workshop, an experiment, a ritual. A trip into the muddy waters of pseudo-science. It is about rebuilding lost technologies and gathering life positive energy.",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [
         {
-          "value": "Borderland infrastructure"
-        },
-        {
           "value": "Experience"
         },
         {
-          "value": "Kids-friendly"
+          "value": "Healing"
         },
         {
-          "value": "Pimping station"
-        },
-        {
-          "value": "Playful"
+          "value": "Performance"
         },
         {
           "value": "Weird shit"
+        },
+        {
+          "value": "Workshop"
         }
       ],
       "budgetItems": [
         {
-          "description": "Decoration",
-          "min": 900,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Phones",
-          "min": 600,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cabling ",
-          "min": 1000,
+          "description": "Tools ",
+          "min": 1500,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Power",
-          "min": 1000,
-          "max": 5000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Building material",
-          "min": 2000,
+          "description": "Tent for building",
+          "min": 0,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Megaphone",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Sanitizer",
+          "min": 150,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Dressing and deco",
+          "min": 800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Steel wool (42 m2, 4,5 kg); for 1 full size, 1 small size, 1 Funnel shooter, 1 wand",
+          "min": 1300,
+          "max": 2600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Floor paper (28 m2)",
+          "min": 200,
+          "max": 400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Metal plates (12 m2)",
+          "min": 4000,
+          "max": 8000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Plywood (2 m2)",
+          "min": 450,
+          "max": 900,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Funnel with tube (1)",
+          "min": 300,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Glass tube (1)",
+          "min": 15,
+          "max": 90,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Screws",
+          "min": 100,
+          "max": 200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Metal tape (2)",
+          "min": 100,
+          "max": 200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Staples",
+          "min": 100,
+          "max": 200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Masonit (wood boards) (10 m2)",
+          "min": 700,
+          "max": 1400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wood beams (16 m)",
+          "min": 270,
+          "max": 540,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Tape",
+          "min": 40,
+          "max": 80,
           "type": "EXPENSE"
         },
         {
           "description": "Transportation",
-          "min": 1400,
-          "max": null,
+          "min": 100,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Prints",
+          "min": 100,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Weather proof paint",
+          "min": 0,
+          "max": 400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Deco",
+          "min": 0,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Lab coats and safety gear",
+          "min": 0,
+          "max": 1500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 3950,
+      "percentageFundedTrue": 50.8
     },
     {
       "id": "cmnw3th1p005fsrpr5ndh5a1m",
