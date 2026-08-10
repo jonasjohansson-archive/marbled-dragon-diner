@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786258481471,
+  "updatedAt": 1786347543081,
   "buckets": [
     {
       "id": "cmlo6634a0008rt2anbi3sfdz",
@@ -8783,6 +8783,12 @@
           }
         },
         {
+          "value": "@p0ntan",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
           "value": "Minimal to none. This dream is about what you see, not what you hear. If any installation makes sound, it will be soft and localised.",
           "customField": {
             "name": "Sound levels"
@@ -8804,12 +8810,6 @@
           "value": "Fully battery-powered. No grid connection needed but might need recharging of batteries in the camp.",
           "customField": {
             "name": "Electricity"
-          }
-        },
-        {
-          "value": "@mybergstrom",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
