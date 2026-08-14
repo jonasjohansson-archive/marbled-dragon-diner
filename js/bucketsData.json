@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786602798533,
+  "updatedAt": 1786689120656,
   "buckets": [
     {
       "id": "cmlo6634a0008rt2anbi3sfdz",
@@ -7141,269 +7141,167 @@
       "percentageFundedTrue": 571.43
     },
     {
-      "id": "cmnbit4kl0000ox5h3has5slo",
-      "title": "Discotech Engineering",
-      "summary": "A precision-tuned, day time sound camp for warm and inviting dancefloors. Sound you feel as much as you hear, paired with engineered electrolytes!",
-      "status": "PARTIAL_FUNDING",
-      "noOfFunders": 69,
-      "noOfComments": 8,
-      "percentageFunded": 190.54,
-      "minGoal": 37000,
-      "maxGoal": 58400,
-      "income": 45500,
+      "id": "cmn3c37ea0005ltdg7tbiyfi0",
+      "title": "Iris the Forest Guardian",
+      "summary": "Have you heard the tales of Iris, the Forest Guardian of Alversjö? ",
+      "status": "COMPLETED",
+      "noOfFunders": 39,
+      "noOfComments": 1,
+      "percentageFunded": 100,
+      "minGoal": 9950,
+      "maxGoal": 17500,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774886997/dreams/ab71gmepgkepx2oluxmp.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776028259/dreams/vhqa9eroci4umuqneqky.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775151668/dreams/temnnjze2tk2zodybeiy.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775073750/dreams/yw5vndbmgcwvpgyegz7m.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776545739/dreams/rjzsj7b7mvxhll70lhyg.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "🌿 We are a **sound-focused dream**, and we take responsibility for how that affects our surroundings and actions with minimizing noise.\n\nWe will actively work with pre-placement to ensure we are positioned where sound belongs. At the same time, we aim to exist in balance with nearby dreams and the beautiful landscape.\n\nThrough dialogue, coordination and mutual awareness, we want sound, rest and interaction to complement each other, not compete.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "reelo (Discord: reeloreelo) Phone number: +4673 3424711  \nHagg (Discord: hagg\\_53324) Phone number: +4670 8485470",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "⚡ We need **electricity for sound** mainly. Estimated load is 2-3 kW, with headroom up to 4-5 kW. We request 32A at 230V, or equivalent distribution.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "🍃 Strike on Sunday if weather is amazing. Possible strike on Saturday, depending on collaboration and logistics situation with Plutonia. A thorough **M.O.O.P**\\-sweep on our final day.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "🔊 Our system is built for **clarity** and **physical presence** rather than raw volume. Expect a immersive, warm experience, where sound is felt as much as it is heard. dB tracking with S.O.U.N.D.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "🛡️ We build with care through stability. We will provide **water, electrolytes, sunshade, earplugs (for both grown-ups and kids!)**. Fire extinguisher at our disposal.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "**Discotech Engineering**",
+          "value": "The Observatory",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "You’re on your way somewhere… maybe down to the lake, or just passing through Sunny Hill.\n\n🌊 _Then you feel it......_\n\nNot music. Not yet.  \nA low pulse moving through the ground.  \nSoft, precise, calibrated... _Engineered._\n\n🌅 _You slow down......_\n\nLight flickers in the reflections of the lake.  \nSun rays drift through the warm afternoon air.  \nSomeone turns around and smiles like you’re already part of it.\n\n**Welcome to Discotech Engineering.**\n\nA daytime, golden hour sound camp where we engineer atmosphere in real time. Carefully tuned for a warm, physical, high-fidelity dancefloor. Music matched to the moment, as the Swedish summer sunset slowly approaches.\n\nFrom years around Europe and beyond: forests, beaches, basements, festival grounds. We have been observing what happens when sound, space and people align. Discotech Engineering is our attempt to recreate that.\n\n_No stage. No distance._  \nThis is not something you watch.  \nIt’s something you step into.  \nA precision-tuned sound system, designed for intimacy, not scale.\n\nAnd because calibration also applies to humans operating in heat and sunlight, the bar will serve ⚡**Engineered Electrolytes** ⚡\n\n💗 **Join the build, help us make it real!**",
+          "value": "We've designed her to be built in three segments. These will be put together at the end to reduce the need to work at height. We’ll make sure she is checked, maintained, and cared for throughout.",
           "customField": {
-            "name": "Description"
+            "name": "Safety"
           }
         },
         {
-          "value": "🤝 **Discotech Engineering** is not a closed system. Most equipment will be used from, and in collaboration with, the lovely people of **Plutonia**.\n\nWe are also open for collaboration with dreamers in need of a tent in stunning Sunny Hills. We welcome all to reach out: selectors, visual artists, breathworkers etc. If it adds to the feeling, we’re listening!",
+          "value": "Adam Thyssen - contact on email: adamp.thyssen@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "After the event, our team will lovingly return Iris to the realm from which she came. In more practical terms: we will dismantle her structure, remove all materials and decor, and do a thorough sweep of the area for any leftover bits and dream-debris.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "She is a quiet peaceful presence who protects and watches over the Borderlings. She is sturdy and static and will be kind to all neighbours who are kind to her. We are more than happy to stay in dialogue with neighbouring camps to ensure she is situated well in the landscape and contributes positively to the atmosphere around her.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "We may need a small amount of electricity for the soundscape and possibly some simple lighting, but our needs will be modest.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Iris doesn't have a large sound system. We’ll keep it respectful to neighbors and the wider environment.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Yes! We would love support to create Iris. Foragers and woodworkers welcome to craft and adorn our guardian spirit.",
           "customField": {
             "name": "Co-creation"
+          }
+        },
+        {
+          "value": "**Have you heard the tales of Iris, the Forest Guardian?** This year, she may emerge from the animate woodlands of Alversjö to join us in frivolity and fun.\n\nBut Forest Guardians aren't quite so easily summoned...\n\nSo to encourage her to appear, we need your support.\n\nWhen we asked Iris to take shape during this year's Borderland, she agreed on two conditions:\n\n1.  She wants to be crafted mostly from the living textures of the surrounding forest.\n    \n2.  She wants Borderlings to be allowed to see the world through her eyes.\n    \n\nA protector of land and people, Iris will rise from materials of the surrounding woodlands. Part creature, part shelter, she is a space you can crawl into and explore. Inside her, you will find cushioning, an ambient soundscape, and a view through her eyes. Dissolve into her cushioned tipi-skirt, rest in her body, peek through her internal periscope to observe fellow borderlings below from the viewpoint of a great protective being.\n\nTo help bring Iris into being, we need your support!",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [
         {
-          "value": "Bar"
+          "value": "Art installation"
+        },
+        {
+          "value": "Art walk apropriate"
         },
         {
           "value": "Experience"
         },
         {
-          "value": "Music"
+          "value": "Hippie trap"
         },
         {
-          "value": "Pre-placement"
-        },
-        {
-          "value": "Soundcamp"
-        },
-        {
-          "value": "Venue"
+          "value": "Meditation"
         }
       ],
       "budgetItems": [
         {
-          "description": "EUR-pallet",
-          "min": 15000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Disco balls",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Kitchenware (knives, cutting board)",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Various lights (LED-bars, floodlights etc.)",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Various cushions, blankets ",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Construction tools",
-          "min": 3000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fire extinguisher",
-          "min": 200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Technics SL-1200MK7 x2",
-          "min": 22000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Incenses",
-          "min": 300,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Sound - Yamaha DXS18XLF x6 (sub-loudspeaker rentals)",
-          "min": 6000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sound - Yamaha DZR15 x6 (hi-loudspeaker rentals)",
-          "min": 6000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sound - Pioneer CDJ-2000NXS2 x3 / Allen & Heath Xone-96 (rentals)",
-          "min": 5000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sound - Extra cables (XLR, power, adapters)",
-          "min": 0,
+          "description": "Papier mache head",
+          "min": 700,
           "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Sound - Hay bales for sound mitigation (from BL?)",
-          "min": 500,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Build - Bedouin Tent (7.5x10m)",
-          "min": 11000,
-          "max": 13000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Build - Decorations for tent (fairy lights, colors, bulbs)",
-          "min": 1000,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Build - Hazer + fluid (model unknown)",
-          "min": 1000,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Build - Spare parts",
-          "min": 0,
+          "description": "Metal eyes",
+          "min": 300,
           "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "Build - Tarps & weather protection",
-          "min": 1000,
+          "description": "Periscope pieces",
+          "min": 850,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wooden poles",
+          "min": 2000,
+          "max": 5000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wash lighting",
+          "min": 850,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Jute rug",
+          "min": 700,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cosy pillows ",
+          "min": 700,
           "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "Build - Ground anchoring (rope, stakes, straps)",
-          "min": 0,
-          "max": 300,
+          "description": "Screw driver and screw",
+          "min": 1250,
+          "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "Build - Carpets",
-          "min": 1500,
-          "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Build - Cushions, blankets, mattresses",
-          "min": 1000,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Bar - Electrolytes, water dispensers (cucumber/lemon water etc)",
-          "min": 1000,
-          "max": 4000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Bar - Fresh fruit",
-          "min": 0,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Extras - 400 Earplugs",
-          "min": 0,
-          "max": 400,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Logistics - Truck transport + wagon (EU-pallets) & fuel",
+          "description": "Transportation of materials to site",
           "min": 2000,
-          "max": 6000,
+          "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "Logistics - Transport cart (on-site)",
-          "min": 0,
-          "max": 1200,
+          "description": "Binding materials",
+          "min": 200,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Inks",
+          "min": 400,
+          "max": 500,
           "type": "EXPENSE"
         }
       ],
-      "funded": 45500,
-      "percentageFundedTrue": 122.97
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmmq9zso600005ggjckha943w",
@@ -9357,218 +9255,269 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnobc3yi000014581gkdct5w",
-      "title": "Golden Shower Sing-A-Long",
-      "summary": "Step in the shower, get down on your knees, open your mouth wide and SING YOUR HEART OUT in our “Golden Shower Sing-A-Long”",
-      "status": "FUNDED",
-      "noOfFunders": 63,
-      "noOfComments": 4,
-      "percentageFunded": 184.44,
-      "minGoal": 23683,
-      "maxGoal": 35481,
-      "income": 20000,
+      "id": "cmnbit4kl0000ox5h3has5slo",
+      "title": "Discotech Engineering",
+      "summary": "A precision-tuned, day time sound camp for warm and inviting dancefloors. Sound you feel as much as you hear, paired with engineered electrolytes!",
+      "status": "PARTIAL_FUNDING",
+      "noOfFunders": 69,
+      "noOfComments": 8,
+      "percentageFunded": 190.54,
+      "minGoal": 37000,
+      "maxGoal": 58400,
+      "income": 45500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775566996/dreams/r6r2bcarxmizmpqmk1a5.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1774886997/dreams/ab71gmepgkepx2oluxmp.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776345566/dreams/hoyyfzwzv7bnfwnolama.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775151668/dreams/temnnjze2tk2zodybeiy.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775567073/dreams/vastyyz1eexpk65s1ka2.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775567757/dreams/tjkpkq7j0dkimhe3iawx.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775073750/dreams/yw5vndbmgcwvpgyegz7m.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "This dream is not part of a specific camp but will rather be a pop up dream here or there.",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "We are open to co-create this dream. We're looking for:\n\n*   Help with construction (around Gothenburg area).\n    \n*   Transportation - To and from Borderland.\n    \n*   Idea spawning for further development and design.\n    \n*   Operators, while at Borderland. We want more people to help operate the rolling kareoke.\n    \n*   Crowdsourcing materials.\n    \n*   Celine Dions and Pavarottis to use the Golden Shower.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "**DJI 2000** - 1800W\n\n**Ikaro Break X1** - 25W\n\n**Projector** - 400W\n\nTotal: **2225 W - While charging during night**",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "The Golden Shower Sing-A-Long is a rolling kareoke. The dream is not intended be used with high volume around the camping area but instead will be operated a bit away from camping tents in order not to disturb fellow burners. If people will be bother we will simply roll the rolling kareoke away further down the playa.\n\nYes - it will make noise. Whether it's good or bad, it's up to the singer in the shower and in the ears of the beholder.",
+          "value": "🌿 We are a **sound-focused dream**, and we take responsibility for how that affects our surroundings and actions with minimizing noise.\n\nWe will actively work with pre-placement to ensure we are positioned where sound belongs. At the same time, we aim to exist in balance with nearby dreams and the beautiful landscape.\n\nThrough dialogue, coordination and mutual awareness, we want sound, rest and interaction to complement each other, not compete.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Alexander Westerlund, [goldenshowersingalong@gmail.com](mailto:goldenshowersingalong@gmail.com)",
+          "value": "reelo (Discord: reeloreelo) Phone number: +4673 3424711  \nHagg (Discord: hagg\\_53324) Phone number: +4670 8485470",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "The sound system will not exceed 800 W effekt output. (IKARAO Break X1)",
+          "value": "⚡ We need **electricity for sound** mainly. Estimated load is 2-3 kW, with headroom up to 4-5 kW. We request 32A at 230V, or equivalent distribution.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "🍃 Strike on Sunday if weather is amazing. Possible strike on Saturday, depending on collaboration and logistics situation with Plutonia. A thorough **M.O.O.P**\\-sweep on our final day.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "🔊 Our system is built for **clarity** and **physical presence** rather than raw volume. Expect a immersive, warm experience, where sound is felt as much as it is heard. dB tracking with S.O.U.N.D.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Antislip mats in the shower. The trolley the shower will be mounted on will not be too high and it will not move while being used. Also as any shower, we will use caution.",
+          "value": "🛡️ We build with care through stability. We will provide **water, electrolytes, sunshade, earplugs (for both grown-ups and kids!)**. Fire extinguisher at our disposal.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Singing brings joy to your heart and others. It's one of the best way to get into a good mood before hitting the playa or to get a last release before going to bed. The Golden Shower offers you exacly that. Find the rolling kareoke on your way on the playa, jump in the shower and impress your friends with a peak performance! **(Incredible performances will be rewarded)**\n\nThe two microphone kareoke system comes with an internal screen for the singers but we will also project the lyrics onto a wider surface so that everybody can sing a long to the songs.",
+          "value": "**Discotech Engineering**",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "You’re on your way somewhere… maybe down to the lake, or just passing through Sunny Hill.\n\n🌊 _Then you feel it......_\n\nNot music. Not yet.  \nA low pulse moving through the ground.  \nSoft, precise, calibrated... _Engineered._\n\n🌅 _You slow down......_\n\nLight flickers in the reflections of the lake.  \nSun rays drift through the warm afternoon air.  \nSomeone turns around and smiles like you’re already part of it.\n\n**Welcome to Discotech Engineering.**\n\nA daytime, golden hour sound camp where we engineer atmosphere in real time. Carefully tuned for a warm, physical, high-fidelity dancefloor. Music matched to the moment, as the Swedish summer sunset slowly approaches.\n\nFrom years around Europe and beyond: forests, beaches, basements, festival grounds. We have been observing what happens when sound, space and people align. Discotech Engineering is our attempt to recreate that.\n\n_No stage. No distance._  \nThis is not something you watch.  \nIt’s something you step into.  \nA precision-tuned sound system, designed for intimacy, not scale.\n\nAnd because calibration also applies to humans operating in heat and sunlight, the bar will serve ⚡**Engineered Electrolytes** ⚡\n\n💗 **Join the build, help us make it real!**",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "The dream will be delivered and removed in two sections, all fitting within the same trolley it arrives in. We'll make sure we LNT and potentially Moop anything slipping through our fingers.",
+          "value": "🤝 **Discotech Engineering** is not a closed system. Most equipment will be used from, and in collaboration with, the lovely people of **Plutonia**.\n\nWe are also open for collaboration with dreamers in need of a tent in stunning Sunny Hills. We welcome all to reach out: selectors, visual artists, breathworkers etc. If it adds to the feeling, we’re listening!",
           "customField": {
-            "name": "Strike plan"
+            "name": "Co-creation"
           }
         }
       ],
       "tags": [
         {
-          "value": "Art vehicle"
+          "value": "Bar"
         },
         {
           "value": "Experience"
         },
         {
-          "value": "Healing"
-        },
-        {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Kids-friendly"
-        },
-        {
-          "value": "Looking for content"
-        },
-        {
           "value": "Music"
         },
         {
-          "value": "Performance"
+          "value": "Pre-placement"
         },
         {
           "value": "Soundcamp"
         },
         {
-          "value": "Wellness"
+          "value": "Venue"
         }
       ],
       "budgetItems": [
         {
-          "description": "DJI Power 2000",
-          "min": 14000,
+          "description": "EUR-pallet",
+          "min": 15000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Projector",
+          "description": "Disco balls",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Kitchenware (knives, cutting board)",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Various lights (LED-bars, floodlights etc.)",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Various cushions, blankets ",
+          "min": 1500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Construction tools",
+          "min": 3000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fire extinguisher",
+          "min": 200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Technics SL-1200MK7 x2",
+          "min": 22000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Incenses",
+          "min": 300,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Sound - Yamaha DXS18XLF x6 (sub-loudspeaker rentals)",
+          "min": 6000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Sound - Yamaha DZR15 x6 (hi-loudspeaker rentals)",
+          "min": 6000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Sound - Pioneer CDJ-2000NXS2 x3 / Allen & Heath Xone-96 (rentals)",
           "min": 5000,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Party Lights",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Wagon",
-          "min": 2000,
-          "max": 4000,
           "type": "EXPENSE"
         },
         {
-          "description": "Used steel for welding",
-          "min": 1000,
-          "max": 3000,
+          "description": "Sound - Extra cables (XLR, power, adapters)",
+          "min": 0,
+          "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Wood for wagon Build",
+          "description": "Sound - Hay bales for sound mitigation (from BL?)",
           "min": 500,
           "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "Shiny Golden Paint",
-          "min": 500,
-          "max": 800,
+          "description": "Build - Bedouin Tent (7.5x10m)",
+          "min": 11000,
+          "max": 13000,
           "type": "EXPENSE"
         },
         {
-          "description": "Golden decorations",
-          "min": 1000,
-          "max": 1998,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Shower heads",
-          "min": 500,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Participation prizes (Themed soap bars)",
-          "min": 2000,
-          "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Shower Curtains",
-          "min": 400,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Kareoke System",
-          "min": 6184,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Storage",
-          "min": 4000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transportation (Car Rental)",
-          "min": 4000,
-          "max": 7000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Kabelvinda 20 m",
-          "min": 599,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Golden Outfits",
+          "description": "Build - Decorations for tent (fairy lights, colors, bulbs)",
           "min": 1000,
           "max": 2000,
           "type": "EXPENSE"
+        },
+        {
+          "description": "Build - Hazer + fluid (model unknown)",
+          "min": 1000,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Build - Spare parts",
+          "min": 0,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Build - Tarps & weather protection",
+          "min": 1000,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Build - Ground anchoring (rope, stakes, straps)",
+          "min": 0,
+          "max": 300,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Build - Carpets",
+          "min": 1500,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Build - Cushions, blankets, mattresses",
+          "min": 1000,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Bar - Electrolytes, water dispensers (cucumber/lemon water etc)",
+          "min": 1000,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Bar - Fresh fruit",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Extras - 400 Earplugs",
+          "min": 0,
+          "max": 400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Logistics - Truck transport + wagon (EU-pallets) & fuel",
+          "min": 2000,
+          "max": 6000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Logistics - Transport cart (on-site)",
+          "min": 0,
+          "max": 1200,
+          "type": "EXPENSE"
         }
       ],
-      "funded": 20000,
-      "percentageFundedTrue": 84.45
+      "funded": 45500,
+      "percentageFundedTrue": 122.97
     },
     {
       "id": "cmmqecrq2000hcwrrtdq7srmp",
@@ -18560,7 +18509,7 @@
           }
         },
         {
-          "value": "Prof. Bill-Man\n\nAvailable via e-mail: [sweet-spot@terpumos.de](mailto:sweet-spot@terpumos.de)",
+          "value": "Prof. Bill-Man\n\nAvailable via e-mail: [nicholaskemp0@gmail.com](mailto:nicholaskemp0@gmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
@@ -21471,38 +21420,41 @@
       "percentageFundedTrue": 80
     },
     {
-      "id": "cmnw50mrb003o69ep2gzxzon4",
-      "title": "Reverse Pick-Pocketing",
-      "summary": "Slip in the role of an undercover gifter. Learn tricks and dance-moves to distract and secretly gift your victims.",
-      "status": "FUNDED",
-      "noOfFunders": 16,
+      "id": "cmnt8n5e3002wgc817nesbw0w",
+      "title": "The Communal Absolution Station",
+      "summary": "A cheeky confessional where Burners share a sin with Daddy Burn, spin the Butt of Fate, and receive a blessing or punishment (😉) in a consent-based ritual.",
+      "status": "COMPLETED",
+      "noOfFunders": 29,
       "noOfComments": 0,
       "percentageFunded": 100,
-      "minGoal": 550,
-      "maxGoal": 550,
+      "minGoal": 2865,
+      "maxGoal": 2865,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776021938/dreams/izqmbchb5lb9yhifeg1u.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022088/dreams/idfhmxf2qdlubrtol8fi.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022148/dreams/ntkeut0efronlrtkxjjp.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Very low. Laughter will be the loudest",
+          "value": "The Communal Absolution Station will take place at a fixed location either close to our camp or more towards the hotspots and is designed to integrate harmoniously with its surroundings. We will coordinate with neighboring camps and the placement team to ensure a respectful setup.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "If Club Sin is interested, we’d love to collaborate by offering sinners who visit our Communal Absolution Station a ‘Letter of Absolution,’ which can be redeemed for a drink at the Sin Bar.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Low, unless your fate makes you scream very loud ✋",
           "customField": {
             "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Dream is not stational. It is a pop up and everything will be left cleaner as found if that is possible :)",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Not needed.",
-          "customField": {
-            "name": "Electricity"
           }
         },
         {
@@ -21512,35 +21464,102 @@
           }
         },
         {
-          "value": "The Reverse Pick-Pocketing Workshop will take place at a fixed location either in an open tent in our camp and is designed to integrate harmoniously with its surroundings. The experience is interactive. The tent will be coordinated with neighboring camps and the placement team to ensure a respectful setup.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Very safe. No tools, just consent touches.",
+          "value": "Very safe because consent comes first 😇",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Seebo\n\nYou can contact me via mail or phone.\n\n[sebastian.rappel@gmail.com](mailto:sebastian.rappel@gmail.com)\n\n0049 176 363 012 59",
+          "value": "@Seebo  \n+49 176 363 012 59  \nsebastian.rappel@gmail.com",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Step into the role of an undercover gifter and discover the playful art of secretly surprising others.\n\nIn this interactive group workshop, you'll learn how to discreetly place small gifts on people—without them noticing—using a combination of clever techniques, timing, and movement.\n\nWe’ll explore three practical stages of reverse pick-pocketing, based on the type and physical characteristics of the gift. Together, we’ll practice how to handle different objects, adapt your approach, and use simple but effective distraction techniques and body movements to stay unnoticed.\n\nThis workshop is highly participative and hands-on—expect to practice in pairs and small groups, laugh a lot, and sharpen your awareness and coordination.\n\n**What to bring / wear:**  \nParticipants are encouraged to wear at least one piece of clothing with wide or easily accessible pockets (e.g. jackets, hoodies, cargo pants), as this will make practicing more effective and fun.\n\nNo prior experience needed—just curiosity, playfulness and respect for others.",
+          "value": "Everything we bring is temporary and will be removed after each activation and fully packed down at the end of the event. We’ll clean the area and follow the Leave No Trace principle.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Yes, we require a small amount of grid electricity (around 1 KW) for a fog machine, lighting, and low-volume music.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Our dream is a cheeky and immersive ritual of sin and absolution. Sinners are invited to step into the world of Daddy Burn, where they can confess their misdeeds to our charismatic Priest. Those seeking redemption may receive a playful punishment from the Priest or be sent to spin the legendary Butt (Wheel) of Fate, surrendering themselves to fate. For those who simply wish to indulge in their sinful side, participation without absolution is equally welcome.\n\nSinners may be rewarded with sensual blessings 😇 like massages or face consensual punishments 😈",
           "customField": {
             "name": "Description"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Game"
+        },
+        {
+          "value": "Healing"
+        },
+        {
+          "value": "NOT kids-friendly"
+        },
+        {
+          "value": "Performance"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Sex positive"
+        },
+        {
+          "value": "Wellness"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "50% Funding for Gifts for exercizes that can be kept by the participants Afterwards",
-          "min": 550,
+          "description": "Shower tent",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Print materials for absolution letters",
+          "min": 325,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "20 % transport ",
+          "min": 325,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Incense, dispenser, coal",
+          "min": 300,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Decoration",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Massage oil",
+          "min": 215,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Misc. ",
+          "min": 200,
           "max": null,
           "type": "EXPENSE"
         }
@@ -32311,7 +32330,7 @@
           }
         },
         {
-          "value": "Prof. Bill-Man  \nContact via e-mail: [sweet-spot@terpumos.de](mailto:sweet-spot@terpumos.de)",
+          "value": "Prof. Bill-Man  \nContact via e-mail: [nicholaskemp0@gmail.com](mailto:nicholaskemp0@gmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
@@ -32982,150 +33001,116 @@
       "percentageFundedTrue": 539.6
     },
     {
-      "id": "cmnujif1c00044txfej57ytju",
-      "title": "The Hills Lakeside Sauna, Shower & Swim Collaboration Plaza (lead by Magic Banya) ",
-      "summary": "The lakeside gets busy, towels wander off, and bags disappear into the grass. We’d love to gift benches, hooks, and a soft landing space for wet hippies 🌊",
+      "id": "cmnw17qjv00ej71wlrgdj25x4",
+      "title": "Borderland Marathon",
+      "summary": "7 laps around the edges of Borderland. 42 km (because, 42-meaning of life) on Friday. Another sweaty idea that somehow makes perfect sense. Because, why not",
       "status": "FUNDED",
-      "noOfFunders": 80,
-      "noOfComments": 4,
-      "percentageFunded": 103.35,
-      "minGoal": 6000,
-      "maxGoal": 48500,
+      "noOfFunders": 18,
+      "noOfComments": 2,
+      "percentageFunded": 100,
+      "minGoal": 7100,
+      "maxGoal": 7100,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776592642/dreams/zuzuvcogvtvdef3k5g7t.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776015578/dreams/fpucws3qui6y3xu0h3x0.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776587091/dreams/qdje8szrcivjmt3igiyw.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776592630/dreams/bbr1rmysr57vlzpjufyt.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776585090/dreams/ao7z6tbmo62mwzhaiib8.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776587122/dreams/ypodtdkdynqjzfdtw6pa.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776015973/dreams/w9zh8jhzyewgqw6slsto.png"
         }
       ],
       "customFields": [
         {
-          "value": "# **MAGIC BANYA (& whoever would love to co-create the plaza)**",
+          "value": "The checkpoints will be taken down on Saturday",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "Coral Ljunggren (ljucor@gmail.com)",
+          "value": "Marcurious on Discord",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Expected to be battery-powered only.",
+          "value": "Nope",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "We’re in dialogue with nearby sauna camps about shaping a shared lakeside commons atmosphere around the bathing area and pier.\n\nTogether we’re exploring adding more shared benches and hooks near the water to support changing, resting, and gathering between swims.\n\nThe intention is to make the shoreline easier to use and more welcoming for everyone passing through. What takes shape will grow through collaboration with neighboring camps and depend on shared resources and energy available on site 🌿🌊",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "### Lakeside Plaza – A Calm Transition Space by the Water\n\nHippies need a place to land after all the intense JOMO of Borderland — and what better place than by the lake? Right now the shoreline gets a little chaotic as people swim, dry off, change, and wonder where they left their stuff. It could use a soft place to pause.\n\nMagic Banya is already building modular benches and hooks for our changing area, and we’d love to extend this gift to the lakeside by adding:\n\n• shared seating benches  \n• hooks for towels and bags  \n• a small rain/shade structure  \n• a simple rinse station to keep glitter out of the lake  \n• floating lounge mats for drifting, resting, and drying in the sun\n\nThe intention is simple: make the lakeside a gentler transition space between water and land — calmer, kinder, and easier to share together 🌿\n\nWe’re coordinating with nearby camps and neighbors to co-create this as a communal space that stays open and welcoming for everyone.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "This space is meant as a shared gift for all Borderlanders, not something belonging to one camp. Because of that, co-existence and co-creation are central to how we imagine it.\n\nThe Lakeside Plaza sits in a naturally high-traffic transition area between swimming, resting, and moving along the shoreline, so our intention is to support the existing flow rather than reshape it. Benches, hooks, and simple structures will be placed to stay open, accessible, and easy to share.\n\nWe’re already in dialogue with nearby sauna camps and neighbors and will continue coordinating placement together so the space supports the wider lakeside atmosphere and works well for everyone using the area 🌿🌊",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "none more than what the hippies bring with them",
+          "value": "Cheers, and grunts.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Benches will be constructed and placed as to assure no hippies come to harm.",
+          "value": "Everyone should make sure they don't exhaust themselves (too much). Sanctuary will be informed.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "*   Full strike on Sunday, with the final people leaving on Monday\n    \n*   All materials removed and packed down\n    \n    Everything that Magic Banya brings will be stored with us!",
+          "value": "Have you ever wanted to experience Borderland sober(ish) and slightly delirious at the same time?\n\nNow you can.\n\nWe want to make the first ever **Borderland Marathon** happen: **7 laps around the outer edges of the land, around 42 km in total**. Mostly because... why not.\n\nIt is about seeing Borderland and its land in a new way. A new path through the forests, those lazy camps waking up, the mud, the silence, the cheering, and do crazy things together, again\n\nYou do not have to be fast. It's not a “race.” You just have to put one foot in front of the other, be a bit crazy and do something unforgettable together.\n\n**Every finisher is a winner.**",
           "customField": {
-            "name": "Strike plan"
+            "name": "Description"
+          }
+        },
+        {
+          "value": "Bringing sweat, tears and joy around Borderland.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "People and camps are encouraged to make the checkpoints more interesting, bring water, other beverages or snacks, cheer people on, make signs, join for a lap, or give a lapdance...\n\nReach out if you are camped along or close to the purple road and want to host a checkpoint/food/drink stand",
+          "customField": {
+            "name": "Co-creation"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Chillout"
-        },
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Healing"
-        },
-        {
-          "value": "Meditation"
-        },
-        {
-          "value": "Pimping station"
-        },
-        {
-          "value": "Wellness"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Shelves & hooks for clothing",
-          "min": 2000,
-          "max": 17000,
+          "description": "stamps for checkpoints",
+          "min": 600,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Lounging chairs",
-          "min": 500,
-          "max": 5000,
+          "description": "pins/patches for finishers",
+          "min": 900,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Ropes & Anchors & shade structure",
-          "min": 500,
-          "max": 5000,
+          "description": "energy bars",
+          "min": 1800,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Benches",
-          "min": 1000,
-          "max": 10000,
+          "description": "bananas",
+          "min": 700,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Construction materials",
-          "min": 500,
-          "max": 2500,
+          "description": "water jugs",
+          "min": 800,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Transport and storage",
-          "min": 1000,
-          "max": 6000,
+          "description": "Number signs",
+          "min": 600,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Decorations & Lighting",
-          "min": 500,
-          "max": 3000,
+          "description": "energy drink powder",
+          "min": 1700,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
@@ -52227,121 +52212,218 @@
       "percentageFundedTrue": 76.56
     },
     {
-      "id": "cmnw17qjv00ej71wlrgdj25x4",
-      "title": "Borderland Marathon",
-      "summary": "7 laps around the edges of Borderland. 42 km (because, 42-meaning of life) on Friday. Another sweaty idea that somehow makes perfect sense. Because, why not",
+      "id": "cmnobc3yi000014581gkdct5w",
+      "title": "Golden Shower Sing-A-Long",
+      "summary": "Step in the shower, get down on your knees, open your mouth wide and SING YOUR HEART OUT in our “Golden Shower Sing-A-Long”",
       "status": "FUNDED",
-      "noOfFunders": 18,
-      "noOfComments": 2,
-      "percentageFunded": 100,
-      "minGoal": 7100,
-      "maxGoal": 7100,
-      "income": 0,
+      "noOfFunders": 63,
+      "noOfComments": 4,
+      "percentageFunded": 184.44,
+      "minGoal": 23683,
+      "maxGoal": 35481,
+      "income": 20000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776015578/dreams/fpucws3qui6y3xu0h3x0.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775566996/dreams/r6r2bcarxmizmpqmk1a5.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776015973/dreams/w9zh8jhzyewgqw6slsto.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776345566/dreams/hoyyfzwzv7bnfwnolama.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775567073/dreams/vastyyz1eexpk65s1ka2.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775567757/dreams/tjkpkq7j0dkimhe3iawx.png"
         }
       ],
       "customFields": [
         {
-          "value": "The checkpoints will be taken down on Saturday",
+          "value": "This dream is not part of a specific camp but will rather be a pop up dream here or there.",
           "customField": {
-            "name": "Strike plan"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Marcurious on Discord",
+          "value": "We are open to co-create this dream. We're looking for:\n\n*   Help with construction (around Gothenburg area).\n    \n*   Transportation - To and from Borderland.\n    \n*   Idea spawning for further development and design.\n    \n*   Operators, while at Borderland. We want more people to help operate the rolling kareoke.\n    \n*   Crowdsourcing materials.\n    \n*   Celine Dions and Pavarottis to use the Golden Shower.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "Nope",
+          "value": "**DJI 2000** - 1800W\n\n**Ikaro Break X1** - 25W\n\n**Projector** - 400W\n\nTotal: **2225 W - While charging during night**",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Cheers, and grunts.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Everyone should make sure they don't exhaust themselves (too much). Sanctuary will be informed.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Have you ever wanted to experience Borderland sober(ish) and slightly delirious at the same time?\n\nNow you can.\n\nWe want to make the first ever **Borderland Marathon** happen: **7 laps around the outer edges of the land, around 42 km in total**. Mostly because... why not.\n\nIt is about seeing Borderland and its land in a new way. A new path through the forests, those lazy camps waking up, the mud, the silence, the cheering, and do crazy things together, again\n\nYou do not have to be fast. It's not a “race.” You just have to put one foot in front of the other, be a bit crazy and do something unforgettable together.\n\n**Every finisher is a winner.**",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Bringing sweat, tears and joy around Borderland.",
+          "value": "The Golden Shower Sing-A-Long is a rolling kareoke. The dream is not intended be used with high volume around the camping area but instead will be operated a bit away from camping tents in order not to disturb fellow burners. If people will be bother we will simply roll the rolling kareoke away further down the playa.\n\nYes - it will make noise. Whether it's good or bad, it's up to the singer in the shower and in the ears of the beholder.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "People and camps are encouraged to make the checkpoints more interesting, bring water, other beverages or snacks, cheer people on, make signs, join for a lap, or give a lapdance...\n\nReach out if you are camped along or close to the purple road and want to host a checkpoint/food/drink stand",
+          "value": "Alexander Westerlund, [goldenshowersingalong@gmail.com](mailto:goldenshowersingalong@gmail.com)",
           "customField": {
-            "name": "Co-creation"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "The sound system will not exceed 800 W effekt output. (IKARAO Break X1)",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Antislip mats in the shower. The trolley the shower will be mounted on will not be too high and it will not move while being used. Also as any shower, we will use caution.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Singing brings joy to your heart and others. It's one of the best way to get into a good mood before hitting the playa or to get a last release before going to bed. The Golden Shower offers you exacly that. Find the rolling kareoke on your way on the playa, jump in the shower and impress your friends with a peak performance! **(Incredible performances will be rewarded)**\n\nThe two microphone kareoke system comes with an internal screen for the singers but we will also project the lyrics onto a wider surface so that everybody can sing a long to the songs.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "The dream will be delivered and removed in two sections, all fitting within the same trolley it arrives in. We'll make sure we LNT and potentially Moop anything slipping through our fingers.",
+          "customField": {
+            "name": "Strike plan"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Art vehicle"
+        },
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Healing"
+        },
+        {
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Kids-friendly"
+        },
+        {
+          "value": "Looking for content"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "Performance"
+        },
+        {
+          "value": "Soundcamp"
+        },
+        {
+          "value": "Wellness"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "stamps for checkpoints",
-          "min": 600,
+          "description": "DJI Power 2000",
+          "min": 14000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Projector",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Party Lights",
+          "min": 1000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Wagon",
+          "min": 2000,
+          "max": 4000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Used steel for welding",
+          "min": 1000,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wood for wagon Build",
+          "min": 500,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Shiny Golden Paint",
+          "min": 500,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Golden decorations",
+          "min": 1000,
+          "max": 1998,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Shower heads",
+          "min": 500,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Participation prizes (Themed soap bars)",
+          "min": 2000,
+          "max": 3000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Shower Curtains",
+          "min": 400,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "pins/patches for finishers",
-          "min": 900,
+          "description": "Kareoke System",
+          "min": 6184,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "energy bars",
-          "min": 1800,
+          "description": "Storage",
+          "min": 4000,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "bananas",
-          "min": 700,
+          "description": "Transportation (Car Rental)",
+          "min": 4000,
+          "max": 7000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Kabelvinda 20 m",
+          "min": 599,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "water jugs",
-          "min": 800,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Number signs",
-          "min": 600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "energy drink powder",
-          "min": 1700,
-          "max": null,
+          "description": "Golden Outfits",
+          "min": 1000,
+          "max": 2000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 20000,
+      "percentageFundedTrue": 84.45
     },
     {
       "id": "cmnvx0qzm000gkw4yj2fxmjea",
@@ -61487,7 +61569,7 @@
       "id": "cmnw2grx3007cuh6uxaw0opc9",
       "title": "Bow, strings, spring reverbs and drums",
       "summary": "Instrument / art piece / experience. Acoustic bow and string instrument with a physical spring reverb.",
-      "status": "FUNDED",
+      "status": "COMPLETED",
       "noOfFunders": 24,
       "noOfComments": 2,
       "percentageFunded": 381.25,
@@ -72508,162 +72590,150 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmn3c37ea0005ltdg7tbiyfi0",
-      "title": "Iris the Forest Guardian",
-      "summary": "Have you heard the tales of Iris, the Forest Guardian of Alversjö? ",
+      "id": "cmnujif1c00044txfej57ytju",
+      "title": "The Hills Lakeside Sauna, Shower & Swim Collaboration Plaza (lead by Magic Banya) ",
+      "summary": "The lakeside gets busy, towels wander off, and bags disappear into the grass. We’d love to gift benches, hooks, and a soft landing space for wet hippies 🌊",
       "status": "FUNDED",
-      "noOfFunders": 39,
-      "noOfComments": 1,
-      "percentageFunded": 100,
-      "minGoal": 9950,
-      "maxGoal": 17500,
+      "noOfFunders": 80,
+      "noOfComments": 4,
+      "percentageFunded": 103.35,
+      "minGoal": 6000,
+      "maxGoal": 48500,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776028259/dreams/vhqa9eroci4umuqneqky.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776592642/dreams/zuzuvcogvtvdef3k5g7t.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776545739/dreams/rjzsj7b7mvxhll70lhyg.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776587091/dreams/qdje8szrcivjmt3igiyw.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776592630/dreams/bbr1rmysr57vlzpjufyt.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776585090/dreams/ao7z6tbmo62mwzhaiib8.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776587122/dreams/ypodtdkdynqjzfdtw6pa.png"
         }
       ],
       "customFields": [
         {
-          "value": "The Observatory",
+          "value": "# **MAGIC BANYA (& whoever would love to co-create the plaza)**",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "We've designed her to be built in three segments. These will be put together at the end to reduce the need to work at height. We’ll make sure she is checked, maintained, and cared for throughout.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Adam Thyssen - contact on email: adamp.thyssen@gmail.com",
+          "value": "Coral Ljunggren (ljucor@gmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "After the event, our team will lovingly return Iris to the realm from which she came. In more practical terms: we will dismantle her structure, remove all materials and decor, and do a thorough sweep of the area for any leftover bits and dream-debris.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "She is a quiet peaceful presence who protects and watches over the Borderlings. She is sturdy and static and will be kind to all neighbours who are kind to her. We are more than happy to stay in dialogue with neighbouring camps to ensure she is situated well in the landscape and contributes positively to the atmosphere around her.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We may need a small amount of electricity for the soundscape and possibly some simple lighting, but our needs will be modest.",
+          "value": "Expected to be battery-powered only.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Iris doesn't have a large sound system. We’ll keep it respectful to neighbors and the wider environment.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Yes! We would love support to create Iris. Foragers and woodworkers welcome to craft and adorn our guardian spirit.",
+          "value": "We’re in dialogue with nearby sauna camps about shaping a shared lakeside commons atmosphere around the bathing area and pier.\n\nTogether we’re exploring adding more shared benches and hooks near the water to support changing, resting, and gathering between swims.\n\nThe intention is to make the shoreline easier to use and more welcoming for everyone passing through. What takes shape will grow through collaboration with neighboring camps and depend on shared resources and energy available on site 🌿🌊",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "**Have you heard the tales of Iris, the Forest Guardian?** This year, she may emerge from the animate woodlands of Alversjö to join us in frivolity and fun.\n\nBut Forest Guardians aren't quite so easily summoned...\n\nSo to encourage her to appear, we need your support.\n\nWhen we asked Iris to take shape during this year's Borderland, she agreed on two conditions:\n\n1.  She wants to be crafted mostly from the living textures of the surrounding forest.\n    \n2.  She wants Borderlings to be allowed to see the world through her eyes.\n    \n\nA protector of land and people, Iris will rise from materials of the surrounding woodlands. Part creature, part shelter, she is a space you can crawl into and explore. Inside her, you will find cushioning, an ambient soundscape, and a view through her eyes. Dissolve into her cushioned tipi-skirt, rest in her body, peek through her internal periscope to observe fellow borderlings below from the viewpoint of a great protective being.\n\nTo help bring Iris into being, we need your support!",
+          "value": "### Lakeside Plaza – A Calm Transition Space by the Water\n\nHippies need a place to land after all the intense JOMO of Borderland — and what better place than by the lake? Right now the shoreline gets a little chaotic as people swim, dry off, change, and wonder where they left their stuff. It could use a soft place to pause.\n\nMagic Banya is already building modular benches and hooks for our changing area, and we’d love to extend this gift to the lakeside by adding:\n\n• shared seating benches  \n• hooks for towels and bags  \n• a small rain/shade structure  \n• a simple rinse station to keep glitter out of the lake  \n• floating lounge mats for drifting, resting, and drying in the sun\n\nThe intention is simple: make the lakeside a gentler transition space between water and land — calmer, kinder, and easier to share together 🌿\n\nWe’re coordinating with nearby camps and neighbors to co-create this as a communal space that stays open and welcoming for everyone.",
           "customField": {
             "name": "Description"
+          }
+        },
+        {
+          "value": "This space is meant as a shared gift for all Borderlanders, not something belonging to one camp. Because of that, co-existence and co-creation are central to how we imagine it.\n\nThe Lakeside Plaza sits in a naturally high-traffic transition area between swimming, resting, and moving along the shoreline, so our intention is to support the existing flow rather than reshape it. Benches, hooks, and simple structures will be placed to stay open, accessible, and easy to share.\n\nWe’re already in dialogue with nearby sauna camps and neighbors and will continue coordinating placement together so the space supports the wider lakeside atmosphere and works well for everyone using the area 🌿🌊",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "none more than what the hippies bring with them",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Benches will be constructed and placed as to assure no hippies come to harm.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "*   Full strike on Sunday, with the final people leaving on Monday\n    \n*   All materials removed and packed down\n    \n    Everything that Magic Banya brings will be stored with us!",
+          "customField": {
+            "name": "Strike plan"
           }
         }
       ],
       "tags": [
         {
-          "value": "Art installation"
-        },
-        {
-          "value": "Art walk apropriate"
+          "value": "Chillout"
         },
         {
           "value": "Experience"
         },
         {
-          "value": "Hippie trap"
+          "value": "Healing"
         },
         {
           "value": "Meditation"
+        },
+        {
+          "value": "Pimping station"
+        },
+        {
+          "value": "Wellness"
         }
       ],
       "budgetItems": [
         {
-          "description": "Papier mache head",
-          "min": 700,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Metal eyes",
-          "min": 300,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Periscope pieces",
-          "min": 850,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wooden poles",
+          "description": "Shelves & hooks for clothing",
           "min": 2000,
+          "max": 17000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Lounging chairs",
+          "min": 500,
           "max": 5000,
           "type": "EXPENSE"
         },
         {
-          "description": "Wash lighting",
-          "min": 850,
-          "max": 2000,
+          "description": "Ropes & Anchors & shade structure",
+          "min": 500,
+          "max": 5000,
           "type": "EXPENSE"
         },
         {
-          "description": "Jute rug",
-          "min": 700,
-          "max": 1000,
+          "description": "Benches",
+          "min": 1000,
+          "max": 10000,
           "type": "EXPENSE"
         },
         {
-          "description": "Cosy pillows ",
-          "min": 700,
-          "max": 1500,
+          "description": "Construction materials",
+          "min": 500,
+          "max": 2500,
           "type": "EXPENSE"
         },
         {
-          "description": "Screw driver and screw",
-          "min": 1250,
-          "max": 1500,
+          "description": "Transport and storage",
+          "min": 1000,
+          "max": 6000,
           "type": "EXPENSE"
         },
         {
-          "description": "Transportation of materials to site",
-          "min": 2000,
+          "description": "Decorations & Lighting",
+          "min": 500,
           "max": 3000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Binding materials",
-          "min": 200,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Inks",
-          "min": 400,
-          "max": 500,
           "type": "EXPENSE"
         }
       ],
@@ -74922,41 +74992,38 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnt8n5e3002wgc817nesbw0w",
-      "title": "The Communal Absolution Station",
-      "summary": "A cheeky confessional where Burners share a sin with Daddy Burn, spin the Butt of Fate, and receive a blessing or punishment (😉) in a consent-based ritual.",
-      "status": "FUNDED",
-      "noOfFunders": 29,
+      "id": "cmnw50mrb003o69ep2gzxzon4",
+      "title": "Reverse Pick-Pocketing",
+      "summary": "Slip in the role of an undercover gifter. Learn tricks and dance-moves to distract and secretly gift your victims.",
+      "status": "COMPLETED",
+      "noOfFunders": 16,
       "noOfComments": 0,
       "percentageFunded": 100,
-      "minGoal": 2865,
-      "maxGoal": 2865,
+      "minGoal": 550,
+      "maxGoal": 550,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022088/dreams/idfhmxf2qdlubrtol8fi.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776022148/dreams/ntkeut0efronlrtkxjjp.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776021938/dreams/izqmbchb5lb9yhifeg1u.png"
         }
       ],
       "customFields": [
         {
-          "value": "The Communal Absolution Station will take place at a fixed location either close to our camp or more towards the hotspots and is designed to integrate harmoniously with its surroundings. We will coordinate with neighboring camps and the placement team to ensure a respectful setup.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "If Club Sin is interested, we’d love to collaborate by offering sinners who visit our Communal Absolution Station a ‘Letter of Absolution,’ which can be redeemed for a drink at the Sin Bar.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Low, unless your fate makes you scream very loud ✋",
+          "value": "Very low. Laughter will be the loudest",
           "customField": {
             "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Dream is not stational. It is a pop up and everything will be left cleaner as found if that is possible :)",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Not needed.",
+          "customField": {
+            "name": "Electricity"
           }
         },
         {
@@ -74966,102 +75033,35 @@
           }
         },
         {
-          "value": "Very safe because consent comes first 😇",
+          "value": "The Reverse Pick-Pocketing Workshop will take place at a fixed location either in an open tent in our camp and is designed to integrate harmoniously with its surroundings. The experience is interactive. The tent will be coordinated with neighboring camps and the placement team to ensure a respectful setup.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Very safe. No tools, just consent touches.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "@Seebo  \n+49 176 363 012 59  \nsebastian.rappel@gmail.com",
+          "value": "Seebo\n\nYou can contact me via mail or phone.\n\n[sebastian.rappel@gmail.com](mailto:sebastian.rappel@gmail.com)\n\n0049 176 363 012 59",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Everything we bring is temporary and will be removed after each activation and fully packed down at the end of the event. We’ll clean the area and follow the Leave No Trace principle.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Yes, we require a small amount of grid electricity (around 1 KW) for a fog machine, lighting, and low-volume music.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Our dream is a cheeky and immersive ritual of sin and absolution. Sinners are invited to step into the world of Daddy Burn, where they can confess their misdeeds to our charismatic Priest. Those seeking redemption may receive a playful punishment from the Priest or be sent to spin the legendary Butt (Wheel) of Fate, surrendering themselves to fate. For those who simply wish to indulge in their sinful side, participation without absolution is equally welcome.\n\nSinners may be rewarded with sensual blessings 😇 like massages or face consensual punishments 😈",
+          "value": "Step into the role of an undercover gifter and discover the playful art of secretly surprising others.\n\nIn this interactive group workshop, you'll learn how to discreetly place small gifts on people—without them noticing—using a combination of clever techniques, timing, and movement.\n\nWe’ll explore three practical stages of reverse pick-pocketing, based on the type and physical characteristics of the gift. Together, we’ll practice how to handle different objects, adapt your approach, and use simple but effective distraction techniques and body movements to stay unnoticed.\n\nThis workshop is highly participative and hands-on—expect to practice in pairs and small groups, laugh a lot, and sharpen your awareness and coordination.\n\n**What to bring / wear:**  \nParticipants are encouraged to wear at least one piece of clothing with wide or easily accessible pockets (e.g. jackets, hoodies, cargo pants), as this will make practicing more effective and fun.\n\nNo prior experience needed—just curiosity, playfulness and respect for others.",
           "customField": {
             "name": "Description"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Game"
-        },
-        {
-          "value": "Healing"
-        },
-        {
-          "value": "NOT kids-friendly"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Sex positive"
-        },
-        {
-          "value": "Wellness"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Shower tent",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Print materials for absolution letters",
-          "min": 325,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "20 % transport ",
-          "min": 325,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Incense, dispenser, coal",
-          "min": 300,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Decoration",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Massage oil",
-          "min": 215,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Misc. ",
-          "min": 200,
+          "description": "50% Funding for Gifts for exercizes that can be kept by the participants Afterwards",
+          "min": 550,
           "max": null,
           "type": "EXPENSE"
         }
