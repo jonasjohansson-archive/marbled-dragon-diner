@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786689120656,
+  "updatedAt": 1786774143534,
   "buckets": [
     {
       "id": "cmlo6634a0008rt2anbi3sfdz",
@@ -3461,97 +3461,164 @@
       "percentageFundedTrue": 363.64
     },
     {
-      "id": "cmnuagy910002hzq4d9mmk35i",
-      "title": "Tensegrity Art",
-      "summary": "An artwork that is suspended into itself, hanging in the air. For a higher budget we will add electronics and plats to it.",
+      "id": "cmnoq41as0022xnznbk1cltsr",
+      "title": "DanSINg  - Club Sin",
+      "summary": "A roofed 10×10 meter dance floor, where the sinful, the silly, and the sexy collide, and DJs and live acts take you from day into night.",
       "status": "FUNDED",
-      "noOfFunders": 9,
-      "noOfComments": 2,
-      "percentageFunded": 100,
-      "minGoal": 1800,
-      "maxGoal": 4800,
-      "income": 0,
+      "noOfFunders": 169,
+      "noOfComments": 3,
+      "percentageFunded": 175.37,
+      "minGoal": 47813,
+      "maxGoal": 75512,
+      "income": 36040,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775909340/dreams/d92ethighjjhifadvl0f.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775862289/dreams/fggm1nf86dcnciefh60n.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775909350/dreams/ab9949ivqj4jjwqyhmxv.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775938236/dreams/atq8zpdlsrbzbatjvu4r.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775938335/dreams/adb9wmgqf2n4yuk0mu5t.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775938183/dreams/omml2koevchssuc7uvfl.png"
         }
       ],
       "customFields": [
         {
-          "value": "An artwork hanging in itself, suspended in the air, imagine stumbling onto this on a Friday night!  \n  \nFor the base-level, it will be made of wood and chains, for a slightly higher budget we will add lights and possibly plants to it!",
+          "value": "![](https://res.cloudinary.com/dreamswtf/image/upload/v1775865868/dreams/oyx9kv7w5ayph2hhrclb.jpg)  \nWe aim to cluster with other camps exploring S+ themes, contributing to the creation of a 18+ zone within the Bison neighbourhood.\n\nWe plan for danSINg to run until 02:00 on weekdays and until 04:00 on weekends, though not necessarily every night. We will position ourselves in an “orange” spot according to this year's sound schedule.\n\nTo support coexistence with our neighbours, we will implement sound mitigation measures such as tilted speaker setups, directional sub setup, and, if possible, physical sound barriers like hay bales. Sound will be directed toward the south-west, away from complaining outside neighbours.\n\nWe are also part of pre-placement process, and open to dialogue for co-creation.",
           "customField": {
-            "name": "Description"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "Possibly some if we add lights, but most likely it will be able to run on batteries.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "We will most likely burn the wood. Electronics will be kept in DreamStorage in Stockholm to be re-used.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "We will use chains to anchor it to the ground so it won't fall over.",
+          "value": "We will follow fire safety procedures, and ensure that all lighting and power cables are properly secured. We have appointed power and safety leads and will bring our own PDUs.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "none",
+          "value": "Everything we bring, we will take back with care. A strike lead will be responsible for ensuring a smooth teardown and packing process. Reusable bulky items will be stored in a container in Alversjö, while the rest will be taken back and stored safely in Gothenburg.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "The total RMS power of our sound system is 7000W, with the smoke machine, DJ equipment, mixer, and lighting, the peak power consumption is 9000 W.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "We will have a relatively powerful sound system consist of 3 18\" subs and 4 15\" tops, however we will follow the dB levels and sound schedule assigned to our location.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Anyone who wants to build and has ideas!",
+          "value": "The Club SIN dance floor is conceived as a co-created space. DanSINg offers a platform for DJs, musicians who want to perform live, vocalists, dancers, and performers to co-create the magic together.\n\nDo you want to perform at danSINg? Please fill [this](https://forms.gle/nvVCxv1ek2sZN33J9) form.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "It can stand anywhere.",
+          "value": "Aurimas @Amadeus amadeus00330 on discord\n\nFor detailed budget please check the [link](https://docs.google.com/spreadsheets/d/1O6cO7D64t_AxszPsiIui6F9kl1ezzyRMNG63HUKFWKY/edit?usp=sharing): [https://tinyurl.com/ycy7aesz](https://tinyurl.com/ycy7aesz)",
           "customField": {
-            "name": "Co-existence"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Have you committed sins, indulged in our juicy treats, and happily lost it all again at the casINo? Good. Now it’s time to lose yourself — to forget and to remember forever.\n\nOn Club SIN’s dance floor, you contribute to the collective delirium, a mass hysteria of messy, hot joy. As always at Club SIN, pleasure and pain, sexy and silly dance hand in hand (one after another and all at once). We bring you the sounds of the most wicked DJs of Borderland: disco, funk, house.\n\nDo you also wish there was more live music at Borderland? Well, seek no more:\n\nBuilt to shelter you from rain, wind, and the burdens of default life, our 10×10 m covered dance temple will tempt you with live music performances as the day turns into night. On one side, a large chill-out space invites you to soften and linger; on the other, a cage rises above flickering flames, with two poles inviting dancers to climb, spin, and ignite the night.\n\nChoose glittering disco, groovy house, cool jazz. Let it all out at danSINg!  \n\n![](https://res.cloudinary.com/dreamswtf/image/upload/v1775942934/dreams/grwxsdkwskennqdfkrpu.png)\n\n_There will be additions to last year's danSINg, a stage, a cage with two dance poles, and a large chill out area._",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "**Club SIN**\n\nClub SIN brings the charm of a decadent nightclub to the burn: twisted casino games, a sweaty dance floor, juicy workshops, wicked performances, and a bar full of treats. But nothing comes for free; you’ll need _sincoins_ to access it all: play at the casino, enjoy treats, join workshops, or enter the sex+ luxury lounge or afterparties. Earn them by committing sins or accepting punishments from our carefully curated menus.  \nClub SIN dreams: [danSINg](https://dreams.theborderland.se/borderland/dreams-2026/cmnoq41as0022xnznbk1cltsr?s=dansing&f=PENDING_APPROVAL&f=IDEA), [caSINo](https://dreams.theborderland.se/borderland/dreams-2026/cmnoqf1by002bxnzn07tkar8t), [SIN Bar](https://dreams.theborderland.se/borderland/dreams-2026/cmnoq0sjo001xxnznet8yelcp?s=sin&f=PENDING_APPROVAL&f=IDEA), [House of SIN](https://dreams.theborderland.se/borderland/dreams-2026/cmnoqgx2t000aoyfnkk1azusr?s=sin&f=PENDING_APPROVAL&f=IDEA), and [SIN Salabim](https://dreams.theborderland.se/borderland/dreams-2026/cmnoqi6s1001mbtyovxnh04lr?s=sin&f=PENDING_APPROVAL&f=IDEA).  \nFill this [form](https://forms.gle/5n8esnHMj151yxvH9) for membership application.",
+          "customField": {
+            "name": "This dream belongs to camp:"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "NOT kids-friendly"
+        },
+        {
+          "value": "Sex positive"
+        },
+        {
+          "value": "Soundcamp"
+        },
+        {
+          "value": "Theme camp"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Wood and chains",
-          "min": 1500,
+          "description": "Power and sound equipments, lights, some building material and dancing poles ",
+          "min": 36040,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Detailed budget: https://tinyurl.com/ycy7aesz",
+          "min": 0,
+          "max": 1,
           "type": "EXPENSE"
         },
         {
           "description": "Lights",
-          "min": 0,
-          "max": 1000,
+          "min": 16361,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Plants",
-          "min": 0,
-          "max": 2000,
+          "description": "Sound",
+          "min": 18288,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Logistics",
-          "min": 300,
+          "description": "Building material",
+          "min": 10164,
+          "max": 12164,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Decoration",
+          "min": 0,
+          "max": 2748,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Transportation",
+          "min": 0,
+          "max": 2500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Storage",
+          "min": 0,
+          "max": 20450,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Power cables",
+          "min": 3000,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 36040,
+      "percentageFundedTrue": 75.38
     },
     {
       "id": "cmnvzsalk00bp71wlyrnwniv6",
@@ -3940,107 +4007,132 @@
       "percentageFundedTrue": 77.6
     },
     {
-      "id": "cmnu7z165000za5hp80zzugp3",
-      "title": "The Blackwater Proxy Division, Borderland",
-      "summary": "Cultural influence through deniable agents & proxy-camps, and control of essential infrastructure",
+      "id": "cmnu0hl8g000334i9629q6ys6",
+      "title": "Gossip Gazette",
+      "summary": "Novel newspaper Gossip Gazette will keep you up-to-date with occasional deliveries of the latest news, rumours and hearsay right to your camp’s brunch table!",
       "status": "FUNDED",
-      "noOfFunders": 18,
-      "noOfComments": 0,
-      "percentageFunded": 114.16,
-      "minGoal": 1200,
-      "maxGoal": 7800,
+      "noOfFunders": 58,
+      "noOfComments": 1,
+      "percentageFunded": 100,
+      "minGoal": 9000,
+      "maxGoal": 10000,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906665/dreams/sfjro8ndi5pylj5hpvi4.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906689/dreams/bfcsvre3hlmam8nji6ij.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906697/dreams/anyplruewziry0ckkiox.webp"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775893866/dreams/brr0vnkbligoh2dh32cw.png"
         }
       ],
       "customFields": [
         {
-          "value": "The Blackwater Congressional Funding Committe",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "The Blackwater Proxy Division will, by nature, heavily influence Borderland - but in ways that are unnoticeable.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "0 db",
+          "value": "the clicking sounds of quick fingers typing on a keyboard",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Safety will be a factor in decision making, but potential political gains will take priority.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Quietly and effectively.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Our power consumption is included in other dreams and camps.",
+          "value": "The printing press does not run exclusively on the sweat of our volunteers. We need some juice to operate a printer.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "The BPD is a decentralized system for shaping culture at Borderland through embedded, deniable assets. Instead of direct control, it builds networks of individuals, camps, and **essential services** that appear independent but influence how Borderland functions to produce outcomes aligned with Blackwater's political and strategic goals.\n\n**Proxy Individuals** operate as participants—artists, organizers, or connectors—who naturally steer conversations, collaborations, and decisions.\n\n**Proxy Camps** act as cultural hubs. For example, a well-placed sound camp with reliable power becomes a nightly gathering point, setting music trends and social norms. A service camp offering shade, food, or workshops attracts key networks and information.\n\n**Proxy Realities** focus on infrastructure control:  \nWho gets prime placement near high traffic areas, which camps have stable power, where toilets are located, and how logistics flow. A camp with power and nearby sanitation thrives; one without quietly disappears. By shaping these conditions, the Division influences where people go, who succeeds, and what becomes culturally central.\n\nThe result is indirect but reliable control: behavior follows what is accessible, functional, and attractive.",
+          "value": "Printer and office supplies will be brought back with us.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Philippe. [gossipgazettebl@gmail.com](mailto:gossipgazettebl@gmail.com)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We´ll preferably set up our HQ somewhere in the barn. And you will of course meet our reporters in the field!",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "The Gossip Gazette is The Borderland´s very own newspaper.\n\nExpect relentless reporters revealing incendiary investigations, cunning critiques, frivolous fashion, cryptic crosswords, phony polls, false advertising and most importantly: the juiciest gossip available. High editorial standards include but are not limited to: consent, co-creation and complete confusion.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "\\>CLASSIFIED<",
+          "value": "Yes! Anyone is welcome to contribute with content, particularly even before the Borderland starts.\n\nHere´s a few suggestions: opinion pieces and critiques, dating profiles and match making, horoscopes, real or fake advertisements for workshops and happenings (where is the G-spot this year?), interviews and polls, crosswords and puzzles, comic strips, whatever you can dream up really.\n\nDo inform us in good time if you wish to co-create so we can reserve some space in the layouts. While we will of course appreciate anything that you send in, we cannot promise to include everything, particularly if it comes in very spontaneously during the week.\n\nContact your spin-doctors in chief Wanda and Philippe for collaboration: [gossipgazettebl@gmail.com](mailto:gossipgazettebl@gmail.com).",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Blackwater Operations",
+          "value": "Our high editorial standards include consent, co-creation and complete confusion. Accuracy and fact-checking 3rd.",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Safety"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Looking for content"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Weird shit"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Tent rental",
-          "min": 500,
-          "max": 1500,
+          "description": "Printer + toner",
+          "min": 3500,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Tables and chairs",
-          "min": 500,
-          "max": 1500,
+          "description": "Paper",
+          "min": 1000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Deco & accessories for undercover agents:",
+          "description": "pin board",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "office supplies (pens, sticky notes, highlighters, staplers etc)",
+          "min": 1000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "press badges",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "tiny camera",
           "min": 0,
-          "max": 3000,
+          "max": 500,
           "type": "EXPENSE"
         },
         {
-          "description": "Transportation ",
-          "min": 200,
-          "max": 1800,
+          "description": "voice recorder",
+          "min": 0,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "transport ",
+          "min": 2000,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
@@ -12922,166 +13014,140 @@
       "percentageFundedTrue": 48.78
     },
     {
-      "id": "cmnu1yxpw000933dalbkff0pg",
-      "title": "Bob-Up Café",
-      "summary": "This will be no camp. This will be an island for you to caffeinate. Get a compliment. Get a cuddle. Share a story. Give all of it back. ",
+      "id": "cmntgy30u0000q35ym5v0s2mv",
+      "title": "Lucifer's Armpit",
+      "summary": "Get your armpits done at Lucifer's pit!",
       "status": "FUNDED",
-      "noOfFunders": 30,
+      "noOfFunders": 19,
       "noOfComments": 0,
-      "percentageFunded": 217.69,
-      "minGoal": 7460,
-      "maxGoal": 13460,
-      "income": 8780,
+      "percentageFunded": 100,
+      "minGoal": 1460,
+      "maxGoal": 1460,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775894922/dreams/snxb0johz9x3n4e7jgfs.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775896354/dreams/zzhmfucatiivvs1ogyyf.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775896460/dreams/uufhrc3zcsqyqzhlvu1n.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775939286/dreams/xynsrms1ik8p8d0sfwsg.png"
         }
       ],
       "customFields": [
         {
-          "value": "Bob (my van) and me have been touring Europe for 5 years now and I always dreamt for him to become a Bob-up Space. And I drink Coffee. A lot of it. And I am seeing how us Northern Europeans just don't know how to give and take compliments. And I am a world class cuddler. And a storyteller.\n\nSo are you?\n\nCome by and get all of these things. Being a real Bob-up Pop-Up, the Café will be an island of stillness (only background tunes), cuddly space, I will provide all the coffee flavors (but handmade! It will be an analogue space in this digital world). I will provide a moment to rest. Hang. Unwind. While get caffeinated. No groups, no big workshops. Just a space where you'll get a fortune cookie with a compliment, a dope conversationalist as a Barista and Bob as your \"in between-Home\".",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Nooooo loud music, no sound, no camp. A quiet space for those who need it.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "It will be no camp. but it will co-exist peacefully among the other camps. I will be close to Schorle Bar. Which is also no camp. We will keep you caffeinated and hydrated.",
+          "value": "Lucifer's Pit",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "I will be there for strike on Sunday and pack up the Bob and leave the grounds on Monday. Of course, there will be no trace. Other than some tire marks. Maybe.",
+          "value": "Waxing the armpits can be painful; sound levels will vary from person to person. Sounds from the event might travel to the barn, the sheep barn, and the surrounding area.",
           "customField": {
-            "name": "Strike plan"
+            "name": "Sound levels"
           }
         },
         {
-          "value": "This is a-me. gittagi. Contact me on discord: #gittagi",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "I want to be the analogue vintage Café. All coffee will be handground. I will have a gas stove for hot water. It will take time. But no electricity.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Anyone coming by will be a co-creator. You may talk back! Let others taste your coffee. Talk about your cookie compliment and pass some on. Of course, you can help me serve, cuddle, converse with others. It is an open space, open for anything.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "It will be a relatively quiet space, I will be close to camps but I will be no camp. So I will benefit from the energy around but not interfere. I will not play loud music, will only need Bob-space and some cuddle-Space in front under the canopy. I will be in a more quiet spot on Borderland grounds.",
+          "value": "Lucifer's Armpit will be part of Lucifer's Pit, a new semi-permanent art installation in the grain silo in the barn. This day event will only take place once.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "We will all be safe. As long as we bring a cup. All milk is vegan.",
+          "value": "Disinfectant will be provided before, during, and after.",
           "customField": {
             "name": "Safety"
           }
+        },
+        {
+          "value": "N/A",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Elina Falenius, elina.falenius@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Get your armpits done at Lucifer's pit!\n\nLucifer's Armpit is a daytime event that provides armpit hair waxing, bleaching, dyeing, trimming, shaving, and armpit henna tattooing of pentagrams.\n\nCome explore how Satanism can be fun while giving your armpits a new hairdo!\n\nExtra possibilities:\n\nSuspension - hang in the air while having your armpits waxed\n\nCarved pentagram in your armpit, done with a VERY sharp knife and only with consent",
+          "customField": {
+            "name": "Description"
+          }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "Healing"
+        },
+        {
+          "value": "Pimping station"
+        },
+        {
+          "value": "Weird shit"
+        },
+        {
+          "value": "Wellness"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Coffee and brewing Equipment (grinder, aeropress, brewover etc)",
-          "min": 1800,
+          "description": "Wax strips",
+          "min": 0,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Milk and Sirups",
-          "min": 200,
+          "description": "Henna tattoo tubes",
+          "min": 0,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "I will try to make the print myself if I cannot get funding:Handmade print for Bob and stickers, tags, labels",
-          "min": 800,
+          "description": "Organic Sugaring Wax",
+          "min": 350,
           "max": null,
-          "type": "INCOME"
+          "type": "EXPENSE"
         },
         {
-          "description": "Carpet, tarp, cushions, mattresses, blankets",
-          "min": 2000,
+          "description": "Bleach",
+          "min": 120,
           "max": null,
-          "type": "INCOME"
+          "type": "EXPENSE"
         },
         {
-          "description": "petrol to get the Bob up and ferry ticket",
-          "min": 1900,
+          "description": "Red hair dye",
+          "min": 100,
           "max": null,
-          "type": "INCOME"
+          "type": "EXPENSE"
         },
         {
-          "description": "Gas to fire up the stove ",
+          "description": "One time shavers",
+          "min": 130,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Stencils",
+          "min": 600,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Desinfektionsservietter ",
           "min": 80,
           "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Bob and stove and water canisters etc",
-          "min": 2000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Extra coffee beans and brew over",
-          "min": 400,
-          "max": 1200,
           "type": "EXPENSE"
         },
         {
-          "description": "Milk and Sirups",
-          "min": 60,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "(a few to 100) Custom fortune cookies",
-          "min": 500,
-          "max": 1800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "I would love to give Bob a big print with the \"brand\":Stickers and Print Materials (to hand out with coffee and for Bob print)",
-          "min": 1800,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "The more extra material, the more cosy:Optional Rug, Chalkboard, Chalk, Cushions and Canopy for Comfort",
-          "min": 3200,
-          "max": 6900,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "petrol to get the Bob up",
-          "min": 1500,
+          "description": "Håndsprit ",
+          "min": 80,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 8780,
-      "percentageFundedTrue": 117.69
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnqexn7v000wl8j47wqtap18",
@@ -17223,110 +17289,293 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnoeym8u001l10wotm92nzri",
-      "title": "Fire BunnyHorse Bar",
-      "summary": "It's the Chinese year of the Fire Horse - We will evolve the BunnyHorse bar into the Fire BunnyHorse bar.",
+      "id": "cmnnkvire0011eyfxdwgzyebp",
+      "title": "IT*S A SIGN!!!!workshop",
+      "summary": "Creating and maintaining a self-organising DIY signmaking workshop and cosy creative hangout space in the barn for all borderlings to use and enjoy ✧˖°࿐",
       "status": "FUNDED",
-      "noOfFunders": 76,
-      "noOfComments": 4,
-      "percentageFunded": 100,
-      "minGoal": 6500,
-      "maxGoal": 7200,
-      "income": 0,
+      "noOfFunders": 62,
+      "noOfComments": 0,
+      "percentageFunded": 114.39,
+      "minGoal": 6942,
+      "maxGoal": 17842,
+      "income": 999,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775589369/dreams/oshmbeoesjw0dqvlgp7d.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775840850/dreams/dtmo5abiyvz4bh57ueky.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775589427/dreams/pjfrv8msg1dbtxn5t7z1.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775840867/dreams/jazovkhxwnx0vhg122il.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775840882/dreams/r8noggmbnbrooo4ilg4y.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841615/dreams/zv7dgmucsdzacbdnwrec.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841628/dreams/pm2jwwd74qsvp1zaqznv.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841651/dreams/tvfpbttjw8j4b5usduie.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841665/dreams/iboizvg2aqc25vt0uzls.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841690/dreams/akxozevogvatj99vwacg.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841704/dreams/u7jzyz7a6g1u5kumjjvf.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841717/dreams/da8mhuukcuqyub6uw9gz.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841735/dreams/hag6xxabhc6jcmu1ljvx.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841749/dreams/f09fq38ffwfgunmyfpzu.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841765/dreams/mordcmqwsjdxhjg2s7b1.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841781/dreams/lojkxqjokjvkw1zla5qv.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841798/dreams/xl82kkjii3mkyh2qkn8k.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841809/dreams/b7cvj9wextjdtz26a9kv.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841828/dreams/dx2vcyuzs2ad1kdqlhaa.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841860/dreams/bw6psvi5dpsq1skm9m82.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841876/dreams/mouxygp4gfhqr2scqbup.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841891/dreams/f5trtiwf6hmoacdewenl.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "This dream is connected to the Bunny Horse bar, which is run by free campers.",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "It will attach to the roof of the bar, out of reach for anyone, and no burnable material will be close by. We already have fire extinguishers in the bar.",
+          "value": "we don't want acrylic paint in the ground water: there will be brush-washing stations with dedicated waste water boxes, kitty litter to absorb the paint water before disposal, and disposable gloves.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "It will make sounds when it spews fire, but nothing major, and it will be short. It will not be much louder than anything else in the hills.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We are well-experienced burners, and everything we bring in, we bring back out. Either placed in the horse trailer or taken to our storage containers.",
+          "value": "same as last year but better: sort all signs into reusable / repaintable / trash. collect all waste water in designated containers, soak with kitty litter, dispose properly. clean the barn space. store reusable materials for next year. leave no trace leave no trace leave no trace leave no trace",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Carina 'bubbels' Carina.refsing.nissen@gmail.com",
+          "value": "indoor work lights, speaker, tool charging. tapping from the barn power as before. multiplugs and extension cords included in the budget.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Electricity"
           }
         },
         {
-          "value": "**It’s the Year of the Fire Horse.**\n\nAnd what could be more obvious than adding fire to the horse that is already there?\n\n**The BunnyHorse Bar.**\n\nThe BunnyHorse is a well-established **no-bullshit banter bar** at **The Borderland**.  \nSee also our main dream: [LINK.](https://dreams.theborderland.se/borderland/dreams-2026/cmmolt3ko00087hhz2frj4ut5?s=bunny&f=PENDING_APPROVAL&f=IDEA)\n\nThis dream is simple: **add a fire cannon to the bar.**\n\nThe **Year of the Fire Horse** combines the Horse’s traits—independence, energy, restlessness, confidence—with the Fire element’s intensity, passion, and impulsiveness. It is said to be a time of **bold action, rapid change, and strong personalities**.\n\nHonestly, that’s mostly just an excuse.\n\nBecause when you can add a **fire cannon**,  \nyou **add a fire cannon.** 🔥🐎",
+          "value": "IT\\*S A SIGN!!!!workshop is a self-organising creative space open to all borderlings. you grab a board, grab some markers and paint, and you make something. maybe it's a sign for your camp. maybe it's one someone else ordered - they left a little sketch and now you bring it to life. maybe you're just sitting on a pillow painting something weird on cardboard at 3am because the vibe is right and someone handed you a brush :3\n\n✧˖_°࿐ .　 . • ☆ . ° .• °:._ ₊ ° . ☆\n\nlast year was the first year and it was grrreat. the barn was full of people during build already. the workshop ran day and night, strangers made signs for strangers, beautiful fae appeared to wash brushes, clean up and vanish back into the playa. the whole thing ran basically on trust and co-creation and it was one of those borderland things that makes you go \"oh right, THIS is why we do this\"  \n\nthis year we're levelling up ° . ☆・❥・  \n✧ cosy pillows to sit on while you paint. ✧ carpets that don't mind catching some paint. ✧ armchairs that have lived a life. ✧ a little tea corner where you sip something warm and watch the art happen around you. a co-creative living room / artelier in the barn",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "It already a co-op between bunnyhorse bartenders and friends. We have joined forces with missSommer. Creator of the firespewing Iron Volture artcar from BL 2025, which this year is returning as the Rust Vulture.  \nShe is going to be the main creator of the fire cannon, and the barpeople will be the users.",
+          "value": "this space runs itself but it doesn't SET itself up\n\nif you want to help me build during build week, take a shift keeping things tidy during the event, or just be one of those beautiful fae who appears and washes brushes and vanishes - you're welcome to reach out to me! i'm zoe, you can find me on discord @synesynesynes\n\nALSO if we don't make the stretch goal and you have things collecting dust:\n\n✧ a GOOD SPEAKER (quality sound, plays loud, can survive hippies) ✧ a drill or a saw ✧ pillows, carpets, a couch, armchairs - if you're driving past second hand markets and want to grab something cosy for the space PLEASE talk to me\n\nthis is a co-created space!! the more people pour their love into it the better it gets\n\nthanks to everyone who helped last year - to the magical fae who kept the space tidy, to everyone who poured love into the workshop, to everyone who showed up and contributed to the co-creative vibe. being there, alone together, crafting with random lovely borderlings in all hours of the day - that was amaaahzinggg <3 <3 <3",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Some, but we should have enough in the bar. We have 16A PDU.",
+          "value": "I'd love a good quality bluetooth speaker--------- nothing over the top, just enough to set the mood. a good one that stays at alversjö for future use chained to the table so it doesn't get \"borrowed\"",
           "customField": {
-            "name": "Electricity"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "we'll likely be in the barn again - it was the perfect spot last year, visible, accessible, people stumbling in during build already curiously walking the playa. the barn has good energy. the barn wants us there\n\n.　 . • ☆ . ° .• °:. \\*₊ ° .\n\n**what's new and what's more:**\n\n✧ a proper sign ordering system - heavy quality sketch paper where you draw your order, sturdy trays so they don't fly around, metal clips and rope so the orders hang visible for anyone to grab and make. you sketch it, someone makes it, it's cute and nobody's in charge\n\n✧ real hand-washing stations and brush-washing stations - big sturdy boxes with water so you can clean up properly without leaving paint crimes all over the land.\n\n✧ SO MANY MORE MARKERS. professional refillable markers in different sizes, plenty of black (there is never enough black), with refill ink to keep them going all week\n\n✧ proper indoor work lights so painting after dark is actually possible (fairy lights are great but kinda hard to see what you're doing indoors heh)\n\n✧ GLOVES FOR DAYS. six boxes this time - oh, AND APRONS!!\n\n✧ kitty litter for the acrylic waste water - soak it up, throw it in the trash, nothing goes into the ground. LNT for life\n\n✧ if we hit the stretch goal: power tools for cutting and assembling signs, a quality speaker that stays at alversjö (chained to the table so nobody walks off with it), outdoor floodlights for nighttime painting, and even more paint in big beautiful buckets\n\ncome paint, come order a sign, come drink tea and watch other people paint, come sit on a pillow and do nothing. all of these are valid and valuable uses of this space\n\nthis dream is a place where you can show up as you are and leave having made something. or having watched someone make something. or just having sat on a pillow drinking tea surrounded by paint-stained hippies in a barn in the swedish forest while chill tunes play in the background.\n\n**what people said about last year:**\n\n_\"This workshop and the signs made me sooo happy! thank you for Co-creating and facilitating this magic.\"_\n\n_\"my absolute favourite was the exhibition you set up in the end, soooo cute and inspiring - this was a HUGE upgrade with a positive impact for all borderlings!\"_\n\n_\"Aaaah best spot EVER - Such great execution\"_\n\n_\"I loved that this was part of BL with its impact enjoyable across the whole site\"_\n\n_\"There were really good signs this year, and it was SO appreciated to be able to go there and make some, when signs were needed! Loved that space.\"_",
+          "customField": {
+            "name": "Co-existence"
           }
         }
       ],
       "tags": [
         {
+          "value": "Art walk apropriate"
+        },
+        {
+          "value": "Chillout"
+        },
+        {
           "value": "Experience"
         },
         {
-          "value": "Fire"
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Kids-friendly"
         },
         {
           "value": "Playful"
         },
         {
-          "value": "Weird shit"
+          "value": "Pre-placement"
+        },
+        {
+          "value": "Queer"
+        },
+        {
+          "value": "Workshop"
         }
       ],
       "budgetItems": [
         {
-          "description": "Fire canon parts",
-          "min": 5000,
+          "description": "A few markers surviving from last year",
+          "min": 999,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Professional refillable markers + ink (various sizes, mostly black)",
+          "min": 2300,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Gasbottle",
-          "min": 700,
-          "max": 1400,
+          "description": "Brushes, rollers, misc painting supplies",
+          "min": 1000,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "transport to BL",
-          "min": 800,
+          "description": "White acrylic paint, large bucket (base coat)",
+          "min": 500,
           "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Acrylic paint 3L buckets, multiple colors (the good stuff)",
+          "min": 0,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Disposable gloves (6 boxes of 100)",
+          "min": 600,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Six aprons",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "5 large sturdy plastic boxes (hand wash + brush wash stations)",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Kitty litter for acrylic waste water disposal",
+          "min": 200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Sign ordering system: heavy sketch paper, 3 trays, metal clips, rope",
+          "min": 842,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cardboard sheets A2 + A1 (workshop signage)",
+          "min": 200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Screws ~200pcs (board-to-stake, one size)",
+          "min": 150,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Neon gaffa tape (high-vis marking tape)",
+          "min": 150,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Indoor work lights + multiplugs + extension cords",
+          "min": 0,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Electric saw (for cutting signs to shape)",
+          "min": 0,
+          "max": 1800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Electric drill (for assembling signs)",
+          "min": 0,
+          "max": 1100,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Quality bluetooth speaker (loud, good sound, stays at Alversjö)",
+          "min": 0,
+          "max": 1500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Chain + padlock for the speaker (hippie-proofing)",
+          "min": 0,
+          "max": 100,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "3x waterproof outdoor LED floodlights + waterproof multiplug",
+          "min": 0,
+          "max": 1000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cosy pillows from second hand markets",
+          "min": 0,
+          "max": 600,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Carpets and rugs, paintable, second hand",
+          "min": 0,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Armchairs and couches, second hand",
+          "min": 0,
+          "max": 800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Tea corner: kettle, cups (second hand), tea (not second hand)",
+          "min": 0,
+          "max": 400,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 999,
+      "percentageFundedTrue": 14.39
     },
     {
       "id": "cmnudzri1000410xierozkwn4",
@@ -19322,137 +19571,149 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnu0hl8g000334i9629q6ys6",
-      "title": "Gossip Gazette",
-      "summary": "Novel newspaper Gossip Gazette will keep you up-to-date with occasional deliveries of the latest news, rumours and hearsay right to your camp’s brunch table!",
+      "id": "cmnu58uyn000thu3ebcl9m5ce",
+      "title": "Sunset Owls Popup Party",
+      "summary": "Sunset off-site party on a secret location next to the lake.",
       "status": "FUNDED",
-      "noOfFunders": 58,
-      "noOfComments": 1,
-      "percentageFunded": 100,
-      "minGoal": 9000,
-      "maxGoal": 10000,
-      "income": 0,
+      "noOfFunders": 66,
+      "noOfComments": 14,
+      "percentageFunded": 1125,
+      "minGoal": 8000,
+      "maxGoal": 9000,
+      "income": 82000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775893866/dreams/brr0vnkbligoh2dh32cw.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775901071/dreams/weimps3ranv2vxqwuovw.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775901216/dreams/hphrcrkpd3hvm4i4zfkm.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775901294/dreams/jxyopxhfpelkjpr9uhvt.png"
         }
       ],
       "customFields": [
         {
-          "value": "the clicking sounds of quick fingers typing on a keyboard",
+          "value": "No concerns here. Our structures are well maintained.",
           "customField": {
-            "name": "Sound levels"
+            "name": "Safety"
           }
         },
         {
-          "value": "The printing press does not run exclusively on the sweat of our volunteers. We need some juice to operate a printer.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Printer and office supplies will be brought back with us.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Philippe. [gossipgazettebl@gmail.com](mailto:gossipgazettebl@gmail.com)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "We´ll preferably set up our HQ somewhere in the barn. And you will of course meet our reporters in the field!",
+          "value": "We don't think there'll be any issues. If so, we'll take it as it comes. We'll collaborate with others during placement process.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "The Gossip Gazette is The Borderland´s very own newspaper.\n\nExpect relentless reporters revealing incendiary investigations, cunning critiques, frivolous fashion, cryptic crosswords, phony polls, false advertising and most importantly: the juiciest gossip available. High editorial standards include but are not limited to: consent, co-creation and complete confusion.",
+          "value": "Both cocreators here (techstil & kenkuusk) can be contacted.",
           "customField": {
-            "name": "Description"
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Yes! Anyone is welcome to contribute with content, particularly even before the Borderland starts.\n\nHere´s a few suggestions: opinion pieces and critiques, dating profiles and match making, horoscopes, real or fake advertisements for workshops and happenings (where is the G-spot this year?), interviews and polls, crosswords and puzzles, comic strips, whatever you can dream up really.\n\nDo inform us in good time if you wish to co-create so we can reserve some space in the layouts. While we will of course appreciate anything that you send in, we cannot promise to include everything, particularly if it comes in very spontaneously during the week.\n\nContact your spin-doctors in chief Wanda and Philippe for collaboration: [gossipgazettebl@gmail.com](mailto:gossipgazettebl@gmail.com).",
+          "value": "No camp relations",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "We welcome anyone who'd like to come and help us to set up everything needed for the event. We're also looking for a generator (which is the main cost of this dream) that could borrow instead.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Our high editorial standards include consent, co-creation and complete confusion. Accuracy and fact-checking 3rd.",
+          "value": "There might be some. We'll align with sound team.",
           "customField": {
-            "name": "Safety"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We'll strike directly after the event. Since the setup is easy, we don't expect any complications.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "We won't connect to the grid and will use generator.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "We're coming back after 2 year break! As some of you might remember, we organized a pirate party back in 2023 with freshly baked pizzas and proper sound stage. We're doing it again!\n\nAt Borderland, everything is reversed. Even the owls who come out in the morning and hide during the night Even the map is reversed.\n\nBut while looking carefully, you might find a secret lakeside happening to uplift your already routinish Borderland evening. Had enough of workshops? Tired of the yearly Thursday cabaret? Fuck that and come hide with the owls! Bring your passport, sunscreen and owlers, and we’ll make sure to provide daytime lakeside gathering in the owlinghoods.\n\nFood? Maybe! We'll see if we can pull of another pizza restaurant or maybe infamous paella guy.",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [
         {
-          "value": "Experience"
-        },
-        {
-          "value": "Looking for content"
+          "value": "Music"
         },
         {
           "value": "Playful"
         },
         {
-          "value": "Weird shit"
+          "value": "Soundcamp"
+        },
+        {
+          "value": "Venue"
         }
       ],
       "budgetItems": [
         {
-          "description": "Printer + toner",
-          "min": 3500,
+          "description": "Sound system",
+          "min": 50000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "DJ gear",
+          "min": 30000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Transportation",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Smoke machine (buy)",
+          "min": 1500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Paper",
+          "description": "Fruits",
           "min": 1000,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "pin board",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "office supplies (pens, sticky notes, highlighters, staplers etc)",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "press badges",
+          "description": "Gasoline for Generator",
           "min": 500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "tiny camera",
-          "min": 0,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "voice recorder",
-          "min": 0,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "transport ",
-          "min": 2000,
+          "description": "Power (1 week rental of diesel generaor)",
+          "min": 5000,
           "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Pizza ingredients",
+          "min": 0,
+          "max": 1000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 82000,
+      "percentageFundedTrue": 1025
     },
     {
       "id": "cmnop1isg0004zqi40cg8s68k",
@@ -32618,140 +32879,112 @@
       "percentageFundedTrue": 85.39
     },
     {
-      "id": "cmnu6w6w1000hdz1swyc6t11n",
-      "title": "Erotic Oscillations II",
-      "summary": "Following enthusiastic support & reactions, the naughty swings are back to once again elicit much laughter (& maybe also, as we've been told, spontaneous sex!)",
-      "status": "COMPLETED",
-      "noOfFunders": 17,
-      "noOfComments": 3,
-      "percentageFunded": 480.8,
-      "minGoal": 1250,
-      "maxGoal": 1950,
-      "income": 4060,
+      "id": "cmnu7z165000za5hp80zzugp3",
+      "title": "The Blackwater Proxy Division, Borderland",
+      "summary": "Cultural influence through deniable agents & proxy-camps, and control of essential infrastructure",
+      "status": "FUNDED",
+      "noOfFunders": 18,
+      "noOfComments": 0,
+      "percentageFunded": 114.16,
+      "minGoal": 1200,
+      "maxGoal": 7800,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775903450/dreams/rwvjmlvevmkfnlngxugw.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906665/dreams/sfjro8ndi5pylj5hpvi4.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906689/dreams/bfcsvre3hlmam8nji6ij.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775906697/dreams/anyplruewziry0ckkiox.webp"
         }
       ],
       "customFields": [
         {
-          "value": "Noam Cohen (noamcee99@gmail.com)",
+          "value": "The Blackwater Congressional Funding Committe",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Our erotic and interactive installation consists of 2 innocent looking swings. Yes - Swings, as in playground: A small wooden bench suspended with ropes from a tree. However - these swings are anything but innocent. After a few unsuspecting back and forth motions, they start to moan. Softly at first, but the more & harder you swing - the more intense the moans. The moans are distinctly sexual; and - they are ethically - and very enthusiastically sourced - from community members who wish to participate and co-create this installation; By donating their recorded moans! We'll again reach out to the community and invite people to contribute their voices, so that later they, their partners, friends, and the community can merilly swing along and enjoy their ecstasy!!!  \nAnnnd - MEN - we're talking to you too!! Last year there was (justified!) criticism of our having only female voices. Yes, we know that often it is more difficult for the more vocally inhibited sex to express themselves in this way. But we're enthusiasticaly soliciting male participation too - Please send us MALE sexual vocalisations as well!",
+          "value": "The Blackwater Proxy Division will, by nature, heavily influence Borderland - but in ways that are unnoticeable.",
           "customField": {
-            "name": "Description"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "Come and play (quite literally…)! We want YOU! Our mischievous Borderling friends, to partake in our shenanigans. How, you ask?\n\n ✨🦊 **Record and send us your  sexiest sounding escapades** 🦊✨\n\nGuidelines:\n\n*   Capture & send us a clear recording. Using your smartphone will do.\n    \n*   Ideally starting from the softest moans, slowly building to squeals, grunts, and groans of pleasure, and finally building up to full-bodied screams of rapture!!! Want to include some kinky words of encouragement? Yes please! Any enthusiastically (and - consensually!) human-vocalized erotics will do just fine.\n    \n*   In case of more than one moaning voice, try to keep the moans of each participant separate, as it will make the editing viable and easier.\n    \n*   Try to minimize background noises. Bus horns aren’t unanimously sexy (but hey, no kink shaming!)\n    \n\nWe will select technically good recordings, edit them into a sequence of short clips, and load them into the controller that will be embedded in each of the swings. The identity of contributors will naturally remain a secret, but - hey, if you wanna brag, we won't stop you...\n\n(annnnd, we most emphatically refute those vile rumors alleging the recordings were surreptitiously made outside that infamous camp's party last year. Even if you think you've heard that person before!).",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "A clear area of 3m front and back on each side of the swings will be maintained & marked, to avoid collisions. Swings will be suspended with thick rope to a very thick beam ratcheted to the trees.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "On strike, swings will be removed from the suspension beam, and the beam itself will be un-ratcheted from the trees, Any leftovers, moop, marks or other debris will be collected and removed. The beam will be left in the barn, for future community use.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Yes - a low power (<100W) mains connection, to power some lights.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Sound footprint is around 10 meters, (we use a small 5 Watt speaker in each swing).",
+          "value": "0 db",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We plan to place this installation in an area with \"proven\" trees & some amount of passerby traffic & other activity - Same as last year, nearby the Cheeky Badger. So, not a super quiet area. And will be in touch with it's likely inhabitants & neighbours regarding any likely environmental (or just any mental) impact.",
+          "value": "Safety will be a factor in decision making, but potential political gains will take priority.",
           "customField": {
-            "name": "Co-existence"
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Quietly and effectively.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Our power consumption is included in other dreams and camps.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "The BPD is a decentralized system for shaping culture at Borderland through embedded, deniable assets. Instead of direct control, it builds networks of individuals, camps, and **essential services** that appear independent but influence how Borderland functions to produce outcomes aligned with Blackwater's political and strategic goals.\n\n**Proxy Individuals** operate as participants—artists, organizers, or connectors—who naturally steer conversations, collaborations, and decisions.\n\n**Proxy Camps** act as cultural hubs. For example, a well-placed sound camp with reliable power becomes a nightly gathering point, setting music trends and social norms. A service camp offering shade, food, or workshops attracts key networks and information.\n\n**Proxy Realities** focus on infrastructure control:  \nWho gets prime placement near high traffic areas, which camps have stable power, where toilets are located, and how logistics flow. A camp with power and nearby sanitation thrives; one without quietly disappears. By shaping these conditions, the Division influences where people go, who succeeds, and what becomes culturally central.\n\nThe result is indirect but reliable control: behavior follows what is accessible, functional, and attractive.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "\\>CLASSIFIED<",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Blackwater Operations",
+          "customField": {
+            "name": "This dream belongs to camp:"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Art installation"
-        },
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "NOT kids-friendly"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Sex positive"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Wood beams from last year",
-          "min": 2800,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Ropes from last year",
-          "min": 660,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Electronics from last year",
-          "min": 600,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Assorted screws, brackets, irons",
-          "min": 150,
-          "max": 300,
+          "description": "Tent rental",
+          "min": 500,
+          "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "Extra/replacement wooden beams",
-          "min": 250,
-          "max": 500,
+          "description": "Tables and chairs",
+          "min": 500,
+          "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "LED illumination & decorations",
-          "min": 600,
-          "max": 900,
+          "description": "Deco & accessories for undercover agents:",
+          "min": 0,
+          "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "Low voltage wiring ",
-          "min": 100,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Ratchet Straps",
-          "min": 150,
-          "max": null,
+          "description": "Transportation ",
+          "min": 200,
+          "max": 1800,
           "type": "EXPENSE"
         }
       ],
-      "funded": 4060,
-      "percentageFundedTrue": 324.8
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmmojkrjc0000mkpqj97no3n6",
@@ -51627,164 +51860,140 @@
       "percentageFundedTrue": 181.82
     },
     {
-      "id": "cmnoq41as0022xnznbk1cltsr",
-      "title": "DanSINg  - Club Sin",
-      "summary": "A roofed 10×10 meter dance floor, where the sinful, the silly, and the sexy collide, and DJs and live acts take you from day into night.",
-      "status": "FUNDED",
-      "noOfFunders": 169,
+      "id": "cmnu6w6w1000hdz1swyc6t11n",
+      "title": "Erotic Oscillations II",
+      "summary": "Following enthusiastic support & reactions, the naughty swings are back to once again elicit much laughter (& maybe also, as we've been told, spontaneous sex!)",
+      "status": "COMPLETED",
+      "noOfFunders": 17,
       "noOfComments": 3,
-      "percentageFunded": 175.37,
-      "minGoal": 47813,
-      "maxGoal": 75512,
-      "income": 36040,
+      "percentageFunded": 480.8,
+      "minGoal": 1250,
+      "maxGoal": 1950,
+      "income": 4060,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775862289/dreams/fggm1nf86dcnciefh60n.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775938236/dreams/atq8zpdlsrbzbatjvu4r.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775938335/dreams/adb9wmgqf2n4yuk0mu5t.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775938183/dreams/omml2koevchssuc7uvfl.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775903450/dreams/rwvjmlvevmkfnlngxugw.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "![](https://res.cloudinary.com/dreamswtf/image/upload/v1775865868/dreams/oyx9kv7w5ayph2hhrclb.jpg)  \nWe aim to cluster with other camps exploring S+ themes, contributing to the creation of a 18+ zone within the Bison neighbourhood.\n\nWe plan for danSINg to run until 02:00 on weekdays and until 04:00 on weekends, though not necessarily every night. We will position ourselves in an “orange” spot according to this year's sound schedule.\n\nTo support coexistence with our neighbours, we will implement sound mitigation measures such as tilted speaker setups, directional sub setup, and, if possible, physical sound barriers like hay bales. Sound will be directed toward the south-west, away from complaining outside neighbours.\n\nWe are also part of pre-placement process, and open to dialogue for co-creation.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We will follow fire safety procedures, and ensure that all lighting and power cables are properly secured. We have appointed power and safety leads and will bring our own PDUs.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Everything we bring, we will take back with care. A strike lead will be responsible for ensuring a smooth teardown and packing process. Reusable bulky items will be stored in a container in Alversjö, while the rest will be taken back and stored safely in Gothenburg.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "The total RMS power of our sound system is 7000W, with the smoke machine, DJ equipment, mixer, and lighting, the peak power consumption is 9000 W.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "We will have a relatively powerful sound system consist of 3 18\" subs and 4 15\" tops, however we will follow the dB levels and sound schedule assigned to our location.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The Club SIN dance floor is conceived as a co-created space. DanSINg offers a platform for DJs, musicians who want to perform live, vocalists, dancers, and performers to co-create the magic together.\n\nDo you want to perform at danSINg? Please fill [this](https://forms.gle/nvVCxv1ek2sZN33J9) form.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Aurimas @Amadeus amadeus00330 on discord\n\nFor detailed budget please check the [link](https://docs.google.com/spreadsheets/d/1O6cO7D64t_AxszPsiIui6F9kl1ezzyRMNG63HUKFWKY/edit?usp=sharing): [https://tinyurl.com/ycy7aesz](https://tinyurl.com/ycy7aesz)",
+          "value": "Noam Cohen (noamcee99@gmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Have you committed sins, indulged in our juicy treats, and happily lost it all again at the casINo? Good. Now it’s time to lose yourself — to forget and to remember forever.\n\nOn Club SIN’s dance floor, you contribute to the collective delirium, a mass hysteria of messy, hot joy. As always at Club SIN, pleasure and pain, sexy and silly dance hand in hand (one after another and all at once). We bring you the sounds of the most wicked DJs of Borderland: disco, funk, house.\n\nDo you also wish there was more live music at Borderland? Well, seek no more:\n\nBuilt to shelter you from rain, wind, and the burdens of default life, our 10×10 m covered dance temple will tempt you with live music performances as the day turns into night. On one side, a large chill-out space invites you to soften and linger; on the other, a cage rises above flickering flames, with two poles inviting dancers to climb, spin, and ignite the night.\n\nChoose glittering disco, groovy house, cool jazz. Let it all out at danSINg!  \n\n![](https://res.cloudinary.com/dreamswtf/image/upload/v1775942934/dreams/grwxsdkwskennqdfkrpu.png)\n\n_There will be additions to last year's danSINg, a stage, a cage with two dance poles, and a large chill out area._",
+          "value": "Our erotic and interactive installation consists of 2 innocent looking swings. Yes - Swings, as in playground: A small wooden bench suspended with ropes from a tree. However - these swings are anything but innocent. After a few unsuspecting back and forth motions, they start to moan. Softly at first, but the more & harder you swing - the more intense the moans. The moans are distinctly sexual; and - they are ethically - and very enthusiastically sourced - from community members who wish to participate and co-create this installation; By donating their recorded moans! We'll again reach out to the community and invite people to contribute their voices, so that later they, their partners, friends, and the community can merilly swing along and enjoy their ecstasy!!!  \nAnnnd - MEN - we're talking to you too!! Last year there was (justified!) criticism of our having only female voices. Yes, we know that often it is more difficult for the more vocally inhibited sex to express themselves in this way. But we're enthusiasticaly soliciting male participation too - Please send us MALE sexual vocalisations as well!",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "**Club SIN**\n\nClub SIN brings the charm of a decadent nightclub to the burn: twisted casino games, a sweaty dance floor, juicy workshops, wicked performances, and a bar full of treats. But nothing comes for free; you’ll need _sincoins_ to access it all: play at the casino, enjoy treats, join workshops, or enter the sex+ luxury lounge or afterparties. Earn them by committing sins or accepting punishments from our carefully curated menus.  \nClub SIN dreams: [danSINg](https://dreams.theborderland.se/borderland/dreams-2026/cmnoq41as0022xnznbk1cltsr?s=dansing&f=PENDING_APPROVAL&f=IDEA), [caSINo](https://dreams.theborderland.se/borderland/dreams-2026/cmnoqf1by002bxnzn07tkar8t), [SIN Bar](https://dreams.theborderland.se/borderland/dreams-2026/cmnoq0sjo001xxnznet8yelcp?s=sin&f=PENDING_APPROVAL&f=IDEA), [House of SIN](https://dreams.theborderland.se/borderland/dreams-2026/cmnoqgx2t000aoyfnkk1azusr?s=sin&f=PENDING_APPROVAL&f=IDEA), and [SIN Salabim](https://dreams.theborderland.se/borderland/dreams-2026/cmnoqi6s1001mbtyovxnh04lr?s=sin&f=PENDING_APPROVAL&f=IDEA).  \nFill this [form](https://forms.gle/5n8esnHMj151yxvH9) for membership application.",
+          "value": "Come and play (quite literally…)! We want YOU! Our mischievous Borderling friends, to partake in our shenanigans. How, you ask?\n\n ✨🦊 **Record and send us your  sexiest sounding escapades** 🦊✨\n\nGuidelines:\n\n*   Capture & send us a clear recording. Using your smartphone will do.\n    \n*   Ideally starting from the softest moans, slowly building to squeals, grunts, and groans of pleasure, and finally building up to full-bodied screams of rapture!!! Want to include some kinky words of encouragement? Yes please! Any enthusiastically (and - consensually!) human-vocalized erotics will do just fine.\n    \n*   In case of more than one moaning voice, try to keep the moans of each participant separate, as it will make the editing viable and easier.\n    \n*   Try to minimize background noises. Bus horns aren’t unanimously sexy (but hey, no kink shaming!)\n    \n\nWe will select technically good recordings, edit them into a sequence of short clips, and load them into the controller that will be embedded in each of the swings. The identity of contributors will naturally remain a secret, but - hey, if you wanna brag, we won't stop you...\n\n(annnnd, we most emphatically refute those vile rumors alleging the recordings were surreptitiously made outside that infamous camp's party last year. Even if you think you've heard that person before!).",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "A clear area of 3m front and back on each side of the swings will be maintained & marked, to avoid collisions. Swings will be suspended with thick rope to a very thick beam ratcheted to the trees.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "On strike, swings will be removed from the suspension beam, and the beam itself will be un-ratcheted from the trees, Any leftovers, moop, marks or other debris will be collected and removed. The beam will be left in the barn, for future community use.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Yes - a low power (<100W) mains connection, to power some lights.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Sound footprint is around 10 meters, (we use a small 5 Watt speaker in each swing).",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We plan to place this installation in an area with \"proven\" trees & some amount of passerby traffic & other activity - Same as last year, nearby the Cheeky Badger. So, not a super quiet area. And will be in touch with it's likely inhabitants & neighbours regarding any likely environmental (or just any mental) impact.",
+          "customField": {
+            "name": "Co-existence"
           }
         }
       ],
       "tags": [
         {
-          "value": "Experience"
+          "value": "Art installation"
         },
         {
-          "value": "Music"
+          "value": "Experience"
         },
         {
           "value": "NOT kids-friendly"
         },
         {
+          "value": "Playful"
+        },
+        {
           "value": "Sex positive"
-        },
-        {
-          "value": "Soundcamp"
-        },
-        {
-          "value": "Theme camp"
         }
       ],
       "budgetItems": [
         {
-          "description": "Power and sound equipments, lights, some building material and dancing poles ",
-          "min": 36040,
+          "description": "Wood beams from last year",
+          "min": 2800,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Detailed budget: https://tinyurl.com/ycy7aesz",
-          "min": 0,
-          "max": 1,
+          "description": "Ropes from last year",
+          "min": 660,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Electronics from last year",
+          "min": 600,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Assorted screws, brackets, irons",
+          "min": 150,
+          "max": 300,
           "type": "EXPENSE"
         },
         {
-          "description": "Lights",
-          "min": 16361,
+          "description": "Extra/replacement wooden beams",
+          "min": 250,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "LED illumination & decorations",
+          "min": 600,
+          "max": 900,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Low voltage wiring ",
+          "min": 100,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Sound",
-          "min": 18288,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Building material",
-          "min": 10164,
-          "max": 12164,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Decoration",
-          "min": 0,
-          "max": 2748,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Transportation",
-          "min": 0,
-          "max": 2500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Storage",
-          "min": 0,
-          "max": 20450,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Power cables",
-          "min": 3000,
+          "description": "Ratchet Straps",
+          "min": 150,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 36040,
-      "percentageFundedTrue": 75.38
+      "funded": 4060,
+      "percentageFundedTrue": 324.8
     },
     {
       "id": "cmnw3jpey002t7lh2p8q0z4dp",
@@ -57562,149 +57771,166 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnu58uyn000thu3ebcl9m5ce",
-      "title": "Sunset Owls Popup Party",
-      "summary": "Sunset off-site party on a secret location next to the lake.",
+      "id": "cmnu1yxpw000933dalbkff0pg",
+      "title": "Bob-Up Café",
+      "summary": "This will be no camp. This will be an island for you to caffeinate. Get a compliment. Get a cuddle. Share a story. Give all of it back. ",
       "status": "FUNDED",
-      "noOfFunders": 66,
-      "noOfComments": 14,
-      "percentageFunded": 1125,
-      "minGoal": 8000,
-      "maxGoal": 9000,
-      "income": 82000,
+      "noOfFunders": 30,
+      "noOfComments": 0,
+      "percentageFunded": 217.69,
+      "minGoal": 7460,
+      "maxGoal": 13460,
+      "income": 8780,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775901071/dreams/weimps3ranv2vxqwuovw.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775894922/dreams/snxb0johz9x3n4e7jgfs.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775901216/dreams/hphrcrkpd3hvm4i4zfkm.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775896354/dreams/zzhmfucatiivvs1ogyyf.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775901294/dreams/jxyopxhfpelkjpr9uhvt.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775896460/dreams/uufhrc3zcsqyqzhlvu1n.png"
         }
       ],
       "customFields": [
         {
-          "value": "No concerns here. Our structures are well maintained.",
+          "value": "Bob (my van) and me have been touring Europe for 5 years now and I always dreamt for him to become a Bob-up Space. And I drink Coffee. A lot of it. And I am seeing how us Northern Europeans just don't know how to give and take compliments. And I am a world class cuddler. And a storyteller.\n\nSo are you?\n\nCome by and get all of these things. Being a real Bob-up Pop-Up, the Café will be an island of stillness (only background tunes), cuddly space, I will provide all the coffee flavors (but handmade! It will be an analogue space in this digital world). I will provide a moment to rest. Hang. Unwind. While get caffeinated. No groups, no big workshops. Just a space where you'll get a fortune cookie with a compliment, a dope conversationalist as a Barista and Bob as your \"in between-Home\".",
           "customField": {
-            "name": "Safety"
+            "name": "Description"
           }
         },
         {
-          "value": "We don't think there'll be any issues. If so, we'll take it as it comes. We'll collaborate with others during placement process.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Both cocreators here (techstil & kenkuusk) can be contacted.",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "No camp relations",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "We welcome anyone who'd like to come and help us to set up everything needed for the event. We're also looking for a generator (which is the main cost of this dream) that could borrow instead.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "There might be some. We'll align with sound team.",
+          "value": "Nooooo loud music, no sound, no camp. A quiet space for those who need it.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We'll strike directly after the event. Since the setup is easy, we don't expect any complications.",
+          "value": "It will be no camp. but it will co-exist peacefully among the other camps. I will be close to Schorle Bar. Which is also no camp. We will keep you caffeinated and hydrated.",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "I will be there for strike on Sunday and pack up the Bob and leave the grounds on Monday. Of course, there will be no trace. Other than some tire marks. Maybe.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "We won't connect to the grid and will use generator.",
+          "value": "This is a-me. gittagi. Contact me on discord: #gittagi",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "I want to be the analogue vintage Café. All coffee will be handground. I will have a gas stove for hot water. It will take time. But no electricity.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "We're coming back after 2 year break! As some of you might remember, we organized a pirate party back in 2023 with freshly baked pizzas and proper sound stage. We're doing it again!\n\nAt Borderland, everything is reversed. Even the owls who come out in the morning and hide during the night Even the map is reversed.\n\nBut while looking carefully, you might find a secret lakeside happening to uplift your already routinish Borderland evening. Had enough of workshops? Tired of the yearly Thursday cabaret? Fuck that and come hide with the owls! Bring your passport, sunscreen and owlers, and we’ll make sure to provide daytime lakeside gathering in the owlinghoods.\n\nFood? Maybe! We'll see if we can pull of another pizza restaurant or maybe infamous paella guy.",
+          "value": "Anyone coming by will be a co-creator. You may talk back! Let others taste your coffee. Talk about your cookie compliment and pass some on. Of course, you can help me serve, cuddle, converse with others. It is an open space, open for anything.",
           "customField": {
-            "name": "Description"
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "It will be a relatively quiet space, I will be close to camps but I will be no camp. So I will benefit from the energy around but not interfere. I will not play loud music, will only need Bob-space and some cuddle-Space in front under the canopy. I will be in a more quiet spot on Borderland grounds.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "We will all be safe. As long as we bring a cup. All milk is vegan.",
+          "customField": {
+            "name": "Safety"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Music"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Soundcamp"
-        },
-        {
-          "value": "Venue"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Sound system",
-          "min": 50000,
+          "description": "Coffee and brewing Equipment (grinder, aeropress, brewover etc)",
+          "min": 1800,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "DJ gear",
-          "min": 30000,
+          "description": "Milk and Sirups",
+          "min": 200,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Transportation",
+          "description": "I will try to make the print myself if I cannot get funding:Handmade print for Bob and stickers, tags, labels",
+          "min": 800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Carpet, tarp, cushions, mattresses, blankets",
           "min": 2000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Smoke machine (buy)",
+          "description": "petrol to get the Bob up and ferry ticket",
+          "min": 1900,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Gas to fire up the stove ",
+          "min": 80,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Bob and stove and water canisters etc",
+          "min": 2000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Extra coffee beans and brew over",
+          "min": 400,
+          "max": 1200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Milk and Sirups",
+          "min": 60,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "(a few to 100) Custom fortune cookies",
+          "min": 500,
+          "max": 1800,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "I would love to give Bob a big print with the \"brand\":Stickers and Print Materials (to hand out with coffee and for Bob print)",
+          "min": 1800,
+          "max": 2000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "The more extra material, the more cosy:Optional Rug, Chalkboard, Chalk, Cushions and Canopy for Comfort",
+          "min": 3200,
+          "max": 6900,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "petrol to get the Bob up",
           "min": 1500,
           "max": null,
           "type": "EXPENSE"
-        },
-        {
-          "description": "Fruits",
-          "min": 1000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Gasoline for Generator",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Power (1 week rental of diesel generaor)",
-          "min": 5000,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Pizza ingredients",
-          "min": 0,
-          "max": 1000,
-          "type": "EXPENSE"
         }
       ],
-      "funded": 82000,
-      "percentageFundedTrue": 1025
+      "funded": 8780,
+      "percentageFundedTrue": 117.69
     },
     {
       "id": "cmnvx57vo006s12ne52k3pyiy",
@@ -61091,293 +61317,110 @@
       "percentageFundedTrue": 264.73
     },
     {
-      "id": "cmnnkvire0011eyfxdwgzyebp",
-      "title": "IT*S A SIGN!!!!workshop",
-      "summary": "Creating and maintaining a self-organising DIY signmaking workshop and cosy creative hangout space in the barn for all borderlings to use and enjoy ✧˖°࿐",
+      "id": "cmnoeym8u001l10wotm92nzri",
+      "title": "Fire BunnyHorse Bar",
+      "summary": "It's the Chinese year of the Fire Horse - We will evolve the BunnyHorse bar into the Fire BunnyHorse bar.",
       "status": "FUNDED",
-      "noOfFunders": 62,
-      "noOfComments": 0,
-      "percentageFunded": 114.39,
-      "minGoal": 6942,
-      "maxGoal": 17842,
-      "income": 999,
+      "noOfFunders": 76,
+      "noOfComments": 4,
+      "percentageFunded": 100,
+      "minGoal": 6500,
+      "maxGoal": 7200,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775840850/dreams/dtmo5abiyvz4bh57ueky.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775589369/dreams/oshmbeoesjw0dqvlgp7d.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775840867/dreams/jazovkhxwnx0vhg122il.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775840882/dreams/r8noggmbnbrooo4ilg4y.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841615/dreams/zv7dgmucsdzacbdnwrec.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841628/dreams/pm2jwwd74qsvp1zaqznv.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841651/dreams/tvfpbttjw8j4b5usduie.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841665/dreams/iboizvg2aqc25vt0uzls.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841690/dreams/akxozevogvatj99vwacg.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841704/dreams/u7jzyz7a6g1u5kumjjvf.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841717/dreams/da8mhuukcuqyub6uw9gz.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841735/dreams/hag6xxabhc6jcmu1ljvx.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841749/dreams/f09fq38ffwfgunmyfpzu.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841765/dreams/mordcmqwsjdxhjg2s7b1.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841781/dreams/lojkxqjokjvkw1zla5qv.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841798/dreams/xl82kkjii3mkyh2qkn8k.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841809/dreams/b7cvj9wextjdtz26a9kv.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841828/dreams/dx2vcyuzs2ad1kdqlhaa.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841860/dreams/bw6psvi5dpsq1skm9m82.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841876/dreams/mouxygp4gfhqr2scqbup.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775841891/dreams/f5trtiwf6hmoacdewenl.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775589427/dreams/pjfrv8msg1dbtxn5t7z1.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "we don't want acrylic paint in the ground water: there will be brush-washing stations with dedicated waste water boxes, kitty litter to absorb the paint water before disposal, and disposable gloves.",
+          "value": "This dream is connected to the Bunny Horse bar, which is run by free campers.",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "It will attach to the roof of the bar, out of reach for anyone, and no burnable material will be close by. We already have fire extinguishers in the bar.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "same as last year but better: sort all signs into reusable / repaintable / trash. collect all waste water in designated containers, soak with kitty litter, dispose properly. clean the barn space. store reusable materials for next year. leave no trace leave no trace leave no trace leave no trace",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "indoor work lights, speaker, tool charging. tapping from the barn power as before. multiplugs and extension cords included in the budget.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "IT\\*S A SIGN!!!!workshop is a self-organising creative space open to all borderlings. you grab a board, grab some markers and paint, and you make something. maybe it's a sign for your camp. maybe it's one someone else ordered - they left a little sketch and now you bring it to life. maybe you're just sitting on a pillow painting something weird on cardboard at 3am because the vibe is right and someone handed you a brush :3\n\n✧˖_°࿐ .　 . • ☆ . ° .• °:._ ₊ ° . ☆\n\nlast year was the first year and it was grrreat. the barn was full of people during build already. the workshop ran day and night, strangers made signs for strangers, beautiful fae appeared to wash brushes, clean up and vanish back into the playa. the whole thing ran basically on trust and co-creation and it was one of those borderland things that makes you go \"oh right, THIS is why we do this\"  \n\nthis year we're levelling up ° . ☆・❥・  \n✧ cosy pillows to sit on while you paint. ✧ carpets that don't mind catching some paint. ✧ armchairs that have lived a life. ✧ a little tea corner where you sip something warm and watch the art happen around you. a co-creative living room / artelier in the barn",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "this space runs itself but it doesn't SET itself up\n\nif you want to help me build during build week, take a shift keeping things tidy during the event, or just be one of those beautiful fae who appears and washes brushes and vanishes - you're welcome to reach out to me! i'm zoe, you can find me on discord @synesynesynes\n\nALSO if we don't make the stretch goal and you have things collecting dust:\n\n✧ a GOOD SPEAKER (quality sound, plays loud, can survive hippies) ✧ a drill or a saw ✧ pillows, carpets, a couch, armchairs - if you're driving past second hand markets and want to grab something cosy for the space PLEASE talk to me\n\nthis is a co-created space!! the more people pour their love into it the better it gets\n\nthanks to everyone who helped last year - to the magical fae who kept the space tidy, to everyone who poured love into the workshop, to everyone who showed up and contributed to the co-creative vibe. being there, alone together, crafting with random lovely borderlings in all hours of the day - that was amaaahzinggg <3 <3 <3",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "I'd love a good quality bluetooth speaker--------- nothing over the top, just enough to set the mood. a good one that stays at alversjö for future use chained to the table so it doesn't get \"borrowed\"",
+          "value": "It will make sounds when it spews fire, but nothing major, and it will be short. It will not be much louder than anything else in the hills.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "we'll likely be in the barn again - it was the perfect spot last year, visible, accessible, people stumbling in during build already curiously walking the playa. the barn has good energy. the barn wants us there\n\n.　 . • ☆ . ° .• °:. \\*₊ ° .\n\n**what's new and what's more:**\n\n✧ a proper sign ordering system - heavy quality sketch paper where you draw your order, sturdy trays so they don't fly around, metal clips and rope so the orders hang visible for anyone to grab and make. you sketch it, someone makes it, it's cute and nobody's in charge\n\n✧ real hand-washing stations and brush-washing stations - big sturdy boxes with water so you can clean up properly without leaving paint crimes all over the land.\n\n✧ SO MANY MORE MARKERS. professional refillable markers in different sizes, plenty of black (there is never enough black), with refill ink to keep them going all week\n\n✧ proper indoor work lights so painting after dark is actually possible (fairy lights are great but kinda hard to see what you're doing indoors heh)\n\n✧ GLOVES FOR DAYS. six boxes this time - oh, AND APRONS!!\n\n✧ kitty litter for the acrylic waste water - soak it up, throw it in the trash, nothing goes into the ground. LNT for life\n\n✧ if we hit the stretch goal: power tools for cutting and assembling signs, a quality speaker that stays at alversjö (chained to the table so nobody walks off with it), outdoor floodlights for nighttime painting, and even more paint in big beautiful buckets\n\ncome paint, come order a sign, come drink tea and watch other people paint, come sit on a pillow and do nothing. all of these are valid and valuable uses of this space\n\nthis dream is a place where you can show up as you are and leave having made something. or having watched someone make something. or just having sat on a pillow drinking tea surrounded by paint-stained hippies in a barn in the swedish forest while chill tunes play in the background.\n\n**what people said about last year:**\n\n_\"This workshop and the signs made me sooo happy! thank you for Co-creating and facilitating this magic.\"_\n\n_\"my absolute favourite was the exhibition you set up in the end, soooo cute and inspiring - this was a HUGE upgrade with a positive impact for all borderlings!\"_\n\n_\"Aaaah best spot EVER - Such great execution\"_\n\n_\"I loved that this was part of BL with its impact enjoyable across the whole site\"_\n\n_\"There were really good signs this year, and it was SO appreciated to be able to go there and make some, when signs were needed! Loved that space.\"_",
+          "value": "We are well-experienced burners, and everything we bring in, we bring back out. Either placed in the horse trailer or taken to our storage containers.",
           "customField": {
-            "name": "Co-existence"
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Carina 'bubbels' Carina.refsing.nissen@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "**It’s the Year of the Fire Horse.**\n\nAnd what could be more obvious than adding fire to the horse that is already there?\n\n**The BunnyHorse Bar.**\n\nThe BunnyHorse is a well-established **no-bullshit banter bar** at **The Borderland**.  \nSee also our main dream: [LINK.](https://dreams.theborderland.se/borderland/dreams-2026/cmmolt3ko00087hhz2frj4ut5?s=bunny&f=PENDING_APPROVAL&f=IDEA)\n\nThis dream is simple: **add a fire cannon to the bar.**\n\nThe **Year of the Fire Horse** combines the Horse’s traits—independence, energy, restlessness, confidence—with the Fire element’s intensity, passion, and impulsiveness. It is said to be a time of **bold action, rapid change, and strong personalities**.\n\nHonestly, that’s mostly just an excuse.\n\nBecause when you can add a **fire cannon**,  \nyou **add a fire cannon.** 🔥🐎",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "It already a co-op between bunnyhorse bartenders and friends. We have joined forces with missSommer. Creator of the firespewing Iron Volture artcar from BL 2025, which this year is returning as the Rust Vulture.  \nShe is going to be the main creator of the fire cannon, and the barpeople will be the users.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Some, but we should have enough in the bar. We have 16A PDU.",
+          "customField": {
+            "name": "Electricity"
           }
         }
       ],
       "tags": [
         {
-          "value": "Art walk apropriate"
-        },
-        {
-          "value": "Chillout"
-        },
-        {
           "value": "Experience"
         },
         {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Kids-friendly"
+          "value": "Fire"
         },
         {
           "value": "Playful"
         },
         {
-          "value": "Pre-placement"
-        },
-        {
-          "value": "Queer"
-        },
-        {
-          "value": "Workshop"
+          "value": "Weird shit"
         }
       ],
       "budgetItems": [
         {
-          "description": "A few markers surviving from last year",
-          "min": 999,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Professional refillable markers + ink (various sizes, mostly black)",
-          "min": 2300,
+          "description": "Fire canon parts",
+          "min": 5000,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Brushes, rollers, misc painting supplies",
-          "min": 1000,
+          "description": "Gasbottle",
+          "min": 700,
+          "max": 1400,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "transport to BL",
+          "min": 800,
           "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "White acrylic paint, large bucket (base coat)",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Acrylic paint 3L buckets, multiple colors (the good stuff)",
-          "min": 0,
-          "max": 2000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Disposable gloves (6 boxes of 100)",
-          "min": 600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Six aprons",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "5 large sturdy plastic boxes (hand wash + brush wash stations)",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Kitty litter for acrylic waste water disposal",
-          "min": 200,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Sign ordering system: heavy sketch paper, 3 trays, metal clips, rope",
-          "min": 842,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cardboard sheets A2 + A1 (workshop signage)",
-          "min": 200,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Screws ~200pcs (board-to-stake, one size)",
-          "min": 150,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Neon gaffa tape (high-vis marking tape)",
-          "min": 150,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Indoor work lights + multiplugs + extension cords",
-          "min": 0,
-          "max": 800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Electric saw (for cutting signs to shape)",
-          "min": 0,
-          "max": 1800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Electric drill (for assembling signs)",
-          "min": 0,
-          "max": 1100,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Quality bluetooth speaker (loud, good sound, stays at Alversjö)",
-          "min": 0,
-          "max": 1500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Chain + padlock for the speaker (hippie-proofing)",
-          "min": 0,
-          "max": 100,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "3x waterproof outdoor LED floodlights + waterproof multiplug",
-          "min": 0,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cosy pillows from second hand markets",
-          "min": 0,
-          "max": 600,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Carpets and rugs, paintable, second hand",
-          "min": 0,
-          "max": 800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Armchairs and couches, second hand",
-          "min": 0,
-          "max": 800,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Tea corner: kettle, cups (second hand), tea (not second hand)",
-          "min": 0,
-          "max": 400,
           "type": "EXPENSE"
         }
       ],
-      "funded": 999,
-      "percentageFundedTrue": 14.39
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmn3mhpnx000idlil936lue1m",
@@ -66040,134 +66083,91 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmntgy30u0000q35ym5v0s2mv",
-      "title": "Lucifer's Armpit",
-      "summary": "Get your armpits done at Lucifer's pit!",
+      "id": "cmnuagy910002hzq4d9mmk35i",
+      "title": "Tensegrity Art",
+      "summary": "An artwork that is suspended into itself, hanging in the air. For a higher budget we will add electronics and plats to it.",
       "status": "FUNDED",
-      "noOfFunders": 19,
-      "noOfComments": 0,
+      "noOfFunders": 9,
+      "noOfComments": 2,
       "percentageFunded": 100,
-      "minGoal": 1460,
-      "maxGoal": 1460,
+      "minGoal": 1800,
+      "maxGoal": 4800,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775939286/dreams/xynsrms1ik8p8d0sfwsg.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775909340/dreams/d92ethighjjhifadvl0f.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775909350/dreams/ab9949ivqj4jjwqyhmxv.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Lucifer's Pit",
+          "value": "An artwork hanging in itself, suspended in the air, imagine stumbling onto this on a Friday night!  \n  \nFor the base-level, it will be made of wood and chains, for a slightly higher budget we will add lights and possibly plants to it!",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Description"
           }
         },
         {
-          "value": "Waxing the armpits can be painful; sound levels will vary from person to person. Sounds from the event might travel to the barn, the sheep barn, and the surrounding area.",
+          "value": "Possibly some if we add lights, but most likely it will be able to run on batteries.",
           "customField": {
-            "name": "Sound levels"
+            "name": "Electricity"
           }
         },
         {
-          "value": "Lucifer's Armpit will be part of Lucifer's Pit, a new semi-permanent art installation in the grain silo in the barn. This day event will only take place once.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Disinfectant will be provided before, during, and after.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "N/A",
+          "value": "We will most likely burn the wood. Electronics will be kept in DreamStorage in Stockholm to be re-used.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Elina Falenius, elina.falenius@gmail.com",
+          "value": "We will use chains to anchor it to the ground so it won't fall over.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Safety"
           }
         },
         {
-          "value": "Get your armpits done at Lucifer's pit!\n\nLucifer's Armpit is a daytime event that provides armpit hair waxing, bleaching, dyeing, trimming, shaving, and armpit henna tattooing of pentagrams.\n\nCome explore how Satanism can be fun while giving your armpits a new hairdo!\n\nExtra possibilities:\n\nSuspension - hang in the air while having your armpits waxed\n\nCarved pentagram in your armpit, done with a VERY sharp knife and only with consent",
+          "value": "none",
           "customField": {
-            "name": "Description"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Anyone who wants to build and has ideas!",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "It can stand anywhere.",
+          "customField": {
+            "name": "Co-existence"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Healing"
-        },
-        {
-          "value": "Pimping station"
-        },
-        {
-          "value": "Weird shit"
-        },
-        {
-          "value": "Wellness"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Wax strips",
+          "description": "Wood and chains",
+          "min": 1500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Lights",
           "min": 0,
-          "max": null,
-          "type": "INCOME"
+          "max": 1000,
+          "type": "EXPENSE"
         },
         {
-          "description": "Henna tattoo tubes",
+          "description": "Plants",
           "min": 0,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Organic Sugaring Wax",
-          "min": 350,
-          "max": null,
+          "max": 2000,
           "type": "EXPENSE"
         },
         {
-          "description": "Bleach",
-          "min": 120,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Red hair dye",
-          "min": 100,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "One time shavers",
-          "min": 130,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Stencils",
-          "min": 600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Desinfektionsservietter ",
-          "min": 80,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Håndsprit ",
-          "min": 80,
+          "description": "Logistics",
+          "min": 300,
           "max": null,
           "type": "EXPENSE"
         }
