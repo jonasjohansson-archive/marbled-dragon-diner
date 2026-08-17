@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786860583245,
+  "updatedAt": 1786947219768,
   "buckets": [
     {
       "id": "cmlo6634a0008rt2anbi3sfdz",
@@ -2787,197 +2787,100 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnuo4kr9000r54d1pc81llhd",
-      "title": "💋 The Wheel of Pleasure 💋 by The Fuckery",
-      "summary": "Set your limits, spin the wheel, and surrender to sensation. Anonymous hands, playful mystery, and consent-led mischief await. Feeling lucky? 😈",
-      "status": "FUNDED",
-      "noOfFunders": 67,
-      "noOfComments": 2,
-      "percentageFunded": 510.01,
-      "minGoal": 4425,
-      "maxGoal": 11690,
-      "income": 18050,
+      "id": "cmnuqb2v5003q9xj9ecuodfrf",
+      "title": "Eye to Eye, Heart to Heart",
+      "summary": "Breath until your heartbeat finds the same rythem",
+      "status": "CANCELED",
+      "noOfFunders": 0,
+      "noOfComments": 0,
+      "percentageFunded": 13.25,
+      "minGoal": 2000,
+      "maxGoal": 2000,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775999625/dreams/fzk6oesbmab4rw9kwtqa.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775936769/dreams/hkiuzegcrrm0ephkfyeb.png"
         }
       ],
       "customFields": [
         {
-          "value": "Participants co-create each experience by choosing their boundaries and inviting others to play within them. The crowd becomes part of the magic - stepping in as anonymous contributors to someone else’s moment.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "A curious and inviting spectacle for passersby, blending mystery, playfulness, and participation. Designed to intrigue without disrupting, drawing people in while respecting the flow of the surrounding plaza.\n\nPlaced within The Fuckery’s main space, operating at scheduled times with clear communication, and harmonizing with nearby camps and activities.",
+          "value": "This is a low-impact, intimate dream. It takes up very little space (just two chairs) and creates no noise. It’s perfect for a quiet corner, a forest path, or as a cozy addition to a camp’s chill-out area.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Consent-led, facilitated, and clearly communicated at every step. Participants choose their boundaries in advance, and facilitators ensure those boundaries are respected throughout the experience.",
+          "value": "The art is created by the participants themselves. We provide the technical vessel, but the heartbeat synchronization and the eye contact are the true co-creation. We invite anyone curious about human-centric technology or meditation to facilitate a session or simply experience the pulse of another.",
           "customField": {
-            "name": "Safety"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "Low to moderate. Soft music, ambient sounds, and guiding voices - aligned with The Fuckery’s overall soundscape.",
+          "value": "Sometimes, the most beautiful thing you can do is just be still.\n\nTwo chairs, two heartbeats, and a quiet invitation to drop the masks. Sit across from someone - a lover, a friend, or a total stranger - and look into their eyes. As your pulses light up the chairs, you’ll see the invisible thread between you become visible.\n\nIt’s a simple, luminous game of breath and presence. When your hearts finally find each other and the lights glow as one, it’s a tiny reminder that beneath all the noise, we are connected.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "**None.** This is a purely visual and silent experience",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Will go down with the rest of The Fuckery. Built alongside camp setup (Sat–Mon, July 19–20) and fully struck no later than Sunday, July 26th.",
+          "value": "*   We will ensure all cables between the two chairs are taped down or covered with a small rug to prevent tripping.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Everything is designed for easy removal. The electronics (Arduino and sensors) fit in a small kit, and the chairs will be donated or repurposed after the event. **Leave No Trace** is a core part of our plan; we will leave the spot exactly as we found it.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Minimal. Soft lighting and ambient sound, supported by The Fuckery’s shared infrastructure.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "@Mirja is our Dr. Bill-Bull, and is easiest found on the Discord!",
+          "value": "Dana Hertz (Dana Banan aka me)  \nWA - +972587635790\n\nemail - [dana.ge17@gmail.com](mailto:dana.ge17@gmail.com)",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "The Fuckery",
+          "value": "**.** We need access to one standard power outlet (230V). Our total consumption is very low, under **100W**,",
           "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Welcome to The Wheel of Pleasure - where your yes is the only rule, and chance does the rest.\n\nStep up with a trusted partner and choose from our curated menu of sensations: a delicious mix of soft, sharp, cool, teasing, and unexpected. You pick your boundaries. We handle the mischief.\n\nThen… you give in.\n\nBlindfolded and deliciously unaware, you become the center of attention. The wheel spins to decide how many hands fate will send your way, and your partner quietly selects the lucky winners from the crowd.\n\nYou won’t know who they are.\n\nYou won’t see them coming.\n\nYou’ll just feel.\n\nA brush here. A surprise there. A dance of sensation across your skin - playful, electrifying, and entirely within your chosen yeses.\n\nFor a few delicious minutes, you’re not in control… just in sensation.\n\nAnd then - poof - they’re gone.\n\nWhen the blindfold comes off, the crowd looks innocent.\n\nBut someone in it just played with you.\n\n_Spin the wheel. Tease your fate._ 😈",
-          "customField": {
-            "name": "Description"
+            "name": "Electricity"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "NOT kids-friendly"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Sex positive"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Sound system",
-          "min": 9000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "X-Cross Furniture",
-          "min": 5000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Ice Machine",
-          "min": 4000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Thermos for Ice",
-          "min": 50,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lottery wheel",
-          "min": 300,
-          "max": 1200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Wireless microphone",
-          "min": 2200,
-          "max": 7500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Chalkboard 40x60 - For information",
-          "min": 200,
+          "description": "Folding Chairs (x2)",
+          "min": 600,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Handheld whiteboard - For consent form",
-          "min": 80,
+          "description": "Addressable LED strips and materials to soften the light.",
+          "min": 600,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Water for ice cubes",
-          "min": 60,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Pinwheel",
-          "min": 150,
-          "max": 250,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Feather/Tickler",
-          "min": 150,
-          "max": 200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Paddle/Flogger",
-          "min": 135,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Hand sanitizer / Disinfectant Wipes / Tissues",
-          "min": 100,
-          "max": 300,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Blindfolds",
-          "min": 100,
-          "max": 300,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Physical timer",
-          "min": 50,
-          "max": 200,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Fairy lights",
+          "description": "Pulse sensors, Arduino/ESP32, and connectors.",
           "min": 500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Batteries",
-          "min": 400,
+          "description": "Long extension cables and weather-proof boxes for electronics.",
+          "min": 300,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 18050,
-      "percentageFundedTrue": 407.91
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnh934t1000q145fkf0w8r7p",
@@ -17722,116 +17625,106 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnujxt3d000cugtvq1249aia",
-      "title": "Cosmic Day Party",
-      "summary": "Want to feel silly, magical or full of joy?\nAll at once. Everything but serious.\nStep into our Cosmic Day Party. It's balloony!",
+      "id": "cmnuk077a000oj41ewubnrvwe",
+      "title": "Dreamcatcher Necklace Workshop",
+      "summary": "Dreamcatcher workshop :) To bring home a nice moment shared in community while experiencing Art Therapy ",
       "status": "FUNDED",
-      "noOfFunders": 47,
-      "noOfComments": 2,
-      "percentageFunded": 204.33,
-      "minGoal": 3300,
-      "maxGoal": 6300,
-      "income": 1500,
+      "noOfFunders": 17,
+      "noOfComments": 3,
+      "percentageFunded": 200.12,
+      "minGoal": 804,
+      "maxGoal": 804,
+      "income": 805,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775925112/dreams/fx6k92ea0y5tkl0xzq44.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775925153/dreams/ttsrfx76qfah3hborsxo.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775925348/dreams/zpbkdb79v3v7fsbgg8s4.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Cosmic Cloud",
+          "value": "It doesn't affect neighbors, but will need a space to take place for sure. In discussion !",
           "customField": {
-            "name": "This dream belongs to camp:"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "Want to feel silly, magical or full of joy?  \nAll at once. Everything but serious.\n\nStep into our Cosmic Day Party.\n\nWe’ll lift off together, drifting through progressive house, moving out of sync, in perfect harmony under the bright midday sun.\n\nCome as you are, stay as long as you like,  \nand let the music carry you.\n\nFollow the sound… and find the beautiful Cosmic Cloud Tipi Tent.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "Party time, yes we will play loud. During afternoons.",
+          "value": "Voice level :)",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We will keep within sound levels, serve water, and stay safe and fun.",
+          "value": "Yggdrasil",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Let's be vigilant around children with small beads !",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Will be removed when we leave on sunday.",
+          "value": "My dream will be packed back with me and the people who participated. No waste to manage :)",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "3500 w. (less than 16 ah)",
+          "value": "No need for Electricity",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "@tacho.ds on Discord",
+          "value": "I would say myself :) ? I am MarieBee or itsmariebee on discord, you also have my email marie-bessin@orange.fr.",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
+        },
+        {
+          "value": "Hi there ! 🌳\n\nIf you love making stuffs and bringing souvenirs from Burning events, you should definitely come to this amazing workshop 🥰\n\nThe idea is to create a Tree of Life dreamcatcher Necklace while experiencing art therapy ☮︎. Let's share all together in what way do you feel yourself growing lately as the tree leaves, what fulfills you and brings you energy as the sap flows, and what roots do you want to build for yourself in the near future ?\n\nThis workshop can be self financed.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "I am open to cocreation.",
+          "customField": {
+            "name": "Co-creation"
+          }
         }
       ],
-      "tags": [
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Music"
-        },
-        {
-          "value": "NOT kids-friendly"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Sex positive"
-        },
-        {
-          "value": "Soundcamp"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Cables, nice lights etc",
-          "min": 1500,
+          "description": "total",
+          "min": 805,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Rental sound system",
-          "min": 2000,
-          "max": 4000,
+          "description": "brown cords (3 rolls of 90m)",
+          "min": 326,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Decor",
-          "min": 500,
-          "max": 1500,
+          "description": "50 wooden circles",
+          "min": 217,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Rental top tent to cover sound system",
-          "min": 800,
+          "description": "green glass beads (4200)",
+          "min": 261,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 1500,
-      "percentageFundedTrue": 45.45
+      "funded": 805,
+      "percentageFundedTrue": 100.12
     },
     {
       "id": "cmnuczg3d001vixtdelui0zws",
@@ -35013,106 +34906,197 @@
       "percentageFundedTrue": 365.33
     },
     {
-      "id": "cmnuk077a000oj41ewubnrvwe",
-      "title": "Dreamcatcher Necklace Workshop",
-      "summary": "Dreamcatcher workshop :) To bring home a nice moment shared in community while experiencing Art Therapy ",
+      "id": "cmnuo4kr9000r54d1pc81llhd",
+      "title": "💋 The Wheel of Pleasure 💋 by The Fuckery",
+      "summary": "Set your limits, spin the wheel, and surrender to sensation. Anonymous hands, playful mystery, and consent-led mischief await. Feeling lucky? 😈",
       "status": "FUNDED",
-      "noOfFunders": 17,
-      "noOfComments": 3,
-      "percentageFunded": 200.12,
-      "minGoal": 804,
-      "maxGoal": 804,
-      "income": 805,
+      "noOfFunders": 67,
+      "noOfComments": 2,
+      "percentageFunded": 510.01,
+      "minGoal": 4425,
+      "maxGoal": 11690,
+      "income": 18050,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775925348/dreams/zpbkdb79v3v7fsbgg8s4.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775999625/dreams/fzk6oesbmab4rw9kwtqa.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "It doesn't affect neighbors, but will need a space to take place for sure. In discussion !",
+          "value": "Participants co-create each experience by choosing their boundaries and inviting others to play within them. The crowd becomes part of the magic - stepping in as anonymous contributors to someone else’s moment.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "A curious and inviting spectacle for passersby, blending mystery, playfulness, and participation. Designed to intrigue without disrupting, drawing people in while respecting the flow of the surrounding plaza.\n\nPlaced within The Fuckery’s main space, operating at scheduled times with clear communication, and harmonizing with nearby camps and activities.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Voice level :)",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Yggdrasil",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Let's be vigilant around children with small beads !",
+          "value": "Consent-led, facilitated, and clearly communicated at every step. Participants choose their boundaries in advance, and facilitators ensure those boundaries are respected throughout the experience.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "My dream will be packed back with me and the people who participated. No waste to manage :)",
+          "value": "Low to moderate. Soft music, ambient sounds, and guiding voices - aligned with The Fuckery’s overall soundscape.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Will go down with the rest of The Fuckery. Built alongside camp setup (Sat–Mon, July 19–20) and fully struck no later than Sunday, July 26th.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "No need for Electricity",
+          "value": "Minimal. Soft lighting and ambient sound, supported by The Fuckery’s shared infrastructure.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "I would say myself :) ? I am MarieBee or itsmariebee on discord, you also have my email marie-bessin@orange.fr.",
+          "value": "@Mirja is our Dr. Bill-Bull, and is easiest found on the Discord!",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Hi there ! 🌳\n\nIf you love making stuffs and bringing souvenirs from Burning events, you should definitely come to this amazing workshop 🥰\n\nThe idea is to create a Tree of Life dreamcatcher Necklace while experiencing art therapy ☮︎. Let's share all together in what way do you feel yourself growing lately as the tree leaves, what fulfills you and brings you energy as the sap flows, and what roots do you want to build for yourself in the near future ?\n\nThis workshop can be self financed.",
+          "value": "The Fuckery",
           "customField": {
-            "name": "Description"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "I am open to cocreation.",
+          "value": "Welcome to The Wheel of Pleasure - where your yes is the only rule, and chance does the rest.\n\nStep up with a trusted partner and choose from our curated menu of sensations: a delicious mix of soft, sharp, cool, teasing, and unexpected. You pick your boundaries. We handle the mischief.\n\nThen… you give in.\n\nBlindfolded and deliciously unaware, you become the center of attention. The wheel spins to decide how many hands fate will send your way, and your partner quietly selects the lucky winners from the crowd.\n\nYou won’t know who they are.\n\nYou won’t see them coming.\n\nYou’ll just feel.\n\nA brush here. A surprise there. A dance of sensation across your skin - playful, electrifying, and entirely within your chosen yeses.\n\nFor a few delicious minutes, you’re not in control… just in sensation.\n\nAnd then - poof - they’re gone.\n\nWhen the blindfold comes off, the crowd looks innocent.\n\nBut someone in it just played with you.\n\n_Spin the wheel. Tease your fate._ 😈",
           "customField": {
-            "name": "Co-creation"
+            "name": "Description"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Experience"
+        },
+        {
+          "value": "NOT kids-friendly"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Sex positive"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "total",
-          "min": 805,
+          "description": "Sound system",
+          "min": 9000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "brown cords (3 rolls of 90m)",
-          "min": 326,
+          "description": "X-Cross Furniture",
+          "min": 5000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Ice Machine",
+          "min": 4000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Thermos for Ice",
+          "min": 50,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Lottery wheel",
+          "min": 300,
+          "max": 1200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wireless microphone",
+          "min": 2200,
+          "max": 7500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Chalkboard 40x60 - For information",
+          "min": 200,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "50 wooden circles",
-          "min": 217,
+          "description": "Handheld whiteboard - For consent form",
+          "min": 80,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "green glass beads (4200)",
-          "min": 261,
+          "description": "Water for ice cubes",
+          "min": 60,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Pinwheel",
+          "min": 150,
+          "max": 250,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Feather/Tickler",
+          "min": 150,
+          "max": 200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Paddle/Flogger",
+          "min": 135,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Hand sanitizer / Disinfectant Wipes / Tissues",
+          "min": 100,
+          "max": 300,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Blindfolds",
+          "min": 100,
+          "max": 300,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Physical timer",
+          "min": 50,
+          "max": 200,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fairy lights",
+          "min": 500,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Batteries",
+          "min": 400,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 805,
-      "percentageFundedTrue": 100.12
+      "funded": 18050,
+      "percentageFundedTrue": 407.91
     },
     {
       "id": "cmnvum5m10000bex1ol8vevsg",
@@ -38334,92 +38318,116 @@
       "percentageFundedTrue": 92.39
     },
     {
-      "id": "cmnupqh5m0006t64c8ch2k840",
-      "title": "The Department of Bloodsugar Management",
-      "summary": "With an eclectic ensemble of esoteric tidbits, we keep The Borderland's blood sugar levels consistently elevated. ",
+      "id": "cmnujxt3d000cugtvq1249aia",
+      "title": "Cosmic Day Party",
+      "summary": "Want to feel silly, magical or full of joy?\nAll at once. Everything but serious.\nStep into our Cosmic Day Party. It's balloony!",
       "status": "FUNDED",
-      "noOfFunders": 16,
-      "noOfComments": 0,
-      "percentageFunded": 204.1,
-      "minGoal": 1000,
-      "maxGoal": 1600,
-      "income": 1000,
+      "noOfFunders": 47,
+      "noOfComments": 2,
+      "percentageFunded": 204.33,
+      "minGoal": 3300,
+      "maxGoal": 6300,
+      "income": 1500,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775935817/dreams/cyxactyhhwn3lybbwahl.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775925112/dreams/fx6k92ea0y5tkl0xzq44.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775925153/dreams/ttsrfx76qfah3hborsxo.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "It won't; we'll just walk around handing out snacks without disturbing anyone.",
+          "value": "Cosmic Cloud",
           "customField": {
-            "name": "Co-existence"
+            "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Nope.",
+          "value": "Want to feel silly, magical or full of joy?  \nAll at once. Everything but serious.\n\nStep into our Cosmic Day Party.\n\nWe’ll lift off together, drifting through progressive house, moving out of sync, in perfect harmony under the bright midday sun.\n\nCome as you are, stay as long as you like,  \nand let the music carry you.\n\nFollow the sound… and find the beautiful Cosmic Cloud Tipi Tent.",
           "customField": {
-            "name": "Electricity"
+            "name": "Description"
           }
         },
         {
-          "value": "We'll bring a small portable speaker and play some tunes, but that's all.",
+          "value": "Party time, yes we will play loud. During afternoons.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "It's portable, we'll just bring the wagon back to camp.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "No real risks here other than, like, tripping on something and falling over. I suppose people can choke on things? We know the Heimlich maneuver.",
+          "value": "We will keep within sound levels, serve water, and stay safe and fun.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "In this house, we believe: blood sugar is sacred. We are the thing between meals; the handful of something weird pressed into your palm at 3 AM, the cracker that prevents a spiral, the discovery that someone brought Taiwanese Bamboo Pepsi to the Swedish forest.  \n  \nCome sample our wide variety of satiating delicacies!",
+          "value": "Will be removed when we leave on sunday.",
           "customField": {
-            "name": "Description"
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "3500 w. (less than 16 ah)",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "@tacho.ds on Discord",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         }
       ],
       "tags": [
         {
-          "value": "Food"
+          "value": "Experience"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "NOT kids-friendly"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Sex positive"
+        },
+        {
+          "value": "Soundcamp"
         }
       ],
       "budgetItems": [
         {
-          "description": "We have a wagon",
-          "min": 1000,
+          "description": "Cables, nice lights etc",
+          "min": 1500,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Drinks",
-          "min": 300,
-          "max": 500,
+          "description": "Rental sound system",
+          "min": 2000,
+          "max": 4000,
           "type": "EXPENSE"
         },
         {
-          "description": "Fruits and dried fruits",
-          "min": 300,
-          "max": 500,
+          "description": "Decor",
+          "min": 500,
+          "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "Wide variety of snacks",
-          "min": 400,
-          "max": 600,
+          "description": "Rental top tent to cover sound system",
+          "min": 800,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 1000,
-      "percentageFundedTrue": 100
+      "funded": 1500,
+      "percentageFundedTrue": 45.45
     },
     {
       "id": "cmnua3csy0011pqbcsepz7frc",
@@ -59994,100 +60002,92 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnuqb2v5003q9xj9ecuodfrf",
-      "title": "Eye to Eye, Heart to Heart",
-      "summary": "Breath until your heartbeat finds the same rythem",
-      "status": "CANCELED",
-      "noOfFunders": 0,
+      "id": "cmnupqh5m0006t64c8ch2k840",
+      "title": "The Department of Bloodsugar Management",
+      "summary": "With an eclectic ensemble of esoteric tidbits, we keep The Borderland's blood sugar levels consistently elevated. ",
+      "status": "FUNDED",
+      "noOfFunders": 16,
       "noOfComments": 0,
-      "percentageFunded": 13.25,
-      "minGoal": 2000,
-      "maxGoal": 2000,
-      "income": 0,
+      "percentageFunded": 204.1,
+      "minGoal": 1000,
+      "maxGoal": 1600,
+      "income": 1000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775936769/dreams/hkiuzegcrrm0ephkfyeb.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775935817/dreams/cyxactyhhwn3lybbwahl.png"
         }
       ],
       "customFields": [
         {
-          "value": "This is a low-impact, intimate dream. It takes up very little space (just two chairs) and creates no noise. It’s perfect for a quiet corner, a forest path, or as a cozy addition to a camp’s chill-out area.",
+          "value": "It won't; we'll just walk around handing out snacks without disturbing anyone.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "The art is created by the participants themselves. We provide the technical vessel, but the heartbeat synchronization and the eye contact are the true co-creation. We invite anyone curious about human-centric technology or meditation to facilitate a session or simply experience the pulse of another.",
+          "value": "Nope.",
           "customField": {
-            "name": "Co-creation"
+            "name": "Electricity"
           }
         },
         {
-          "value": "Sometimes, the most beautiful thing you can do is just be still.\n\nTwo chairs, two heartbeats, and a quiet invitation to drop the masks. Sit across from someone - a lover, a friend, or a total stranger - and look into their eyes. As your pulses light up the chairs, you’ll see the invisible thread between you become visible.\n\nIt’s a simple, luminous game of breath and presence. When your hearts finally find each other and the lights glow as one, it’s a tiny reminder that beneath all the noise, we are connected.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "**None.** This is a purely visual and silent experience",
+          "value": "We'll bring a small portable speaker and play some tunes, but that's all.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "*   We will ensure all cables between the two chairs are taped down or covered with a small rug to prevent tripping.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Everything is designed for easy removal. The electronics (Arduino and sensors) fit in a small kit, and the chairs will be donated or repurposed after the event. **Leave No Trace** is a core part of our plan; we will leave the spot exactly as we found it.",
+          "value": "It's portable, we'll just bring the wagon back to camp.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Dana Hertz (Dana Banan aka me)  \nWA - +972587635790\n\nemail - [dana.ge17@gmail.com](mailto:dana.ge17@gmail.com)",
+          "value": "No real risks here other than, like, tripping on something and falling over. I suppose people can choke on things? We know the Heimlich maneuver.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Safety"
           }
         },
         {
-          "value": "**.** We need access to one standard power outlet (230V). Our total consumption is very low, under **100W**,",
+          "value": "In this house, we believe: blood sugar is sacred. We are the thing between meals; the handful of something weird pressed into your palm at 3 AM, the cracker that prevents a spiral, the discovery that someone brought Taiwanese Bamboo Pepsi to the Swedish forest.  \n  \nCome sample our wide variety of satiating delicacies!",
           "customField": {
-            "name": "Electricity"
+            "name": "Description"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Food"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Folding Chairs (x2)",
-          "min": 600,
+          "description": "We have a wagon",
+          "min": 1000,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Addressable LED strips and materials to soften the light.",
-          "min": 600,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Pulse sensors, Arduino/ESP32, and connectors.",
-          "min": 500,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Long extension cables and weather-proof boxes for electronics.",
+          "description": "Drinks",
           "min": 300,
-          "max": null,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Fruits and dried fruits",
+          "min": 300,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wide variety of snacks",
+          "min": 400,
+          "max": 600,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 1000,
+      "percentageFundedTrue": 100
     },
     {
       "id": "cmnw5h5d7005nfp28087l7eep",
