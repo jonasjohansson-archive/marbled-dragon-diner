@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787378946643,
+  "updatedAt": 1787465409299,
   "buckets": [
     {
       "id": "cmlo6634a0008rt2anbi3sfdz",
@@ -5365,7 +5365,7 @@
       "id": "cmntf2xh10002t09ldbcisj5i",
       "title": "Chain of mirrors for disco dreamers",
       "summary": "I'm building a disco mirror chain and bringing my gigantic disco ball, I built this winter, for my and Simons underground live set in the woods.",
-      "status": "FUNDED",
+      "status": "COMPLETED",
       "noOfFunders": 36,
       "noOfComments": 4,
       "percentageFunded": 547.14,
@@ -17008,142 +17008,128 @@
       "percentageFundedTrue": 14.39
     },
     {
-      "id": "cmnudzri1000410xierozkwn4",
-      "title": "Orgystyle Boudoir Photoshoot - by the Fuckery",
-      "summary": "A staged photo opportunity in a group of 20-30 - Fuckery Style.",
-      "status": "CANCELED",
-      "noOfFunders": 0,
-      "noOfComments": 4,
-      "percentageFunded": 452.2,
-      "minGoal": 8200,
-      "maxGoal": 8200,
-      "income": 35300,
+      "id": "cmnu9a5h5000b10zwjakjsuc2",
+      "title": "Printed Maps",
+      "summary": "Unbearable Bear brings you printed maps in 1+ meter format.\nLocated in frequented locations for you to get unlost.\n",
+      "status": "FUNDED",
+      "noOfFunders": 52,
+      "noOfComments": 6,
+      "percentageFunded": 100,
+      "minGoal": 2760,
+      "maxGoal": 7325,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775915199/dreams/sckv2qszbchpohooyjkb.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775907462/dreams/i8wtowgztoh5wh0lyl3n.png"
         }
       ],
       "customFields": [
         {
-          "value": "None problematic",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "The Fuckery",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Co-creation is essential. You are the talent - we provide the space and naughty ideas.",
+          "value": "People from comments",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "This dream will live just fine at the Fuckery - discreetly and hardly noticed. If you know, you know.",
+          "value": "—",
           "customField": {
-            "name": "Co-existence"
+            "name": "Sound levels"
           }
         },
         {
-          "value": "**The Kodak Moment of 2026.**\n\nJoin a bunch of other exhibitionist Burners for a **naked boudoir group photography session**!\n\nNot for the shy or timid - this is a naked (possibly explicit) event choreographed and facilitated by experienced S+ facilitators and Fuckers with lots of (professional) theatre/stage and photo experience. The facilitators will suggest and invite only.\n\nGuests (of course) stay within their own limits and leave/step out at any time. No faces have to be shown, guests will be given instructions on when and how to cover or turn away faces - masks can be worn - or faces can be shown at the discretion of each participant.\n\nThe purpose is on making 2-3 great group photos and having lots of fun and pulse doing so. This is not a play event, though we never say never in the Fuckery. All guests will of course be given copies of the (estimated) 2-4 final group photos resulting from this event (after Borderland when the photos have been edited to comply with privacy standards).\n\n**Sign-up in advance will be essential.** Limited amount of \"seats\" - probably between 20 and 30.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "2 photographers and 2-3 experienced facilitators will oversee this event, ensuring tons of relaxed fun, some structure, as well as consent and rules being followed to the T.  \nNo audience.",
+          "value": "Safe",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "This event lives in the Fuckery - strike is not an issue",
+          "value": "Positively affects the space",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "—",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Veronika slachtova\n\nVslachtova@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Trash",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "No special needs here. Move on.",
+          "value": "None",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Mirja (mirjavirginiaandersson@gmail.com)",
+          "value": "Unbearable Bear brings you printed maps of Borderland in 1+ meter format.\n\nLocated in frequented locations for you to find.  \nThis project is accompanied by a digital map for you to download to your phone, so you don't have to rely on shitty internet.\n\nYour money matters to make this happen.  \n1piece of A0 print costs 300DKK / 435SEK  \nThe more money this project receives, the more maps we can print.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Description"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Alversjö infrastructure"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Stage",
-          "min": 10000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lights sound and music rig",
-          "min": 9000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Pusselmats and pillows",
-          "min": 7000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Various furniture",
-          "min": 9000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Lube and condoms (one never knows)",
-          "min": 300,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Masks and facial adornments protecting privacy",
-          "min": 2500,
+          "description": "A0 print",
+          "min": 435,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Photography misc consumble equipment",
-          "min": 500,
+          "description": "A0 print",
+          "min": 435,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Towels",
-          "min": 700,
+          "description": "A0 print",
+          "min": 435,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Mattresses with covers (5)and linen",
-          "min": 1500,
+          "description": "A0 print",
+          "min": 435,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Spotlights,ringlights and light kit ",
-          "min": 3000,
+          "description": "A0 print",
+          "min": 435,
+          "max": 5000,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Shipping ",
+          "min": 545,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Duct tape",
+          "min": 40,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 35300,
-      "percentageFundedTrue": 430.49
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmng9jtet00029k4zd7nbrtq4",
@@ -17446,72 +17432,81 @@
       "percentageFundedTrue": 100.12
     },
     {
-      "id": "cmnuczg3d001vixtdelui0zws",
-      "title": "Le Bistro Français",
-      "summary": "A corner of Paris in the woods — wine, peanuts, and the art of l’Apéro.",
+      "id": "cmnufp0ex0004uc237w7ln6ya",
+      "title": "Remember The Remnants",
+      "summary": "Did you know that not EVERYBODY will go to Borderland?\nThat's right, 99% of people are left behind!\nWe're here to serve as living reminders, and you can too!\n\n\n",
       "status": "FUNDED",
-      "noOfFunders": 81,
-      "noOfComments": 1,
-      "percentageFunded": 100,
-      "minGoal": 9614,
-      "maxGoal": 65386,
-      "income": 0,
+      "noOfFunders": 9,
+      "noOfComments": 0,
+      "percentageFunded": 306.25,
+      "minGoal": 800,
+      "maxGoal": 800,
+      "income": 1650,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775916635/dreams/lnvsdjceuakvbnoqtybx.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775918296/dreams/o7pi8sah4coa2plu546u.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775918338/dreams/hndkesbzaz90tqy4gxgp.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775918347/dreams/x0usg29k9mbtzffvvn1y.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775935071/dreams/npfidv4hvfwp3gluhujm.png"
         }
       ],
       "customFields": [
         {
-          "value": "We are a “relatively” calm, low-footprint neighbour for most of the day. The bistro operates during daytime and early evening hours, winding down as the night deepens and the louder parts of Borderland come alive.\n\nOur usual sound footprint is conversational: ambient chatter, guinguette music at comfortable background levels, and the occasional sound of someone really committing to a pétanque argument.\n\nOnce per day, we fire **_l'Heure Heureuse_** (happy hour): the music shifts to techno for an hour, the sparkling wine pops out, and the volume goes up a notch. This is brief, joyful, and at a fixed time.\n\nWe are active in the pre-placement process and want to take part in a plaza and a fun neighborhood!",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Le Bistro Français runs on people; we're open to collaborating with other camps and want to take part in a plaza: if you make music, art, or anything that pairs well with wine or France, let's talk.\n\nDrop by, introduce yourself, or reach out beforehand to get involved.",
+          "value": "Co-creation possible by live interaction with us, or by completing the hunt for our cult base so you can become a member.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Everything that comes in, goes out. The tent is a standard party tent that packs down flat. The bar will be disassembled into planks. Tables and chairs fold flat. Decor fits in a bag.\n\nWe aim to have the site fully cleared and Leave No Trace compliant on Sunday.",
+          "value": "💩 Seeing us in character will excite the mystery neurons of your brain. If you are the curious-type, you're in for a treat.\n\n𖨆𖨆 Seeing our secret toilet will make your shitting experience 50% more dramatic and 100% more enjoyable.\n\n🏠 Our secret base will be adopted by a rain-sheltering camp, but will have minimal impact as it will be on the periphery of their offerings. It's a flower in their garden.",
           "customField": {
-            "name": "Strike plan"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "\\*_Normal hours_\\* — low, ambient music and chatter\n\n\\*_L'Heure Heureuse_\\* — techno music with the volume raised for a party atmosphere for about an hour early evening.",
+          "value": "We are a quiet cult. There will be some (light, occasional) music in the secret toilet and the secret base.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "No significant safety hazards. We serve drinks and snacks only — no fire involved in running the bistro.\n\nFood safety: snacks will be kept sealed until serving and stored in a clean, dry place.",
+          "value": "No big dangers. Our cigarettes are fake. Our secret toilet will have a small powerbank, but that will be appropriately sheltered in an enclosure with good heat dissapation.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Medium:\n\n\\- LED string lights\n\n\\- Sound system (small to medium)\n\n\\- A fridge to keep the wine cool (especially white and bubbles)",
+          "value": "We put it up in an hour or two, we pack it up in the same. Everything goes home with us. Borrowed clothes have return details on them to keep them from becoming moops.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "The base requires some grid electricity, but not much.  \n  \nFor a microcontroller + small speaker + a few lights our power use is easily under 10W.",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Pierre:\n\n*   pierre.killy@gmail.com\n    \n*   \\_killich\\_ on Discord",
+          "value": "Jag Chadha  \njag.chadha@gmail.com  \n+49 1771982060",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "Le Bistro Français",
+          "value": "Our base will be a glowing white wardrobe adopted by a TBD camp (we're talking to some now).  \n  \nApart from being a standout-item (esp. @ night), our in-character personas and our secret toilet will set you on the path to it.",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "You hear it before you see it: The guinguette music and the murmur of conversation in French.\n\nThen you round the corner, and there it is: Le Bistro Français. A blue tent tucked into the landscape, strung with warm lights, its open side facing the world like an invitation. Chalk promises scrawled in looping handwriting. A tricolour flag bunting catches the breeze. A long wooden bar inside where someone in a black apron and a white shirt — très chic — is welcoming you with a warm smile and a heavy French accent.\n\nLe Bistro Français is a gift from a group of French friends to the Borderland community. The wine is real. The atmosphere is authentic. The peanuts and olives are exactly as described. Come for five minutes, stay for two hours, always leave with a new friend.\n\nThen, once a day, something shifts. The guinguette fades. A different beat takes over. The sparkling wine pops out. Welcome to **_l'Heure Heureuse_** — our happy hour — where the bistro loses its mind, the tempo goes up, and the whole neighbourhood is invited to celebrate absolutely nothing in particular.\n\n**_Bienvenue_**_.  \n(The image is AI-generated - the people are not real)_",
+          "value": "One of our fave things about Borderland is the character play.\n\nRemember The Remnants is a chance to roleplay with us (and optionally _as_ us). It includes spicy props, a cult-appropriate outfit, a scavenger hunt, and as a bonus:\n\n...**a deluxe shitting experience**.  \n  \n(This is tied to a separate mission to transform the least pleasant part of Borderland into a garden of memorable moments.)",
           "customField": {
             "name": "Description"
           }
@@ -17519,88 +17514,88 @@
       ],
       "tags": [
         {
-          "value": "Bar"
+          "value": "Art installation"
         },
         {
-          "value": "Chillout"
+          "value": "Experience"
         },
         {
-          "value": "Food"
+          "value": "Playful"
         },
         {
-          "value": "Music"
-        },
-        {
-          "value": "Pre-placement"
-        },
-        {
-          "value": "Theme camp"
+          "value": "Weird shit"
         }
       ],
       "budgetItems": [
         {
-          "description": "Sound system (taken from home)",
-          "min": 0,
+          "description": "Rasperry Pi Zero 2",
+          "min": 200,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Table + chairs",
-          "min": 2596,
-          "max": 7788,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Party Tents",
-          "min": 2798,
+          "description": "Bluetooth Speaker",
+          "min": 300,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Alcohol-free sparkling (for happy hour)",
-          "min": 0,
-          "max": 14256,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Alcohol-free white wine",
-          "min": 244,
-          "max": 16416,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Alcohol-free red wine",
-          "min": 253,
-          "max": 17064,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Snacks",
-          "min": 130,
-          "max": 500,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Chalkboard sign",
-          "min": 419,
+          "description": "Tiny Monitor",
+          "min": 300,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Wood for building the bar",
-          "min": 2974,
-          "max": 4145,
-          "type": "EXPENSE"
+          "description": "Various Small Lights",
+          "min": 100,
+          "max": null,
+          "type": "INCOME"
         },
         {
-          "description": "Pimp the place",
+          "description": "White Clothes For Us + Others",
+          "min": 500,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Portable White Wardrobe",
+          "min": 150,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Small Electronic Components (Sensors, Indicators etc.)",
+          "min": 100,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Fake Cigarettes, Cases",
           "min": 200,
-          "max": 2000,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Notepads, Markers",
+          "min": 200,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Business Cards, Cases, Large Signs, etc.",
+          "min": 300,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Material Transport (extra gas money for a friend taking a big ol' suitcase of this shit)",
+          "min": 100,
+          "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 1650,
+      "percentageFundedTrue": 206.25
     },
     {
       "id": "cmnou8qjf0000fu2meihizntv",
@@ -18879,60 +18874,75 @@
       "percentageFundedTrue": 635.71
     },
     {
-      "id": "cmnuez2v7002nvvpmrt8q4pf1",
-      "title": "Portable Poetry Person",
-      "summary": "Enhance your playa experience with an on-the-spot-created poem about YOU!\nOr as a gift for your Borderland crush because you need help being romantic.",
+      "id": "cmnueod3l001a10xifl2fh7jr",
+      "title": "Breakfeast and a GOAre morning",
+      "summary": " Goa, coffee & breakfast in a Garden Oasis | Refill your strength & coffee cup and enjoy breafkfeast & some nice Goa psytrance in the morning.",
       "status": "FUNDED",
-      "noOfFunders": 21,
-      "noOfComments": 9,
-      "percentageFunded": 114.52,
-      "minGoal": 2760,
-      "maxGoal": 5958,
-      "income": 0,
+      "noOfFunders": 43,
+      "noOfComments": 0,
+      "percentageFunded": 239.24,
+      "minGoal": 2660,
+      "maxGoal": 3350,
+      "income": 3350,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775917990/dreams/brratzsski7adthxqkab.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775917347/dreams/r5tbbf5ikgbnjlnwsaju.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776155699/dreams/lo96crgnpseslhd68425.webp"
         }
       ],
       "customFields": [
         {
-          "value": "How many times have you felt like you just couldn’t put words to the emotional current flooding your system? How many times have you felt like the right words were on the tip of your tongue, while looking into eyes filled with anticipation waiting on them? How many times have you just wanted to hear something really beautiful that makes you ponder over the magical existence we call life?\n\nFret not - the Portable Poetry Person is here!\n\nWhether or not you want an ego boost for yourself, you need help to tell your Borderland crush how you feel or you just want a memorable unique experience, the Portable Poetry Person is here to support the shit out of you (diapers not included)!\n\nEquipped with an easily findable T-Shirt saying “Portable Poetry Person” and his trusty megaphone, he’s here to help you articulate and spread your emotional message for you and to-the-capacity-of-how-far-the-megaphone-can-spread-sound Borderland!\n\nWhen you spot the Portable Poetry Person on the playa, even your wildest dreams will become tangible!\n\nYes, it will rhyme.",
+          "value": "Njorunns Garden",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Discord: MonsterMorran\n\nmorranh@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Have you just woken up and are wondering how you can get your strength back? Or are you just looking for some nice music, breakfast and some coffee as you start your day?  \nEither way, we have a gift for you.\n\n**Welcome Boderlings to En Goare Morgon**\n\nFind you way to Njorunns Garden and refill your strength and enjoy breafkfeast with some nice Goa psytrance and other chill tunes. We will serve you coffee, tea, Odens Overnight Oats (with yummy toppings), some Swedish fika and some good beats.\n\nLet’s start the day together with sunny, happy and uplifting psytrance for a goare morning.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "None",
+          "value": "0W- this dreams will use electricity from the main camp and it's dream. (In main camp: Max 5,4 kW sound maker+ coffe maker+water boiler)",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "None",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "N/A",
+          "value": "To ensure pleasant Co-existence we will:  \n  \nϴ Take part in the pre-placement process (Njorunns Garden also will have other events with music)\n\nϴ Place speakers strategically to ensure minimal disturbance\n\nϴ Communicate with neighbours and adjust sound levels if needed\n\nHopefully the music, the drinkable and edible aspects will affect neighbors and borderlings in a positivelt way overall.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Pretty safe",
+          "value": "Be aware that the coffee and tea may be hot ֍",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "I can yell loud, but not that loud",
+          "value": "Sound level will be moderate and respectful. This Dream is a daytime dream.\n\nSituated between Plutonia & The Church which means we will never be the loudest in the neighborhood, and we don’t want to.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Just me",
+          "value": "We aim to leave the place more beautiful than we found it. Everything will be brought home after strike except e.g. milk cartoons etc that will be sorted and recycled.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Are you really good at baking and brought lots of nice fika to Borderland but you don't know where to share it? Or do you have a special tea that EVERYONE should taste? Or maybe you have just been inspired to play the best goa set of you life?\n\nIf the statments above, or similar situations occurs we could make this happen together <3  \nEither way Njorunns Garden and friends will make this special morning Goare.",
           "customField": {
             "name": "Co-creation"
           }
@@ -18940,46 +18950,61 @@
       ],
       "tags": [
         {
-          "value": "Experience"
+          "value": "Food"
         },
         {
-          "value": "Playful"
+          "value": "Hippie trap"
+        },
+        {
+          "value": "Music"
         }
       ],
       "budgetItems": [
         {
-          "description": "Typewriter",
-          "min": 2180,
-          "max": 4360,
+          "description": "Vattenkokare",
+          "min": 400,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Perkulator/ kaffebryggare",
+          "min": 2800,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Cauldron for Oats",
+          "min": 150,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Odens Overnight Oat (60-80 personer)",
+          "min": 1230,
+          "max": 1500,
           "type": "EXPENSE"
         },
         {
-          "description": "Ink",
-          "min": 72,
-          "max": 144,
+          "description": "Toppings Oats",
+          "min": 550,
+          "max": 750,
           "type": "EXPENSE"
         },
         {
-          "description": "Paper",
-          "min": 72,
-          "max": 144,
+          "description": "Kaffe & Te",
+          "min": 800,
+          "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Megaphone",
-          "min": 435,
-          "max": 730,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "T-shirt",
-          "min": 1,
-          "max": 580,
+          "description": "Swedish fika",
+          "min": 80,
+          "max": 100,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 3350,
+      "percentageFundedTrue": 125.94
     },
     {
       "id": "cmnu58uyn000thu3ebcl9m5ce",
@@ -23652,125 +23677,107 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmntydykp00047g9vovalicy5",
-      "title": "The octopus of your mother",
-      "summary": "An octupusy space that will accompany your journey in a gentle way. And will surprise you each time you get there, with random sounds lights and psyvisons",
+      "id": "cmnuez2v7002nvvpmrt8q4pf1",
+      "title": "Portable Poetry Person",
+      "summary": "Enhance your playa experience with an on-the-spot-created poem about YOU!\nOr as a gift for your Borderland crush because you need help being romantic.",
       "status": "FUNDED",
-      "noOfFunders": 13,
-      "noOfComments": 0,
-      "percentageFunded": 358.82,
-      "minGoal": 1700,
-      "maxGoal": 2500,
-      "income": 3700,
+      "noOfFunders": 21,
+      "noOfComments": 9,
+      "percentageFunded": 114.52,
+      "minGoal": 2760,
+      "maxGoal": 5958,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775888954/dreams/uyifnukfuwhm021r5gby.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775888985/dreams/xrhxqcoat7yv8zpezxi2.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775917990/dreams/brratzsski7adthxqkab.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "It is totally safe. Nothing dangerous for sure.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "All will be collected at the last day. There is not a lot of equipment needed. And I will take care of everything :)",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Using few fabrics that I designed and one giant octopus doll that i created, i want to create a safe space to chill, to get an inspiration or get confused in a funny way.\n\nYou can lay down and relax with the random shuffle Playlist playing the most brilliant sounds of the octopus world. From down tempo music through podcasts, guided meditations, short stories and other surprises.",
+          "value": "How many times have you felt like you just couldn’t put words to the emotional current flooding your system? How many times have you felt like the right words were on the tip of your tongue, while looking into eyes filled with anticipation waiting on them? How many times have you just wanted to hear something really beautiful that makes you ponder over the magical existence we call life?\n\nFret not - the Portable Poetry Person is here!\n\nWhether or not you want an ego boost for yourself, you need help to tell your Borderland crush how you feel or you just want a memorable unique experience, the Portable Poetry Person is here to support the shit out of you (diapers not included)!\n\nEquipped with an easily findable T-Shirt saying “Portable Poetry Person” and his trusty megaphone, he’s here to help you articulate and spread your emotional message for you and to-the-capacity-of-how-far-the-megaphone-can-spread-sound Borderland!\n\nWhen you spot the Portable Poetry Person on the playa, even your wildest dreams will become tangible!\n\nYes, it will rhyme.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "If someone has 2 medium speakers and want to come and open a very alternative stage. Contact me it could be fun ;);)",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "I have small speaker planed for this event so it won't disturb farther than 8 meters radius away. I hope there won't be too large speakers around because it can disturb the chilling burners of the octopus.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Small speaker. Not much noise. And anyway chill vibes.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Could be great to get about 200W for speaker, mp3 and LEDs",
+          "value": "None",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Guy the tamaguchi Hadaryguy@gmail.com",
+          "value": "None",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "N/A",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Pretty safe",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "I can yell loud, but not that loud",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Just me",
+          "customField": {
+            "name": "Co-creation"
           }
         }
       ],
       "tags": [
         {
-          "value": "Art installation"
+          "value": "Experience"
+        },
+        {
+          "value": "Playful"
         }
       ],
       "budgetItems": [
         {
-          "description": "The octopus doll",
-          "min": 1500,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "The fabrics",
-          "min": 1000,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "LEDs",
-          "min": 600,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Speaker ",
-          "min": 600,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Extra bag to fly with the giant octopus doll to Sweden.",
-          "min": 800,
-          "max": 1000,
+          "description": "Typewriter",
+          "min": 2180,
+          "max": 4360,
           "type": "EXPENSE"
         },
         {
-          "description": "Solar battery to avoid the need for electricity",
-          "min": 200,
-          "max": 800,
+          "description": "Ink",
+          "min": 72,
+          "max": 144,
           "type": "EXPENSE"
         },
         {
-          "description": "LEDs",
-          "min": 700,
-          "max": null,
+          "description": "Paper",
+          "min": 72,
+          "max": 144,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Megaphone",
+          "min": 435,
+          "max": 730,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "T-shirt",
+          "min": 1,
+          "max": 580,
           "type": "EXPENSE"
         }
       ],
-      "funded": 3700,
-      "percentageFundedTrue": 217.65
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnw4td0k001nefsoe27bs739",
@@ -26353,154 +26360,125 @@
       "percentageFundedTrue": 370.56
     },
     {
-      "id": "cmnue2avb000o10xivip1b828",
-      "title": "Liquid Slug",
-      "summary": "Snail lover's wettest dream! You guessed it right. A group of human slugs and lots of slime in a backdrop of sluggy visuals and audio. Schhlllurp. ",
+      "id": "cmntydykp00047g9vovalicy5",
+      "title": "The octopus of your mother",
+      "summary": "An octupusy space that will accompany your journey in a gentle way. And will surprise you each time you get there, with random sounds lights and psyvisons",
       "status": "FUNDED",
-      "noOfFunders": 21,
-      "noOfComments": 1,
-      "percentageFunded": 100,
-      "minGoal": 7255,
-      "maxGoal": 8481,
-      "income": 0,
+      "noOfFunders": 13,
+      "noOfComments": 0,
+      "percentageFunded": 358.82,
+      "minGoal": 1700,
+      "maxGoal": 2500,
+      "income": 3700,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775919792/dreams/ejmsrgxn2usfkp9mxuwc.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775888954/dreams/uyifnukfuwhm021r5gby.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775920593/dreams/b816pnjqejge8w8im048.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775920615/dreams/hedm3recxwvqzzqk95vv.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775920640/dreams/nzxbehyzlgraibhaz7y8.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775920665/dreams/jjpztgiwznh0fgbwfyon.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775888985/dreams/xrhxqcoat7yv8zpezxi2.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "This is your local slug speaking.\n\nThank you, well acknowledged slug apprentices.\n\nFor years you have followed our lead, while we have transformed humans to our kind at the BL. Camp after camp have dedicated their names to our species. Slime and saliver has been exchanged in our name. Alters have been build to honour our existence.\n\nAnd now we grant you our gift of gratitude.\n\nOne gathering where all of you worshippers get the chance to become us.\n\n𝘎𝘰 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘵𝘩𝘦 𝘳𝘪𝘵𝘶𝘢𝘭 𝘰𝘧 𝘴𝘭𝘶𝘨𝘨𝘪𝘧𝘺𝘪𝘯𝘨 𝘺𝘰𝘶𝘳 𝘣𝘰𝘯𝘦𝘺 𝘣𝘰𝘥𝘺 𝘢𝘯𝘥 𝘭𝘢𝘺 𝘪𝘯 𝘢 𝘴𝘭𝘪𝘮𝘺 𝘱𝘪𝘵 𝘢𝘭𝘰𝘯𝘨 𝘸𝘪𝘵𝘩 𝘢 𝘨𝘳𝘰𝘶𝘱 𝘰𝘧 𝘰𝘵𝘩𝘦𝘳 𝘴𝘭𝘶𝘨𝘴 𝘵𝘰 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘵𝘩𝘦 𝘶𝘭𝘵𝘪𝘮𝘢𝘵𝘦 𝘴𝘭𝘶𝘨 𝘮𝘢𝘵𝘪𝘯𝘨 𝘳𝘪𝘵𝘶𝘢𝘭. 𝘞𝘦 𝘸𝘪𝘭𝘭 𝘦𝘯𝘴𝘶𝘳𝘦 𝘵𝘩𝘢𝘵 𝘺𝘰𝘶𝘳 𝘴𝘶𝘳𝘳𝘰𝘶𝘯𝘥𝘪𝘯𝘨𝘴 𝘢𝘳𝘦 𝘴𝘭𝘶𝘨𝘨𝘢𝘭𝘪𝘤𝘪𝘰𝘶𝘴 𝘸𝘪𝘵𝘩 𝘴𝘤𝘩𝘩𝘩𝘭𝘶𝘨𝘨𝘺 𝘴𝘰𝘶𝘯𝘥𝘴𝘤𝘢𝘱𝘦𝘴 𝘢𝘯𝘥 𝘷𝘪𝘴𝘶𝘢𝘭𝘴 𝘰𝘧 𝘯𝘰𝘯𝘦 𝘰𝘵𝘩𝘦𝘳 𝘵𝘩𝘢𝘯 𝘺𝘰𝘶𝘳 𝘴𝘭𝘶𝘨𝘨𝘺 𝘧𝘢𝘷𝘰𝘳𝘪𝘵𝘦𝘴, 𝘪𝘯 𝘥𝘦𝘦𝘱 𝘮𝘢𝘵𝘪𝘯𝘨 𝘳𝘪𝘵𝘶𝘢𝘭𝘴, 𝘵𝘰 𝘪𝘯𝘴𝘱𝘪𝘳𝘦 𝘺𝘰𝘶𝘳 𝘴𝘭𝘪𝘮𝘺 𝘧𝘭𝘰𝘸.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "We will use what is already available from the camp hosting this",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "We will be using sound yes, however loud, maybe not so much, but definitely following the camp's regulations",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Indeed calling in other slugs who would like to co-slime! Especially looking for slugs with interest in creating visuals, audio or helping with decoration and holding the space.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "We got safety under control, already thinking about how not to have sliding accidents and steel wire injuries!",
+          "value": "It is totally safe. Nothing dangerous for sure.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "This will be striked as soon as we are done, removing all goob and slime.",
+          "value": "All will be collected at the last day. There is not a lot of equipment needed. And I will take care of everything :)",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "CC Snail that is! contact at e-mail: cenora92@hotmail.com or telephone: +4530701227",
+          "value": "Using few fabrics that I designed and one giant octopus doll that i created, i want to create a safe space to chill, to get an inspiration or get confused in a funny way.\n\nYou can lay down and relax with the random shuffle Playlist playing the most brilliant sounds of the octopus world. From down tempo music through podcasts, guided meditations, short stories and other surprises.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Description"
           }
         },
         {
-          "value": "We will be popping up and slowing down slime style at a camp's facilities, believing that the good vibes will be felt on ground level all across the BL.",
+          "value": "If someone has 2 medium speakers and want to come and open a very alternative stage. Contact me it could be fun ;);)",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "I have small speaker planed for this event so it won't disturb farther than 8 meters radius away. I hope there won't be too large speakers around because it can disturb the chilling burners of the octopus.",
           "customField": {
             "name": "Co-existence"
           }
+        },
+        {
+          "value": "Small speaker. Not much noise. And anyway chill vibes.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Could be great to get about 200W for speaker, mp3 and LEDs",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Guy the tamaguchi Hadaryguy@gmail.com",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Art installation"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Almond Oil",
-          "min": 2913,
+          "description": "The octopus doll",
+          "min": 1500,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Tarp 8x12",
-          "min": 1209,
+          "description": "The fabrics",
+          "min": 1000,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "Pool noodles for barriers",
-          "min": 381,
-          "max": 581,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Anti-slip mats",
-          "min": 427,
-          "max": 727,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Double sticky tape",
-          "min": 436,
+          "description": "LEDs",
+          "min": 600,
           "max": null,
-          "type": "EXPENSE"
+          "type": "INCOME"
         },
         {
-          "description": "White canvas",
-          "min": 0,
-          "max": 290,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Condoms for hands",
-          "min": 0,
-          "max": 145,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Stockings for heads",
-          "min": 727,
-          "max": 1018,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Towels",
-          "min": 727,
+          "description": "Speaker ",
+          "min": 600,
           "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Extra bag to fly with the giant octopus doll to Sweden.",
+          "min": 800,
+          "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Wet wipes",
-          "min": 290,
-          "max": null,
+          "description": "Solar battery to avoid the need for electricity",
+          "min": 200,
+          "max": 800,
           "type": "EXPENSE"
         },
         {
-          "description": "Kitchen Paper Towels",
-          "min": 145,
+          "description": "LEDs",
+          "min": 700,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 0,
-      "percentageFundedTrue": 0
+      "funded": 3700,
+      "percentageFundedTrue": 217.65
     },
     {
       "id": "cmnw9q6ym000x14j9a33nl5cx",
@@ -30488,106 +30466,86 @@
       "percentageFundedTrue": 292.4
     },
     {
-      "id": "cmnu9qgtv000vpqbcbx8o5dpe",
-      "title": "Burning Piano",
-      "summary": null,
+      "id": "cmnuhrgfg001wbquf8ymoeyd4",
+      "title": "the Fluffery",
+      "summary": "A mobile fluff station to spread pleasure around the playa",
       "status": "FUNDED",
-      "noOfFunders": 20,
+      "noOfFunders": 11,
       "noOfComments": 4,
-      "percentageFunded": 372.4,
-      "minGoal": 1500,
-      "maxGoal": 6000,
-      "income": 4000,
+      "percentageFunded": 248.85,
+      "minGoal": 600,
+      "maxGoal": 1950,
+      "income": 300,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775907960/dreams/p9ipz3fitrorhhcopwdv.gif"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776543730/dreams/o3a3w2kfmfh0g5d9zvel.png"
         }
       ],
       "customFields": [
         {
-          "value": "I have done it many time before. Since it is mostly wood that is burning it is not that hot. For the audience, it is not any more dangerous than a camp-fire.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "The metal that is left will be thrown in the metal recycling.  \nThe wood will burn.  \nIt will however damage the ground beneath, so adding some gravel/earth under would mitigate that.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "none",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Jam Camp",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Last time we did this was in 2019, but it is time to do it again, did you miss it? Have a look at what it looked like last time :  \n[https://youtu.be/WkN57k7liIE?si=K\\_neTnU2sxkPmxZQ](https://youtu.be/WkN57k7liIE?si=K_neTnU2sxkPmxZQ)  \n  \nFor a bit more funding we can add better sound-equipment for it.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "It has usually been done together with the closing-ceremony, but it would work anywhere.  \n  \nIt won't make a whole lot of sound, and not for that long.",
+          "value": "The key word in our gift is CONSENT !\n\nBefore getting down to business and start the fluffs, we kindly offer the gift and if the person agrees then s/he could look at the catalog of fluffs and choose what kind of pleasure s/he whats to experience.",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Not very loud, and does not go on for very long.",
+          "value": "Mai Sidi - whatsapp +972-539233303",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "no need",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "none / very small speaker",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "Lukas Lilja",
+          "value": "In our dream we saw a mobile fluff station - carried around the playa and provide fluff of all kinds to burners (under their consent).  \n  \nAfter asking for consent ofc- the member can take a quick look in the catalog of pleasures, in which the fellow surprised burner could choose what kind of fluff he would like to receive.  \n  \nthere are plenty of options, and the burner could choose a few. then he sit on a super comfy chair or lay down on a mattress and getts what he ordered from the catalog.  \n  \nSo what fluffs do we offer?  \n  \n1) chocolate, barries and fresh fruits.  \n2) etheric oils and mint  \n3) we give shoulders, neck, back or foot massage  \n4) ice, thermal water spray and warm bottles  \n5) \\*\\*if everyone is up to it - the fluffs can get sexy/kinky (tickeling, licking, spanking ect...)",
           "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "Lukas Lilja",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Description"
           }
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "value": "Wellness"
+        }
+      ],
       "budgetItems": [
         {
-          "description": "Microphone and minor sound system",
-          "min": 4000,
+          "description": "Head Massager",
+          "min": 100,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Piano",
-          "min": 1000,
-          "max": 3000,
+          "description": "massge tools",
+          "min": 200,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "station equipment (yoga matt, chair, etc)",
+          "min": 300,
+          "max": 1200,
           "type": "EXPENSE"
         },
         {
-          "description": "Logistics",
-          "min": 500,
-          "max": 1000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Equipment",
-          "min": 0,
-          "max": 2000,
+          "description": "groceries (choclate, sweets, aroma)",
+          "min": 300,
+          "max": 750,
           "type": "EXPENSE"
         }
       ],
-      "funded": 4000,
-      "percentageFundedTrue": 266.67
+      "funded": 300,
+      "percentageFundedTrue": 50
     },
     {
       "id": "cmnvx83790000htvl5462pnsu",
@@ -30772,116 +30730,101 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnurxjsx000u71bu4cvwltz5",
-      "title": "The Cosmic Coziness (@F33 Cosmic Portal)",
-      "summary": "Cozy haven beneath the Cosmic Portal (LED light installation): soft rest, flowing light & music, where time fades and you drift into cosmic infinity.",
-      "status": "FUNDED",
-      "noOfFunders": 38,
-      "noOfComments": 0,
-      "percentageFunded": 132.64,
-      "minGoal": 3814,
-      "maxGoal": 7155,
+      "id": "cmnuuu999003vea9f8lkxvi1z",
+      "title": "The Baby Badgers Youth Corps",
+      "summary": "The children of Borderland need some discipline! Let's give our kids an afternoon of military fun and set them up for guaranteed real-world success. ",
+      "status": "COMPLETED",
+      "noOfFunders": 28,
+      "noOfComments": 3,
+      "percentageFunded": 100,
+      "minGoal": 3050,
+      "maxGoal": 3050,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775939694/dreams/pnoglm945wbsti1t03dc.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776072691/dreams/bafiu8urxclucekntdrv.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776072715/dreams/ptqqvngwmfqmcehnsybw.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776072723/dreams/x32v5mipowrraa9koi1j.webp"
         }
       ],
       "customFields": [
         {
-          "value": "Cosmic Portal/Salon Leobard",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "People are welcome to co-create and bring blankets, cushions, stuffed animals - everything that helps to make the place even cozier :). However, not mandatory.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "The cozy space co-exists with the Cosmic Portal.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Matresses will be folded back, cushions come into the bags provided - does not need long to strike.\n\nEverything that is funded will be reused for the next Borderland and other burns.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Mattresses will be pinned to floor with double-sided removable tape.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "None (in synergy with Cosmic Portal)",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Only small amount for electric heating blankets.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "@Caro on Discord (caro011932) and\n\n@Flow on Discord (flow02668)",
+          "value": "Crispy. Discord: @crispy440",
           "customField": {
             "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
           }
         },
         {
-          "value": "## Surrender into coziness\n\nBeneath the Cosmic Portal (already funded by F33), a truly cozy hideaway unfolds — a soft, inviting landscape of mattresses, cushions, and warm blankets, layered like a gentle embrace.\n\nThis cozy resting place is more than just a place to lie down; it is a space to arrive, to sink in, to be held. Here, coziness becomes almost majestic — quiet, enveloping, and deeply soothing.\n\nAbove you, the vast circle of the Cosmic Portal glows and shifts, its light moving in slow, hypnotic waves, accompanied by music that feels like it’s drifting through time itself. As you rest in this cozy haven beneath it, you are invited to simply follow — the light, the sound, your breath.\n\nTime blurs as the future fades and the past dissolves — you soften into cozy stillness, gently merging with the space, the light, and the quiet infinity of the cosmos.\n\n## Location\n\nIn the Barn (attic), where it can be cold, Cosmic Coziness unfolds — blankets and soft layers gather warmth against the chill.\n\n## Pancake evenings\n\nOn Thursday and Saturday, vegan pancakes will be served for cosmos wonderers — soft, golden offerings for those who dream beneath the Cosmic Portal.",
+          "value": "Occasional drill instructor shouting and kids laughter.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "You won't make your kids safe by sheltering them from danger. You'll make them safe by giving them the confidence and competence needed to handle danger, when it arrives.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "The Green Zone - by Blackwater Operations",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Dear Parent or Guardian,\n\nLet's be honest. The world is a rough place - and it's not getting any softer. Many of you have been asking; \"How do we prepare our kids for the world they'll be growing up in?\".\n\n## A new approach to education\n\nYour prayers have been heard. While other camps want to teach your kids to hula-hoop and \"express their inner dolphin\", the Baby Badgers offer to make your child braver, stronger and more resilient.\n\nWe give them actual life skills. Skills schools won't teach. Skills that matter, like:\n\n*   Tactical face paint (not the butterfly kind)\n    \n*   Basic reconnaissance\n    \n*   Spy craft\n    \n*   Obstacle course\n    \n*   Marching in formation\n    \n*   And more!\n    \n\n## Give your child a chance to win at life\n\nBy joining the Baby Badgers program, they'll have an amazing afternoon and come home full of discipline, purpose, and the ability to low-crawl under barbed wire. \n\n## Go Badgers, go!\n\n### OPERATIONAL EXPENDITURES\n\nYour generous funding will enable 12 young Borderlings to have an unforgettable afternoon, covering props, face paint - and for each participant, their very own military scarf and ‘Baby Badgers’-badge. Don't let these brave kids have an impoverished childhood.\n\n#freedomdontcomefree",
           "customField": {
             "name": "Description"
+          }
+        },
+        {
+          "value": "**Don't Pull Out Pledge:**\n\nAll reusable materials we buy will be available to the community afterwards, stored in Copenhagen or Alversjö.",
+          "customField": {
+            "name": "Strike plan"
           }
         }
       ],
       "tags": [
         {
-          "value": "Chillout"
+          "value": "Experience"
         },
         {
-          "value": "Hippie trap"
+          "value": "Kids-friendly"
         },
         {
-          "value": "Meditation"
+          "value": "Weird shit"
+        },
+        {
+          "value": "Workshop"
         }
       ],
       "budgetItems": [
         {
-          "description": "Light-blocking fabric for tent-like place",
-          "min": 1740,
-          "max": 2175,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Bed sheets to cover mattresses",
-          "min": 990,
+          "description": "14 custom printed BB patches, incl. shipping ",
+          "min": 2200,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Mattresses",
-          "min": 54,
-          "max": 350,
+          "description": "Army scarfs",
+          "min": 300,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Blankets",
-          "min": 650,
-          "max": 3260,
+          "description": "Props, make-up",
+          "min": 250,
+          "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Pancakes (flour, oat milk, vanilla sugar, baking powder, oil, jam)",
-          "min": 380,
+          "description": "Obstacle course building materials ",
+          "min": 300,
           "max": null,
           "type": "EXPENSE"
         }
@@ -36557,48 +36500,72 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnuhrgfg001wbquf8ymoeyd4",
-      "title": "the Fluffery",
-      "summary": "A mobile fluff station to spread pleasure around the playa",
+      "id": "cmnuczg3d001vixtdelui0zws",
+      "title": "Le Bistro Français",
+      "summary": "A corner of Paris in the woods — wine, peanuts, and the art of l’Apéro.",
       "status": "FUNDED",
-      "noOfFunders": 11,
-      "noOfComments": 4,
-      "percentageFunded": 248.85,
-      "minGoal": 600,
-      "maxGoal": 1950,
-      "income": 300,
+      "noOfFunders": 81,
+      "noOfComments": 1,
+      "percentageFunded": 100,
+      "minGoal": 9614,
+      "maxGoal": 65386,
+      "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776543730/dreams/o3a3w2kfmfh0g5d9zvel.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775916635/dreams/lnvsdjceuakvbnoqtybx.png"
         }
       ],
       "customFields": [
         {
-          "value": "The key word in our gift is CONSENT !\n\nBefore getting down to business and start the fluffs, we kindly offer the gift and if the person agrees then s/he could look at the catalog of fluffs and choose what kind of pleasure s/he whats to experience.",
+          "value": "We are a “relatively” calm, low-footprint neighbour for most of the day. The bistro operates during daytime and early evening hours, winding down as the night deepens and the louder parts of Borderland come alive.\n\nOur usual sound footprint is conversational: ambient chatter, guinguette music at comfortable background levels, and the occasional sound of someone really committing to a pétanque argument.\n\nOnce per day, we fire **_l'Heure Heureuse_** (happy hour): the music shifts to techno for an hour, the sparkling wine pops out, and the volume goes up a notch. This is brief, joyful, and at a fixed time.\n\nWe are active in the pre-placement process and want to take part in a plaza and a fun neighborhood!",
           "customField": {
             "name": "Co-existence"
           }
         },
         {
-          "value": "Mai Sidi - whatsapp +972-539233303",
+          "value": "Le Bistro Français runs on people; we're open to collaborating with other camps and want to take part in a plaza: if you make music, art, or anything that pairs well with wine or France, let's talk.\n\nDrop by, introduce yourself, or reach out beforehand to get involved.",
           "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+            "name": "Co-creation"
           }
         },
         {
-          "value": "no need",
+          "value": "Everything that comes in, goes out. The tent is a standard party tent that packs down flat. The bar will be disassembled into planks. Tables and chairs fold flat. Decor fits in a bag.\n\nWe aim to have the site fully cleared and Leave No Trace compliant on Sunday.",
           "customField": {
-            "name": "Electricity"
+            "name": "Strike plan"
           }
         },
         {
-          "value": "none / very small speaker",
+          "value": "\\*_Normal hours_\\* — low, ambient music and chatter\n\n\\*_L'Heure Heureuse_\\* — techno music with the volume raised for a party atmosphere for about an hour early evening.",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "In our dream we saw a mobile fluff station - carried around the playa and provide fluff of all kinds to burners (under their consent).  \n  \nAfter asking for consent ofc- the member can take a quick look in the catalog of pleasures, in which the fellow surprised burner could choose what kind of fluff he would like to receive.  \n  \nthere are plenty of options, and the burner could choose a few. then he sit on a super comfy chair or lay down on a mattress and getts what he ordered from the catalog.  \n  \nSo what fluffs do we offer?  \n  \n1) chocolate, barries and fresh fruits.  \n2) etheric oils and mint  \n3) we give shoulders, neck, back or foot massage  \n4) ice, thermal water spray and warm bottles  \n5) \\*\\*if everyone is up to it - the fluffs can get sexy/kinky (tickeling, licking, spanking ect...)",
+          "value": "No significant safety hazards. We serve drinks and snacks only — no fire involved in running the bistro.\n\nFood safety: snacks will be kept sealed until serving and stored in a clean, dry place.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "Medium:\n\n\\- LED string lights\n\n\\- Sound system (small to medium)\n\n\\- A fridge to keep the wine cool (especially white and bubbles)",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Pierre:\n\n*   pierre.killy@gmail.com\n    \n*   \\_killich\\_ on Discord",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "Le Bistro Français",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "You hear it before you see it: The guinguette music and the murmur of conversation in French.\n\nThen you round the corner, and there it is: Le Bistro Français. A blue tent tucked into the landscape, strung with warm lights, its open side facing the world like an invitation. Chalk promises scrawled in looping handwriting. A tricolour flag bunting catches the breeze. A long wooden bar inside where someone in a black apron and a white shirt — très chic — is welcoming you with a warm smile and a heavy French accent.\n\nLe Bistro Français is a gift from a group of French friends to the Borderland community. The wine is real. The atmosphere is authentic. The peanuts and olives are exactly as described. Come for five minutes, stay for two hours, always leave with a new friend.\n\nThen, once a day, something shifts. The guinguette fades. A different beat takes over. The sparkling wine pops out. Welcome to **_l'Heure Heureuse_** — our happy hour — where the bistro loses its mind, the tempo goes up, and the whole neighbourhood is invited to celebrate absolutely nothing in particular.\n\n**_Bienvenue_**_.  \n(The image is AI-generated - the people are not real)_",
           "customField": {
             "name": "Description"
           }
@@ -36606,37 +36573,88 @@
       ],
       "tags": [
         {
-          "value": "Wellness"
+          "value": "Bar"
+        },
+        {
+          "value": "Chillout"
+        },
+        {
+          "value": "Food"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "Pre-placement"
+        },
+        {
+          "value": "Theme camp"
         }
       ],
       "budgetItems": [
         {
-          "description": "Head Massager",
-          "min": 100,
+          "description": "Sound system (taken from home)",
+          "min": 0,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "massge tools",
-          "min": 200,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "station equipment (yoga matt, chair, etc)",
-          "min": 300,
-          "max": 1200,
+          "description": "Table + chairs",
+          "min": 2596,
+          "max": 7788,
           "type": "EXPENSE"
         },
         {
-          "description": "groceries (choclate, sweets, aroma)",
-          "min": 300,
-          "max": 750,
+          "description": "Party Tents",
+          "min": 2798,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Alcohol-free sparkling (for happy hour)",
+          "min": 0,
+          "max": 14256,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Alcohol-free white wine",
+          "min": 244,
+          "max": 16416,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Alcohol-free red wine",
+          "min": 253,
+          "max": 17064,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Snacks",
+          "min": 130,
+          "max": 500,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Chalkboard sign",
+          "min": 419,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Wood for building the bar",
+          "min": 2974,
+          "max": 4145,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Pimp the place",
+          "min": 200,
+          "max": 2000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 300,
-      "percentageFundedTrue": 50
+      "funded": 0,
+      "percentageFundedTrue": 0
     },
     {
       "id": "cmnw4dwvb004313zhee8my9tm",
@@ -46949,170 +46967,142 @@
       "percentageFundedTrue": 62.92
     },
     {
-      "id": "cmnufp0ex0004uc237w7ln6ya",
-      "title": "Remember The Remnants",
-      "summary": "Did you know that not EVERYBODY will go to Borderland?\nThat's right, 99% of people are left behind!\nWe're here to serve as living reminders, and you can too!\n\n\n",
-      "status": "FUNDED",
-      "noOfFunders": 9,
-      "noOfComments": 0,
-      "percentageFunded": 306.25,
-      "minGoal": 800,
-      "maxGoal": 800,
-      "income": 1650,
+      "id": "cmnudzri1000410xierozkwn4",
+      "title": "Orgystyle Boudoir Photoshoot - by the Fuckery",
+      "summary": "A staged photo opportunity in a group of 20-30 - Fuckery Style.",
+      "status": "CANCELED",
+      "noOfFunders": 0,
+      "noOfComments": 4,
+      "percentageFunded": 452.2,
+      "minGoal": 8200,
+      "maxGoal": 8200,
+      "income": 35300,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775918296/dreams/o7pi8sah4coa2plu546u.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775918338/dreams/hndkesbzaz90tqy4gxgp.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775918347/dreams/x0usg29k9mbtzffvvn1y.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775935071/dreams/npfidv4hvfwp3gluhujm.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775915199/dreams/sckv2qszbchpohooyjkb.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Co-creation possible by live interaction with us, or by completing the hunt for our cult base so you can become a member.",
-          "customField": {
-            "name": "Co-creation"
-          }
-        },
-        {
-          "value": "💩 Seeing us in character will excite the mystery neurons of your brain. If you are the curious-type, you're in for a treat.\n\n𖨆𖨆 Seeing our secret toilet will make your shitting experience 50% more dramatic and 100% more enjoyable.\n\n🏠 Our secret base will be adopted by a rain-sheltering camp, but will have minimal impact as it will be on the periphery of their offerings. It's a flower in their garden.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We are a quiet cult. There will be some (light, occasional) music in the secret toilet and the secret base.",
+          "value": "None problematic",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "No big dangers. Our cigarettes are fake. Our secret toilet will have a small powerbank, but that will be appropriately sheltered in an enclosure with good heat dissapation.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "We put it up in an hour or two, we pack it up in the same. Everything goes home with us. Borrowed clothes have return details on them to keep them from becoming moops.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "The base requires some grid electricity, but not much.  \n  \nFor a microcontroller + small speaker + a few lights our power use is easily under 10W.",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "Jag Chadha  \njag.chadha@gmail.com  \n+49 1771982060",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Our base will be a glowing white wardrobe adopted by a TBD camp (we're talking to some now).  \n  \nApart from being a standout-item (esp. @ night), our in-character personas and our secret toilet will set you on the path to it.",
+          "value": "The Fuckery",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "One of our fave things about Borderland is the character play.\n\nRemember The Remnants is a chance to roleplay with us (and optionally _as_ us). It includes spicy props, a cult-appropriate outfit, a scavenger hunt, and as a bonus:\n\n...**a deluxe shitting experience**.  \n  \n(This is tied to a separate mission to transform the least pleasant part of Borderland into a garden of memorable moments.)",
+          "value": "Co-creation is essential. You are the talent - we provide the space and naughty ideas.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "This dream will live just fine at the Fuckery - discreetly and hardly noticed. If you know, you know.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "**The Kodak Moment of 2026.**\n\nJoin a bunch of other exhibitionist Burners for a **naked boudoir group photography session**!\n\nNot for the shy or timid - this is a naked (possibly explicit) event choreographed and facilitated by experienced S+ facilitators and Fuckers with lots of (professional) theatre/stage and photo experience. The facilitators will suggest and invite only.\n\nGuests (of course) stay within their own limits and leave/step out at any time. No faces have to be shown, guests will be given instructions on when and how to cover or turn away faces - masks can be worn - or faces can be shown at the discretion of each participant.\n\nThe purpose is on making 2-3 great group photos and having lots of fun and pulse doing so. This is not a play event, though we never say never in the Fuckery. All guests will of course be given copies of the (estimated) 2-4 final group photos resulting from this event (after Borderland when the photos have been edited to comply with privacy standards).\n\n**Sign-up in advance will be essential.** Limited amount of \"seats\" - probably between 20 and 30.",
           "customField": {
             "name": "Description"
           }
+        },
+        {
+          "value": "2 photographers and 2-3 experienced facilitators will oversee this event, ensuring tons of relaxed fun, some structure, as well as consent and rules being followed to the T.  \nNo audience.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "This event lives in the Fuckery - strike is not an issue",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "No special needs here. Move on.",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Mirja (mirjavirginiaandersson@gmail.com)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
         }
       ],
-      "tags": [
-        {
-          "value": "Art installation"
-        },
-        {
-          "value": "Experience"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Weird shit"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Rasperry Pi Zero 2",
-          "min": 200,
+          "description": "Stage",
+          "min": 10000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Bluetooth Speaker",
+          "description": "Lights sound and music rig",
+          "min": 9000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Pusselmats and pillows",
+          "min": 7000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Various furniture",
+          "min": 9000,
+          "max": null,
+          "type": "INCOME"
+        },
+        {
+          "description": "Lube and condoms (one never knows)",
           "min": 300,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Tiny Monitor",
-          "min": 300,
+          "description": "Masks and facial adornments protecting privacy",
+          "min": 2500,
           "max": null,
-          "type": "INCOME"
+          "type": "EXPENSE"
         },
         {
-          "description": "Various Small Lights",
-          "min": 100,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "White Clothes For Us + Others",
+          "description": "Photography misc consumble equipment",
           "min": 500,
           "max": null,
-          "type": "INCOME"
+          "type": "EXPENSE"
         },
         {
-          "description": "Portable White Wardrobe",
-          "min": 150,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Small Electronic Components (Sensors, Indicators etc.)",
-          "min": 100,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Fake Cigarettes, Cases",
-          "min": 200,
+          "description": "Towels",
+          "min": 700,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Notepads, Markers",
-          "min": 200,
+          "description": "Mattresses with covers (5)and linen",
+          "min": 1500,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Business Cards, Cases, Large Signs, etc.",
-          "min": 300,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Material Transport (extra gas money for a friend taking a big ol' suitcase of this shit)",
-          "min": 100,
+          "description": "Spotlights,ringlights and light kit ",
+          "min": 3000,
           "max": null,
           "type": "EXPENSE"
         }
       ],
-      "funded": 1650,
-      "percentageFundedTrue": 206.25
+      "funded": 35300,
+      "percentageFundedTrue": 430.49
     },
     {
       "id": "cmnoqgx2t000aoyfnkk1azusr",
@@ -52093,7 +52083,7 @@
       "id": "cmnvvg3sw003m12nez1rgwznf",
       "title": "RA will rise again",
       "summary": "RA will rise again with a sound system and a big celebration riual of \"End of the build week\".",
-      "status": "FUNDED",
+      "status": "COMPLETED",
       "noOfFunders": 91,
       "noOfComments": 3,
       "percentageFunded": 1322.26,
@@ -52659,102 +52649,204 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnuuu999003vea9f8lkxvi1z",
-      "title": "The Baby Badgers Youth Corps",
-      "summary": "The children of Borderland need some discipline! Let's give our kids an afternoon of military fun and set them up for guaranteed real-world success. ",
+      "id": "cmnngjkcc0000nx8jllrltdnr",
+      "title": "Your whimsical wedding? 💒💍🏳️‍🌈😻🏳️‍⚧️🎉",
+      "summary": "You have a special person, but getting married is a bit too serious? Then try getting MEOWRRIED!\nWe´ll host YOUR MEOWTRIMONY and throw a Kitty party afterwards.",
       "status": "FUNDED",
-      "noOfFunders": 28,
-      "noOfComments": 3,
-      "percentageFunded": 100,
-      "minGoal": 3050,
-      "maxGoal": 3050,
+      "noOfFunders": 51,
+      "noOfComments": 1,
+      "percentageFunded": 102.98,
+      "minGoal": 5455,
+      "maxGoal": 6305,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776072691/dreams/bafiu8urxclucekntdrv.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775895633/dreams/q2dyicbnxdocptc0z3kr.png"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776072715/dreams/ptqqvngwmfqmcehnsybw.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776013964/dreams/fyghfdlnkmtsbgc5iss2.jpg"
         },
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776072723/dreams/x32v5mipowrraa9koi1j.webp"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775936684/dreams/stx0oajht8wx5ejizyit.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776013980/dreams/selgazood2rl2p43saxi.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776013911/dreams/wovgdeswdfjy5w8fvksb.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776013949/dreams/jez1jhcfv6lzyrgca69z.jpg"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776468281/dreams/wykahctvyz0nkgy8vrtz.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "Crispy. Discord: @crispy440",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Occasional drill instructor shouting and kids laughter.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "You won't make your kids safe by sheltering them from danger. You'll make them safe by giving them the confidence and competence needed to handle danger, when it arrives.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "The Green Zone - by Blackwater Operations",
+          "value": "End of the Rainbow",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "Dear Parent or Guardian,\n\nLet's be honest. The world is a rough place - and it's not getting any softer. Many of you have been asking; \"How do we prepare our kids for the world they'll be growing up in?\".\n\n## A new approach to education\n\nYour prayers have been heard. While other camps want to teach your kids to hula-hoop and \"express their inner dolphin\", the Baby Badgers offer to make your child braver, stronger and more resilient.\n\nWe give them actual life skills. Skills schools won't teach. Skills that matter, like:\n\n*   Tactical face paint (not the butterfly kind)\n    \n*   Basic reconnaissance\n    \n*   Spy craft\n    \n*   Obstacle course\n    \n*   Marching in formation\n    \n*   And more!\n    \n\n## Give your child a chance to win at life\n\nBy joining the Baby Badgers program, they'll have an amazing afternoon and come home full of discipline, purpose, and the ability to low-crawl under barbed wire. \n\n## Go Badgers, go!\n\n### OPERATIONAL EXPENDITURES\n\nYour generous funding will enable 12 young Borderlings to have an unforgettable afternoon, covering props, face paint - and for each participant, their very own military scarf and ‘Baby Badgers’-badge. Don't let these brave kids have an impoverished childhood.\n\n#freedomdontcomefree",
+          "value": "All this will be striked within our own camp strike.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Stjernholm (contact in here)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We will be a bit noisy, but placed in a sound camp area. Spreading good vibes and invite neighbors to our event.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "We have fire extinguishers in place in case of fire and consent angels for info and safety.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "We are open to co-create, especially if you´re a performer and would like to perform at our party. We have a podium/stage and a pole. Or if you´re \"familiar\" with wedding people, and would like to help and act as our \"wedding officiant\", no education needed haha. Feel free to contact us in here <3",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "Step into a purr-fectly playful day, where we open our doors for weddings of ALL shapes, colors, and constellations of love. We´ll host YOUR holy MEOWTRIMONY, provide the rings, veils, bow ties, cat ears, and even a polaroid of your loving meowment. It will we held at our Rainbow venue, with cat decor, full of people ready to celebrate your meowrriage.\n\nWhen the last “I do” echoes into the evening, the celebration unfolds into a full-blown kitty party: DJs serving beats that´ll make your tail twitch, plus catwalk and pole performances that´ll tease and dazzle. Expect mischief, magic, sensual/sexual vibes and maybe a little bit of midnight zoomies.\n\nCome as you are—fancy, feral, soft, sexy, sparkly or somewhere in between. Getting meowrried or not, come and celebrate love of all shapes with us. So groom your whiskers, arch your back, and get ready to land among friends, lovers, and strangers who might just become both.\n\nMEOW <3\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nNote: The evening part(y) is a s3x-positive event (18+). Meaning it´s a space that welcomes sensual expressions and sexual interactions. Any participation is always consensual, boundaries are respected. We´ll have consent angels in place for info and safety.",
           "customField": {
             "name": "Description"
           }
         },
         {
-          "value": "**Don't Pull Out Pledge:**\n\nAll reusable materials we buy will be available to the community afterwards, stored in Copenhagen or Alversjö.",
+          "value": "We are a sound camp, and we will be placed in such area, and follow guidelines.",
           "customField": {
-            "name": "Strike plan"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "We will need eletricity for all lights, soundsystem and occasionally/possibly 1-2 blow heaters. So around 7000 watt (rough estimate)",
+          "customField": {
+            "name": "Electricity"
           }
         }
       ],
       "tags": [
         {
+          "value": "BurnerBox"
+        },
+        {
           "value": "Experience"
         },
         {
-          "value": "Kids-friendly"
+          "value": "Music"
         },
         {
-          "value": "Weird shit"
+          "value": "NOT kids-friendly"
         },
         {
-          "value": "Workshop"
+          "value": "Performance"
+        },
+        {
+          "value": "Playful"
+        },
+        {
+          "value": "Queer"
+        },
+        {
+          "value": "Sex positive"
+        },
+        {
+          "value": "Soundcamp"
+        },
+        {
+          "value": "Venue"
         }
       ],
       "budgetItems": [
         {
-          "description": "14 custom printed BB patches, incl. shipping ",
-          "min": 2200,
+          "description": "Wedding arch",
+          "min": 870,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Army scarfs",
+          "description": "Decor and paint for wedding arch",
+          "min": 900,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Rainbow wedding veils",
           "min": 300,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Props, make-up",
-          "min": 250,
+          "description": "Cat rings for the wedded",
+          "min": 550,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Obstacle course building materials ",
-          "min": 300,
+          "description": "Rainbow bow ties",
+          "min": 75,
           "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cat ears for wedding guests",
+          "min": 570,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cat stickers (decor and presents)",
+          "min": 0,
+          "max": 80,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Rainbow heart pins/brooches (presents for guests)",
+          "min": 370,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cat toys",
+          "min": 220,
+          "max": null,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cat decor",
+          "min": 300,
+          "max": 450,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Piñata",
+          "min": 0,
+          "max": 250,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Cat candy",
+          "min": 600,
+          "max": 750,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Polaroid films",
+          "min": 700,
+          "max": 920,
           "type": "EXPENSE"
         }
       ],
@@ -56758,204 +56850,117 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnngjkcc0000nx8jllrltdnr",
-      "title": "Your whimsical wedding? 💒💍🏳️‍🌈😻🏳️‍⚧️🎉",
-      "summary": "You have a special person, but getting married is a bit too serious? Then try getting MEOWRRIED!\nWe´ll host YOUR MEOWTRIMONY and throw a Kitty party afterwards.",
+      "id": "cmnurxjsx000u71bu4cvwltz5",
+      "title": "The Cosmic Coziness (@F33 Cosmic Portal)",
+      "summary": "Cozy haven beneath the Cosmic Portal (LED light installation): soft rest, flowing light & music, where time fades and you drift into cosmic infinity.",
       "status": "FUNDED",
-      "noOfFunders": 51,
-      "noOfComments": 1,
-      "percentageFunded": 102.98,
-      "minGoal": 5455,
-      "maxGoal": 6305,
+      "noOfFunders": 38,
+      "noOfComments": 0,
+      "percentageFunded": 132.64,
+      "minGoal": 3814,
+      "maxGoal": 7155,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775895633/dreams/q2dyicbnxdocptc0z3kr.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776013964/dreams/fyghfdlnkmtsbgc5iss2.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775936684/dreams/stx0oajht8wx5ejizyit.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776013980/dreams/selgazood2rl2p43saxi.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776013911/dreams/wovgdeswdfjy5w8fvksb.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776013949/dreams/jez1jhcfv6lzyrgca69z.jpg"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776468281/dreams/wykahctvyz0nkgy8vrtz.jpg"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775939694/dreams/pnoglm945wbsti1t03dc.jpg"
         }
       ],
       "customFields": [
         {
-          "value": "End of the Rainbow",
+          "value": "Cosmic Portal/Salon Leobard",
           "customField": {
             "name": "This dream belongs to camp:"
           }
         },
         {
-          "value": "All this will be striked within our own camp strike.",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "Stjernholm (contact in here)",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "We will be a bit noisy, but placed in a sound camp area. Spreading good vibes and invite neighbors to our event.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "We have fire extinguishers in place in case of fire and consent angels for info and safety.",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "We are open to co-create, especially if you´re a performer and would like to perform at our party. We have a podium/stage and a pole. Or if you´re \"familiar\" with wedding people, and would like to help and act as our \"wedding officiant\", no education needed haha. Feel free to contact us in here <3",
+          "value": "People are welcome to co-create and bring blankets, cushions, stuffed animals - everything that helps to make the place even cozier :). However, not mandatory.",
           "customField": {
             "name": "Co-creation"
           }
         },
         {
-          "value": "Step into a purr-fectly playful day, where we open our doors for weddings of ALL shapes, colors, and constellations of love. We´ll host YOUR holy MEOWTRIMONY, provide the rings, veils, bow ties, cat ears, and even a polaroid of your loving meowment. It will we held at our Rainbow venue, with cat decor, full of people ready to celebrate your meowrriage.\n\nWhen the last “I do” echoes into the evening, the celebration unfolds into a full-blown kitty party: DJs serving beats that´ll make your tail twitch, plus catwalk and pole performances that´ll tease and dazzle. Expect mischief, magic, sensual/sexual vibes and maybe a little bit of midnight zoomies.\n\nCome as you are—fancy, feral, soft, sexy, sparkly or somewhere in between. Getting meowrried or not, come and celebrate love of all shapes with us. So groom your whiskers, arch your back, and get ready to land among friends, lovers, and strangers who might just become both.\n\nMEOW <3\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nNote: The evening part(y) is a s3x-positive event (18+). Meaning it´s a space that welcomes sensual expressions and sexual interactions. Any participation is always consensual, boundaries are respected. We´ll have consent angels in place for info and safety.",
+          "value": "The cozy space co-exists with the Cosmic Portal.",
           "customField": {
-            "name": "Description"
+            "name": "Co-existence"
           }
         },
         {
-          "value": "We are a sound camp, and we will be placed in such area, and follow guidelines.",
+          "value": "Matresses will be folded back, cushions come into the bags provided - does not need long to strike.\n\nEverything that is funded will be reused for the next Borderland and other burns.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "Mattresses will be pinned to floor with double-sided removable tape.",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "None (in synergy with Cosmic Portal)",
           "customField": {
             "name": "Sound levels"
           }
         },
         {
-          "value": "We will need eletricity for all lights, soundsystem and occasionally/possibly 1-2 blow heaters. So around 7000 watt (rough estimate)",
+          "value": "Only small amount for electric heating blankets.",
           "customField": {
             "name": "Electricity"
+          }
+        },
+        {
+          "value": "@Caro on Discord (caro011932) and\n\n@Flow on Discord (flow02668)",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "## Surrender into coziness\n\nBeneath the Cosmic Portal (already funded by F33), a truly cozy hideaway unfolds — a soft, inviting landscape of mattresses, cushions, and warm blankets, layered like a gentle embrace.\n\nThis cozy resting place is more than just a place to lie down; it is a space to arrive, to sink in, to be held. Here, coziness becomes almost majestic — quiet, enveloping, and deeply soothing.\n\nAbove you, the vast circle of the Cosmic Portal glows and shifts, its light moving in slow, hypnotic waves, accompanied by music that feels like it’s drifting through time itself. As you rest in this cozy haven beneath it, you are invited to simply follow — the light, the sound, your breath.\n\nTime blurs as the future fades and the past dissolves — you soften into cozy stillness, gently merging with the space, the light, and the quiet infinity of the cosmos.\n\n## Location\n\nIn the Barn (attic), where it can be cold, Cosmic Coziness unfolds — blankets and soft layers gather warmth against the chill.\n\n## Pancake evenings\n\nOn Thursday and Saturday, vegan pancakes will be served for cosmos wonderers — soft, golden offerings for those who dream beneath the Cosmic Portal.",
+          "customField": {
+            "name": "Description"
           }
         }
       ],
       "tags": [
         {
-          "value": "BurnerBox"
+          "value": "Chillout"
         },
         {
-          "value": "Experience"
+          "value": "Hippie trap"
         },
         {
-          "value": "Music"
-        },
-        {
-          "value": "NOT kids-friendly"
-        },
-        {
-          "value": "Performance"
-        },
-        {
-          "value": "Playful"
-        },
-        {
-          "value": "Queer"
-        },
-        {
-          "value": "Sex positive"
-        },
-        {
-          "value": "Soundcamp"
-        },
-        {
-          "value": "Venue"
+          "value": "Meditation"
         }
       ],
       "budgetItems": [
         {
-          "description": "Wedding arch",
-          "min": 870,
+          "description": "Light-blocking fabric for tent-like place",
+          "min": 1740,
+          "max": 2175,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Bed sheets to cover mattresses",
+          "min": 990,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Decor and paint for wedding arch",
-          "min": 900,
+          "description": "Mattresses",
+          "min": 54,
+          "max": 350,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Blankets",
+          "min": 650,
+          "max": 3260,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Pancakes (flour, oat milk, vanilla sugar, baking powder, oil, jam)",
+          "min": 380,
           "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Rainbow wedding veils",
-          "min": 300,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cat rings for the wedded",
-          "min": 550,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Rainbow bow ties",
-          "min": 75,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cat ears for wedding guests",
-          "min": 570,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cat stickers (decor and presents)",
-          "min": 0,
-          "max": 80,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Rainbow heart pins/brooches (presents for guests)",
-          "min": 370,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cat toys",
-          "min": 220,
-          "max": null,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cat decor",
-          "min": 300,
-          "max": 450,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Piñata",
-          "min": 0,
-          "max": 250,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Cat candy",
-          "min": 600,
-          "max": 750,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Polaroid films",
-          "min": 700,
-          "max": 920,
           "type": "EXPENSE"
         }
       ],
@@ -64331,137 +64336,106 @@
       "percentageFundedTrue": 15000
     },
     {
-      "id": "cmnueod3l001a10xifl2fh7jr",
-      "title": "Breakfeast and a GOAre morning",
-      "summary": " Goa, coffee & breakfast in a Garden Oasis | Refill your strength & coffee cup and enjoy breafkfeast & some nice Goa psytrance in the morning.",
+      "id": "cmnu9qgtv000vpqbcbx8o5dpe",
+      "title": "Burning Piano",
+      "summary": null,
       "status": "FUNDED",
-      "noOfFunders": 43,
-      "noOfComments": 0,
-      "percentageFunded": 239.24,
-      "minGoal": 2660,
-      "maxGoal": 3350,
-      "income": 3350,
+      "noOfFunders": 20,
+      "noOfComments": 4,
+      "percentageFunded": 372.4,
+      "minGoal": 1500,
+      "maxGoal": 6000,
+      "income": 4000,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775917347/dreams/r5tbbf5ikgbnjlnwsaju.png"
-        },
-        {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1776155699/dreams/lo96crgnpseslhd68425.webp"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775907960/dreams/p9ipz3fitrorhhcopwdv.gif"
         }
       ],
       "customFields": [
         {
-          "value": "Njorunns Garden",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Discord: MonsterMorran\n\nmorranh@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Have you just woken up and are wondering how you can get your strength back? Or are you just looking for some nice music, breakfast and some coffee as you start your day?  \nEither way, we have a gift for you.\n\n**Welcome Boderlings to En Goare Morgon**\n\nFind you way to Njorunns Garden and refill your strength and enjoy breafkfeast with some nice Goa psytrance and other chill tunes. We will serve you coffee, tea, Odens Overnight Oats (with yummy toppings), some Swedish fika and some good beats.\n\nLet’s start the day together with sunny, happy and uplifting psytrance for a goare morning.",
-          "customField": {
-            "name": "Description"
-          }
-        },
-        {
-          "value": "0W- this dreams will use electricity from the main camp and it's dream. (In main camp: Max 5,4 kW sound maker+ coffe maker+water boiler)",
-          "customField": {
-            "name": "Electricity"
-          }
-        },
-        {
-          "value": "To ensure pleasant Co-existence we will:  \n  \nϴ Take part in the pre-placement process (Njorunns Garden also will have other events with music)\n\nϴ Place speakers strategically to ensure minimal disturbance\n\nϴ Communicate with neighbours and adjust sound levels if needed\n\nHopefully the music, the drinkable and edible aspects will affect neighbors and borderlings in a positivelt way overall.",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "Be aware that the coffee and tea may be hot ֍",
+          "value": "I have done it many time before. Since it is mostly wood that is burning it is not that hot. For the audience, it is not any more dangerous than a camp-fire.",
           "customField": {
             "name": "Safety"
           }
         },
         {
-          "value": "Sound level will be moderate and respectful. This Dream is a daytime dream.\n\nSituated between Plutonia & The Church which means we will never be the loudest in the neighborhood, and we don’t want to.",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "We aim to leave the place more beautiful than we found it. Everything will be brought home after strike except e.g. milk cartoons etc that will be sorted and recycled.",
+          "value": "The metal that is left will be thrown in the metal recycling.  \nThe wood will burn.  \nIt will however damage the ground beneath, so adding some gravel/earth under would mitigate that.",
           "customField": {
             "name": "Strike plan"
           }
         },
         {
-          "value": "Are you really good at baking and brought lots of nice fika to Borderland but you don't know where to share it? Or do you have a special tea that EVERYONE should taste? Or maybe you have just been inspired to play the best goa set of you life?\n\nIf the statments above, or similar situations occurs we could make this happen together <3  \nEither way Njorunns Garden and friends will make this special morning Goare.",
+          "value": "none",
+          "customField": {
+            "name": "Electricity"
+          }
+        },
+        {
+          "value": "Jam Camp",
+          "customField": {
+            "name": "This dream belongs to camp:"
+          }
+        },
+        {
+          "value": "Last time we did this was in 2019, but it is time to do it again, did you miss it? Have a look at what it looked like last time :  \n[https://youtu.be/WkN57k7liIE?si=K\\_neTnU2sxkPmxZQ](https://youtu.be/WkN57k7liIE?si=K_neTnU2sxkPmxZQ)  \n  \nFor a bit more funding we can add better sound-equipment for it.",
+          "customField": {
+            "name": "Description"
+          }
+        },
+        {
+          "value": "It has usually been done together with the closing-ceremony, but it would work anywhere.  \n  \nIt won't make a whole lot of sound, and not for that long.",
+          "customField": {
+            "name": "Co-existence"
+          }
+        },
+        {
+          "value": "Not very loud, and does not go on for very long.",
+          "customField": {
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Lukas Lilja",
           "customField": {
             "name": "Co-creation"
           }
-        }
-      ],
-      "tags": [
-        {
-          "value": "Food"
         },
         {
-          "value": "Hippie trap"
-        },
-        {
-          "value": "Music"
+          "value": "Lukas Lilja",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
         }
       ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "Vattenkokare",
-          "min": 400,
+          "description": "Microphone and minor sound system",
+          "min": 4000,
           "max": null,
           "type": "INCOME"
         },
         {
-          "description": "Perkulator/ kaffebryggare",
-          "min": 2800,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Cauldron for Oats",
-          "min": 150,
-          "max": null,
-          "type": "INCOME"
-        },
-        {
-          "description": "Odens Overnight Oat (60-80 personer)",
-          "min": 1230,
-          "max": 1500,
+          "description": "Piano",
+          "min": 1000,
+          "max": 3000,
           "type": "EXPENSE"
         },
         {
-          "description": "Toppings Oats",
-          "min": 550,
-          "max": 750,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Kaffe & Te",
-          "min": 800,
+          "description": "Logistics",
+          "min": 500,
           "max": 1000,
           "type": "EXPENSE"
         },
         {
-          "description": "Swedish fika",
-          "min": 80,
-          "max": 100,
+          "description": "Equipment",
+          "min": 0,
+          "max": 2000,
           "type": "EXPENSE"
         }
       ],
-      "funded": 3350,
-      "percentageFundedTrue": 125.94
+      "funded": 4000,
+      "percentageFundedTrue": 266.67
     },
     {
       "id": "cmnoi0lcj000hgjjj3wogiv31",
@@ -75767,122 +75741,148 @@
       "percentageFundedTrue": 0
     },
     {
-      "id": "cmnu9a5h5000b10zwjakjsuc2",
-      "title": "Printed Maps",
-      "summary": "Unbearable Bear brings you printed maps in 1+ meter format.\nLocated in frequented locations for you to get unlost.\n",
+      "id": "cmnue2avb000o10xivip1b828",
+      "title": "Liquid Slug",
+      "summary": "Snail lover's wettest dream! You guessed it right. A group of human slugs and lots of slime in a backdrop of sluggy visuals and audio. Schhlllurp. ",
       "status": "FUNDED",
-      "noOfFunders": 52,
-      "noOfComments": 6,
+      "noOfFunders": 21,
+      "noOfComments": 1,
       "percentageFunded": 100,
-      "minGoal": 2760,
-      "maxGoal": 7325,
+      "minGoal": 7255,
+      "maxGoal": 8481,
       "income": 0,
       "images": [
         {
-          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775907462/dreams/i8wtowgztoh5wh0lyl3n.png"
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775919792/dreams/ejmsrgxn2usfkp9mxuwc.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775920593/dreams/b816pnjqejge8w8im048.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775920615/dreams/hedm3recxwvqzzqk95vv.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775920640/dreams/nzxbehyzlgraibhaz7y8.png"
+        },
+        {
+          "small": "https://res.cloudinary.com/dreamswtf/image/upload/c_scale,q_90,w_740/v1775920665/dreams/jjpztgiwznh0fgbwfyon.png"
         }
       ],
       "customFields": [
         {
-          "value": "People from comments",
+          "value": "This is your local slug speaking.\n\nThank you, well acknowledged slug apprentices.\n\nFor years you have followed our lead, while we have transformed humans to our kind at the BL. Camp after camp have dedicated their names to our species. Slime and saliver has been exchanged in our name. Alters have been build to honour our existence.\n\nAnd now we grant you our gift of gratitude.\n\nOne gathering where all of you worshippers get the chance to become us.\n\n𝘎𝘰 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘵𝘩𝘦 𝘳𝘪𝘵𝘶𝘢𝘭 𝘰𝘧 𝘴𝘭𝘶𝘨𝘨𝘪𝘧𝘺𝘪𝘯𝘨 𝘺𝘰𝘶𝘳 𝘣𝘰𝘯𝘦𝘺 𝘣𝘰𝘥𝘺 𝘢𝘯𝘥 𝘭𝘢𝘺 𝘪𝘯 𝘢 𝘴𝘭𝘪𝘮𝘺 𝘱𝘪𝘵 𝘢𝘭𝘰𝘯𝘨 𝘸𝘪𝘵𝘩 𝘢 𝘨𝘳𝘰𝘶𝘱 𝘰𝘧 𝘰𝘵𝘩𝘦𝘳 𝘴𝘭𝘶𝘨𝘴 𝘵𝘰 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘵𝘩𝘦 𝘶𝘭𝘵𝘪𝘮𝘢𝘵𝘦 𝘴𝘭𝘶𝘨 𝘮𝘢𝘵𝘪𝘯𝘨 𝘳𝘪𝘵𝘶𝘢𝘭. 𝘞𝘦 𝘸𝘪𝘭𝘭 𝘦𝘯𝘴𝘶𝘳𝘦 𝘵𝘩𝘢𝘵 𝘺𝘰𝘶𝘳 𝘴𝘶𝘳𝘳𝘰𝘶𝘯𝘥𝘪𝘯𝘨𝘴 𝘢𝘳𝘦 𝘴𝘭𝘶𝘨𝘨𝘢𝘭𝘪𝘤𝘪𝘰𝘶𝘴 𝘸𝘪𝘵𝘩 𝘴𝘤𝘩𝘩𝘩𝘭𝘶𝘨𝘨𝘺 𝘴𝘰𝘶𝘯𝘥𝘴𝘤𝘢𝘱𝘦𝘴 𝘢𝘯𝘥 𝘷𝘪𝘴𝘶𝘢𝘭𝘴 𝘰𝘧 𝘯𝘰𝘯𝘦 𝘰𝘵𝘩𝘦𝘳 𝘵𝘩𝘢𝘯 𝘺𝘰𝘶𝘳 𝘴𝘭𝘶𝘨𝘨𝘺 𝘧𝘢𝘷𝘰𝘳𝘪𝘵𝘦𝘴, 𝘪𝘯 𝘥𝘦𝘦𝘱 𝘮𝘢𝘵𝘪𝘯𝘨 𝘳𝘪𝘵𝘶𝘢𝘭𝘴, 𝘵𝘰 𝘪𝘯𝘴𝘱𝘪𝘳𝘦 𝘺𝘰𝘶𝘳 𝘴𝘭𝘪𝘮𝘺 𝘧𝘭𝘰𝘸.",
           "customField": {
-            "name": "Co-creation"
+            "name": "Description"
           }
         },
         {
-          "value": "—",
-          "customField": {
-            "name": "Sound levels"
-          }
-        },
-        {
-          "value": "Safe",
-          "customField": {
-            "name": "Safety"
-          }
-        },
-        {
-          "value": "Positively affects the space",
-          "customField": {
-            "name": "Co-existence"
-          }
-        },
-        {
-          "value": "—",
-          "customField": {
-            "name": "This dream belongs to camp:"
-          }
-        },
-        {
-          "value": "Veronika slachtova\n\nVslachtova@gmail.com",
-          "customField": {
-            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
-          }
-        },
-        {
-          "value": "Trash",
-          "customField": {
-            "name": "Strike plan"
-          }
-        },
-        {
-          "value": "None",
+          "value": "We will use what is already available from the camp hosting this",
           "customField": {
             "name": "Electricity"
           }
         },
         {
-          "value": "Unbearable Bear brings you printed maps of Borderland in 1+ meter format.\n\nLocated in frequented locations for you to find.  \nThis project is accompanied by a digital map for you to download to your phone, so you don't have to rely on shitty internet.\n\nYour money matters to make this happen.  \n1piece of A0 print costs 300DKK / 435SEK  \nThe more money this project receives, the more maps we can print.",
+          "value": "We will be using sound yes, however loud, maybe not so much, but definitely following the camp's regulations",
           "customField": {
-            "name": "Description"
+            "name": "Sound levels"
+          }
+        },
+        {
+          "value": "Indeed calling in other slugs who would like to co-slime! Especially looking for slugs with interest in creating visuals, audio or helping with decoration and holding the space.",
+          "customField": {
+            "name": "Co-creation"
+          }
+        },
+        {
+          "value": "We got safety under control, already thinking about how not to have sliding accidents and steel wire injuries!",
+          "customField": {
+            "name": "Safety"
+          }
+        },
+        {
+          "value": "This will be striked as soon as we are done, removing all goob and slime.",
+          "customField": {
+            "name": "Strike plan"
+          }
+        },
+        {
+          "value": "CC Snail that is! contact at e-mail: cenora92@hotmail.com or telephone: +4530701227",
+          "customField": {
+            "name": "Designated Dr. Bill-Bull (treasurer of the dream)"
+          }
+        },
+        {
+          "value": "We will be popping up and slowing down slime style at a camp's facilities, believing that the good vibes will be felt on ground level all across the BL.",
+          "customField": {
+            "name": "Co-existence"
           }
         }
       ],
-      "tags": [
-        {
-          "value": "Alversjö infrastructure"
-        }
-      ],
+      "tags": [],
       "budgetItems": [
         {
-          "description": "A0 print",
-          "min": 435,
+          "description": "Almond Oil",
+          "min": 2913,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "A0 print",
-          "min": 435,
+          "description": "Tarp 8x12",
+          "min": 1209,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "A0 print",
-          "min": 435,
+          "description": "Pool noodles for barriers",
+          "min": 381,
+          "max": 581,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Anti-slip mats",
+          "min": 427,
+          "max": 727,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Double sticky tape",
+          "min": 436,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "A0 print",
-          "min": 435,
+          "description": "White canvas",
+          "min": 0,
+          "max": 290,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Condoms for hands",
+          "min": 0,
+          "max": 145,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Stockings for heads",
+          "min": 727,
+          "max": 1018,
+          "type": "EXPENSE"
+        },
+        {
+          "description": "Towels",
+          "min": 727,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "A0 print",
-          "min": 435,
-          "max": 5000,
-          "type": "EXPENSE"
-        },
-        {
-          "description": "Shipping ",
-          "min": 545,
+          "description": "Wet wipes",
+          "min": 290,
           "max": null,
           "type": "EXPENSE"
         },
         {
-          "description": "Duct tape",
-          "min": 40,
+          "description": "Kitchen Paper Towels",
+          "min": 145,
           "max": null,
           "type": "EXPENSE"
         }
